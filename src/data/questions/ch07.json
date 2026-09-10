@@ -1,0 +1,307 @@
+[
+  {
+    "id": "ch07-01",
+    "source": { "type": "chapter", "name": "Chapter 7 Test: Trading Markets" },
+    "chapter": 7,
+    "topic": "Order Types",
+    "question": "A customer places an order to sell 100 XYZ at 38 Stop Limit. This means that the order:",
+    "choices": [
+      "is elected at 38 or lower and can be executed at 38 or higher",
+      "is elected at 38 or higher and can be executed at 38 or lower",
+      "can only be filled at 38 exactly",
+      "will be filled at 38 or better only after a trading halt"
+    ],
+    "answer": 0,
+    "explanation": "Sell stop orders are placed below the current market and are triggered as the market drops. An order to sell at 38 stop limit is elected if the market drops to 38 or lower; then the order becomes a limit order to sell at 38 - meaning sell for at least $38 per share (38 or higher)."
+  },
+  {
+    "id": "ch07-02",
+    "source": { "type": "chapter", "name": "Chapter 7 Test: Trading Markets" },
+    "chapter": 7,
+    "topic": "Short Sales",
+    "question": "Which of the following is the difference between a sell long and a sell short order?",
+    "choices": [
+      "A sell long order is entered by an investor who owns the security, while a sell short order is entered by an investor who has borrowed the security",
+      "A sell long order is a bearish position, while a sell short order is a bullish position",
+      "A sell long order requires the investor to buy the sold security back at some point, while a sell short order closes the investor's position in the security",
+      "A sell long order exposes an investor to unlimited risk, while a sell short order comes with limited risk"
+    ],
+    "answer": 0,
+    "explanation": "When an investor enters a sell short order this means he borrows shares from his broker-dealer and then immediately sells the shares. He never owns those shares. At some point, he will be required to buy back the shares to return to the broker-dealer and close out his position in the security. Selling short is a bearish position that opens the investor up to unlimited risk. When an investor sells long, he sells securities he already owns and thus closes out his long position. A sell long order is also a bearish position, but once it is entered the investor no longer has any risk related to the security."
+  },
+  {
+    "id": "ch07-03",
+    "source": { "type": "chapter", "name": "Chapter 7 Test: Trading Markets" },
+    "chapter": 7,
+    "topic": "Order Types",
+    "question": "Which orders are lower in price than the current market?",
+    "choices": [
+      "Open Buy Limits and Open Sell Stops",
+      "Open Buy Stops and Open Sell Stops",
+      "Open Sell Limits and Open Buy Limits",
+      "Open Sell Limits and Open Buy Stops"
+    ],
+    "answer": 0,
+    "explanation": "Buy limits and sell stops are orders that are placed below the current market and are filled as the market drops (remember OBLOSS - Open Buy Limits and Open Sell Stops - as the orders placed below the current market)."
+  },
+  {
+    "id": "ch07-04",
+    "source": { "type": "chapter", "name": "Chapter 7 Test: Trading Markets" },
+    "chapter": 7,
+    "topic": "Third Market",
+    "question": "Market makers in the Third Market trade:",
+    "choices": ["listed stocks", "unlisted stocks", "dual listed stocks", "foreign stocks of companies located in Third World countries"],
+    "answer": 0,
+    "explanation": "The \"Third Market\" is OTC trading of exchange listed securities. These Third Market Makers (firms such as Weeden and Co. and Jefferies and Co.) now account for about 40% of trades in NYSE-listed issues. Thus, these are competitors for stock exchange specialist firms (now called DMMs - Designated Market Makers).\nFor example, a trade of IBM (NYSE-listed) that takes place OTC, instead of on the NYSE floor, is a Third Market trade. Note that much of the Third Market's trading volume takes place when the NYSE floor is closed in the so-called \"after hours\" market."
+  },
+  {
+    "id": "ch07-05",
+    "source": { "type": "chapter", "name": "Chapter 7 Test: Trading Markets" },
+    "chapter": 7,
+    "topic": "ECNs and Fourth Market",
+    "question": "Which stocks are NOT traded on ECNs?",
+    "choices": ["NYSE issues", "OTC issues", "Nasdaq issues", "NYSE American issues"],
+    "answer": 1,
+    "explanation": "ECNs (Electronic Communications Networks) only trade listed stocks - NYSE, NYSE American (AMEX) and Nasdaq. They do this as an institutional matching service, getting a small fee for each match. These trades occur OTC in the \"Fourth Market.\"\nECNs do not trade OTC issues (issues quoted by OTC Markets Group (formerly known as the Pink Sheets) because the market is illiquid. ECN trades are reported to the appropriate Network A, B, or C Tape by a system called TRACS."
+  },
+  {
+    "id": "ch07-06",
+    "source": { "type": "chapter", "name": "Chapter 7 Test: Trading Markets" },
+    "chapter": 7,
+    "topic": "Quotation Systems",
+    "question": "Quotes from all market centers in AMEX (NYSE American) listed securities are found on (the):",
+    "choices": ["UQDF (UTP Quote Data Feed)", "ADF (Alternate Display Facility)", "CQS (Consolidated Quotations Service)", "Pink Sheets"],
+    "answer": 2,
+    "explanation": "CQS (Consolidated Quotations Service) aggregates and displays quotes for all market makers in exchange listed issues - both NYSE and NYSE American (AMEX) listed. These market makers are exchange Specialists/DMMs and Third Market Makers (OTC firms that make markets in exchange listed issues).\nThe UQDF (UTP Quote Data Feed) aggregates and displays quotes for all market makers in Nasdaq issues. UTP stands for \"Unlisted Trading Privileges.\" Not only do Nasdaq Market makers quote and trade Nasdaq stocks, but exchange Specialists/DMMs are now permitted to compete and trade Nasdaq stocks under a \"UTP\" plan. The ADF is where ECN quotes are found (Fourth Market). The Pink Sheets (Pink OTC Markets) give quotes for stocks that do not meet exchange listing standards - most of these are \"penny stocks.\""
+  },
+  {
+    "id": "ch07-07",
+    "source": { "type": "chapter", "name": "Chapter 7 Test: Trading Markets" },
+    "chapter": 7,
+    "topic": "Order Adjustments on Ex-Date",
+    "question": "A customer places an order to sell 100 ABC at 25 Stop Limit, when ABC stock is trading at $29. The company is restructuring and has announced a special dividend of $1.60 to be paid to shareholders of record. On the ex date, the order will:",
+    "choices": ["stay the same at $25.00", "be reduced to $23.40", "be reduced to $24.60", "be reduced to $24.40"],
+    "answer": 1,
+    "explanation": "On ex dividend date, all open orders placed lower than the current market are reduced for cash dividends (except for orders placed DNR - Do Not Reduce). The intent is to make sure that the order does not become executable due to the fact that the stock's opening price is reduced by the dividend amount. The order was originally placed at $25. The adjusted order price is $25 - $1.60 reduction = $23.40 adjusted order price."
+  },
+  {
+    "id": "ch07-08",
+    "source": { "type": "chapter", "name": "Chapter 7 Test: Trading Markets" },
+    "chapter": 7,
+    "topic": "ECNs and Fourth Market",
+    "question": "Which of the following describes a transaction that occurred in the \"Fourth Market\"?",
+    "choices": [
+      "The President of a listed company selling a large block of that company's stock",
+      "A mutual fund buying shares of stock directly from an insurance company",
+      "A dealer selling shares of stock through a broker's broker",
+      "A company listing its shares directly after completing its Initial Public Offering"
+    ],
+    "answer": 1,
+    "explanation": "ECNs (Electronic Communications Networks) trade both unlisted and listed stocks (NYSE, NYSE American (AMEX) and Nasdaq). They do this as an institutional matching service, getting a small fee for each match. These trades occur OTC in the \"Fourth Market.\""
+  },
+  {
+    "id": "ch07-09",
+    "source": { "type": "chapter", "name": "Chapter 7 Test: Trading Markets" },
+    "chapter": 7,
+    "topic": "Broker vs. Dealer",
+    "question": "A securities firm does a trade for a customer and charges a mark-up. In what capacity did the firm act?",
+    "choices": ["Agent", "Dealer", "Broker", "Middleman"],
+    "answer": 1,
+    "explanation": "A FINRA member firm can do securities transactions in one of two ways. It can act as a broker, routing the order to the best market, charging a commission for this service. This is called an agency trade, and the firm is acting as a middleman in the transaction.\nThe other way to do the trade is to act as a dealer. Here, the firm maintains an inventory of the security, and acts as a principal, buying the security into inventory from the customer; or selling to the customer out of inventory. When acting as a principal, the firm earns a mark-up when selling to the customer out of inventory; or a mark-down when buying into inventory.\nAlso note that the firm can only act in one capacity in a given transaction - either as a broker or as a dealer. Thus, it could not charge both a commission and a mark-up in the same transaction."
+  },
+  {
+    "id": "ch07-10",
+    "source": { "type": "chapter", "name": "Chapter 7 Test: Trading Markets" },
+    "chapter": 7,
+    "topic": "Third Market",
+    "question": "The Third Market trades:",
+    "choices": [
+      "listed securities on an exchange",
+      "unlisted securities on an exchange",
+      "listed securities over-the-counter",
+      "securities of companies based in Third World countries"
+    ],
+    "answer": 2,
+    "explanation": "The Third Market is OTC trading of exchange listed securities. Trading of listed securities on an exchange is the First Market. There is no formal name for trading of unlisted securities on an exchange floor, such as trading of OTC issues by exchange Specialists (DMMs) under a UTP (Unlisted Trading Privilege) plan - mainly because the exchanges don't bother to trade these issues (yet)."
+  },
+  {
+    "id": "ch07-11",
+    "source": { "type": "chapter", "name": "Chapter 7 Test: Trading Markets" },
+    "chapter": 7,
+    "topic": "Short Sales",
+    "question": "An order ticket to sell 100 shares of ABC short means that the seller will:",
+    "choices": [
+      "deliver shares that are owned on settlement date",
+      "deliver shares that are borrowed on settlement date",
+      "not deliver shares on settlement date, but will deliver a due bill instead",
+      "not deliver shares on settlement date, but will deliver the shares on a future date"
+    ],
+    "answer": 1,
+    "explanation": "A short sale is a sale of borrowed shares. The customer is speculating that the price of the security will drop, and borrows the shares from a broker to sell. These borrowed shares are delivered to the buyer on settlement date. The short seller intends to buy back the stock at a later date (hopefully at a lower price) and replace the borrowed (short) position."
+  },
+  {
+    "id": "ch07-12",
+    "source": { "type": "chapter", "name": "Chapter 7 Test: Trading Markets" },
+    "chapter": 7,
+    "topic": "OTC Markets",
+    "question": "Where might a quote for an unlisted stock be found?",
+    "choices": ["OTC Markets Group", "Nasdaq", "NYSE", "CQS"],
+    "answer": 0,
+    "explanation": "Unlisted stocks are those that do not meet exchange listing standards. For equities, the Second Market is the OTC Markets Group, which maintains 3 quotation feeds:\nOTCQX: Established U.S. and international companies\nOTCQB: Development stage U.S. and international companies\nPink Open Market: Speculative stocks with minimal quotation standards\nNYSE and Nasdaq are exchanges with listing standards. CQS - the Consolidated Quotations Service - aggregates and shows quotes for NYSE and AMEX listed issues from all sources (the exchanges themselves and Third Market Makers that are quoting exchange listed stocks)."
+  },
+  {
+    "id": "ch07-13",
+    "source": { "type": "chapter", "name": "Chapter 7 Test: Trading Markets" },
+    "chapter": 7,
+    "topic": "Order Sizes",
+    "question": "An order is entered for 20 shares of XYZ Corporation. Which of the following terms most likely describes the order?",
+    "choices": ["Mixed lot", "Odd lot", "Round lot", "Block"],
+    "answer": 1,
+    "explanation": "Block orders are very large trades, usually over 10,000 shares, that are mostly placed by institutions and are often executed off market. A round lot is the normal unit of trading for a security on an exchange (usually 100 shares), and a round lot order is an order for a multiple of the normal unit of trading (e.g., 500 shares). An odd lot is less than the normal unit of trading, normally an order for less than 100 shares."
+  },
+  {
+    "id": "ch07-14",
+    "source": { "type": "chapter", "name": "Chapter 7 Test: Trading Markets" },
+    "chapter": 7,
+    "topic": "Broker vs. Dealer",
+    "question": "A securities firm does a trade for a customer and charges a commission. In what capacity did the firm act?",
+    "choices": ["Agent", "Dealer", "Principal", "Market Maker"],
+    "answer": 0,
+    "explanation": "A FINRA member firm can do securities transactions in one of two ways. It can act as a broker, routing the order to the best market, charging a commission for this service. This is called an agency trade, and the firm is acting as a middleman in the transaction.\nThe other way to do the trade is to act as a dealer. Here, the firm maintains an inventory of the security, and acts as a principal, buying the security into inventory from the customer; or selling to the customer out of inventory. When acting as a principal, the firm earns a mark-up when selling to the customer out of inventory; or a mark-down when buying into inventory.\nAlso note that the firm can only act in one capacity in a given transaction - either as a broker or as a dealer. Thus, it could not charge both a commission and a mark-up in the same transaction."
+  },
+  {
+    "id": "ch07-15",
+    "source": { "type": "chapter", "name": "Chapter 7 Test: Trading Markets" },
+    "chapter": 7,
+    "topic": "Order Types",
+    "question": "Which of the following is true about market not held orders?",
+    "choices": [
+      "Market not held orders tend to be the fastest orders filled on an exchange.",
+      "The trader is given discretion to fill the order at whatever time and price the trader thinks best.",
+      "The trader is instructed to not hold the order more than five minutes after receiving it.",
+      "Market not held orders carry over to the next day if they are not filled."
+    ],
+    "answer": 1,
+    "explanation": "Market not held orders are orders that are turned over to a trader to fill. The trader is given discretion to fill the order at whatever time and price the trader thinks best, but it must be completed that day. Market not held orders do not carry over to the next day."
+  },
+  {
+    "id": "ch07-16",
+    "source": { "type": "chapter", "name": "Chapter 7 Test: Trading Markets" },
+    "chapter": 7,
+    "topic": "Order Adjustments on Ex-Date",
+    "question": "A customer places an order to sell 100 ABC at 21 Stop Limit, when ABC stock is trading at $23. The company is restructuring and has announced a special dividend of $.72 to be paid to shareholders of record. On the ex date, the order will:",
+    "choices": ["stay the same at $21.00", "be reduced to $19.72", "be reduced to $20.28", "be reduced to $20.72"],
+    "answer": 2,
+    "explanation": "On ex dividend date, all open orders placed lower than the current market are reduced for cash dividends (except for orders placed DNR - Do Not Reduce). The intent is to make sure that the order does not become executable due to the fact that the stock's opening price is reduced by the dividend amount. The order was originally placed at $21. The adjusted order price is $21 - $.72 reduction = $20.28 adjusted order price."
+  },
+  {
+    "id": "ch07-17",
+    "source": { "type": "chapter", "name": "Chapter 7 Test: Trading Markets" },
+    "chapter": 7,
+    "topic": "Third Market",
+    "question": "The Third Market is trading of:",
+    "choices": [
+      "listed securities on an exchange",
+      "unlisted securities \"over-the-counter\"",
+      "listed securities \"over-the-counter\"",
+      "securities directly between institutions"
+    ],
+    "answer": 2,
+    "explanation": "The Third Market is over-the-counter trading of exchange listed securities - this market is competition for the NYSE and other exchanges.\nChoice A describes the First Market.\nChoice B describes the Second Market.\nChoice D describes the Fourth Market, which is direct trading of securities between institutions, via ECNs (Electronic Communications Networks) such as Instinet."
+  },
+  {
+    "id": "ch07-18",
+    "source": { "type": "chapter", "name": "Chapter 7 Test: Trading Markets" },
+    "chapter": 7,
+    "topic": "Order Sizes",
+    "question": "An order is entered for 500 shares of XYZ Corporation. Which of the following terms most likely describes the order?",
+    "choices": ["Mixed lot", "Odd lot", "Round lot", "Block"],
+    "answer": 2,
+    "explanation": "Block orders are very large trades, usually over 10,000 shares, that are mostly placed by institutions and are often executed off market. A round lot is the normal unit of trading for a security on an exchange (usually 100 shares), and a round lot order is an order for a multiple of the normal unit of trading (e.g., 500 shares). An odd lot is less than the normal unit of trading, normally an order for less than 100 shares."
+  },
+  {
+    "id": "ch07-19",
+    "source": { "type": "chapter", "name": "Chapter 7 Test: Trading Markets" },
+    "chapter": 7,
+    "topic": "First Market",
+    "question": "The First Market includes trading in:",
+    "choices": ["unlisted issues", "new issues", "NYSE issues", "OTC issues"],
+    "answer": 2,
+    "explanation": "The First Market is trading of listed stocks on an organized stock exchange - like the NYSE, AMEX (now renamed the \"NYSE American\") or Nasdaq exchanges. Exchanges have listing standards for the companies that trade there and accessible order books, where orders can be posted and traded against.\nAny companies that do not meet exchange listing standards (\"unlisted securities\") are quoted OTC (\"Over-The-Counter\"). These constitute the Second Market. OTC stocks are quoted by the OTC Markets Group (formerly the Pink Sheets) and are classified by the SEC as \"quotations vendors\" - they are not exchanges. To trade an OTC stock, the trade must be negotiated, either on-line or over the phone. New issues are sold for the first time in the Primary Market."
+  },
+  {
+    "id": "ch07-20",
+    "source": { "type": "chapter", "name": "Chapter 7 Test: Trading Markets" },
+    "chapter": 7,
+    "topic": "OTC Markets",
+    "question": "Where might unlisted securities be quoted?",
+    "choices": ["OTC Market Group", "On the exchange floor", "Nasdaq", "Any national securities exchange"],
+    "answer": 0,
+    "explanation": "OTC Markets Group is a quotation service for securities that do not meet the listing requirements of the exchanges."
+  },
+  {
+    "id": "ch07-21",
+    "source": { "type": "chapter", "name": "Chapter 7 Test: Trading Markets" },
+    "chapter": 7,
+    "topic": "Short Sales",
+    "question": "A major difference between a short sell and a long sell position is:",
+    "choices": [
+      "A short sell investor has unlimited risk, while a long sell investor does not",
+      "A short sell investor has owned their sold shares a long time, while a long sell investor has not",
+      "A short sell investor is bullish on their shares of stock, while a long sell investor is bearish on their shares",
+      "Selling short does not involve paying commissions, while selling long does"
+    ],
+    "answer": 0,
+    "explanation": "When an investor shorts shares of stock, they borrow them from a broker-dealer and sells them immediately. They will need to repurchase those shares to return to the broker-dealer at some point. While their position is open, the investor takes on unlimited risk. Shorting stock is a bearish position because the investor hopes the price of the shorted shares will drop and they can buy them back at a lower price than the price at which they shorted them."
+  },
+  {
+    "id": "ch07-22",
+    "source": { "type": "chapter", "name": "Chapter 7 Test: Trading Markets" },
+    "chapter": 7,
+    "topic": "FINRA 5% Rule",
+    "question": "Which of the following statements about the FINRA's 5% rule is TRUE?",
+    "choices": [
+      "It applies to commissions, mark-up, and markdowns",
+      "It applies only to commissions",
+      "It applies only to mark-ups or mark-downs",
+      "It applies only to mark-downs"
+    ],
+    "answer": 0,
+    "explanation": "The 5% rule applies to commissions, mark-ups and mark-downs for both agency and principal transactions of nonexempt securities that are traded over-the-counter. Exemptions to the 5% rule may include any issue sold with a prospectus - such as new issues, mutual funds or direct participation programs (DPPs)."
+  },
+  {
+    "id": "ch07-23",
+    "source": { "type": "chapter", "name": "Chapter 7 Test: Trading Markets" },
+    "chapter": 7,
+    "topic": "Order Types",
+    "question": "Prior to the opening of the options exchange, an investor wishes to place an order to sell an option contract at a premium that is higher than the previous day's close. The order type to be placed is a(n):",
+    "choices": ["At the open order", "Limit order", "Stop order", "Not Held order"],
+    "answer": 1,
+    "explanation": "The orders that are placed higher than the current market are \"OSLOBS\" - Open Sell Limits and Open Buy Stops. Thus, to sell at a price higher than the current market, an open sell limit order would be placed.\nConversely, the orders that are placed lower than the current market are \"OBLOSS\" - Open Buy Limit orders and Open Sell Stop orders. Thus, to sell an option at a premium that is lower than the closing price, an open sell stop order would be placed."
+  },
+  {
+    "id": "ch07-24",
+    "source": { "type": "chapter", "name": "Chapter 7 Test: Trading Markets" },
+    "chapter": 7,
+    "topic": "First Market",
+    "question": "The First Market is trading of:",
+    "choices": [
+      "listed securities on an exchange",
+      "unlisted securities \"over-the-counter\"",
+      "listed securities \"over-the-counter\"",
+      "securities directly between institutions"
+    ],
+    "answer": 0,
+    "explanation": "The First Market is trading of listed stocks on an organized stock exchange - like the NYSE, AMEX (now renamed the \"NYSE American\"), or Nasdaq. Exchanges have listing standards for the companies that trade there and accessible order books, where orders can be posted and traded against. Any companies that do not meet exchange listing standards (\"unlisted securities\") are quoted OTC (\"Over-The-Counter\"). These constitute the Second Market. OTC stocks are quoted by the OTC Markets Group (formerly the Pink Sheets) and are classified by the SEC as \"quotations vendors\" - they are not exchanges. To trade an OTC stock, the trade must be negotiated, either on-line or over the phone."
+  },
+  {
+    "id": "ch07-25",
+    "source": { "type": "chapter", "name": "Chapter 7 Test: Trading Markets" },
+    "chapter": 7,
+    "topic": "ECNs and Fourth Market",
+    "question": "The trading of securities directly between institutions in the over the counter market via ECNs occurs in which venue?",
+    "choices": ["First Market", "Second Market", "Third Market", "Fourth Market"],
+    "answer": 3,
+    "explanation": "The Secondary Market is categorized into 4 sub-markets: the First; Second; Third; and Fourth Markets.\nThe First Market is trading of exchange listed securities on that exchange.\nThe Second Market is trading of securities that are not exchange listed in the over the counter market.\nThe Third Market is trading of exchange listed securities in the over the counter market.\nThe Fourth Market is trading of securities directly between institutions in the over the counter market via ECNs (Electronic Communications Networks) such as Instinet."
+  }
+]

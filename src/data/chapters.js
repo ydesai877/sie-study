@@ -7,7 +7,7 @@ export const CHAPTERS = [
   { n: 4, name: 'Corporate and U.S. Government Debt' },
   { n: 5, name: 'Municipal Debt and Money Market Instruments' },
   { n: 6, name: 'Packaged Products' },
-  { n: 7, name: 'Alternative and Retirement Products' },
+  { n: 7, name: 'Trading Markets' },
   { n: 8, name: 'Chapter 8' },
   { n: 9, name: 'Options' },
   { n: 10, name: 'Chapter 10' },
@@ -37,7 +37,7 @@ export const SOURCE_TYPES = {
 // Map each chapter to one of the four FINRA functions.
 export const FINRA_AREAS = [
   { key: 'F1', name: 'Knowledge of Capital Markets', weight: 0.16, chapters: [] },
-  { key: 'F2', name: 'Understanding Products and Their Risks', weight: 0.44, chapters: [1, 2, 3, 4, 5, 6, 7, 9] },
-  { key: 'F3', name: 'Trading, Customer Accounts, Prohibited Activities', weight: 0.31, chapters: [] },
+  { key: 'F2', name: 'Understanding Products and Their Risks', weight: 0.44, chapters: [1, 2, 3, 4, 5, 6, 9] },
+  { key: 'F3', name: 'Trading, Customer Accounts, Prohibited Activities', weight: 0.31, chapters: [7] },
   { key: 'F4', name: 'Overview of Regulatory Framework', weight: 0.09, chapters: [] },
 ]
