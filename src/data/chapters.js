@@ -5,7 +5,7 @@ export const CHAPTERS = [
   { n: 2, name: 'Debt Fundamentals' },
   { n: 3, name: 'Additional Bond Features and Risks' },
   { n: 4, name: 'Corporate and U.S. Government Debt' },
-  { n: 5, name: 'Municipal Debt' },
+  { n: 5, name: 'Municipal Debt and Money Market Instruments' },
   { n: 6, name: 'Packaged Products' },
   { n: 7, name: 'Alternative and Retirement Products' },
   { n: 8, name: 'Chapter 8' },
