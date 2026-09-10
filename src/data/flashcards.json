@@ -1,10 +1,1 @@
-[
-  { "id": "seed-01", "term": "12b-1 fee", "definition": "Annual fee deducted from mutual fund assets to pay distribution and marketing costs. Max 0.25% for a fund that calls itself no-load.", "chapter": 6 },
-  { "id": "seed-02", "term": "Debenture", "definition": "Unsecured corporate bond backed only by the issuer's full faith and credit.", "chapter": 4 },
-  { "id": "seed-03", "term": "Basis quote", "definition": "A bond quoted by its yield to maturity. Yield above coupon means discount; yield below coupon means premium.", "chapter": 2 },
-  { "id": "seed-04", "term": "Long call breakeven", "definition": "Strike price + premium paid.", "chapter": 9 },
-  { "id": "seed-05", "term": "Short put maximum loss", "definition": "Strike price - premium received (times 100 shares).", "chapter": 9 },
-  { "id": "seed-06", "term": "Warrant", "definition": "Long-term right to buy stock at a fixed price, usually above the market price at issuance. Often attached to bonds as a sweetener.", "chapter": 1 },
-  { "id": "seed-07", "term": "DPP", "definition": "Direct participation program. Flow-through entity (usually a limited partnership); income and losses pass to investors. Losses are passive.", "chapter": 6 },
-  { "id": "seed-08", "term": "Ex-dividend date (regular way)", "definition": "Same day as the record date under T+1 settlement. Buyers on or after the ex-date do not get the dividend.", "chapter": 1 }
-]
+[]
