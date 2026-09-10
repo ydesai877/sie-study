@@ -1,0 +1,176 @@
+[
+  {
+    "id": "sample-01",
+    "source": { "type": "chapter", "name": "Sample set" },
+    "chapter": 6,
+    "section": "Section 4: Mutual Fund Expenses and Share Classes",
+    "topic": "12b-1 Fees",
+    "question": "A 12b-1 fee charged by a mutual fund is used to pay for which of the following?",
+    "choices": [
+      "Portfolio management and research",
+      "Distribution and marketing expenses",
+      "Custodial and transfer agent services",
+      "Redemption processing"
+    ],
+    "answer": 1,
+    "explanation": "12b-1 fees cover distribution costs such as advertising, sales literature, and payments to selling brokers. They are deducted from fund assets annually, so they reduce the fund's return. A fund that calls itself 'no-load' may charge a 12b-1 fee of no more than 0.25% per year.",
+    "tags": ["fees", "mutual funds"]
+  },
+  {
+    "id": "sample-02",
+    "source": { "type": "chapter", "name": "Sample set" },
+    "chapter": 6,
+    "section": "Section 4: Mutual Fund Expenses and Share Classes",
+    "topic": "12b-1 Fees",
+    "question": "Which share class typically has the highest 12b-1 fee and no front-end sales charge?",
+    "choices": ["Class A shares", "Class B shares", "Class C shares", "Class I shares"],
+    "answer": 2,
+    "explanation": "Class C shares are 'level load' shares. They have no front-end load, a small CDSC for about one year, and a higher ongoing 12b-1 fee (often 1%). Class A shares charge a front-end load and a low 12b-1 fee. Class B shares carry a back-end load that declines over time and convert to A shares.",
+    "tags": ["share classes"]
+  },
+  {
+    "id": "sample-03",
+    "source": { "type": "chapter", "name": "Sample set" },
+    "chapter": 6,
+    "section": "Section 6: Other Packaged Products",
+    "topic": "Direct Participation Programs (DPPs)",
+    "question": "The main tax advantage of a direct participation program (DPP) is that it:",
+    "choices": [
+      "Is exempt from federal income tax",
+      "Passes income and losses directly through to investors",
+      "Guarantees a tax credit equal to the initial investment",
+      "Defers all taxes until the program is sold"
+    ],
+    "answer": 1,
+    "explanation": "A DPP (usually a limited partnership) is a flow-through vehicle. It is not taxed at the entity level. Income, gains, losses, and deductions pass through to the limited partners, who report them on their own returns. Losses are passive and can only offset passive income.",
+    "tags": ["DPP", "limited partnership"]
+  },
+  {
+    "id": "sample-04",
+    "source": { "type": "chapter", "name": "Sample set" },
+    "chapter": 6,
+    "section": "Section 6: Other Packaged Products",
+    "topic": "Direct Participation Programs (DPPs)",
+    "question": "Which of the following is the LEAST important factor when evaluating a DPP?",
+    "choices": [
+      "The economic viability of the program",
+      "The experience of the general partner",
+      "The tax benefits of the program",
+      "The liquidity of the investment"
+    ],
+    "answer": 2,
+    "explanation": "Tax benefits should never be the primary reason to buy a DPP. The program must make economic sense first. The other factors, including the general partner's track record and the lack of liquidity, are central to the analysis.",
+    "tags": ["DPP", "suitability"]
+  },
+  {
+    "id": "sample-05",
+    "source": { "type": "chapter", "name": "Sample set" },
+    "chapter": 9,
+    "section": "Section 1: Options Basics",
+    "topic": "Put and Call Contract Outcomes",
+    "question": "An investor buys 1 XYZ Jan 50 call at 3. At expiration XYZ is trading at 56. What is the investor's result if the option is exercised and the stock sold at market?",
+    "choices": ["$300 gain", "$300 loss", "$600 gain", "$900 gain"],
+    "answer": 0,
+    "explanation": "The call is exercised at 50 and the stock is sold at 56, a $6 gain per share, or $600. Subtract the $300 premium paid: $600 - $300 = $300 gain. Breakeven for a long call is strike plus premium, 53.",
+    "tags": ["long call"]
+  },
+  {
+    "id": "sample-06",
+    "source": { "type": "chapter", "name": "Sample set" },
+    "chapter": 9,
+    "section": "Section 1: Options Basics",
+    "topic": "Put and Call Contract Outcomes",
+    "question": "An investor writes 1 ABC Mar 40 put at 2. What is the maximum potential loss?",
+    "choices": ["$200", "$3,800", "$4,000", "Unlimited"],
+    "answer": 1,
+    "explanation": "The put writer must buy the stock at 40 if assigned. The worst case is the stock going to zero: $4,000 loss minus the $200 premium received = $3,800. Only uncovered call writers face unlimited loss.",
+    "tags": ["short put"]
+  },
+  {
+    "id": "sample-07",
+    "source": { "type": "chapter", "name": "Sample set" },
+    "chapter": 1,
+    "section": "Section 5: Special Securities",
+    "topic": "Warrants",
+    "question": "Which statement about warrants is TRUE?",
+    "choices": [
+      "Warrants are usually issued with an exercise price below the current market price",
+      "Warrants are typically long-term and are often attached to bond offerings as a sweetener",
+      "Warrants pay dividends to holders",
+      "Warrants expire within 90 days of issuance"
+    ],
+    "answer": 1,
+    "explanation": "A warrant gives the holder the right to buy stock at a fixed price, usually above the market price at issuance, for a long period (often years). Issuers attach them to bonds or preferred stock to make the offering more attractive. Rights, by contrast, are short term and priced below market.",
+    "tags": ["warrants", "rights"]
+  },
+  {
+    "id": "sample-08",
+    "source": { "type": "chapter", "name": "Sample set" },
+    "chapter": 2,
+    "section": "Section 2: Bond Prices and Quotes",
+    "topic": "Bond Quotes: Priced as a Yield",
+    "question": "A bond with a 5% coupon is quoted at a 6.10 basis. The bond is trading at:",
+    "choices": ["A premium", "A discount", "Par", "Cannot be determined"],
+    "answer": 1,
+    "explanation": "A basis quote is a yield to maturity. When yield (6.10%) is above the coupon (5%), the bond trades below par, at a discount. Yield and price move in opposite directions.",
+    "tags": ["yield", "basis quote"]
+  },
+  {
+    "id": "sample-09",
+    "source": { "type": "chapter", "name": "Sample set" },
+    "chapter": 4,
+    "section": "Section 1: Corporate Debt",
+    "topic": "Characteristics of Corporate Debt",
+    "question": "Which type of corporate bond is backed only by the full faith and credit of the issuer?",
+    "choices": ["Mortgage bond", "Equipment trust certificate", "Debenture", "Collateral trust bond"],
+    "answer": 2,
+    "explanation": "A debenture is unsecured. It is backed by the issuer's promise to pay, not by specific collateral. Mortgage bonds, equipment trust certificates, and collateral trust bonds are all secured by specific assets.",
+    "tags": ["debenture", "secured vs unsecured"]
+  },
+  {
+    "id": "sample-10",
+    "source": { "type": "chapter", "name": "Sample set" },
+    "chapter": 3,
+    "section": "Section 1: Call and Put Features",
+    "topic": "Bond Call Features",
+    "question": "An issuer is MOST likely to call its outstanding bonds when:",
+    "choices": [
+      "Interest rates have risen",
+      "Interest rates have fallen",
+      "The bonds are trading at a discount",
+      "The issuer's credit rating has been downgraded"
+    ],
+    "answer": 1,
+    "explanation": "Issuers call bonds to refinance at a lower cost. When rates fall, the issuer can retire the old high-coupon bonds and issue new ones at the lower rate. This is why callable bonds carry call risk for investors and pay a slightly higher yield.",
+    "tags": ["call risk"]
+  },
+  {
+    "id": "sample-11",
+    "source": { "type": "chapter", "name": "Sample set" },
+    "chapter": 1,
+    "section": "Section 2: Distributions and Common Stock Valuation",
+    "topic": "Dividends",
+    "question": "A corporation declares a dividend payable to shareholders of record on Thursday, June 12. In a regular-way settlement, the ex-dividend date is:",
+    "choices": ["Tuesday, June 10", "Wednesday, June 11", "Thursday, June 12", "Friday, June 13"],
+    "answer": 2,
+    "explanation": "With T+1 settlement, a buyer must purchase the stock no later than the day before the record date to settle by the record date. The ex-dividend date is therefore the same day as the record date. Buyers on or after the ex-date do not receive the dividend.",
+    "tags": ["ex-dividend", "T+1"]
+  },
+  {
+    "id": "sample-12",
+    "source": { "type": "chapter", "name": "Sample set" },
+    "chapter": 4,
+    "section": "Section 2: U.S. Government Debt and Agency Debt",
+    "topic": "Trading of Government/Agency Debt",
+    "question": "Treasury notes and bonds are quoted in:",
+    "choices": [
+      "Decimals, as a percentage of par",
+      "Thirty-seconds of a point",
+      "Eighths of a point",
+      "Yield to maturity only"
+    ],
+    "answer": 1,
+    "explanation": "Treasury notes and bonds are quoted as a percentage of par in 32nds. A quote of 98.16 means 98 and 16/32, or 98.5% of par, which is $985 on a $1,000 bond. Treasury bills are quoted on a discount yield basis.",
+    "tags": ["treasury quotes"]
+  }
+]
