@@ -1,0 +1,112 @@
+[
+  {
+    "id": "ch02-01",
+    "source": { "type": "chapter", "name": "Chapter 2 Test: Debt Fundamentals" },
+    "chapter": 2,
+    "topic": "Bond Types",
+    "question": "A 30-year bond is issued with an initial price of $400. Thirty years later the bondholder receives the $1,000 par value. The bondholder does not receive any interest along the way. Which of the following best describes this bond?",
+    "choices": ["Term bond", "Serial bond", "Zero-coupon bond", "Series bond"],
+    "answer": 2,
+    "explanation": "Bonds that are issued at a deep discount to par, and have no regular interest payments are called zero-coupon bonds."
+  },
+  {
+    "id": "ch02-02",
+    "source": { "type": "chapter", "name": "Chapter 2 Test: Debt Fundamentals" },
+    "chapter": 2,
+    "topic": "Bond Types",
+    "question": "Which of the following is the most common type of bond that the U.S. government may issue?",
+    "choices": ["Term bond", "Series bond", "Balloon maturity bond", "Equipment trust certificate"],
+    "answer": 0,
+    "explanation": "Corporate bond issues and U.S. government bond issues are typically term bond issues."
+  },
+  {
+    "id": "ch02-03",
+    "source": { "type": "chapter", "name": "Chapter 2 Test: Debt Fundamentals" },
+    "chapter": 2,
+    "topic": "Bond Yields",
+    "question": "A bond's nominal yield is equivalent to which of the following?",
+    "choices": [
+      "The percentage of par value received by the bondholder annually",
+      "The percentage of par value received by the bondholder with each coupon payment",
+      "The par value divided by the market value",
+      "The amount that an investor who purchases the bond and holds it to maturity can expect to receive"
+    ],
+    "answer": 0,
+    "explanation": "A bond's nominal yield is the percentage of par value received annually in payment for the bond.\n- Bond issuers typically make coupon payments on a semi-annual basis, so the percentage of par value for each coupon payment would typically be half of the nominal yield.\n- A bond's annual interest in dollars divided by its market value is the equation to calculate current yield.\n- Finally, the amount that an investor who purchases and then holds a bond to maturity can expect to receive is the bond's yield to maturity."
+  },
+  {
+    "id": "ch02-04",
+    "source": { "type": "chapter", "name": "Chapter 2 Test: Debt Fundamentals" },
+    "chapter": 2,
+    "topic": "Bond Prices and Yields",
+    "question": "A municipal bond that is offered at a yield-to-maturity lower than its coupon rate is recognized as trading:",
+    "choices": ["At a discount", "At a premium", "At its yield-to-worst", "At par"],
+    "answer": 1,
+    "explanation": "When a bond is trading at a premium, its yield to maturity is lower than its coupon rate."
+  },
+  {
+    "id": "ch02-05",
+    "source": { "type": "chapter", "name": "Chapter 2 Test: Debt Fundamentals" },
+    "chapter": 2,
+    "topic": "Current Yield",
+    "question": "The current yield on a bond with a coupon rate of 4% selling at 105 is approximately",
+    "choices": ["4.25%", "4.20%", "3.78%", "3.81%"],
+    "answer": 3,
+    "explanation": "Current yield equals the annual interest divided by the bond price. Remember that corporate bonds are quoted in bond points and each bond point is worth $10. So this bond will cost $1050. Annual interest is calculated by multiplying the coupon rate by the bond's par value. Corporate bonds typically have a par value of $1000, so the annual interest rate would be .04 * $1,000 = $40. So the current yield is $40 / 1050 = .0381, or 3.81%."
+  },
+  {
+    "id": "ch02-06",
+    "source": { "type": "chapter", "name": "Chapter 2 Test: Debt Fundamentals" },
+    "chapter": 2,
+    "topic": "Bond Quotes",
+    "question": "How much would an investor pay for a Treasury bond quoted at 99-04, assuming the par value of the bond was $1,000?",
+    "choices": ["$99.04", "$990.40", "$991.25", "$990.13"],
+    "answer": 2,
+    "explanation": "T-bonds are quoted in 32nds of a percentage of par value. A quote of 99.04 means 99 and 4/32nds of a percentage. In this case, $990 plus 4/32nds of $10, which is 1/8th of $10, which is $1.25."
+  },
+  {
+    "id": "ch02-07",
+    "source": { "type": "chapter", "name": "Chapter 2 Test: Debt Fundamentals" },
+    "chapter": 2,
+    "topic": "Basis Points",
+    "question": "10 basis points equals:",
+    "choices": [".01%", ".1%", "1%", "10%"],
+    "answer": 1,
+    "explanation": "One basis point equals .01% movement in interest rates, so 10 basis points equals a .1% movement in interest rates."
+  },
+  {
+    "id": "ch02-08",
+    "source": { "type": "chapter", "name": "Chapter 2 Test: Debt Fundamentals" },
+    "chapter": 2,
+    "topic": "Interest vs. Dividends",
+    "question": "Which of the following investments would not pay a dividend?",
+    "choices": ["Common stock", "Preferred stock", "Corporate bond", "Mutual fund"],
+    "answer": 2,
+    "explanation": "Common and preferred stocks may pay dividends. Mutual funds may pay dividends as well as making capital gains distributions. Bonds pay interest."
+  },
+  {
+    "id": "ch02-09",
+    "source": { "type": "chapter", "name": "Chapter 2 Test: Debt Fundamentals" },
+    "chapter": 2,
+    "topic": "Bond Maturities",
+    "question": "A balloon maturity could refer to:",
+    "choices": [
+      "A bond issue that pays a single interest payment and has only one maturity date",
+      "A serial bond issue that has one maturity which contains a disproportionately large amount of the principal",
+      "A bond issue that contains multiple maturity dates, on each of which the same number of bonds will mature",
+      "A bond that has an escrow account of funds set aside to pay the principle, which can only be paid at maturity"
+    ],
+    "answer": 1,
+    "explanation": "A balloon maturity is the one maturity which contains a disproportionately large amount of the principal, most often the last maturity. Some bonds have a 'sinking fund', which is an escrow account where funds are set aside to pay the principal, but it is intended in most cases to call the bond early rather than pay the principal at maturity."
+  },
+  {
+    "id": "ch02-10",
+    "source": { "type": "chapter", "name": "Chapter 2 Test: Debt Fundamentals" },
+    "chapter": 2,
+    "topic": "Bond Quotes",
+    "question": "A corporate bond has a bid-ask spread of 97 - 98. What is the dollar value of the spread?",
+    "choices": ["$1", "$10", "$100", "$.10"],
+    "answer": 1,
+    "explanation": "Bond quotes represent the percentage of the bond's par value. Par value for corporate bonds is $1,000. The bid-ask spread, when converted to dollars, is $970 - $980. The spread is the difference between the ask and the bid. Thus, $980 - $970 = $10."
+  }
+]
