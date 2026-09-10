@@ -1,0 +1,123 @@
+[
+  {
+    "id": "ch03-01",
+    "source": { "type": "chapter", "name": "Chapter 3 Test: Additional Bond Features and Risks" },
+    "chapter": 3,
+    "topic": "Bond Ratings",
+    "question": "The primary reason that services such as Moody's and Standard and Poor's provide bond ratings is to:",
+    "choices": [
+      "measure marketability risk of different issues",
+      "compare yields of different issues",
+      "measure default risk of different issues",
+      "compare bond risks to those of equity issues"
+    ],
+    "answer": 2,
+    "explanation": "Ratings services such as Moody's measure default risk of debt issues. They only rate bonds, so no comparisons can be made with equity issues. They do not measure yields, nor marketability risk."
+  },
+  {
+    "id": "ch03-02",
+    "source": { "type": "chapter", "name": "Chapter 3 Test: Additional Bond Features and Risks" },
+    "chapter": 3,
+    "topic": "Put Features",
+    "question": "Bonds with put features typically come with __________ and _________ than other types of bonds.",
+    "choices": [
+      "Less interest rate risk; higher coupon rates",
+      "More interest rate risk; lower coupon rates",
+      "Less interest rate risk; lower coupon rates",
+      "More interest rate risk; higher coupon rates"
+    ],
+    "answer": 2,
+    "explanation": "Because the put feature allows an investor to sell the bond back to the issuer when interest rates rise, a put bond has less interest rate risk than other types of bonds. The lower level of risk allows issuers to issue the bonds with lower coupon rates than most other types of bonds."
+  },
+  {
+    "id": "ch03-03",
+    "source": { "type": "chapter", "name": "Chapter 3 Test: Additional Bond Features and Risks" },
+    "chapter": 3,
+    "topic": "Put Features",
+    "question": "________ allow the investor the discretion to redeem the bonds at par before the maturity date.",
+    "choices": ["Put bonds", "Straight bonds", "Zero coupon bonds", "Callable bonds"],
+    "answer": 0,
+    "explanation": "Put bonds are attractive to investors when rising interest rates force the price of bonds down. Put bonds carry slightly lower coupon rates than comparable bonds without the put feature.",
+    "tags": ["archived"]
+  },
+  {
+    "id": "ch03-04",
+    "source": { "type": "chapter", "name": "Chapter 3 Test: Additional Bond Features and Risks" },
+    "chapter": 3,
+    "topic": "Interest Rate Risk",
+    "question": "A customer has purchased three different bonds, each yielding 9%, with 5 year, 10 year, and 15 year maturities. If prevailing interest rates drop by 20 basis points, which will show the greatest percentage price change?",
+    "choices": ["5 year maturity", "10 year maturity", "15 year maturity", "The bonds will all move by the same percentage"],
+    "answer": 2,
+    "explanation": "As interest rates move, long term maturities will change in price at a faster rate than will short term obligations. This is due to the fact that the \"compounding effect\" is more acute as maturities lengthen. As interest rates move up, long term maturities fall faster in price than do short term maturities."
+  },
+  {
+    "id": "ch03-05",
+    "source": { "type": "chapter", "name": "Chapter 3 Test: Additional Bond Features and Risks" },
+    "chapter": 3,
+    "topic": "Yield to Call",
+    "question": "If a callable bond is purchased at a premium, and is then called at par which of the following is TRUE?",
+    "choices": [
+      "The yield to call is higher than the nominal yield",
+      "The yield to call is lower than the nominal yield",
+      "The yield to call is the same as the nominal yield",
+      "The yield to call moves inversely to the nominal yield"
+    ],
+    "answer": 1,
+    "explanation": "The yield to call will be lower than the yield to maturity if the bond was purchased at a premium (which will be lost faster if the bond is called early). Since the bond is purchased at a premium, both yield to call and yield to maturity must be lower than the nominal yield."
+  },
+  {
+    "id": "ch03-06",
+    "source": { "type": "chapter", "name": "Chapter 3 Test: Additional Bond Features and Risks" },
+    "chapter": 3,
+    "topic": "Yield to Call",
+    "question": "Yield to call is:",
+    "choices": [
+      "The nominal yield for a callable bond",
+      "Always higher than yield to maturity for a premium bond",
+      "The yield of a callable bond, assuming the bond is held until its first call date",
+      "Relevant for all debt securities"
+    ],
+    "answer": 2,
+    "explanation": "Yield to call is the yield of a callable bond, assuming it is held only to its first call date. It is higher than yield to maturity for a discount bond, and lower than YTM in most cases for a premium bond. The nominal yield for a callable bond is the stated interest rate for the loan and is not the same as the yield to call. Finally, yield to call is only relevant for callable bonds."
+  },
+  {
+    "id": "ch03-07",
+    "source": { "type": "chapter", "name": "Chapter 3 Test: Additional Bond Features and Risks" },
+    "chapter": 3,
+    "topic": "Call Features",
+    "question": "A corporate bond was issued on Jan 1, 2020, that matures on Jan 1, 2040. The trust indenture allows the corporation to call the bond starting in 2030 at a price equaling 100 plus an additional 1/2 point premium for every 6 month period remaining until maturity. If the bond is called on Jan 1, 2038, the redemption price will be:",
+    "choices": ["100 1/2", "102", "103 1/2", "104"],
+    "answer": 1,
+    "explanation": "If the bond is called on January 1, 2038, two years remain until its January 1, 2040 maturity date. Two years contains four six-month periods.\nThe indenture requires the issuer to pay:\nA base call price of 100\nPlus 1/2 point for each six-month period remaining until maturity\nThe additional premium is:\n4 periods x 1/2 point = 2 points\nTherefore, the redemption price is:\n100 + 2 = 102"
+  },
+  {
+    "id": "ch03-08",
+    "source": { "type": "chapter", "name": "Chapter 3 Test: Additional Bond Features and Risks" },
+    "chapter": 3,
+    "topic": "Bond Risks",
+    "question": "What is the primary risk associated with holding a high-yield bond?",
+    "choices": ["Market Risk", "Purchasing Power Risk", "Call Risk", "Default Risk"],
+    "answer": 3,
+    "explanation": "\"High-yield\" bonds are ones rated below investment grade by the major credit ratings agencies (Moody's and Standard and Poor's). These agencies only rate bonds for risk of default, also known as credit risk. Because these bonds have a much higher risk of default than an investment grade bond, they must offer a higher yield to investors. Note that the other risks are also inherent in investing in all types of bonds, but the question asks about the \"primary\" risk of investing in high-yield bonds.\nMarket risk for bonds is the risk that market interest rates rise, driving the prices of already-issued bonds down and forcing their yields up to match the rise in market interest rates.\nPurchasing power risk is the risk of inflation - if there is substantial inflation, market interest rates rise and bond prices drop.\nCall risk occurs if market interest rates fall - issuers then call in bonds (assuming the bonds were issued with a call feature) and replace them with new bonds at lower yields. The bondholders who were called now have cash that must be reinvested, and this can only be done at lower current yields."
+  },
+  {
+    "id": "ch03-09",
+    "source": { "type": "chapter", "name": "Chapter 3 Test: Additional Bond Features and Risks" },
+    "chapter": 3,
+    "topic": "Bond Risks",
+    "question": "Irving Investor is concerned that if interest rates rise after he purchases bonds, the value of those bonds will decline. Irving is most concerned about:",
+    "choices": ["liquidity risk", "interest rate risk", "market risk", "inflationary risk"],
+    "answer": 1,
+    "explanation": "Irving fears interest rate risk, which is the risk that when interest rates increase, the market value of existing bonds decreases because new bonds are issued at higher rates, making older bonds less attractive.\nWhile market risk is a broader term that applies to all securities and includes risks such as interest rate changes, exam questions expect the most specific answer. Here, that's interest rate risk.\nInflationary risk (D) relates to the purchasing power of future interest and principal payments, and liquidity risk (A) involves difficulty selling a security quickly without a significant price concession. Neither fits Irving's concern."
+  },
+  {
+    "id": "ch03-10",
+    "source": { "type": "chapter", "name": "Chapter 3 Test: Additional Bond Features and Risks" },
+    "chapter": 3,
+    "topic": "Marketability",
+    "question": "What will not affect the marketability of a corporate bond?",
+    "choices": ["Bond rating", "Maturity", "Bond denominations", "Block size"],
+    "answer": 2,
+    "explanation": "The higher rated a bond, the more marketable it is. The shorter the maturity, the more marketable it is. For corporate bonds, the most marketable blocks are 5 bonds up to 100 bonds. Under 5 is an odd lot; over 100 is a large block which is more difficult to trade. The bond denominations have no effect on marketability."
+  }
+]
