@@ -1,0 +1,492 @@
+[
+  {
+    "id": "ch06-01",
+    "source": { "type": "chapter", "name": "Chapter 6 Test: Packaged Products" },
+    "chapter": 6,
+    "topic": "Breakpoints",
+    "question": "A client sells $49,000 of various stocks and wishes to use the proceeds to buy a mutual fund that has breakpoints at $10,000 intervals. Which statement is TRUE?",
+    "choices": [
+      "The customer must sign a letter of intent to reach the $50,000 breakpoint",
+      "The customer should be informed that investing an additional $1,000 will provide the benefit of a breakpoint",
+      "The customer should be informed that the sales charge earned by the representative will be lower if the breakpoint is reached",
+      "No additional disclosures are required to be made to the customer"
+    ],
+    "answer": 1,
+    "explanation": "If a customer is \"close\" to a breakpoint, it is a violation to not make the customer aware that putting in the additional funds to reach that level will result in a lower sales charge. If the disclosure is not made, the registered representative has committed a violation known as a \"breakpoint sale.\""
+  },
+  {
+    "id": "ch06-02",
+    "source": { "type": "chapter", "name": "Chapter 6 Test: Packaged Products" },
+    "chapter": 6,
+    "topic": "Unit Investment Trusts",
+    "question": "A fixed UIT is typically designed to:",
+    "choices": [
+      "Give tax advantaged protection to speculators",
+      "Sell rights to individuals for ventures involving membership",
+      "Hold a portfolio of securities that is not actively managed until a defined expiration",
+      "Involve accredited investors in the investment decision-making process"
+    ],
+    "answer": 2,
+    "explanation": "A fixed Unit Investment Trust (UIT) consists of securities, which are not actively managed or traded and remain fixed for the life of the investment. Typically, there is an expiration date in which the UIT is liquidated and distributed to the investors."
+  },
+  {
+    "id": "ch06-03",
+    "source": { "type": "chapter", "name": "Chapter 6 Test: Packaged Products" },
+    "chapter": 6,
+    "topic": "REITs",
+    "question": "What is the minimum percentage of assets that a REIT must invest into real estate or mortgages?",
+    "choices": ["50%", "66 2/3 %", "75%", "90%"],
+    "answer": 2,
+    "explanation": "REITs do not invest in limited partnerships, which are tax shelter vehicles. This makes sense because REITs cannot pass losses to their shareholders.\nThey invest primarily in real estate and mortgages (under the tax code, at least 75% of the REIT's assets must be invested in real estate or mortgages). Any excess funds can be invested in securities, such as U.S. Governments and can also be invested in the shares of other REITs, though this rarely happens."
+  },
+  {
+    "id": "ch06-04",
+    "source": { "type": "chapter", "name": "Chapter 6 Test: Packaged Products" },
+    "chapter": 6,
+    "topic": "Hedge Funds",
+    "question": "Hedge funds are:",
+    "choices": [
+      "private investments that are available only to wealthy investors",
+      "private investments that are available to any investor",
+      "private investments that are available only to institutions",
+      "public investments that trade OTC"
+    ],
+    "answer": 0,
+    "explanation": "Hedge funds are private placements sold to accredited investors. These accredited investors could be either institutions or wealthy individuals."
+  },
+  {
+    "id": "ch06-05",
+    "source": { "type": "chapter", "name": "Chapter 6 Test: Packaged Products" },
+    "chapter": 6,
+    "topic": "Diversified Funds",
+    "question": "Which statement most closely mirrors the rule about diversified mutual funds?",
+    "choices": [
+      "55% or more of its assets are invested in cash, cash items, or securities",
+      "65% or more of its assets are invested in cash, cash items, or securities",
+      "75% or more of its assets are invested in cash, cash items, or securities",
+      "85% or more of its assets are invested in cash, cash items, or securities"
+    ],
+    "answer": 2,
+    "explanation": "The Investment Company Act of 1940 defines \"diversified\" as any fund that has:\n- 75% or more of its assets invested in cash, cash items, or securities\n- Out of those 75% of its assets, a maximum of 5% of its assets held in any one company\n- Out of those 75% of its assets, a maximum holding of 10% of the voting securities of any one company"
+  },
+  {
+    "id": "ch06-06",
+    "source": { "type": "chapter", "name": "Chapter 6 Test: Packaged Products" },
+    "chapter": 6,
+    "topic": "Open-End vs. Closed-End Funds",
+    "question": "The type of investment company that does an \"initial public offering\" only once is called:",
+    "choices": [
+      "An open-end fund",
+      "A closed-end fund",
+      "An open-end fund investing in IPOs",
+      "An open-end fund that is re-opening to new investors"
+    ],
+    "answer": 1,
+    "explanation": "While open-end mutual funds continually offer new shares for sale, closed-end funds offer shares only once at their IPO. After that, purchases may be made on the secondary market at a discount or premium to the NAV."
+  },
+  {
+    "id": "ch06-07",
+    "source": { "type": "chapter", "name": "Chapter 6 Test: Packaged Products" },
+    "chapter": 6,
+    "topic": "Expense Ratio",
+    "question": "Which statement is FALSE regarding mutual fund expense ratios?",
+    "choices": [
+      "The expense ratio will rise if the fund raises its management fee",
+      "The expense ratio will rise if the fund incurs higher administrative costs",
+      "The expense ratio will rise if the fund experiences large investment inflows",
+      "The expense ratio will rise if the fund experiences large redemptions"
+    ],
+    "answer": 2,
+    "explanation": "The formula for the expense ratio is: Total Expenses / Average Net Assets.\nIf expenses rise (such as a higher management fee or administrative costs), or assets fall (caused by increased redemptions), the ratio will rise. Large investment inflows would increase total net assets, causing a decline in the ratio."
+  },
+  {
+    "id": "ch06-08",
+    "source": { "type": "chapter", "name": "Chapter 6 Test: Packaged Products" },
+    "chapter": 6,
+    "topic": "ETFs",
+    "question": "An ETF that attempts to emulate the Standard and Poor's 500 Index employs what investment strategy?",
+    "choices": ["Passive asset management", "Active asset management", "Fundamental analysis", "Technical analysis"],
+    "answer": 0,
+    "explanation": "Matching a fund's composition to a benchmark index is \"passive asset management.\" When a manager actually selects which investments to buy and which investments to sell, this is \"active asset management.\" Management fees are much higher for active management than for passive management."
+  },
+  {
+    "id": "ch06-09",
+    "source": { "type": "chapter", "name": "Chapter 6 Test: Packaged Products" },
+    "chapter": 6,
+    "topic": "ETFs vs. ETNs",
+    "question": "A 60-year old man wants to trade in and out of the market on a daily basis. He has the investment objectives of income and capital gains. The best recommendation is a(n):",
+    "choices": ["ETN", "ETF", "Mutual Fund", "UIT"],
+    "answer": 1,
+    "explanation": "Do not confuse an ETN (Exchange Traded Note) with an ETF (Exchange Traded Fund). ETFs are index funds that are exchange traded. ETFs are actively traded and are quite liquid. By choosing the correct index, a match to the customer's investment objectives of income and capital gains can be achieved.\nETNs are exchange traded structured products that are much less liquid. These are typically 7-year notes that tie their return to a reference index. However, there is a cap and a floor on the returns, so the actual index return is generally not achieved. These are backed by the credit of the issuing bank; and these products have credit risk if the bank defaults (it happened with Lehman Brothers).\nBoth mutual funds and UITs do not trade - they are non-negotiable. Instead, they are redeemable with the sponsor at NAV."
+  },
+  {
+    "id": "ch06-10",
+    "source": { "type": "chapter", "name": "Chapter 6 Test: Packaged Products" },
+    "chapter": 6,
+    "topic": "Fund Taxation",
+    "question": "Which statement is TRUE regarding the federal tax treatment of a \"regulated\" mutual fund investing solely in municipal securities?",
+    "choices": [
+      "Investors have federal tax liability on the interest income received from the fund since the distribution is coming from a fund which is a corporate entity",
+      "Investors have federal tax liability on the interest income received from the fund unless the dividends are deemed qualified",
+      "Any capital gains distributions are tax-free to investors as long as the fund distributes at least 90% of Net Investment Income",
+      "Neither the investment company nor investors have federal tax liability on income but capital gains distributions will be taxable."
+    ],
+    "answer": 3,
+    "explanation": "Since this mutual fund invests solely in municipal securities, there is no federal tax liability on the interest income received (remember, the interest income from municipal securities is exempt from Federal income tax). Under the \"conduit\" theory, any payment distributed by the fund to shareholders retains the same character and is free from Federal income tax. Similarly, undistributed income retained by the fund would not be taxed, since it consists solely of tax-free municipal interest income.\nCapital gains on municipal bonds are taxable - it is only the interest income which is free of federal income tax. Therefore, any capital gains distributions made by a fund investing solely in municipal securities are taxable."
+  },
+  {
+    "id": "ch06-11",
+    "source": { "type": "chapter", "name": "Chapter 6 Test: Packaged Products" },
+    "chapter": 6,
+    "topic": "Letter of Intent",
+    "question": "If a mutual fund purchaser signs a letter of intent in order to take advantage of a breakpoint discount, how long does he have to buy enough shares to reach the breakpoint?",
+    "choices": ["13 months", "25 months", "9 months", "90 days"],
+    "answer": 0,
+    "explanation": "If an investor plans to reach a breakpoint within the next 13 months, he can write a letter of intent (LOI) to his broker. The LOI is a signed, nonbinding statement of the investor's intent to invest enough over the next 13 months to reach the breakpoint. In response, the broker will charge the investor the discounted sales charge on current purchases. The additional shares the customer is able to purchase due to the discount will be held aside by the mutual fund until the customer actually reaches the breakpoint."
+  },
+  {
+    "id": "ch06-12",
+    "source": { "type": "chapter", "name": "Chapter 6 Test: Packaged Products" },
+    "chapter": 6,
+    "topic": "Share Classes",
+    "question": "A customer is considering the purchase of $40,000 of ABC Income Fund and intends to use the money within 1 year to make the down payment needed to buy his first house. The fund offers the following share classes:\n\nClass A shares:\n5% initial sales charge\nNo 12b-1 fees\nBreakpoint Schedule:\n  $0 - $10,000: 5% sales charge\n  $10,001 - $30,000: 3% sales charge\n  $30,001 - $50,000: 2% sales charge\n  $50,001 - $100,000: 1% sales charge\n\nClass B shares:\nNo initial sales charge\n.40% annual 12b-1 fee\nCDSC if the customer redeems within the following time periods:\n  Redeem within Year 1: 5% redemption fee\n  Redeem within Year 2: 4% redemption fee\n  Redeem within Year 3: 3% redemption fee\n  Redeem within Year 4: 2% redemption fee\n  Redeem within Year 5: 1% redemption fee\n  Redeem after Year 5: 0% redemption fee\n\nClass C shares:\nNo initial sales charge\n.75% annual 12b-1 fee\nNo CDSC\n\nThe best recommendation for this customer is:",
+    "choices": [
+      "purchase Class A shares",
+      "purchase Class B shares",
+      "purchase Class C shares",
+      "divide the purchase equally into $20,000 each for Class A and Class B shares"
+    ],
+    "answer": 2,
+    "explanation": "If this customer invested $40,000 in Class A shares, he pays a 2% sales charge and no annual 12b-1 fees for the 1 year investment time horizon. If the customer invested $40,000 in Class B shares, there is no up-front sales charge; but because the customer will redeem within 1 year, he will be hit with a 5% redemption fee on these shares. In addition, the customer must pay .40% in annual 12b-1 fees for 1 year. If the customer invested the $40,000 in Class C shares, then the customer must pay .75% annually in 12b-1 fees for just 1 year. The lowest fee purchase is, therefore, Class C shares."
+  },
+  {
+    "id": "ch06-13",
+    "source": { "type": "chapter", "name": "Chapter 6 Test: Packaged Products" },
+    "chapter": 6,
+    "topic": "Money Market Funds",
+    "question": "Which statement is TRUE regarding money market funds?",
+    "choices": [
+      "Net Asset Value per share is constant at $1",
+      "Net Asset Value per share is constant at $10",
+      "Net Asset Value per share varies with the performance of the portfolio",
+      "Net Asset Value per share cannot be determined in a money market fund"
+    ],
+    "answer": 0,
+    "explanation": "Money market funds are unusual in that the Net Asset Value per share is constant at $1.00. As the fund has earnings, and Total Assets increase, the shareholder receives more shares worth $1.00 each.\nFor example, if an investor has 1,000 shares @ $1 ($1,000 total) in the fund, and the assets appreciate by 10%, then the customer will have 1,100 shares at $1 ($1,100 total)."
+  },
+  {
+    "id": "ch06-14",
+    "source": { "type": "chapter", "name": "Chapter 6 Test: Packaged Products" },
+    "chapter": 6,
+    "topic": "Fund Types",
+    "question": "An investor wishes to buy mutual fund shares that have investments in computer and high technology companies. Based on this information, the appropriate recommendation is a:",
+    "choices": ["balanced fund", "hedge fund", "sector fund", "dual purpose fund"],
+    "answer": 2,
+    "explanation": "A sector fund invests in a specific industry or geographic area. Because of the lack of diversification, there is greater gain potential, as well as higher risk."
+  },
+  {
+    "id": "ch06-15",
+    "source": { "type": "chapter", "name": "Chapter 6 Test: Packaged Products" },
+    "chapter": 6,
+    "topic": "ETFs vs. ETNs",
+    "question": "If the credit rating of an issuer is downgraded by Moody's or Standard and Poor's, which product would suffer the greatest loss of value?",
+    "choices": ["Exchange Traded Fund", "Exchange Traded Note", "Variable Annuity Separate Account", "Mutual Fund"],
+    "answer": 1,
+    "explanation": "The key thing to know about an ETN - \"Exchange Traded Note\" - is that it is a synthetic security created by an investment bank that is \"bond-like\" - but it is not a bond. It gives a return tied to an equity index, subject to a cap and a floor. However, there are no physical securities backing the instrument. It is only as good as the investment bank's ability to pay - and if the investment bank's credit rating is lowered, the value of the ETN drops. So the main risk of investing in an ETN is credit risk.\nIn contrast, mutual funds, exchange traded funds and separate accounts (which buy designated mutual fund shares) hold a diversified portfolio of securities. If one issuer held in the portfolio has its credit rating lowered, that will have a very small impact on the NAV of the portfolio."
+  },
+  {
+    "id": "ch06-16",
+    "source": { "type": "chapter", "name": "Chapter 6 Test: Packaged Products" },
+    "chapter": 6,
+    "topic": "Mutual Fund Benefits",
+    "question": "Investors in mutual funds benefit from each of the following except:",
+    "choices": ["Diversification", "Tax-free dividend reinvestment", "Liquidity", "Investment professional making investment decisions"],
+    "answer": 1,
+    "explanation": "Mutual funds provide such benefits as investment diversification, liquidity, and professional management. However, when mutual funds pay dividends those dividends are always taxed. This is true even if the dividend payment is reinvested in the fund."
+  },
+  {
+    "id": "ch06-17",
+    "source": { "type": "chapter", "name": "Chapter 6 Test: Packaged Products" },
+    "chapter": 6,
+    "topic": "REITs",
+    "question": "For a REIT to qualify with the IRS, which of the following must be true?",
+    "choices": [
+      "At least 75% of its total assets must be invested in real estate, and it must distribute at least 95% of its income to its shareholders",
+      "It must have a minimum of 100 shareholders, and it must distribute at least 90% of its income to those shareholders",
+      "At least 90% of its gross income must be real estate related, and 95% of that gross income must come from real estate sources and dividends or interest from any source",
+      "It must be managed by a board of directors or trustees, and at least 90% of its total assets must be invested in real estate"
+    ],
+    "answer": 1,
+    "explanation": "To qualify as a REIT, an entity must satisfy multiple IRS tests, including ownership, distribution, income, and asset requirements. It must have at least 100 shareholders and distribute at least 90% of its taxable income to shareholders, so choice B is correct. The other choices each contain at least one incorrect threshold: A incorrectly says 95% distribution, C misstates the income tests, and D incorrectly says 90% of assets must be invested in real estate."
+  },
+  {
+    "id": "ch06-18",
+    "source": { "type": "chapter", "name": "Chapter 6 Test: Packaged Products" },
+    "chapter": 6,
+    "topic": "Mutual Fund Benefits",
+    "question": "Which of the following is not an advantage of a mutual fund?",
+    "choices": ["Diversification", "Low minimum investment requirements", "Tax benefits", "Professional management"],
+    "answer": 2,
+    "explanation": "Mutual funds offer diversification, professional money management and low minimum investment requirements. They do not offer tax benefits, such as the tax deferral of variable annuities."
+  },
+  {
+    "id": "ch06-19",
+    "source": { "type": "chapter", "name": "Chapter 6 Test: Packaged Products" },
+    "chapter": 6,
+    "topic": "Net Asset Value",
+    "question": "Net Asset Value per share for a mutual fund can be expected to decrease if the:",
+    "choices": [
+      "securities in the portfolio have appreciated in value",
+      "securities in the portfolio have made dividend distributions",
+      "fund has made dividend distributions to shareholders",
+      "fund has experienced net redemptions of shares"
+    ],
+    "answer": 2,
+    "explanation": "This is a tricky question. If a fund distributes a dividend to shareholders, an ex-date is set by the Board of Directors of the fund. On this date, the Fund's shares are reduced by the value of the distribution. If the securities in the fund portfolio pay dividends, these are received by the fund. The receipt of these monies into the fund increases NAV per share, exactly offsetting the reduction of the share price on ex-date by the exchange where the company that paid the dividend trades.\nThus, when securities in the portfolio pay a dividend, there is no effect on NAV. Appreciating securities in the fund portfolio will also increase NAV per share. Redemption of shares should have no effect on NAV per share."
+  },
+  {
+    "id": "ch06-20",
+    "source": { "type": "chapter", "name": "Chapter 6 Test: Packaged Products" },
+    "chapter": 6,
+    "topic": "Investment Company Act of 1940",
+    "question": "All of the following are defined as \"investment companies\" under the Investment Company Act of 1940 EXCEPT:",
+    "choices": ["Face Amount Certificate Company", "Unit Investment Trust", "Oil and Gas Leasehold Partnership", "Management Company"],
+    "answer": 2,
+    "explanation": "The Investment Company Act of 1940 defines 3 types of investment companies; face amount certificate companies, unit investment trusts, and management companies."
+  },
+  {
+    "id": "ch06-21",
+    "source": { "type": "chapter", "name": "Chapter 6 Test: Packaged Products" },
+    "chapter": 6,
+    "topic": "Dividend Reinvestment",
+    "question": "Which of the following is not true of a dividend reinvestment plan?",
+    "choices": [
+      "It enables an investor to avoid paying taxes on received dividends.",
+      "It reinvests mutual fund dividends immediately.",
+      "It uses dividends and interest earned to purchase additional securities.",
+      "Under the plan, the tax basis for all reinvested dividends is their share price on the date of purchase."
+    ],
+    "answer": 0,
+    "explanation": "A dividend reinvestment plan (DRIP) automatically reinvests dividends and interest earned by mutual fund investors into the purchase of additional securities issued by the same company. When an investor participates in this plan, he is taxed on the amount of the dividends paid, even though the dividends are immediately being reinvested. The tax basis for the reinvested dividends (new shares purchased) is the share price on the day the new shares were purchased."
+  },
+  {
+    "id": "ch06-22",
+    "source": { "type": "chapter", "name": "Chapter 6 Test: Packaged Products" },
+    "chapter": 6,
+    "topic": "Leveraged and Inverse ETFs",
+    "question": "A 200% Leveraged Inverse Dow Jones Industrial Average Index ETF would be expected to move:",
+    "choices": [
+      "down 7.5% in price when the DJIA moves up 2.5%",
+      "up 10% in price when the DJIA moves up 5%",
+      "down 5% in price when the DJIA moves up 10%",
+      "down 10% in price when the DJIA moves up 5%"
+    ],
+    "answer": 3,
+    "explanation": "A leveraged ETF uses borrowing (margin) and options to magnify price movement as compared to the reference index. An inverse ETF is one that uses short and options to move opposite to the market. A leveraged inverse ETF combines both. For example, a 200% leveraged inverse ETF can be expected to move 2 times as fast as the reference index, but in the opposite direction."
+  },
+  {
+    "id": "ch06-23",
+    "source": { "type": "chapter", "name": "Chapter 6 Test: Packaged Products" },
+    "chapter": 6,
+    "topic": "Redemption",
+    "question": "The net asset value of a mutual fund is $15.00 and the ask price is $15.96. The fund has the following breakpoint schedule:\n\nPurchase Amount / Sales Charge\n$0 - $10,000: 8%\n$10,001 - $25,000: 7%\n$25,001 - over: 6 1/4%\n\nThe fund charges a redemption fee of 1/2%. A customer who redeems 200 shares this day will receive:",
+    "choices": ["$2,975", "$2,985", "$3,000", "$3,015"],
+    "answer": 1,
+    "explanation": "Mutual funds are redeemed at NAV less a redemption fee (if any). The redemption fee of 1/2% must be deducted to get the net proceeds.\n$15.00 NAV x .995 x 200 shares = $2,985"
+  },
+  {
+    "id": "ch06-24",
+    "source": { "type": "chapter", "name": "Chapter 6 Test: Packaged Products" },
+    "chapter": 6,
+    "topic": "Open-End vs. Closed-End Funds",
+    "question": "The term \"mutual fund\" is the most common type of a(n):",
+    "choices": ["open end management company", "closed end management company", "fixed unit investment trust", "non-fixed unit investment trust"],
+    "answer": 0,
+    "explanation": "A mutual fund portfolio is managed by an investment adviser and the fund continuously issues and redeems its common shares - so it is an \"open end\" management company."
+  },
+  {
+    "id": "ch06-25",
+    "source": { "type": "chapter", "name": "Chapter 6 Test: Packaged Products" },
+    "chapter": 6,
+    "topic": "Open-End vs. Closed-End Funds",
+    "question": "Unlike mutual funds, closed-end funds are:",
+    "choices": ["Initiated by a sponsor organization", "Available only to accredited investors", "Operated by independent fund managers", "Traded on the secondary market"],
+    "answer": 3,
+    "explanation": "Open-end funds and closed-end funds share many characteristics. However, closed-end funds are issued through an initial public offering and are traded on the secondary market. Mutual funds are issued with each new purchaser and can only be sold back to the mutual fund company, whereupon the 'used' shares expire."
+  },
+  {
+    "id": "ch06-26",
+    "source": { "type": "chapter", "name": "Chapter 6 Test: Packaged Products" },
+    "chapter": 6,
+    "topic": "Expense Ratio",
+    "question": "Fund Operating Expenses / Average Net Assets is the formula for a mutual fund's:",
+    "choices": ["Current Ratio", "Profitability Ratio", "Expense Ratio", "Portfolio Turnover Ratio"],
+    "answer": 2,
+    "explanation": "The expense ratio of a mutual fund measures the proportion of investment return on assets that is consumed by expenses. The lower the ratio, the more \"efficient\" the fund is. The expense ratio is: Fund Operating Expenses / Average Net Assets"
+  },
+  {
+    "id": "ch06-27",
+    "source": { "type": "chapter", "name": "Chapter 6 Test: Packaged Products" },
+    "chapter": 6,
+    "topic": "Unit Investment Trusts",
+    "question": "Which of the following is true of a unit investment trust?",
+    "choices": ["It is actively managed", "It has virtually no ongoing expenses", "It is considered \"open-end\"", "It can only buy bonds"],
+    "answer": 1,
+    "explanation": "Unit investment trusts are passive investment portfolios comprised of a pre-selected portfolio. The assembly of this portfolio is paid for out of the initial sales load."
+  },
+  {
+    "id": "ch06-28",
+    "source": { "type": "chapter", "name": "Chapter 6 Test: Packaged Products" },
+    "chapter": 6,
+    "topic": "Share Classes",
+    "question": "When recommending a large investment in mutual fund shares to a client with a long investment horizon, the most suitable investment would typically involve:",
+    "choices": ["A-shares", "B-shares", "C-shares", "M-shares"],
+    "answer": 0,
+    "explanation": "A-shares are most appropriate for long term investors with the ability to take advantage of breakpoints (reduced sales charges available to customers investing larger sums). The back-end charges on B-shares will eventually go away over time, but B-shares have higher 12b-1 fees than A-shares that will end up costing the investor more over time. For example, B-shares may have a 12b-1 fee of 1%, versus .25% for A shares. C shares carry a relatively high 12b-1 fee that will be undesirable in the long run."
+  },
+  {
+    "id": "ch06-29",
+    "source": { "type": "chapter", "name": "Chapter 6 Test: Packaged Products" },
+    "chapter": 6,
+    "topic": "Direct Participation Programs",
+    "question": "Direct participation programs (DPPs) are typically:",
+    "choices": ["Liquid investments", "Low-risk investments", "Investments that provide tax benefits to their investors", "Suitable for most investors"],
+    "answer": 2,
+    "explanation": "DPPs are generally high-risk investments that typically do not trade on exchanges and are thus illiquid. Low-risk DPPs called income programs do exist, but more frequently DPPs are used for high-risk ventures such as oil exploration. Because of their illiquid and risky nature, DPPs are not suitable to many retail investors. DPPs do provide tax benefits to their investors. This is because DPP investors can use any losses associated with their DPP investment to offset passive income."
+  },
+  {
+    "id": "ch06-30",
+    "source": { "type": "chapter", "name": "Chapter 6 Test: Packaged Products" },
+    "chapter": 6,
+    "topic": "Fund Structure",
+    "question": "A mutual fund's portfolio is managed by which of the following?",
+    "choices": ["The board of directors", "Shareholders", "The investment adviser", "The custodian"],
+    "answer": 2,
+    "explanation": "The investment adviser in a mutual fund, also known as the portfolio manager, is responsible for managing the investments in the fund. The board of directors creates the fund's objectives and policies, which are utilized by the investment adviser in his management of the fund; however, the board of directors does not make specific investment decisions. The fund's custodian, usually a bank or broker-dealer, holds the mutual fund's shares and monetary funds. Fund shareholders, though they gain and lose money as a result of the investment adviser's investment decisions, have no direct oversight of the investments that are bought and sold in the fund."
+  },
+  {
+    "id": "ch06-31",
+    "source": { "type": "chapter", "name": "Chapter 6 Test: Packaged Products" },
+    "chapter": 6,
+    "topic": "Investment Company Act of 1940",
+    "question": "All of the following are investment companies, except:",
+    "choices": ["Management company", "Unit investment trust", "Investment adviser", "Mutual fund"],
+    "answer": 2,
+    "explanation": "Investment advisers and investment companies are two different things. An investment adviser is a firm that advises others with regard to investing in securities. An investment company is a company, such as a mutual fund, that pools people's money to invest in a fund of securities. The Investment Company Act of 1940 divides investment companies into three types: face-amount certificate companies, unit investment trusts (UITs), and management companies. Mutual funds are a type of management company."
+  },
+  {
+    "id": "ch06-32",
+    "source": { "type": "chapter", "name": "Chapter 6 Test: Packaged Products" },
+    "chapter": 6,
+    "topic": "Prohibited Practices",
+    "question": "Which of the following best fits the definition of churning?",
+    "choices": [
+      "Recommending or making trades in a client's account in order to generate commissions.",
+      "Entering offsetting buy and sell orders in a security in order to generate market interest",
+      "The use of trading commissions to obtain services for the benefit of the advisor",
+      "Painting the tape, or manipulating trading in order to obtain a better price for a security"
+    ],
+    "answer": 0,
+    "explanation": "Churning, also referred to as excessive trading, involves a professional recommending or making trades in a client's account for the sole purpose of generating commission revenue and is an ethical violation. A professional must be able to document that recommendations and trades are aimed at furthering their clients' investment objectives."
+  },
+  {
+    "id": "ch06-33",
+    "source": { "type": "chapter", "name": "Chapter 6 Test: Packaged Products" },
+    "chapter": 6,
+    "topic": "Hedge Funds",
+    "question": "The manager of an unregistered hedge fund is typically compensated by a fee based on a:",
+    "choices": [
+      "percentage of assets under management",
+      "performance fee based on profits",
+      "percentage of assets under management plus a performance fee based on profits",
+      "performance fee based on exceeding a benchmark index"
+    ],
+    "answer": 2,
+    "explanation": "The typical hedge fund fee is \"2 and 20\" - a 2% annual management fee as a percent of assets under management, plus 20% of profits. Hedge fund managers are not subject to the Investment Company Act of 1940 that limits manager's compensation to a percentage of assets under management - no performance fees are allowed. They are structured as private placement limited partnerships that are only available to wealthy accredited investors. They are exempt from securities regulation since the general public cannot invest, except for the anti-fraud rules.\nNote that Choice D is not bad. Hedge funds started in the 1990s and the managers produced superior returns and were able to charge high fees. Nowadays, most hedge funds are not doing much better than the overall market, and managers are moving towards a performance fee based on return achieved over a benchmark index, as opposed to a fee based on absolute profits (which might be achieved not because of superior investment choices, but because the market simply went up).\nHowever, the majority of hedge funds still charge a performance fee based on profits, not a performance fee based on exceeding a benchmark index."
+  },
+  {
+    "id": "ch06-34",
+    "source": { "type": "chapter", "name": "Chapter 6 Test: Packaged Products" },
+    "chapter": 6,
+    "topic": "12b-1 Fees",
+    "question": "The maximum annual 12b-1 fee permitted under FINRA rules is:",
+    "choices": [".25%", "1%", "8 1/2%", "9%"],
+    "answer": 1,
+    "explanation": "12b-1 fees are permitted under SEC Rule 12b-1. If a fund adopts a 12b-1 plan it may charge its existing shareholders for the cost of soliciting new investment to the fund. For example, if you see a television or web advertisement for a mutual fund, it is being paid for by 12b-1 fees. The \"cost\" of soliciting new investment also includes compensation to registered representatives selling the fund shares. Under FINRA rules, the maximum permitted annual 12b-1 fee is 1% of net assets to pay for the cost of marketing and selling the fund, for some shareholder services, and sometimes to pay employee bonuses. If a fund wishes to advertise itself as a \"no-load\" fund, FINRA reduces the maximum permitted annual 12b-1 fee to .25% of net assets."
+  },
+  {
+    "id": "ch06-35",
+    "source": { "type": "chapter", "name": "Chapter 6 Test: Packaged Products" },
+    "chapter": 6,
+    "topic": "Fund Types",
+    "question": "A growth fund would likely invest in which of the following securities?",
+    "choices": ["common stocks", "preferred stocks", "corporate bonds", "government bonds"],
+    "answer": 0,
+    "explanation": "Growth funds invest in common stocks for growth. These funds are looking for large capital gains and typically pay little in the way of dividends. Preferred stocks, corporate bonds, and government bonds are all fixed income securities that give a higher rate of income; but little in the way of capital gains potential (unless interest rates drop a lot!)"
+  },
+  {
+    "id": "ch06-36",
+    "source": { "type": "chapter", "name": "Chapter 6 Test: Packaged Products" },
+    "chapter": 6,
+    "topic": "Direct Participation Programs",
+    "question": "Which type of oil and gas program is the most conservative?",
+    "choices": ["Exploratory", "Income (Production)", "Developmental", "Combination"],
+    "answer": 1,
+    "explanation": "Exploratory oil and gas programs drill in virgin, uncharted areas. They have the highest level of risk; and the highest potential return.\nDevelopmental programs drill near existing fields. Since there is oil nearby, the chances of striking oil are better, and so the mineral rights cost is much higher than with an exploratory program. Thus, the level of risk and potential return is lower than that for an exploratory program.\nAn income or production program buys an existing oil well with proven reserves, with the intention of stripping the remaining oil from the ground, partially sheltered by the depletion deduction. This program has the lowest level of risk and potential return.\nFinally, a combination program invests in all 3 types and, thus, would be riskier than a simple production (income) program."
+  },
+  {
+    "id": "ch06-37",
+    "source": { "type": "chapter", "name": "Chapter 6 Test: Packaged Products" },
+    "chapter": 6,
+    "topic": "12b-1 Fees",
+    "question": "In order for a mutual fund to materially increase its 12b-1 fees, approval is required from all of the following EXCEPT the:",
+    "choices": ["shareholders", "board of directors", "independent members of the board of directors", "Securities and Exchange Commission"],
+    "answer": 3,
+    "explanation": "To materially increase its level of 12b-1 expenditures, a mutual fund must get approval of the majority of shareholders. In addition, a majority of the board of directors and the independent directors on the board must approve of the increase. This is the same rule as for adopting the plan in the first place."
+  },
+  {
+    "id": "ch06-38",
+    "source": { "type": "chapter", "name": "Chapter 6 Test: Packaged Products" },
+    "chapter": 6,
+    "topic": "Prospectus Delivery",
+    "question": "A registered representative receives an unsolicited order from a client to buy a mutual fund position that the client had not taken before. Which statement is TRUE about delivery of the fund prospectus?",
+    "choices": [
+      "No prospectus delivery is required because the order was not solicited",
+      "The fund prospectus must be delivered before the order can be filled",
+      "The fund prospectus must be delivered no later than the confirmation of the purchase",
+      "The fund prospectus must be delivered no later than the settlement of the purchase"
+    ],
+    "answer": 2,
+    "explanation": "The basic rule on prospectus delivery is that the prospectus must be delivered \"at, or prior to, confirmation.\" When a customer buys a security that requires a prospectus delivery (a new issue), in the \"good old days,\" a confirmation was generated detailing the purchased security and amount due, a prospectus was included in the envelope, and this was mailed by \"snail mail\" to the customer. When the customer opened the envelope, the prospectus was included with the confirmation, meeting the rule's requirements.\nThe SEC has modernized the prospectus delivery rule for stock and bond offerings, allowing an electronic prospectus to be sent to the customer's e-mail address. However, the mutual fund rule still requires a paper \"profile prospectus\" sent to the customer with the confirmation, with the full paper prospectus being available electronically if requested."
+  },
+  {
+    "id": "ch06-39",
+    "source": { "type": "chapter", "name": "Chapter 6 Test: Packaged Products" },
+    "chapter": 6,
+    "topic": "Sales Charges",
+    "question": "The initial cost of investing in a mutual fund is determined by the:",
+    "choices": [
+      "front load",
+      "expense ratio",
+      "comparative performance of the fund to the Standard and Poor's 500 index",
+      "taxation of distributions at the investor level"
+    ],
+    "answer": 0,
+    "explanation": "The \"cost\" of investing in a fund is the sales charge - or front end load. This charge is deducted from the gross dollars paid, with the net amount invested in the fund. The expense ratio measures the operating efficiency of the fund - it shows how much of the fund's return on net assets is eaten up by expenses."
+  },
+  {
+    "id": "ch06-40",
+    "source": { "type": "chapter", "name": "Chapter 6 Test: Packaged Products" },
+    "chapter": 6,
+    "topic": "Fund Structure",
+    "question": "Which of the following is not true of transfer agents?",
+    "choices": [
+      "They are responsible for keeping track of a company's issue of securities",
+      "They may be responsible for paying dividends",
+      "They are allowed to cancel stock certificates surrendered by the seller",
+      "They are usually individuals and not banks"
+    ],
+    "answer": 3,
+    "explanation": "A transfer agent is typically hired by an issuing company to help it keep track of its securities issue. The transfer agent, which is usually a bank or trust company, records who owns shares and in what form, updating changes in ownership as needed. The transfer agent cancels stock certificates surrendered by the seller and issues new ones in the name of the buyer. It may be responsible for paying dividends."
+  }
+]
