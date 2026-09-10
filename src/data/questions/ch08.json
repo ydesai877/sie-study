@@ -1,0 +1,297 @@
+[
+  {
+    "id": "ch08-01",
+    "source": { "type": "chapter", "name": "Chapter 8 Test: Trade Processing and Settlement" },
+    "chapter": 8,
+    "topic": "Clearing and Carrying Agreements",
+    "question": "A carrying agreement gives the responsibility of clearing a transaction to:",
+    "choices": ["The executing broker-dealer", "The clearing broker-dealer", "The introducing broker-dealer", "The principal broker-dealer"],
+    "answer": 1,
+    "explanation": "Clearing agreements, also called carrying agreements, are contracts between an introducing or executing firm and a clearing firm. The agreement gives the responsibility of clearing a transaction to the clearing firm. The clearing firm is another name for the clearing broker-dealer."
+  },
+  {
+    "id": "ch08-02",
+    "source": { "type": "chapter", "name": "Chapter 8 Test: Trade Processing and Settlement" },
+    "chapter": 8,
+    "topic": "Good Delivery",
+    "question": "Which of the following securities deliveries is \"good\"?",
+    "choices": [
+      "Guardian securities with an assignment performed by the legal guardian",
+      "Custodial securities with an assignment performed by the recipient of the gift",
+      "Estate securities with an assignment performed by the deceased person",
+      "Trust securities with an assignment performed by the beneficiary of the trust"
+    ],
+    "answer": 0,
+    "explanation": "Guardian account securities are assigned by the legal court appointed guardian.\nCustodial account securities cannot be assigned by the minor. The minor has no legal authority. Any assignment must be made by the custodian.\nTrust account securities must be assigned by the designated trustee - they cannot be assigned by the beneficiary of the trust.\nSecurities held in the name of an estate must be assigned by the executor of the estate. When a person dies, their signature dies with them!"
+  },
+  {
+    "id": "ch08-03",
+    "source": { "type": "chapter", "name": "Chapter 8 Test: Trade Processing and Settlement" },
+    "chapter": 8,
+    "topic": "Accrued Interest",
+    "question": "Which statement is TRUE about accrued interest?",
+    "choices": [
+      "Both corporate bonds and Treasury bonds accrue interest on a 30/360 basis",
+      "Both corporate bonds and Treasury bonds accrue interest on an actual/actual basis",
+      "Corporate bonds accrue interest on a 30/360 basis while Treasury bonds accrue interest on an actual/actual basis",
+      "Corporate bonds accrue interest on an actual/actual basis while Treasury bonds accrue interest on a 30/360 basis"
+    ],
+    "answer": 2,
+    "explanation": "When a bond is traded, because interest payments are made only 2 times a year, the buyer must pay the seller any \"accrued interest\" due for the period that the seller held the bond between those interest payment dates.\nInterest accrued from the date of the last interest payment made, up until, but not including, settlement date (which is the date that the money changes hands).\nFor corporate and municipal bonds, the method of accruing interest is \"standardized\" so that each month only counts 30 days. Thus, for corporates and municipals, interest accrues on a \"30 day month / 360 day year\" basis.\nIn contrast, U.S. Treasury Obligations accrue interest on an \"actual day month / actual day year\" basis.\nNote that on the SIE, you do not actually have to calculate the number of days of accrued interest due."
+  },
+  {
+    "id": "ch08-04",
+    "source": { "type": "chapter", "name": "Chapter 8 Test: Trade Processing and Settlement" },
+    "chapter": 8,
+    "topic": "Order Ticket Alterations",
+    "question": "An order ticket is filled out and sent for execution to the NYSE. After being executed on the NYSE, it is discovered that the account number is incorrect. Under FINRA rules, the account number may be changed to the correct one by the:",
+    "choices": ["Registered Representative", "Specialist (DMM)", "Branch office manager", "Floor Governor"],
+    "answer": 2,
+    "explanation": "Under FINRA rules, alterations to order tickets are prohibited, unless the alteration is approved in writing by a \"designated person\" such as a branch office manager. This person must understand all of the facts surrounding the alteration before approving of the change and is responsible for the change."
+  },
+  {
+    "id": "ch08-05",
+    "source": { "type": "chapter", "name": "Chapter 8 Test: Trade Processing and Settlement" },
+    "chapter": 8,
+    "topic": "Accrued Interest",
+    "question": "James Bondbuyer purchases a Treasury bond on Monday, May 2, regular way settlement. The bond pays interest on January 15 and July 15. How many days of accrued interest will be owed to the seller?",
+    "choices": ["106", "107", "108", "There will be no accrued interest because the value is already incorporated into the price of the bond"],
+    "answer": 2,
+    "explanation": "Interest on bonds is paid for the previous six months of owning the bond. So for this question, we must figure out how much of the interest belongs to James and how much belongs to the seller. The interest paid on July 15th will be for the time period of January 15th through July 14th. The seller is owed the accrued interest from January 15th through May 2nd because the buyer begins receiving interest on the settlement date, May 3rd. Treasury bonds settle on the next business day, which would be May 3rd. Interest for US Government Bonds is calculated on actual days in the month. Thus, the accrued interest owed to the seller would be the following: January: 17 days, February: 28 days (always assume no leap year), March: 31 days, April: 30 days, May: 2 days. Total: 108 days"
+  },
+  {
+    "id": "ch08-06",
+    "source": { "type": "chapter", "name": "Chapter 8 Test: Trade Processing and Settlement" },
+    "chapter": 8,
+    "topic": "Stock Splits",
+    "question": "A customer purchases 200 shares of ABC stock. ABC declares a 3:2 stock split. After the stock split, how many more additional shares will the customer now own?",
+    "choices": ["50", "100", "200", "300"],
+    "answer": 1,
+    "explanation": "For every 2 shares the customer had, she will now have 3 shares. After the 3:2 split, a customer who owned 200 shares will now have 300 shares or 100 additional shares."
+  },
+  {
+    "id": "ch08-07",
+    "source": { "type": "chapter", "name": "Chapter 8 Test: Trade Processing and Settlement" },
+    "chapter": 8,
+    "topic": "Order Ticket Alterations",
+    "question": "Under FINRA rules, an alteration to an executed order ticket for an order submitted to the NYSE trading floor is prohibited:",
+    "choices": [
+      "under all circumstances",
+      "unless the alteration is approved in writing by a Floor Governor of the exchange",
+      "unless the alteration is approved in writing by the Specialist (DMM) on the floor of the exchange",
+      "unless the alteration is approved in writing by Branch Office Manager"
+    ],
+    "answer": 3,
+    "explanation": "Under FINRA rules, alterations to executed order tickets are prohibited, unless the alteration is approved in writing by a \"designated person\" such as a branch manager. This person must understand all of the facts surrounding the alteration before approving of the change, and is responsible for the change."
+  },
+  {
+    "id": "ch08-08",
+    "source": { "type": "chapter", "name": "Chapter 8 Test: Trade Processing and Settlement" },
+    "chapter": 8,
+    "topic": "Stock Splits",
+    "question": "A corporation announces a 1:5 reverse stock split. A customer has a 1,000 share position, currently valued at $50 per share. On the payable date, the customer will now have:",
+    "choices": ["200 shares at $10 per share", "200 shares at $250 per share", "5,000 shares at $10 per share", "5,000 shares at $250 per share"],
+    "answer": 1,
+    "explanation": "A company will perform a reverse stock split to raise its share price in the market. In a 1:5 reverse stock split, every 5 shares held now becomes 1 new share. This customer has 1,000 shares / 5 = 200 new shares. Each new share will be valued at $50 x 5 = $250. Notice that the aggregate value of the customer's holding does not change. Before the reverse split, it was 1,000 shares x $50 = $50,000; and after the reverse split, it is 200 shares at $250 = $50,000."
+  },
+  {
+    "id": "ch08-09",
+    "source": { "type": "chapter", "name": "Chapter 8 Test: Trade Processing and Settlement" },
+    "chapter": 8,
+    "topic": "Settlement",
+    "question": "In a \"cash settlement,\" the transaction is settled:",
+    "choices": ["the next business day", "within two business days", "the same day as the trade", "any time period agreed to between the customer and the firm"],
+    "answer": 2,
+    "explanation": "Since the transaction is in cash, therefore eliminating the need for a check to clear, the settlement can be made in one day."
+  },
+  {
+    "id": "ch08-10",
+    "source": { "type": "chapter", "name": "Chapter 8 Test: Trade Processing and Settlement" },
+    "chapter": 8,
+    "topic": "Confirmations",
+    "question": "Which of the following is NOT disclosed on a customer confirmation?",
+    "choices": ["Commission if an agency trade", "Inventory position of the dealer", "Mark-up if a principal transaction", "Each other choice is disclosed"],
+    "answer": 1,
+    "explanation": "The confirmation does not disclose the inventory position of the dealer - this has no bearing on the customer.\nCustomer confirmations must disclose the commission in an agency trade. The mark-up is disclosed on principal transactions in Nasdaq stocks."
+  },
+  {
+    "id": "ch08-11",
+    "source": { "type": "chapter", "name": "Chapter 8 Test: Trade Processing and Settlement" },
+    "chapter": 8,
+    "topic": "DTC",
+    "question": "What does DTC stand for?",
+    "choices": ["Depository Trust Company", "Dealers Trust Company", "Dealers Trade Corporation", "Depository Trade Company"],
+    "answer": 0,
+    "explanation": "The DTC stands for the Depository Trust Company. It is a subsidiary of the Depository Trust & Clearing Corporation (DTCC), which provides clearing, settlement and information services for a myriad of securities traded on various exchanges. DTC handles Direct Registration System (DRS) and Deposit/Withdrawal At Custodian (DWAC) transfers. DTC participants are allowed to engage in DRS and DWAC transfers."
+  },
+  {
+    "id": "ch08-12",
+    "source": { "type": "chapter", "name": "Chapter 8 Test: Trade Processing and Settlement" },
+    "chapter": 8,
+    "topic": "Settlement",
+    "question": "A client sells stock in a regular way trade in a listed stock on Thursday. The client knows that settlement takes place in a day and asks the representative if the funds will show in his account on Saturday. The representative should tell the client that the settlement date when the proceeds will be reflected in the account will be:",
+    "choices": ["that Friday", "the Monday following that Saturday", "the Tuesday following that Saturday", "the Wednesday following that Saturday"],
+    "answer": 0,
+    "explanation": "Regular way settlement is 1 business day following the trade date. If a regular way trade takes place on a Thursday, Friday is the next business day, and that is the date the trade would settle."
+  },
+  {
+    "id": "ch08-13",
+    "source": { "type": "chapter", "name": "Chapter 8 Test: Trade Processing and Settlement" },
+    "chapter": 8,
+    "topic": "Order Ticket Alterations",
+    "question": "A registered representative (\"RR\") has entered an order to buy 100 shares of ABC at $50 per share for a customer. The transaction is executed at $50 per share, and when the representative is reporting the trade to the customer, she notices that the account number on the executed order ticket is wrong. Which statement is TRUE?",
+    "choices": [
+      "The transaction will be withdrawn from the customer's account and taken to the member firm's account",
+      "The customer has the option of breaking the trade",
+      "The \"RR\" may change the account number on the order ticket to the correct number without any further action needed",
+      "The \"RR\" may change the account number on the order ticket to the correct number if the branch manager approves in writing"
+    ],
+    "answer": 3,
+    "explanation": "Alterations to executed order tickets are prohibited unless the manager knows the reason for the change; and approves, in writing, of the change on the order ticket."
+  },
+  {
+    "id": "ch08-14",
+    "source": { "type": "chapter", "name": "Chapter 8 Test: Trade Processing and Settlement" },
+    "chapter": 8,
+    "topic": "Prohibited Practices",
+    "question": "A firm's market making desk, aware that the firm is about to publish a bullish research report on ABCD stock, purposefully increases its long position in order to satisfy anticipated retail demand. This action is:",
+    "choices": [
+      "permitted without restriction",
+      "permitted as long as the research report is released within 48 hours of the first trade made to increase the firm's position",
+      "permitted as long as Nasdaq is notified, in writing, of the impending research report",
+      "prohibited"
+    ],
+    "answer": 3,
+    "explanation": "\"Trading ahead of research\" is prohibited. A member firm cannot alter its inventory position in anticipation of a research report that it is about to release. FINRA strongly suggests, but does not require, that member firms maintain an information barrier between the firm's research department and trading desk."
+  },
+  {
+    "id": "ch08-15",
+    "source": { "type": "chapter", "name": "Chapter 8 Test: Trade Processing and Settlement" },
+    "chapter": 8,
+    "topic": "Stock Splits",
+    "question": "ABC Corporation has declared a 3:2 stock split to shareholders of record on November 10th. The price of the stock will be reduced on ex date by:",
+    "choices": ["13%", "33%", "50%", "150%"],
+    "answer": 1,
+    "explanation": "Since the stockholder has 1.5 times the number of shares after the split, the market price will be reduced on ex date by a factor of 1.5.\nAssume the market price of the stock is $60 before the split. After the split the new market price is $60 / 1.5 = $40. The new price is $20 less than the original $60, which is a 33% reduction from the original price ($20 reduction/$60 original price = 33%)."
+  },
+  {
+    "id": "ch08-16",
+    "source": { "type": "chapter", "name": "Chapter 8 Test: Trade Processing and Settlement" },
+    "chapter": 8,
+    "topic": "Good Delivery",
+    "question": "Which is NOT a good delivery for a 225 share trade of stock?",
+    "choices": [
+      "Two 100 share certificates and one 25 share certificate",
+      "Three 75 share certificates",
+      "Four 50 share certificates and one 25 share certificate",
+      "Nine 25 share certificates"
+    ],
+    "answer": 1,
+    "explanation": "To be a good delivery, certificates must be in round multiples of 100 shares on one certificate or must be delivered in certificates that add up to 100 share units. If there is an odd lot (a portion of the order that is less than 100 shares), it can be delivered in any form. Certificates of 75 shares each are not good because 75 + 75 = 150. A round lot of 100 shares cannot be created from these units. The other choices either allow for the creation of 100 share units; or are in multiples of 100 on 1 certificate; with the odd lot being delivered as a separate unit."
+  },
+  {
+    "id": "ch08-17",
+    "source": { "type": "chapter", "name": "Chapter 8 Test: Trade Processing and Settlement" },
+    "chapter": 8,
+    "topic": "Dividend Dates",
+    "question": "To be eligible to collect a dividend, an investor must own the stock by the:",
+    "choices": ["Record date", "Declaration date", "Registration date", "Payable date"],
+    "answer": 0,
+    "explanation": "To receive the declared dividend, an investor's trade must settle by the record date. This means shares need to be purchased in enough time to allow for settlement. Because regular way settlement is T+1, shares must be purchased one business day prior to the record date to receive the dividend."
+  },
+  {
+    "id": "ch08-18",
+    "source": { "type": "chapter", "name": "Chapter 8 Test: Trade Processing and Settlement" },
+    "chapter": 8,
+    "topic": "Prohibited Practices",
+    "question": "A registered representative receives a large buy order from an institution and buys that stock for his own account before placing the order. This is known as:",
+    "choices": ["Interpositioning", "Free Riding", "Backing Away", "Front Running"],
+    "answer": 3,
+    "explanation": "A registered representative buys stock in advance of placing a large buy order for a customer is \"front running\" the trade, hoping to make a profit from a rise in the stock's price due to the influence of the large purchase. This is a prohibited practice."
+  },
+  {
+    "id": "ch08-19",
+    "source": { "type": "chapter", "name": "Chapter 8 Test: Trade Processing and Settlement" },
+    "chapter": 8,
+    "topic": "Confirmations",
+    "question": "Confirmation of a trade must be received by the customer __________.",
+    "choices": [
+      "No later than the end of the trading day",
+      "No later than the settlement date",
+      "Within 3 business days",
+      "Same day for electronic confirmations and within 30 days for paper confirmations"
+    ],
+    "answer": 1,
+    "explanation": "Customers must receive trade confirmations no later than the settlement date. Under the uniform practice code, members must send other broker-dealers a confirmation of the trade within one business day."
+  },
+  {
+    "id": "ch08-20",
+    "source": { "type": "chapter", "name": "Chapter 8 Test: Trade Processing and Settlement" },
+    "chapter": 8,
+    "topic": "Prohibited Practices",
+    "question": "An agent is aware of non-public information about an impending block sale in a security, so he recommends to his customers who are holding the security that they sell the security. If any of the customers sell the security, what has taken place?",
+    "choices": ["Front running", "Painting the tape", "Churning", "A riskless principal transaction"],
+    "answer": 0,
+    "explanation": "If a member or associated person shares material, non-public information about an imminent block trade with a customer, and then executes an order for that customer based on that information, front running has occurred. Front running also happens when a member or associated person uses material, non-public information about an imminent block trade to place an order in an account they have an interest in or investment discretion in."
+  },
+  {
+    "id": "ch08-21",
+    "source": { "type": "chapter", "name": "Chapter 8 Test: Trade Processing and Settlement" },
+    "chapter": 8,
+    "topic": "Good Delivery",
+    "question": "Which is NOT a good delivery for a 300 share trade of stock?",
+    "choices": ["One 300 share certificate", "Three 100 share certificates", "Ten 30 share certificates", "Thirty 10 share certificates"],
+    "answer": 2,
+    "explanation": "To be a good delivery, certificates must be in round multiples of 100 shares on one certificate or must be delivered in certificates that add up to 100 share units. Certificates of 30 shares each are not good because 30 + 30 = 60; 60 + 30 = 90; and 90 + 30 = 120. A round lot of 100 shares cannot be created from these units."
+  },
+  {
+    "id": "ch08-22",
+    "source": { "type": "chapter", "name": "Chapter 8 Test: Trade Processing and Settlement" },
+    "chapter": 8,
+    "topic": "Trade Clearance",
+    "question": "Which of the following is not true of trade clearance?",
+    "choices": [
+      "A trade is cleared when the transactions from two co-parties are accurately matched",
+      "A clearinghouse always represents one of the sides of a transaction",
+      "A clearinghouse takes on counterparty risk",
+      "A clearing firm submits trade information to DTCC"
+    ],
+    "answer": 1,
+    "explanation": "A trade is cleared when the transactions from two co-parties are compared to make sure they match. In many, but not all transactions, a clearinghouse will become the other party in a transaction. This reduces the risk for the broker-dealer because the broker-dealer doesn't have to worry that the other party won't pay for or deliver the security. In this way, the clearinghouse takes on the counterparty risk. A clearing firm submits trade information to DTCC."
+  },
+  {
+    "id": "ch08-23",
+    "source": { "type": "chapter", "name": "Chapter 8 Test: Trade Processing and Settlement" },
+    "chapter": 8,
+    "topic": "Settlement",
+    "question": "A 5-year 3 1/2% Treasury Note is quoted at 101-4 - 101-8. The note pays interest on Jan 1st and Jul 1st. If a customer buys 5 T-Notes on Friday, April 4th, when does the settlement occur?",
+    "choices": ["Friday, April 4th", "Monday, April 7th", "Tuesday, April 8th", "Wednesday, April 9th"],
+    "answer": 1,
+    "explanation": "Trades of U.S. Government and agency securities settle \"regular way\" on the next business day. Trades of corporate and municipal securities also settle \"regular way\" 1 business day after the trade date (T+1)."
+  },
+  {
+    "id": "ch08-24",
+    "source": { "type": "chapter", "name": "Chapter 8 Test: Trade Processing and Settlement" },
+    "chapter": 8,
+    "topic": "Dividend Dates",
+    "question": "Which of the following best describes a declaration date?",
+    "choices": [
+      "The date that the price of a new bond issue is announced",
+      "The date the offer of a new dividend is announced",
+      "The date the Federal Reserve announces a new discount rate",
+      "The last date that investors have to redeem their callable bonds"
+    ],
+    "answer": 1,
+    "explanation": "The date a company announces that a new dividend payment will be made is called the declaration date. This announcement states the size of the dividend to be paid, the payment date and the ex-dividend date."
+  },
+  {
+    "id": "ch08-25",
+    "source": { "type": "chapter", "name": "Chapter 8 Test: Trade Processing and Settlement" },
+    "chapter": 8,
+    "topic": "Dividend Dates",
+    "question": "A corporation in Toontown, Ohio declares a cash dividend on Tuesday, December 2nd, payable to holders of record on Monday, December 22nd. The local newspaper publishes the announcement on Wednesday, December 3rd, while Standard and Poor's reports the dividend on Wednesday, December 10th. The ex date for regular way trades will be set at:",
+    "choices": ["Wednesday, December 17th", "Thursday, December 18th", "Friday, December 19th", "Monday, December 22nd"],
+    "answer": 3,
+    "explanation": "The regular way ex date for cash dividends is the same day as the record date. Since the record date is Monday, December 22nd, the ex date is also Monday, December 22nd."
+  }
+]

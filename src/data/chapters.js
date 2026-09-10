@@ -8,7 +8,7 @@ export const CHAPTERS = [
   { n: 5, name: 'Municipal Debt and Money Market Instruments' },
   { n: 6, name: 'Packaged Products' },
   { n: 7, name: 'Trading Markets' },
-  { n: 8, name: 'Chapter 8' },
+  { n: 8, name: 'Trade Processing and Settlement' },
   { n: 9, name: 'Options' },
   { n: 10, name: 'Chapter 10' },
   { n: 11, name: 'Chapter 11' },
