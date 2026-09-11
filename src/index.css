@@ -153,3 +153,9 @@ th { font-size: 0.8rem; color: var(--muted); font-weight: 600; }
 .clickable { cursor: pointer; }
 details summary { cursor: pointer; font-weight: 600; padding: 0.35rem 0; }
 .checklist label { display: inline-flex; gap: 0.35rem; align-items: center; margin: 0.15rem 0.75rem 0.15rem 0; }
+
+/* Section tabs (Exams page) */
+.tabs { display: flex; flex-wrap: wrap; gap: 0.25rem; border-bottom: 1px solid var(--line); margin-bottom: 1rem; }
+.tabs button { background: none; border: none; border-bottom: 2px solid transparent; padding: 0.5rem 0.9rem; font: inherit; color: var(--text); cursor: pointer; margin-bottom: -1px; }
+.tabs button:hover { color: var(--accent); }
+.tabs button.active { border-bottom-color: var(--accent); color: var(--accent); font-weight: 600; }

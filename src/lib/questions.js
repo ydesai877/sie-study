@@ -40,3 +40,28 @@ export function shuffleChoices(q, salt = '') {
   const idx = shuffle(q.choices.map((_, i) => i), seeded(q.id + salt))
   return { choices: idx.map((i) => q.choices[i]), answer: idx.indexOf(q.answer) }
 }
+
+// Exam sections for the Exams page. Chapter tests stay on the Practice page.
+export const EXAM_TYPES = [
+  { type: 'mastery', label: 'Mastery Exams' },
+  { type: 'final', label: 'Final Exams' },
+  { type: 'random_final', label: 'Random Final' },
+  { type: 'quick_quiz', label: 'Quick Quizzes' },
+]
+
+// { [type]: [{ name, qs }] }, with questions in Cerifi order (file order)
+// and exams sorted by name, numbers compared as numbers (Final Exam 2 before 10).
+export const EXAMS_BY_TYPE = (() => {
+  const out = {}
+  for (const { type } of EXAM_TYPES) {
+    const byName = new Map()
+    for (const q of QUESTIONS) {
+      if (q.source?.type !== type) continue
+      const name = sourceLabel(q)
+      if (!byName.has(name)) byName.set(name, [])
+      byName.get(name).push(q)
+    }
+    out[type] = [...byName].map(([name, qs]) => ({ name, qs })).sort((a, b) => a.name.localeCompare(b.name, undefined, { numeric: true }))
+  }
+  return out
+})()

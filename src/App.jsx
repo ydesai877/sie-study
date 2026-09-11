@@ -7,12 +7,14 @@ import Practice from './pages/Practice'
 import Review from './pages/Review'
 import Flashcards from './pages/Flashcards'
 import MockExam from './pages/MockExam'
+import Exams from './pages/Exams'
 import Settings from './pages/Settings'
 
 const PAGES = [
   ['dashboard', 'Dashboard'],
   ['review', 'Daily Review'],
   ['practice', 'Practice'],
+  ['exams', 'Exams'],
   ['flashcards', 'Flashcards'],
   ['exam', 'Mock Exam'],
   ['settings', 'Settings'],
@@ -41,6 +43,7 @@ export default function App() {
     dashboard: <Dashboard />,
     review: <Review />,
     practice: <Practice query={query} />,
+    exams: <Exams query={query} />,
     flashcards: <Flashcards />,
     exam: <MockExam />,
     settings: <Settings />,

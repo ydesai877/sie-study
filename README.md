@@ -17,6 +17,7 @@ Built on methods with strong evidence behind them:
 | Daily Review | The SM-2 queue: everything due today plus a set number of new items. Questions and flashcards mixed. |
 | Practice | Filter by chapter and source exam. Weak questions come first. Instant feedback. |
 | Flashcards | Add, edit, delete, bulk-import (Quizlet export format), and study your own term/definition cards. |
+| Exams | Cerifi exams in original question and A-D order, in tabs: Mastery, Final, Random Final, Quick Quizzes. Each exam runs as Practice (instant feedback) or Timed (1.4 minutes per question by default). |
 | Mock Exam | Timed, no feedback until the end. Defaults to the real exam: 75 questions, 105 minutes, 70% to pass. |
 | Settings | Export and import a JSON backup. Reset. |
 
@@ -69,6 +70,6 @@ src/
     questions.js       loads all question files
     actions.js         record answers, manage cards
   components/          QuestionCard, Flashcard
-  pages/               Dashboard, Review, Practice, Flashcards, MockExam, Settings
+  pages/               Dashboard, Review, Practice, Exams, Flashcards, MockExam, Settings
 scripts/validate.mjs   checks the question and flashcard files
 ```

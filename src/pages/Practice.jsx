@@ -3,8 +3,7 @@ import { QUESTIONS, SOURCES, sourceLabel, shuffle } from '../lib/questions'
 import { CHAPTERS, chapterName } from '../data/chapters'
 import { useStore } from '../lib/store'
 import { questionScores, band } from '../lib/analytics'
-import { recordAnswer } from '../lib/actions'
-import QuestionCard from '../components/QuestionCard'
+import PracticeRunner from '../components/PracticeRunner'
 
 // Practice quiz: pick chapters and sources, answer with instant feedback.
 // query string can preselect: #/practice?chapter=6&focus=weak
@@ -20,7 +19,7 @@ export default function Practice({ query }) {
   const [sources, setSources] = useState(SOURCES)
   const [focus, setFocus] = useState(params.get('focus') || 'all') // all | weak | unseen | missed
   const [count, setCount] = useState(20)
-  const [session, setSession] = useState(null) // { qs, i, correct }
+  const [session, setSession] = useState(null) // { qs, key }
 
   const availableChapters = useMemo(() => [...new Set(QUESTIONS.map((q) => q.chapter))].sort((a, b) => a - b), [])
 
@@ -40,64 +39,13 @@ export default function Practice({ query }) {
     // Weak questions first, then unseen, then the rest, all shuffled within tier.
     const tier = (q) => (scores[q.id] == null ? 1 : band(scores[q.id]) === 'weak' ? 0 : 2)
     const ordered = [0, 1, 2].flatMap((t) => shuffle(pool.filter((q) => tier(q) === t)))
-    setSession({ qs: ordered.slice(0, count), i: 0, correct: 0, results: [] })
+    setSession({ qs: ordered.slice(0, count), key: Date.now() })
   }
 
   const toggle = (list, setList, v) => setList(list.includes(v) ? list.filter((x) => x !== v) : [...list, v])
 
   if (session) {
-    const { qs, i, correct, results } = session
-    if (i >= qs.length) {
-      const pct = qs.length ? Math.round((correct / qs.length) * 100) : 0
-      return (
-        <div>
-          <h1>Session complete</h1>
-          <div className="card">
-            <div className="row">
-              <div className="stat"><div className="value">{pct}%</div><div className="label">{correct} of {qs.length} correct</div></div>
-            </div>
-            {results.some((r) => !r.correct) && (
-              <>
-                <h3 style={{ marginTop: '1rem' }}>Missed</h3>
-                <table>
-                  <tbody>
-                    {results.filter((r) => !r.correct).map((r) => (
-                      <tr key={r.q.id}>
-                        <td className="small muted">{chapterName(r.q.chapter)}{r.q.topic ? ` · ${r.q.topic}` : ''}</td>
-                        <td>{r.q.question}</td>
-                      </tr>
-                    ))}
-                  </tbody>
-                </table>
-              </>
-            )}
-            <div className="row" style={{ marginTop: '1rem' }}>
-              <button className="btn" onClick={start}>Another round</button>
-              <button className="btn secondary" onClick={() => setSession(null)}>Change filters</button>
-            </div>
-          </div>
-        </div>
-      )
-    }
-    const q = qs[i]
-    return (
-      <div>
-        <div className="progressbar"><div style={{ width: `${(i / qs.length) * 100}%` }} /></div>
-        <QuestionCard
-          key={q.id}
-          q={q}
-          index={i}
-          total={qs.length}
-          mode="practice"
-          onAnswer={(ok) => {
-            recordAnswer(q.id, ok, 'practice')
-            setSession((s) => ({ ...s, correct: s.correct + (ok ? 1 : 0), results: [...s.results, { q, correct: ok }] }))
-          }}
-          onNext={() => setSession((s) => ({ ...s, i: s.i + 1 }))}
-        />
-        <button className="btn secondary sm" onClick={() => setSession(null)}>End session</button>
-      </div>
-    )
+    return <PracticeRunner key={session.key} qs={session.qs} onRestart={start} onExit={() => setSession(null)} />
   }
 
   return (

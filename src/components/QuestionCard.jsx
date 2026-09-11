@@ -7,9 +7,13 @@ const LETTERS = 'ABCDEFGH'
 // One multiple-choice question. Parents pass key={q.id} so state resets per question.
 // mode 'practice': reveal answer + explanation on submit, then Next.
 // mode 'exam': no feedback, just record the pick and move on.
-export default function QuestionCard({ q, index, total, mode = 'practice', onAnswer, onNext, initialPick = null, salt }) {
+// shuffle false keeps Cerifi's A-D order (used by the Exams page).
+export default function QuestionCard({ q, index, total, mode = 'practice', onAnswer, onNext, initialPick = null, salt, shuffle = true }) {
   const [sessionSalt] = useState(() => salt ?? String(Date.now()))
-  const view = useMemo(() => shuffleChoices(q, sessionSalt), [q, sessionSalt])
+  const view = useMemo(
+    () => (shuffle ? shuffleChoices(q, sessionSalt) : { choices: q.choices, answer: q.answer }),
+    [q, sessionSalt, shuffle],
+  )
   const [pick, setPick] = useState(initialPick)
   const [submitted, setSubmitted] = useState(false)
 
