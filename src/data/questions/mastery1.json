@@ -1,0 +1,903 @@
+[
+  {
+    "id": "m1-01",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam I"
+    },
+    "chapter": 3,
+    "topic": "Yield to Call / Yield to Worst",
+    "question": "In calculating the yields for a customer's purchase of U.S. treasury bonds, you discover that the YTC is 3.5% and the YTM is 3.3%. What is the yield-to-worst for this order?",
+    "choices": [
+      "3.4%",
+      "3.5%",
+      "3.3%",
+      "Not enough information is given to answer the question"
+    ],
+    "answer": 2,
+    "explanation": "The yield-to-worst (YTW) rate is the lowest of the yield to call (YTC) and yield to maturity (YTM) rates. It is intended to provide the rate of return in the worst-case scenario (assuming the issuer does not default)."
+  },
+  {
+    "id": "m1-02",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam I"
+    },
+    "chapter": 1,
+    "topic": "ADRs",
+    "question": "American Depositary Receipts would NOT trade on which of the following exchanges?",
+    "choices": [
+      "New York Stock Exchange",
+      "American Stock Exchange",
+      "Tokyo Stock Exchange",
+      "Nasdaq Stock Market"
+    ],
+    "answer": 2,
+    "explanation": "American Depositary Receipts are traded in the United States only. ADRs are listed on stock exchanges such as the NYSE, AMEX (now renamed the NYSE American), and Nasdaq. These exchanges list and trade sponsored ADRs. Non-sponsored ADRs that are assembled by banks without the foreign issuer's participation trade over-the-counter (OTC). ADRs are a vehicle for trading foreign securities in the United States."
+  },
+  {
+    "id": "m1-03",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam I"
+    },
+    "chapter": 1,
+    "topic": "Preferred Stock",
+    "question": "As interest rates fall, preferred stock prices will:",
+    "choices": [
+      "remain unaffected",
+      "rise",
+      "fall",
+      "fluctuate"
+    ],
+    "answer": 1,
+    "explanation": "Preferred stock is a fixed income security whose prices move inversely with interest rates. As interest rates fall, preferred stock prices rise, so that the preferred will give a yield that is competitive with the current market."
+  },
+  {
+    "id": "m1-04",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam I"
+    },
+    "chapter": 1,
+    "topic": "Equity vs. Debt Financing",
+    "question": "When a business sells partial ownership in order to raise money, this is referred to as:",
+    "choices": [
+      "Debt financing",
+      "Bond financing",
+      "Equity financing",
+      "Treasury financing"
+    ],
+    "answer": 2,
+    "explanation": "When a business sells partial ownership in the form of shares or stock it is called equity financing. The alternative to equity financing is debt financing. Debt financing is when a business gets a loan or sells securities called bonds -- which are like IOUs. Treasury financing is not a real term."
+  },
+  {
+    "id": "m1-05",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam I"
+    },
+    "chapter": 1,
+    "topic": "Voting Rights and Proxies",
+    "question": "Justin holds 500 shares of common stock in Company A. At its annual shareholders' meeting, the company is holding an election for its board of directors. There are four open spots. If the company decides to use cumulative voting at its meeting, what is the maximum amount of votes that Justin can cast for any of the eligible candidates?",
+    "choices": [
+      "Zero, because common shareholders are not allowed to vote for the board of directors",
+      "250 votes",
+      "500 votes",
+      "2,000 votes"
+    ],
+    "answer": 3,
+    "explanation": "Common stockholders are allowed to vote for candidates to the board of directors, so Justin can participate in this election. In cumulative voting, the number of votes accorded to a shareholder is determined by multiplying his total shares by the number of open positions. He can then vote that number for a single candidate or split his votes in any manner that he sees fit. This means that Justin is allowed to vote up to 2,000 votes for a single candidate (500 shares x 4 open positions = 2,000 votes)."
+  },
+  {
+    "id": "m1-06",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam I"
+    },
+    "chapter": 1,
+    "topic": "Shareholder Rights",
+    "question": "Shareholder approval is needed to:",
+    "choices": [
+      "Issue stock options to executives",
+      "Declare a preemptive rights distribution",
+      "Declare a cash dividend",
+      "Declare a stock dividend"
+    ],
+    "answer": 0,
+    "explanation": "Issuing executive stock options preferentially requires shareholder approval. None of the other choices require such approval."
+  },
+  {
+    "id": "m1-07",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam I"
+    },
+    "chapter": 5,
+    "topic": "Certificates of Deposit",
+    "question": "What is the minimum amount of a negotiable CD?",
+    "choices": [
+      "$10,000",
+      "$100,000",
+      "$250,000",
+      "There is no minimum amount"
+    ],
+    "answer": 1,
+    "explanation": "The minimum dollar amount of a negotiable CD is $100,000. It is set high to limit the market to sophisticated investors. They cannot be redeemed with the issuer until maturity, but they can be traded in the market at any time prior."
+  },
+  {
+    "id": "m1-08",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam I"
+    },
+    "chapter": 3,
+    "topic": "Bond Ratings",
+    "question": "A bond with a \"C\" rating is considered to be:",
+    "choices": [
+      "lower medium grade",
+      "lowest investment grade",
+      "one having credit risk",
+      "one having market risk"
+    ],
+    "answer": 2,
+    "explanation": "A bond rated \"C\" is considered to be speculative and would have substantial credit risk. The ratings agencies cannot rate bonds for market risk - only for credit risk. The lowest investment grade rating is BBB. BB, and B ratings are considered to be medium grade. CCC, CC, and C are all speculative, with a C rating being the most speculative.\n[Note - added by Claude] BB and B are below investment grade (speculative, often called \"junk\" or high-yield). They are not medium grade. BBB is the lowest investment grade rating and is the one usually called \"lower medium grade.\""
+  },
+  {
+    "id": "m1-09",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam I"
+    },
+    "chapter": 4,
+    "topic": "Convertible Bonds",
+    "question": "A 5% convertible bond is trading at 90. The bond is convertible at $10. What is the conversion ratio for the bond?",
+    "choices": [
+      "90 to 1",
+      "100 to 1",
+      "18 to 1",
+      "20 to 1"
+    ],
+    "answer": 1,
+    "explanation": "If a convertible bond is convertible at $10, this means that the bondholder can get 100 shares of common stock for every bond. This is solved by dividing $10 into the par value of the bond ($1000/$10 = 100). The yield on the bond and the fact that it is trading at a discount are extraneous information."
+  },
+  {
+    "id": "m1-10",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam I"
+    },
+    "chapter": 2,
+    "topic": "Interest vs. Dividends",
+    "question": "Which of the following are due interest from the corporation?",
+    "choices": [
+      "Common Shareholders",
+      "Convertible Bondholders",
+      "Preferred Shareholders",
+      "Warrant Holders"
+    ],
+    "answer": 1,
+    "explanation": "Bondholders are creditors of a company and are due interest. Convertible bondholders are creditors of a company as long as they keep their bonds and do not convert to common shares.\nCommon and preferred shareholders have an equity position.\nWarrant holders have a long term option to buy the stock. Warrants are considered equity-related securities, but they have neither an equity nor creditor stake in the corporation."
+  },
+  {
+    "id": "m1-11",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam I"
+    },
+    "chapter": 4,
+    "topic": "Treasury Securities",
+    "question": "All of the following securities are sold through auction EXCEPT:",
+    "choices": [
+      "Treasury Bills",
+      "TIPS",
+      "Treasury Notes",
+      "Corporate Bonds"
+    ],
+    "answer": 3,
+    "explanation": "All Treasury securities are sold through auction. In contrast, corporate bonds are sold through an underwriting process."
+  },
+  {
+    "id": "m1-12",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam I"
+    },
+    "chapter": 4,
+    "topic": "Trust Indenture",
+    "question": "Promises made by corporate issuers to bondholders, as well as any restrictions placed on the issuer are found in the:",
+    "choices": [
+      "indenture",
+      "legal opinion",
+      "prospectus",
+      "underwriting agreement"
+    ],
+    "answer": 0,
+    "explanation": "The trust indenture of a bond spells out all of the protective and restrictive covenants made to the bondholders. The trustee ensures that the corporation adheres to the covenants."
+  },
+  {
+    "id": "m1-13",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam I"
+    },
+    "chapter": 5,
+    "topic": "Certificates of Deposit",
+    "question": "Which statement is FALSE regarding Brokered CDs?",
+    "choices": [
+      "Call features are not permitted on these instruments",
+      "How the instrument is titled can determine whether FDIC insurance covers the investment",
+      "There is no penalty for early withdrawal of principal",
+      "These instruments can have maturities of up to 5 years"
+    ],
+    "answer": 0,
+    "explanation": "Brokered CDs, which can have lives of up to 5 years, can be callable. If interest rates drop after issuance, then the issuer can call in the CD, forcing the investor to reinvest the refunded monies at lower current market interest rates.\nBrokered CDs are sold by brokerage firms that are representing issuing banks. FDIC insurance of $250,000 maximum covers bank deposits - but only if the deposit is titled in the customer's name. If the CD is titled in the brokerage firm's name, then the insurance coverage would not apply!\nThere is no penalty for early withdrawal of funds on brokered CDs - however the amount of interest earned will be pro-rated over the shorter life of the deposit. If interest rates rise after issuance, the value of the CD in the secondary market will fall (though not by much, since this is a short maturity)."
+  },
+  {
+    "id": "m1-14",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam I"
+    },
+    "chapter": 1,
+    "topic": "Settlement",
+    "question": "Regular way settlement for corporate securities is:",
+    "choices": [
+      "The same day as the trade date",
+      "One business day after the trade date",
+      "Two business days after the trade date",
+      "Five business days after the trade date"
+    ],
+    "answer": 1,
+    "explanation": "Regular way trades for corporate securities settle one business day after the trade date. However, there is such a thing as cash settlement, which occurs on the same business day."
+  },
+  {
+    "id": "m1-15",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam I"
+    },
+    "chapter": 5,
+    "topic": "Municipal Taxation",
+    "question": "Teresa lives in Cheyenne, Wyoming. If she purchases a municipal bond issued by Cheyenne, what taxes will she pay on the interest?",
+    "choices": [
+      "No taxes",
+      "Federal taxes only",
+      "State and local taxes only",
+      "Federal, state, and local taxes"
+    ],
+    "answer": 0,
+    "explanation": "Investors pay no federal taxes on earnings from municipal bonds and also pay no state or municipal taxes if they live in the state or municipality that issued the bond."
+  },
+  {
+    "id": "m1-16",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam I"
+    },
+    "chapter": 2,
+    "topic": "Bond Prices and Yields",
+    "question": "A corporation has issued 8% AA rated sinking fund debentures at par. Three years later, similar issues are being offered in the primary market at 7%. Which statement is TRUE about the outstanding 8% issue?",
+    "choices": [
+      "The dollar price of the bond will be at a discount to par and the current yield will be higher than the nominal yield",
+      "The dollar price of the bond will be at a discount to par and the current yield will be lower than the nominal yield",
+      "The dollar price of the bond will be at a premium to par and the current yield will be lower than the nominal yield",
+      "The dollar price of the bond will be at a premium to par and the current yield will be higher than the nominal yield"
+    ],
+    "answer": 2,
+    "explanation": "The bond was issued with a coupon of 8%. Currently, yield for a similar issue is 7%. Therefore, interest rates have fallen subsequent to the issuance of the bond; or the credit quality of the bond has improved.\nWhen interest rates fall, yields on bonds already trading must also fall. What causes this is a rise in the dollar price of the issue - the bond now trades at a premium."
+  },
+  {
+    "id": "m1-17",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam I"
+    },
+    "chapter": 5,
+    "topic": "Municipal Bond Basics",
+    "question": "Which type of bond does the U.S. Treasury not issue?",
+    "choices": [
+      "Long-term bonds",
+      "Zero coupon bonds",
+      "Revenue bonds",
+      "TIPS"
+    ],
+    "answer": 2,
+    "explanation": "Revenue bonds are a type of municipal bonds and are issued by states, cities and other municipalities. The U.S. Treasury issues short-term, zero coupon bonds, referred to as Treasury -bills. TIPS are Treasury inflation-protected securities. The Treasury also issues long-term bonds."
+  },
+  {
+    "id": "m1-18",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam I"
+    },
+    "chapter": 5,
+    "topic": "Municipal Short-Term Debt",
+    "question": "New issues of municipal short term notes are available in which form?",
+    "choices": [
+      "Book entry",
+      "Bearer",
+      "Fully registered",
+      "Registered to principal and interest"
+    ],
+    "answer": 0,
+    "explanation": "All new debt issues only come in book entry form."
+  },
+  {
+    "id": "m1-19",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam I"
+    },
+    "chapter": 4,
+    "topic": "Treasury Taxation",
+    "question": "All of the following statements are true about the purchase of a Treasury Bond at par EXCEPT:",
+    "choices": [
+      "interest income received is subject to federal income tax",
+      "interest income received is subject to state income tax",
+      "interest payments will be made semi-annually",
+      "the amount of each interest made is constant"
+    ],
+    "answer": 1,
+    "explanation": "The interest income received from U.S. Government obligations is subject to federal income tax, but is exempt from state and local income taxes (one level of government cannot tax the other's obligations).\nTreasury Bonds pay a stated rate of interest (the coupon rate) divided into 2 semi-annual interest payments. For example, a 6% bond would pay 6% of $1,000 par = $60 of annual interest, in 2 semi-annual payments of $30 each."
+  },
+  {
+    "id": "m1-20b",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam I"
+    },
+    "chapter": 4,
+    "topic": "Debentures",
+    "exhibit": "This announcement is neither an offer to sell nor a solicitation of an offer to buy any of these Securities.\n\nThis offer is made only by Prospectus\n\n$5,000,000\n\nToga County Tote That Barge Company\n10% Convertible Subordinated Debentures\ndue August 1, 2035\n\nConvertible at $10.50 per share\n\nPrice 100%\nplus accrued interest\n\nCopies of the Prospectus may be obtained in any State in which this security may lawfully be offered\n\nBlair and Brown\nMorrill Bunch Sheer Brash Hash\nPain Glass    Dawn Wetter    Seligmon Bros.\nE. F. Edwards    Bear, Spawns    Dilley, Rodd",
+    "question": "The payment of interest and principal on these bonds is secured by the:",
+    "choices": [
+      "full faith and credit of Toga County Corporation",
+      "ships and other equipment pledged as collateral by the company",
+      "securities of the company which have been pledged as collateral under a subordination agreement",
+      "mortgages on the real property owned by the corporation"
+    ],
+    "answer": 0,
+    "explanation": "Since these bonds are debentures, they are backed solely by the full faith and credit of the issuer. There is no property backing these bonds."
+  },
+  {
+    "id": "m1-21",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam I"
+    },
+    "chapter": 5,
+    "topic": "Money Market Instruments",
+    "question": "Which of the following is a characteristic of money market instruments",
+    "choices": [
+      "Traded in round lots of 100",
+      "Typically issued at par value with regular monthly payments",
+      "Commonly traded in the retail market",
+      "Commonly traded by the Federal Reserve to control interest rates"
+    ],
+    "answer": 3,
+    "explanation": "Money market instruments are debt obligations that mature in one year or less. The short maturity of these securities enables them to be easily turned into cash. They are also very safe and therefore offer low yields. Longer-term debt obligations are called capital market instruments because they are a source of long-term capital for the issuer.\nMoney market obligations are traded in large units ($1,000,000 or $5,000,000 minimum) between institutions. Typically, they are issued at a discount to par value and mature at par, with any gain treated as interest income. Some instruments are issued at par and mature with accrued interest.\nA critical player in the money market is the Federal Reserve (the Fed). The Fed attempts to control the amount of credit available through open market operations."
+  },
+  {
+    "id": "m1-22",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam I"
+    },
+    "chapter": 3,
+    "topic": "Call and Put Features",
+    "question": "An investor who expects interest rates to drop would invest in:",
+    "choices": [
+      "short term issues",
+      "puttable debt issues",
+      "callable debt issues",
+      "debt issues with adjustable interest rates"
+    ],
+    "answer": 1,
+    "explanation": "If interest rates decline, it is likely that issuers will call in outstanding bonds and refund the issues at the lower current interest rates. An investor who expects interest rates to drop should avoid callable issues or issues with adjustable interest rates (since each year as interest rates drop, the rate on the bond is dropped). If they expect rates to fall, investors would also likely prefer to lock in the current higher rate by purchasing long term bonds - but that is not offered as a choice!\nNon-callable bonds are fine, as are bonds with put options, making B the best answer. The put option will only be used if interest rates rise, decreasing the value of the bond. Then, the bondholder would exercise the option and \"put\" the bonds to the issuer at par."
+  },
+  {
+    "id": "m1-23",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam I"
+    },
+    "chapter": 2,
+    "topic": "Bond Types",
+    "question": "Bonds that mature at specified intervals over a pre-determined time period are known as which of the following?",
+    "choices": [
+      "Term bonds",
+      "Serial bonds",
+      "Callable bonds",
+      "Putable bonds"
+    ],
+    "answer": 1,
+    "explanation": "With term bonds, the entire issue reaches maturity on the same date. Callable bonds allow the issuer to redeem all or a portion of a bond prior to the maturity date. Putable bonds allow the investor to redeem the bond at par before the maturity date. With serial bonds, however, a bond issue matures at regular intervals over a specific time period. That means that specified portions of the total issue reach maturity at pre-determined dates that occur within the bond's lifespan."
+  },
+  {
+    "id": "m1-24",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam I"
+    },
+    "chapter": 1,
+    "topic": "Shareholder Rights",
+    "question": "If a corporation wishes to sell additional shares, which of the following persons can subscribe using pre-emptive rights?",
+    "choices": [
+      "Common stockholders",
+      "Preferred stockholders",
+      "Convertible preferred stockholders",
+      "Bondholders"
+    ],
+    "answer": 0,
+    "explanation": "Only common stockholders have pre-emptive rights. Holders of senior securities (preferred stock and bonds) do not have pre-emptive rights; nor do warrant holders since they do not own the common stock unless the warrants are exercised."
+  },
+  {
+    "id": "m1-25",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam I"
+    },
+    "chapter": 4,
+    "topic": "Agency Securities",
+    "question": "A 70-year old customer who is looking for current income has inquired about purchasing a GNMA pass-through certificate because he has heard that it provides monthly payments. He wants to receive payments over a minimum 10-year investment time horizon. Which is the most important risk to discuss with this client?",
+    "choices": [
+      "Extended maturity risk",
+      "Default risk",
+      "Prepayment risk",
+      "Interest rate risk"
+    ],
+    "answer": 2,
+    "explanation": "This customer is looking for income over a 10-year time frame. If market interest rates fall, the mortgages backing the pass-through certificate will be prepaid, and the customer will be returned his principal much earlier than expected. When the customer goes to reinvest the principal, because interest rates have dropped, he will be earning a lower rate of return. Prepayment risk is a big concern with GNMA pass-through certificates and should be discussed with this client so he understands the risk."
+  },
+  {
+    "id": "m1-26",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam I"
+    },
+    "chapter": 2,
+    "topic": "Bond Quotes",
+    "question": "A corporate bond has a bid-ask spread of 101 - 103. What is the dollar value of the spread?",
+    "choices": [
+      "$2",
+      "$20",
+      "$102",
+      "$103"
+    ],
+    "answer": 1,
+    "explanation": "Bond quotes represent the percentage of the bond's par value. Par value for corporate bonds is $1,000. So this bid-ask spread, when converted to dollars, is $1,010 - $1,030. The spread is the difference between the ask and the bid. Thus, the spread when converted to dollars is $1,030 - $1,010 = $20."
+  },
+  {
+    "id": "m1-27",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam I"
+    },
+    "chapter": 4,
+    "topic": "Bond Registration",
+    "question": "How are interest payments made on fully registered bonds?",
+    "choices": [
+      "Mailed directly to bond owner",
+      "Paid when coupons are presented",
+      "Automatically reinvested",
+      "Deposited to brokerage account"
+    ],
+    "answer": 0,
+    "explanation": "Fully registered bonds are registered to their owner. With these bonds a physical certificate is often sent directly to the bondholder. The bond's registrar keeps track of the owners of record. The paying agent sends the semiannual interest payments directly to the registered owner."
+  },
+  {
+    "id": "m1-28",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam I"
+    },
+    "chapter": 3,
+    "topic": "Bond Risks",
+    "question": "Legislative risk is another name for:",
+    "choices": [
+      "Political risk",
+      "Regulatory risk",
+      "Credit risk",
+      "Currency risk"
+    ],
+    "answer": 1,
+    "explanation": "Legislative risk, also known as regulatory risk, is the risk that an investment or security could suddenly devalue or experience a drop in its potential returns due to a change in the laws or regulatory environment of an industry or country. Political risk is the risk that political events, such as an election, will cause instability in a country and thus adversely affect the price of securities issued in that country. Credit risk is the risk that an issuer will fail to make payments when due. Finally, currency risk is the risk that an investment in a foreign security may lose its value due to a strengthening of the U.S. dollar against the foreign country's currency."
+  },
+  {
+    "id": "m1-29",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam I"
+    },
+    "chapter": 2,
+    "topic": "Bond Quotes",
+    "question": "Regarding municipal bonds, a \"bond point\" refers to:",
+    "choices": [
+      "100",
+      "1% of par value",
+      "0.001 times par value",
+      "A bond certificate that has been rolled up tightly at one end and is used to poke colleagues"
+    ],
+    "answer": 1,
+    "explanation": "A point refers to 1% of par value (which is the same as 0.01 times par value). For simplicity, often the exam will assume that a bond's par value is $1,000, in which case a bond point would be equivalent to $10. So for example, a $1,000 municipal bond priced at a premium of 102 would cost $1,020. This is because 102 bond points is 102% of $1,000."
+  },
+  {
+    "id": "m1-30",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam I"
+    },
+    "chapter": 2,
+    "topic": "Bond Types",
+    "question": "A bond issue where every bond has the same issue date, interest rate, and maturity is a:",
+    "choices": [
+      "term bond offering",
+      "series bond offering",
+      "serial bond offering",
+      "combined serial and term bond offering"
+    ],
+    "answer": 0,
+    "explanation": "A term bond issue is one where every bond has the same issue date, interest rate and maturity. Corporate issues and U.S. Government bond issues are typically term bonds."
+  },
+  {
+    "id": "m1-31",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam I"
+    },
+    "chapter": 2,
+    "topic": "Bond Prices and Yields",
+    "question": "A premium bond is a bond that:",
+    "choices": [
+      "Sells above its par value",
+      "Is investment grade or better",
+      "Is protected against inflation",
+      "Has very high duration"
+    ],
+    "answer": 0,
+    "explanation": "A premium bond is a bond that sells in the market above par value. It will sell above par when prevailing interest rates drop below the rates of when it was issued."
+  },
+  {
+    "id": "m1-32",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam I"
+    },
+    "chapter": 3,
+    "topic": "Call Features",
+    "question": "When a call price has been set higher than the bond's face value, the difference between the call price and the face value is known as a:",
+    "choices": [
+      "Call date",
+      "Call provision",
+      "Call premium",
+      "Call protection"
+    ],
+    "answer": 2,
+    "explanation": "A call premium is the amount of a call price that exceeds the bond's par value."
+  },
+  {
+    "id": "m1-33",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam I"
+    },
+    "chapter": 4,
+    "topic": "Liquidation Priority",
+    "question": "Which of the following represents the priority of claims on a corporation in the case of bankruptcy, from highest to lowest?",
+    "choices": [
+      "Bondholders, preferred stockholders, common stockholders",
+      "Preferred stockholders, bondholders, common stockholders",
+      "Common stockholders, preferred stockholders, bondholders",
+      "Bondholders, common stockholders, preferred stockholders"
+    ],
+    "answer": 0,
+    "explanation": "In the event a company liquidates, owners of debt securities (bondholders) are paid first. Next in order of priority are preferred stockholders. The last claimants are common stockholders, who have only a residual claim. This means they have a claim on what remains once all other investors have received their claims."
+  },
+  {
+    "id": "m1-34",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam I"
+    },
+    "chapter": 2,
+    "topic": "Bond Types",
+    "question": "A zero coupon bond makes interest payments:",
+    "choices": [
+      "Semiannually",
+      "Annually",
+      "Quarterly",
+      "Never"
+    ],
+    "answer": 3,
+    "explanation": "Zero coupon bonds are bonds that make no interest payments. Instead, zeros are issued at a deep discount to their face value, with the entire face value then delivered to the investor at maturity."
+  },
+  {
+    "id": "m1-35",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam I"
+    },
+    "chapter": 5,
+    "topic": "Capital Appreciation Bonds",
+    "question": "When does an investor receive payment of interest and principal on a Capital Appreciation Bond (CAB)?",
+    "choices": [
+      "Interest is paid monthly and principal at maturity",
+      "Interest is paid quarterly and principal at maturity",
+      "Interest is paid semi-annually and principal at maturity",
+      "Interest and principal is paid at maturity"
+    ],
+    "answer": 3,
+    "explanation": "A Capital Appreciation Bond (CAB) is a municipal zero coupon bond with a \"legal\" twist to it. A conventional zero coupon G.O. bond is counted against an issuer's debt limit at par value because the discount is treated as \"principal.\" If a new issue discount bond is legally crafted as a CAB, then the principal counted against the issuer's debt limit is the discounted principal amount and the discount earned is considered to be interest income. The bond is purchased at the discounted price and then par is returned at maturity, with the 2 components of that par payment being the return of the discounted purchase price (the \"principal\" amount) and the accreted interest income."
+  },
+  {
+    "id": "m1-36",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam I"
+    },
+    "chapter": 2,
+    "topic": "Bond Yields",
+    "question": "A bond with a principal payment of $1,000 due in 10 years has a semi-annual coupon payment of $40. Jerome buys the bond at par (that is, he pays $1,000 for the bond). Jerome's nominal yield for the bond is:",
+    "choices": [
+      "4%",
+      "6%",
+      "8%",
+      "10%"
+    ],
+    "answer": 2,
+    "explanation": "A bond that sells at par value has a coupon rate equal to its nominal yield. In this case, coupons are paid semi-annually. The coupon rate is determined by dividing the coupon amount by the par value: $40/$1000 = 4%. Note this is a semi-annual rate since the coupons are paid semi-annually. To get the annual rate, the 4% must be multiplied by 2 which results in 8%.\n[Note - added by Claude] Nominal yield always equals the coupon rate, whatever price you pay. The purchase price changes the current yield and the yield to maturity, not the nominal yield."
+  },
+  {
+    "id": "m1-37",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam I"
+    },
+    "chapter": 4,
+    "topic": "Treasury Securities",
+    "question": "Which statement is TRUE when comparing Treasury Notes to Treasury STRIPS?",
+    "choices": [
+      "Treasury Notes pay interest annually",
+      "Treasury STRIPS pay interest at maturity",
+      "Treasury STRIPS pay interest semi-annually",
+      "Treasury Notes pay interest at maturity"
+    ],
+    "answer": 1,
+    "explanation": "Treasury Notes are government obligations maturing between 1 year and 10 years which pay interest semi-annually.\nTreasury STRIPS are notes or bonds \"stripped\" of coupons, meaning all that is left is the principal repayment portion of the note or bond (sometimes called the \"corpus\" or body). STRIPS are zero coupon original issue discount obligations that do not have a stated interest rate. The accretion of the discount over the bond's life represents the interest earned."
+  },
+  {
+    "id": "m1-38",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam I"
+    },
+    "chapter": 1,
+    "topic": "Preferred Stock",
+    "question": "Assume the par value for a cumulative preferred stock is $100, and that the stated dividend on the cumulative preferred stock is 3%. An investor purchased the cumulative preferred stock two years ago. Two years ago, the Board of Directors declared no dividend. Last year, the Board also declared no dividend. This year, the Board wishes to declare a dividend of 3% to the common stockholders. How much must be paid to the cumulative preferred stockholder before paying dividends to others?",
+    "choices": [
+      "$0",
+      "$3",
+      "$6",
+      "$9"
+    ],
+    "answer": 3,
+    "explanation": "The distinguishing feature of a cumulative preferred stock vs. a typical preferred stock is that a company must make up \"missed\" dividend payments if it wants to pay dividends to the common stockholders. In this case, a payment of $100 x 3% = $3 was missed two years ago, and another $3 payment was missed last year for a total of $6 in missed payments. The cumulative preferred stockholder must also be paid the $3 for the current year's dividend, so the total owed from the corporation is $6 + $3 = $9."
+  },
+  {
+    "id": "m1-39",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam I"
+    },
+    "chapter": 2,
+    "topic": "Basis Points",
+    "question": "When quoting bonds on a yield basis, the difference between a bond priced at a yield of 5.45 and a bond priced at a yield of 5.55 is:",
+    "choices": [
+      "1 Basis Point",
+      "10 Basis Points",
+      "100 Basis Points",
+      "1,000 Basis Points"
+    ],
+    "answer": 1,
+    "explanation": "One basis point = .01%. The difference between 5.45 and 5.46 = .01%, or one basis point. In this case, the difference between 5.45 and 5.55 = .10%, or 10 basis points."
+  },
+  {
+    "id": "m1-40",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam I"
+    },
+    "chapter": 5,
+    "topic": "Municipal Short-Term Debt",
+    "question": "In which of the following instances would a municipality definitely not issue RANs?",
+    "choices": [
+      "The municipality needs funds now to finish a toll road, but it will soon be able to pay the notes back with the toll money.",
+      "The municipality needs money now to finish construction of a school. It will repay the notes with ad valorem tax money.",
+      "The municipality needs funds to help finish building a prison. The lease payments from the prison will repay the notes.",
+      "The municipality is building a sports stadium and will repay the notes with money from tickets sold."
+    ],
+    "answer": 1,
+    "explanation": "Revenue anticipation notes (RANs) are issued in advance of revenues to be received. The ad valorem tax would not be considered revenue."
+  },
+  {
+    "id": "m1-41",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam I"
+    },
+    "chapter": 1,
+    "topic": "Dividends",
+    "question": "How often are dividends paid?",
+    "choices": [
+      "Monthly",
+      "Quarterly",
+      "Semiannually",
+      "Annually"
+    ],
+    "answer": 1,
+    "explanation": "Most companies have quarterly dividend payment periods. However, dividends are only paid if the company's board of directors decide to pay them."
+  },
+  {
+    "id": "m1-42",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam I"
+    },
+    "chapter": 4,
+    "topic": "Secured Corporate Debt",
+    "question": "A company that issued first mortgage bonds is in default. If mortgage bondholders' claims are not satisfied from the sale of the property backing the bonds, then the bondholders:",
+    "choices": [
+      "have no recourse",
+      "can claim other property to satisfy the outstanding loans",
+      "can attempt to sell other assets to satisfy the outstanding loans",
+      "become general creditors for the balance due"
+    ],
+    "answer": 3,
+    "explanation": "Mortgage bondholders do not have claim to all property of the failed company (such as cash in bank accounts; accounts receivable; inventory; etc.); they only have claim to the real property pledged. If the bondholders' claims are not satisfied from the sale of the real property, then they become general creditors for the balance due."
+  },
+  {
+    "id": "m1-43",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam I"
+    },
+    "chapter": 1,
+    "topic": "Warrants",
+    "question": "The exercise price of a warrant is set at issuance at:",
+    "choices": [
+      "a discount to the market price of the common stock",
+      "a premium to the market price of the common stock",
+      "the market price of the common stock",
+      "any price designated by the issuer"
+    ],
+    "answer": 1,
+    "explanation": "At issuance, the exercise price of a warrant is set at a premium to the stock's current market price.\n[Note - added by Claude] Cerifi's screen showed no chapter under Area of Study for this question. I filed it under Chapter 1 (Equities), where warrants are covered."
+  },
+  {
+    "id": "m1-44",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam I"
+    },
+    "chapter": 1,
+    "topic": "Preferred Stock",
+    "question": "Which of the following is a disadvantage of owning preferred shares?",
+    "choices": [
+      "High risk",
+      "Lower priority if the issuer liquidates",
+      "Lower potential gain when the issuer's profits increase",
+      "Irregular dividend payments"
+    ],
+    "answer": 2,
+    "explanation": "Since it generates income from a fixed, regular monetary payment rather than a share in the company's financial gains, preferred stock is less risky than common stock. However, with less risk comes less reward, and preferred shares may not experience significant gains from increases in the issuer's earnings. On the other hand, owners of preferred stock receive more regular dividend payments than owners of common stock. Also, preferred shareholders are granted higher priority than common stockholders in the event the issuing company liquidates, meaning there is a higher likelihood that preferred stockholders will recoup some of their investment if the issuer goes bankrupt."
+  },
+  {
+    "id": "m1-45",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam I"
+    },
+    "chapter": 1,
+    "topic": "Liquidation Priority",
+    "question": "In a corporate liquidation, common stockholders are paid:",
+    "choices": [
+      "before bondholders and preferred stockholders",
+      "after bondholders and preferred stockholders",
+      "after bondholders but before preferred stockholders",
+      "before all creditors"
+    ],
+    "answer": 1,
+    "explanation": "In a liquidation, common shareholders are paid last, after creditors, bondholders, and preferred stockholders."
+  },
+  {
+    "id": "m1-46",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam I"
+    },
+    "chapter": 1,
+    "topic": "Dividend Yield",
+    "question": "A customer buys 100 shares of XYZ stock at $40. The stock pays a quarterly dividend of $.50. What is the dividend yield?",
+    "choices": [
+      "1%",
+      "1.25%",
+      "4%",
+      "5%"
+    ],
+    "answer": 3,
+    "explanation": "Common dividends are paid quarterly. The annual dividend rate is $2.00 ($.50 per calendar quarter x 4). The dividend yield is $2/$40 = 5%."
+  },
+  {
+    "id": "m1-47",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam I"
+    },
+    "chapter": 3,
+    "topic": "Put Features",
+    "question": "Bonds with a put feature benefit the:",
+    "choices": [
+      "bondholder",
+      "issuer",
+      "trustee",
+      "transfer agent"
+    ],
+    "answer": 0,
+    "explanation": "A put feature allows the bondholder to \"put\" the bonds back to the issuer after a stated time period (say 10 years). Such bonds are issued when interest rates are very low, and there is a general expectation that rates will rise. An issuer can have a hard time selling bonds to long-term investors at current low rates, because if rates start to rise, the value of those bonds will drop - and long maturity bonds will drop a lot!\nTo make the issue attractive to investors, the issuer can include a \"put\" option on the bonds - where the holder can put the bonds back to the issuer at par after a stated time period. Thus, if rates do rise, the bondholder is protected. This is an advantage to the bondholder. The issuer, on the other hand has just used a chunk of cash to pay those bondholders who exercised the put option. If it needs to replenish those funds, it will now have to issue bonds at higher current market rates."
+  },
+  {
+    "id": "m1-48",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam I"
+    },
+    "chapter": 2,
+    "topic": "Bond Quotes",
+    "question": "A corporate bond with 5% coupon is quoted at 107. This means:",
+    "choices": [
+      "The bond's total return is 5%",
+      "The bond is trading at a premium",
+      "The bond is trading at a discount",
+      "The bond's total return is 7%"
+    ],
+    "answer": 1,
+    "explanation": "The bond's quote is its price as a percentage of par value. This means if the bond is trading at 107, it is trading at 107% of its par value, which is a 7% premium to par. Neither the 5% coupon rate nor the 7% premium represents the bond's total return."
+  },
+  {
+    "id": "m1-49",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam I"
+    },
+    "chapter": 1,
+    "topic": "Stock Splits",
+    "question": "A corporation has been in financial difficulty and its stock price has fallen to an extremely low level. To avoid delisting, it wishes to raise its stock and it wants to conserve its cash. To do this, it should declare a:",
+    "choices": [
+      "stock split",
+      "reverse stock split",
+      "stock buy-back program",
+      "cash dividend on outstanding shares"
+    ],
+    "answer": 1,
+    "explanation": "When a corporation's stock price falls too low, the company might be delisted from its principal exchange, which would make the stock very difficult to trade. To keep the stock trading in the market, the corporation could raise the per share price by declaring a reverse stock split. Declaring stock split would reduce the price per share. Buying back shares uses cash, which the company wants to conserve. The same is true if the company pays a cash dividend."
+  },
+  {
+    "id": "m1-50",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam I"
+    },
+    "chapter": 5,
+    "topic": "Special Assessment Bonds",
+    "question": "A municipal bond which funds an improvement that benefits only a small portion of the community is a:",
+    "choices": [
+      "general obligation bond",
+      "double barreled bond",
+      "moral obligation bond",
+      "special assessment bond"
+    ],
+    "answer": 3,
+    "explanation": "Special assessment bonds are used to fund an improvement which benefits only a small portion of the community. For example: new street lights are installed in a specific area where only that area is assessed higher taxes to pay for the improvement."
+  }
+]

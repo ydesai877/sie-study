@@ -29,6 +29,7 @@ Rules:
 - `answer` is the zero-based index into `choices`.
 - `source.type` is one of `chapter`, `mastery`, `final`, `random_final`, `quick_quiz`.
 - `chapter` is required. `section` and `topic` are optional but power the dashboard breakdown.
+- `exhibit` is optional text shown in a bordered box above the question (for example, a tombstone ad). Add `"exhibitMono": true` for tables and calendars that need monospace alignment.
 - `explanation` is optional but strongly recommended. Active recall works best when the feedback is right there.
 
 Run `node scripts/validate.mjs` to check every file before committing.

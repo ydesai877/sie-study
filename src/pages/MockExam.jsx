@@ -99,6 +99,7 @@ export default function MockExam() {
               {result.missed.map((q) => (
                 <div key={q.id} style={{ padding: '0.5rem 0', borderBottom: '1px solid var(--line)' }}>
                   <div className="small muted">{chapterName(q.chapter)}{q.topic ? ` · ${q.topic}` : ''}</div>
+                  {q.exhibit && <div className={`exhibit small${q.exhibitMono ? ' mono' : ''}`}>{q.exhibit}</div>}
                   <div>{q.question}</div>
                   <div className="small" style={{ color: 'var(--proficient)' }}>Answer: {q.choices[q.answer]}</div>
                   {q.explanation && <div className="small muted">{q.explanation}</div>}

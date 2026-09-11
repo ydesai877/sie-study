@@ -1,0 +1,902 @@
+[
+  {
+    "id": "m4-01",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam IV"
+    },
+    "chapter": 14,
+    "topic": "Regulation FD",
+    "question": "SEC Regulation FD covers:",
+    "choices": [
+      "notification to customers of a member firm's privacy policies and practices",
+      "selective disclosure of material non-public information by issuers",
+      "standardization of disclosure of financial and non-financial information by issuers",
+      "registration filings with the SEC by small business issuers"
+    ],
+    "answer": 1,
+    "explanation": "Regulation FD (Fair Disclosure), passed in 2000, is basically an elaboration of the insider trading rules. It prohibits issuers from making selective disclosure of non-public information to research analysts, mutual fund managers, and other industry professionals, unless at the same time, the information is broadly disseminated to the public."
+  },
+  {
+    "id": "m4-02",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam IV"
+    },
+    "chapter": 16,
+    "topic": "Mutual Fund Taxation",
+    "question": "Which of the following is true of mutual fund distributions?",
+    "choices": [
+      "Investors must pay taxes on all distributions received.",
+      "If an investor purchases shares right before the distribution is made, he will not have to pay taxes on the distribution.",
+      "They are always paid annually.",
+      "If an investor reinvests the profits from the distribution, he will not have to pay taxes on it."
+    ],
+    "answer": 0,
+    "explanation": "When a fund pays a distribution, the NAV per share decreases by the amount of the distribution. An investor will always have to pay taxes on the distribution. This is true even if he immediately reinvests the distribution amount or if he purchases fund shares right before the distribution is made. Finally, although many funds pay distributions annually, it is not true to say that is always the case.\n[Note - added by Claude] One exception to \"all distributions\": income dividends from a municipal bond fund are generally exempt from federal income tax (Chapter 6, question 10 covers this). A is still the best answer here."
+  },
+  {
+    "id": "m4-03",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam IV"
+    },
+    "chapter": 16,
+    "topic": "Cost Basis (Gifts and Inheritance)",
+    "question": "A tax basis on an inheritance is not the price the benefactor originally paid but the price of the stock on the day the benefactor died. This is known as a:",
+    "choices": [
+      "Stepped-up basis",
+      "Gifted security",
+      "Cost basis",
+      "Gift exemption"
+    ],
+    "answer": 0,
+    "explanation": "In the event that a taxpayer dies and her heirs inherit her securities positions, the tax laws give the new owners of the securities a huge break. No matter what the original owner paid for the securities, the people inheriting the securities get to claim the price of those securities on the deceased person's date of death as the securities' new tax basis. This is referred to as a stepped-up basis."
+  },
+  {
+    "id": "m4-04",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam IV"
+    },
+    "chapter": 13,
+    "topic": "Registration Statement",
+    "question": "The registration statement required by the Securities Act of 1933, requires all of the following, except:",
+    "choices": [
+      "Description of the security being offered",
+      "Financial information about the issuer",
+      "Information about the management of the company",
+      "An investment banker overseeing the process"
+    ],
+    "answer": 3,
+    "explanation": "Filing a registration statement requires key information about company issuing the securities, including financial information and information about the management. It should also include a description of the security. An investment banker usually helps the company issuing securities to file this statement. But the investment banker is not required."
+  },
+  {
+    "id": "m4-05",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam IV"
+    },
+    "chapter": 13,
+    "topic": "Securities Act of 1933",
+    "question": "Which of the following was one of the main purposes of the Securities Act of 1933?",
+    "choices": [
+      "To require companies to publicly disclose all relevant financial information about the securities prior to offering them for sale",
+      "To regulate the secondary market",
+      "To establish the SEC",
+      "To regulate the actions and registration of broker-dealers"
+    ],
+    "answer": 0,
+    "explanation": "The Securities Act of 1933 has two main purposes: (1) to require that companies publicly disclose all relevant financial information about their securities prior to offering them for sale, and (2) to prohibit fraud and deceit in the marketing of securities."
+  },
+  {
+    "id": "m4-06",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam IV"
+    },
+    "chapter": 15,
+    "topic": "SRO Structure",
+    "question": "Which regulator's authority is limited to rulemaking, and for enforcement it must rely on one of a number of different regulators, depending on which one has jurisdiction?",
+    "choices": [
+      "MSRB",
+      "SEC",
+      "Cboe",
+      "FINRA"
+    ],
+    "answer": 0,
+    "explanation": "While the MSRB drafts rules and regulations governing the behavior of municipal securities dealers and municipal advisors, it does not have the authority to enforce these rules. MSRB rules are generally enforced by FINRA and the SEC. But there are other enforcement agencies as well. The Comptroller of the Currency enforces MSRB rules for national banks and their subsidiaries, departments or divisions. The FDIC enforces MSRB rules for state and local banks that are not part of the Federal Reserve System. The Federal Reserve Board enforces rules applying to state and local banks that are part of the Federal Reserve System. The SEC is the enforcement agency for municipal advisors."
+  },
+  {
+    "id": "m4-07",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam IV"
+    },
+    "chapter": 16,
+    "topic": "Mutual Fund Taxation",
+    "question": "Which statement is TRUE about an exchange of one mutual fund holding for another mutual fund holding in the same family of funds?",
+    "choices": [
+      "Shareholders must pay tax on any gains",
+      "There are no income taxes due until the investor finally redeems the shares for cash",
+      "The cost basis for the new shares carries over from the original purchase",
+      "Sales charges for exchange transactions can be reduced by credits from the original purchase"
+    ],
+    "answer": 0,
+    "explanation": "Clients must be made aware that, typically, there are tax consequences if an existing mutual fund holding is exchanged for shares in another fund. If the original shares have value above their cost basis at the time of the exchange, this is a taxable gain. The cost basis of the new shares is the net asset value of the new shares at the time of the transaction. There are no sales charges assessed on exchanges."
+  },
+  {
+    "id": "m4-08",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam IV"
+    },
+    "chapter": 14,
+    "topic": "Regulation M (Stabilization)",
+    "question": "Each of the following is true of a stabilizing bid except:",
+    "choices": [
+      "It can only be made by the underwriters of an offering",
+      "It can be made only on NYSE issues",
+      "It cannot be made unless the prospectus indicates its possible use at a later date",
+      "Only one such bid is allowed in any market at the same price and time"
+    ],
+    "answer": 1,
+    "explanation": "A stabilizing bid is a bid made for shares of an IPO by the underwriters in an effort to prevent the price of the new issue from falling right after the offering. Such bids are allowed to be made by only the underwriters and must adhere to the following rules:\n- Stabilization is allowed for only firm commitment underwritings.\n- A stabilizing bid may not be placed at a price that is higher than the lower of two figures: the offering price for the security and the previous stabilizing bid (initial stabilizing bids may not be greater than the lower of the offering price and the highest independent bid).\n- A stabilizing bid must be identified as such.\n- A stabilizing bid may be entered on an exchange or market only if there is at least one bid made by a party not related to the company (independent bid).\n- A notice of the possibility of using a stabilizing bid must be written in the prospectus.\n\nOnly one stabilizing bid is allowed in any one market at the same price at the same time. For example, only one market maker may enter a stabilizing bid on Nasdaq, though the bid may be carried over to another market such as NYSE."
+  },
+  {
+    "id": "m4-09",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam IV"
+    },
+    "chapter": 16,
+    "topic": "Federal Reserve Monetary Policy",
+    "question": "During a period of economic slowdown, the Federal Reserve would increase:",
+    "choices": [
+      "reserve requirements",
+      "Treasury securities purchases in the secondary market",
+      "the discount rate",
+      "the margin requirement"
+    ],
+    "answer": 1,
+    "explanation": "To loosen credit and stimulate the economy, the Fed, via open market operations, buys Treasury securities from the primary dealers (mainly the large commercial banks), giving them cash that can be lent out. This lowers interest rates and makes it easier for businesses and individuals to borrow, increasing spending and economic growth.\nIncreasing reserve requirements held at banks reduces the amount that banks can lend out, And tightens credit. Increasing the discount rate (the rate at which member banks can borrow from the Fed) tightens credit. Increasing margin requirements on securities would also tighten credit."
+  },
+  {
+    "id": "m4-10",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam IV"
+    },
+    "chapter": 16,
+    "topic": "Business Cycle",
+    "question": "If Gross Domestic Product has declined for 3 successive quarters, the economy is said to be in a:",
+    "choices": [
+      "recession",
+      "correction",
+      "depression",
+      "contraction"
+    ],
+    "answer": 0,
+    "explanation": "2 consecutive quarters of GDP decline means that the economy has entered into a recession. If GDP declines for 6 consecutive quarters, then the economy has entered into a depression.\nEconomic contraction is a broader term that simply denotes a decline in GDP. The length of the contraction will determine if the decline is characterized as a recession or depression.\nFinally, the term correction is used when stock market indicators decline, with the market entering correction territory when it drops by 10%."
+  },
+  {
+    "id": "m4-11",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam IV"
+    },
+    "chapter": 14,
+    "topic": "Blue Sky Laws and NSMIA",
+    "question": "Under \"Blue sky\" laws, securities regulation is overseen by:",
+    "choices": [
+      "FINRA",
+      "the state where the security is issued and sold",
+      "the SEC",
+      "NASAA"
+    ],
+    "answer": 1,
+    "explanation": "\"Blue Sky\" laws refers to state securities laws which are based on the Uniform Securities Act. These regulations are overseen by the state where the securities are issued and sold."
+  },
+  {
+    "id": "m4-12",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam IV"
+    },
+    "chapter": 13,
+    "topic": "Types of Offerings",
+    "question": "All of the following are benefits of a shelf registration except:",
+    "choices": [
+      "One registration covers a public offering of securities for up to three years in advance.",
+      "A corporation may get a better price for securities during the public offering because the corporation can wait for the most favorable time.",
+      "One registration covers a public offering of securities for up to five years in advance.",
+      "The issuer may sell part of the securities at a given time, and another part at a later time."
+    ],
+    "answer": 2,
+    "explanation": "An issuer may file a shelf registration when the market conditions are not favorable for an initial public offering to occur. Using a shelf registration, an issuer may carry out all the necessary registration procedures ahead of time, and put them on a \"shelf\" until the market conditions become more favorable. A shelf registration is permitted under SEC Rule 415 in certain situations. There is an advantage to filing in advance. The issuer may be able to time the public offering for when market conditions are most favorable, getting a better price for securities offered. The public offering must be made within either 2 or 3 years of filing a shelf registration depending on the type of offering and the type of issuer. S-3 filers can check a box on the form to file an automatic shelf registration, allowing an automatic three year shelf registration. A shelf registration can be used for both equity and debt securities."
+  },
+  {
+    "id": "m4-13",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam IV"
+    },
+    "chapter": 14,
+    "topic": "Issuer Reporting (8-K)",
+    "question": "All of the following events would require a corporation to file an 8K report with the SEC EXCEPT declaration of (a):",
+    "choices": [
+      "divestiture",
+      "merger",
+      "dividend",
+      "bankruptcy"
+    ],
+    "answer": 2,
+    "explanation": "An 8K filing with the SEC is required by a corporation if a \"major event\" happens at the company. These include if there is a change in the composition of the Board of Directors; if the company declares bankruptcy; if there is a major acquisition or divestiture of assets; if the company proposes a merger; or if any other major corporate event occurs. The notice must be filed no later than 4 business days after the event. Declaration of a dividend is a rather normal event, so no filing is required."
+  },
+  {
+    "id": "m4-14",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam IV"
+    },
+    "chapter": 15,
+    "topic": "Borrowing from Customers",
+    "question": "A registered representative would be permitted to take a loan from a customer who is any of the following EXCEPT:",
+    "choices": [
+      "a spouse",
+      "a parent",
+      "a bank lending to the representative on the same terms and conditions as loans made to the general public",
+      "a bank lending to the representative on more favorable terms and conditions than loans made to the general public"
+    ],
+    "answer": 3,
+    "explanation": "Representatives are prohibited from borrowing from their clients. However, there are permitted exceptions to the rule:\nRepresentatives are permitted to borrow from immediate family members who are clients (such as a husband borrowing from a wife or vice-versa, or a representative borrowing from a parent); and\nRepresentatives are permitted to borrow from banks who are clients, as long as the terms and conditions of the loan are the same as those given to the general public.\n\nNote that a loan from a bank to a representative on more favorable terms than those given to the general public is prohibited.\nFinally, note that any borrowing by representatives must comply with the firm's policies and procedures covering this."
+  },
+  {
+    "id": "m4-15",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam IV"
+    },
+    "chapter": 15,
+    "topic": "Sharing in Customer Accounts",
+    "question": "A RR works at ABC firm. He has a friend who he asks to open an account with him at ABC firm to buy a stock that he follows. The two will co-invest and buy this stock together. Which is correct?",
+    "choices": [
+      "This is prohibited",
+      "This is not prohibited as long as the RR gets written permission from the customer, his firm, and they share proportionally in the investment",
+      "This is not prohibited because the RR made a recommendation on the stock",
+      "This is not prohibited as long as ABC protects the friend from any losses"
+    ],
+    "answer": 1,
+    "explanation": "FINRA prohibits member firms and associated persons from sharing directly or indirectly in the profits or losses in any customer account unless the following conditions apply: (1) the associated person obtains prior written consent from both the member firm and the customer, and (2) the associated person shares in the profits or losses only in direct proportion to the financial contribution made to the customer account. This direct proportion requirement, however, does not apply to accounts belonging to the firm or associated person's immediate family members."
+  },
+  {
+    "id": "m4-16",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam IV"
+    },
+    "chapter": 15,
+    "topic": "Outside Business Activities",
+    "question": "A registered representative at a FINRA member firm has been elected to his cooperative apartment building's Board of Directors. Which statement is TRUE?",
+    "choices": [
+      "This event must be reported to FINRA",
+      "This event must be reported to his or her employer",
+      "This event must be reported to both FINRA and his or her employer",
+      "No report is required to either FINRA or the employing member firm"
+    ],
+    "answer": 1,
+    "explanation": "Any \"OBA\" - Outside Business Activity - must be reported to the firm and must first be approved by the firm. Furthermore, it must be reported on that registered representative's U4 Form and is disclosed in that individual's BrokerCheck report, if approved.\n\nRemember that an individual does not have to be paid for an OBA to require firm approval. The firm must first evaluate the proposed OBA and if necessary, they can allow it, allow it with restrictions, or deny it. Once a firm has permitted the OBA to take place, with or without restrictions, then FINRA must be notified."
+  },
+  {
+    "id": "m4-17",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam IV"
+    },
+    "chapter": 13,
+    "topic": "Underwriting",
+    "question": "Issuers usually use the help of a(n) _________ to conduct an IPO.",
+    "choices": [
+      "Market maker",
+      "Underwriter",
+      "Broker-Dealer",
+      "Investment firm"
+    ],
+    "answer": 1,
+    "explanation": "An IPO (or initial public offering) occurs when a company issues securities to the public on the primary market. An investment bank, also known as an underwriter, helps the issuing company by purchasing securities from the issuer and selling them to investors in the primary offering."
+  },
+  {
+    "id": "m4-18",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam IV"
+    },
+    "chapter": 15,
+    "topic": "Qualification Exams",
+    "question": "MSRB qualification exams are administered by which of the following entities?",
+    "choices": [
+      "FINRA only",
+      "Both the MSRB and FINRA",
+      "Both the SEC and FINRA",
+      "The MSRB only"
+    ],
+    "answer": 0,
+    "explanation": "Although the Series 50, 51, 52, 53, and 54 exams are MSRB qualification exams, they are all administered by FINRA. Neither the SEC nor the MSRB administers qualification exams."
+  },
+  {
+    "id": "m4-19",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam IV"
+    },
+    "chapter": 13,
+    "topic": "Exempt Securities",
+    "question": "Which of the following types of securities is exempt from SEC registration?",
+    "choices": [
+      "American Depositary Receipts",
+      "Bonds issued by a nonprofit",
+      "Bonds issued by a corporation",
+      "Stock"
+    ],
+    "answer": 1,
+    "explanation": "While most securities sold in the U.S. must register with the SEC, the Securities Act of 1933 exempts certain kinds of securities from registration. Examples of exempt securities are:\n- U.S. Treasuries\n- Municipal securities\n- Securities issued or guaranteed by a federal agency (CMOs and MBS)\n- Securities issued by a nonprofit (including church bonds)\n- Commercial paper (matures under nine months)\n- Banker's acceptances (mature in under nine months)\n- Bank securities (not including bank holding companies)\n- Eurobonds\n\nSecurities that are nonexempt are:\n- Stocks\n- Corporate bonds\n- American Depository Receipts"
+  },
+  {
+    "id": "m4-20",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam IV"
+    },
+    "chapter": 16,
+    "topic": "Taxable Events",
+    "question": "Which of the following is reported on Form 1099-DIV?",
+    "choices": [
+      "Cash dividends",
+      "Stock dividends",
+      "Stock splits",
+      "All of the above"
+    ],
+    "answer": 0,
+    "explanation": "Form 1099-DIV is the report to the IRS by issuers of cash dividends paid and capital gains distributions made by mutual funds. Stock splits and stock dividends are not taxable event and are not reported. However, they affect the cost basis per share, and this must be adjusted."
+  },
+  {
+    "id": "m4-21",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam IV"
+    },
+    "chapter": 16,
+    "topic": "Interest Rates",
+    "question": "The interest rate charged from commercial banks to their best customers is the:",
+    "choices": [
+      "Discount Rate",
+      "Federal Funds Rate",
+      "Broker Loan Rate",
+      "Prime Rate"
+    ],
+    "answer": 3,
+    "explanation": "The lowest rate is the Federal Funds Rate. This is the rate on overnight loans of reserves from bank to bank.\nThe next highest rate is the Discount Rate. This is the rate that the Federal Reserve charges member banks for borrowing reserves from the Fed, and is typically set at 50 basis points above the Fed Funds rate.\nThe next highest rate is the Broker Loan Rate. This is the rate that brokerage firms can borrow from banks using securities as collateral.\nThe highest rate is the Prime Rate. This is the rate for unsecured borrowing from banks by the best corporate customers.\n[Note - added by Claude] The 50 basis point spread is an older figure. Since March 2020, the Fed has set the discount rate (primary credit rate) equal to the top of the Fed Funds target range. The order of the rates in this question does not change."
+  },
+  {
+    "id": "m4-22",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam IV"
+    },
+    "chapter": 15,
+    "topic": "Customer Complaints",
+    "question": "Customer complaints against a member firm involving damages in excess of $25,000 must be reported to FINRA:",
+    "choices": [
+      "By the 15th day of each month",
+      "By the end of each calendar quarter",
+      "No later than 30 days after learning of the event",
+      "Within 20 days of learning of the event"
+    ],
+    "answer": 2,
+    "explanation": "Member firms must report to FINRA any complaint involving theft, forgery or the misappropriation of funds, or claims for damages in excess of $15,000 when filed against an associated person or $25,000 when filed against the firm. The report must be filed promptly, but no later than 30 days after the firm has learned or should have learned of the event. If the event causing the complaint happened 60 days before the complaint was received and the firm knew of the violation when it occurred, the report is already 30 days late when the complaint is received."
+  },
+  {
+    "id": "m4-23",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam IV"
+    },
+    "chapter": 13,
+    "topic": "Restricted Securities",
+    "question": "A restricted security from a SEC registered company could be resold if:",
+    "choices": [
+      "It fulfills Regulation D requirements",
+      "It is sold to a QIB individual",
+      "It is held for 5 months",
+      "It is sold to a bank with $120 million in securities"
+    ],
+    "answer": 3,
+    "explanation": "Restricted securities are those sold during a private placement. SEC Rule 144 requires purchasers of restricted securities to hold them for a certain amount of time before selling them. The holding period is 12 months for a non-reporting company issuer or six months for a company that files reports with the SEC. Restricted securities may also be sold to qualified institutional buyers (QIBS) without the holding period restriction. QIBs include insurance companies, investment companies, pensions plans, and banks that own at least $100 million in securities. QIBs must always be entities; they can never be individuals."
+  },
+  {
+    "id": "m4-24",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam IV"
+    },
+    "chapter": 15,
+    "topic": "Maintaining Qualifications Program",
+    "question": "If a registered person leaves the securities industry and enrolls in the Maintaining Qualifications Program (MQP) how long can he remain outside of the industry before he will be required to retake his qualification exam(s)?",
+    "choices": [
+      "Two years",
+      "Three years",
+      "Five years",
+      "Seven years"
+    ],
+    "answer": 2,
+    "explanation": "Under FINRA's Maintaining Qualifications Program (MQP) a registered individual who left or leaves the industry after March 15, 2020 will not need to take their qualifying exam upon returning to the industry as long as they return within 5 years of their termination date. The individual must complete the FINRA-mandated regulatory element and practical element annually to be eligible for the extended five-year grace period. If the person does not enroll in the MQP, they are subject to retaking their exam upon returning to the industry if their license lapses for two years or more."
+  },
+  {
+    "id": "m4-25",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam IV"
+    },
+    "chapter": 13,
+    "topic": "Regulation D",
+    "question": "Which of the following private placement offering types is open to no more than 35 non-accredited investors?",
+    "choices": [
+      "A Regulation D, Rule 504 offering",
+      "A Regulation D, Rule 506(b) offering",
+      "A Regulation D, Rule 506(c) offering",
+      "Each of these offering types is open to up to 35 non-accredited investors"
+    ],
+    "answer": 1,
+    "explanation": "Both a Regulation D, Rule 506(b) and a Regulation D, Rule 506(c) offering have restrictions on potential investors. A Regulation 506(b) offering is open no more than 35 non-accredited investors, while a Regulation 506(c) offering is only open to accredited investors. On the other hand, a Regulation D, Rule 504 offering is open to all investors; however, this type of offering can have a total aggregate value of no more than $10 million. Neither type of Rule 506 offering come with an aggregate offering limit."
+  },
+  {
+    "id": "m4-26",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam IV"
+    },
+    "chapter": 13,
+    "topic": "Trust Indenture Act of 1939",
+    "question": "The Trust Indenture Act of 1939 applies to which of the following offerings?",
+    "choices": [
+      "Treasury bonds",
+      "Municipal bond offerings in excess of $50 million during one year",
+      "Corporate bond offerings in excess of $50 million during one year",
+      "Each of the other choices is correct"
+    ],
+    "answer": 2,
+    "explanation": "The Trust Indenture Act applies only to corporate bond offerings that are in excess of $50 million issued during one year. Government-issued debt, such as Treasury bonds and municipal bonds, is not covered under the Act."
+  },
+  {
+    "id": "m4-27",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam IV"
+    },
+    "chapter": 15,
+    "topic": "Arbitration",
+    "question": "In the securities industry, how are disputes between customers and member firms typically handled?",
+    "choices": [
+      "Arbitration",
+      "Mediation",
+      "Civil lawsuit",
+      "Criminal case"
+    ],
+    "answer": 0,
+    "explanation": "Most disputes between customers and member firms are settled through arbitration. Most new account forms contain a predispute arbitration clause which requires customers to handle their disputes through arbitration. Judgments in an arbitration dispute are confined to monetary awards. Customers do not have the ability to bring about punitive actions (non-monetary punishments). Customers may file complaints to FINRA's Department of Enforcement, which may trigger an investigation leading to a hearing and judgment, but FINRA will be the complainant."
+  },
+  {
+    "id": "m4-28",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam IV"
+    },
+    "chapter": 16,
+    "topic": "Currency and International Trade",
+    "question": "Which of the following statements about importing and exporting goods are accurate?",
+    "choices": [
+      "A company from Kentucky that imports goods from Japan prefers a weak U.S. dollar",
+      "A company from Hong Kong that exports goods to California prefers a strong U.S. dollar",
+      "A company from Singapore that imports goods from New York prefers a strong U.S. dollar",
+      "A company from Oregon that exports goods to Australia prefers a strong U.S. dollar"
+    ],
+    "answer": 1,
+    "explanation": "When looking at a question about imports and exports, always look to where the goods are being sold. It is beneficial for an exporter for the currency to be stronger in the country where the goods are being sold than in the country where they were exported. Therefore, a company from Hong Kong exporting goods to be sold in California will want the U.S. dollar to be strong. The Kentucky company importing goods from Japan would also prefer a strong dollar because the goods are being sold in the U.S. Both the Singapore and Oregon companies would prefer a weak U.S. dollar because those goods are being sold in other countries."
+  },
+  {
+    "id": "m4-29",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam IV"
+    },
+    "chapter": 13,
+    "topic": "Rule 144A",
+    "question": "Rule 144A applies to trading of:",
+    "choices": [
+      "restricted stock in the open market",
+      "private placements by qualified institutional buyers",
+      "restricted stock in a private securities transaction",
+      "private placements by individuals"
+    ],
+    "answer": 1,
+    "explanation": "Rule 144A should not be confused with SEC Rule 144. Rule 144A allows qualified institutional buyers (\"QIBs\") to buy and trade between themselves large blocks of privately placed issues. Thus, issuers can sell private placements to these QIBs, who can then trade the private placement issues among themselves. This market is not available to individuals. Do not confuse Rule 144A with Rule 144, which covers the sale of \"restricted\" and \"control\" stock in the open market."
+  },
+  {
+    "id": "m4-30",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam IV"
+    },
+    "chapter": 15,
+    "topic": "Communications with the Public",
+    "question": "\"Correspondence\" as defined by FINRA for purposes of Rule 2210, includes any written (including electronic) communication that is distributed or made available to:",
+    "choices": [
+      "Institutional investors",
+      "25 or fewer retail investors within any 30-calendar-day period",
+      "Fewer than 30 prospective retail customers",
+      "Registered employees"
+    ],
+    "answer": 1,
+    "explanation": "Correspondence includes \"any written (including electronic) communication that is distributed or made available to 25 or fewer retail investors within any 30-calendar-day period.\" Communication distributed by a member exclusively to institutional investors or registered employees is not deemed correspondence."
+  },
+  {
+    "id": "m4-31",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam IV"
+    },
+    "chapter": 16,
+    "topic": "Monetary Policy",
+    "question": "What can the Federal Reserve do to combat inflation?",
+    "choices": [
+      "Lower interest rates",
+      "Raise taxes",
+      "Lower taxes",
+      "Raise interest rates"
+    ],
+    "answer": 3,
+    "explanation": "In order to combat inflation, the Federal Reserve (The Fed) can raise interest rates. Raising interest rates makes borrowing money more expensive. For example, mortgage rates go up or the interest rate on credit card balances goes up. When interest rates go up, people and businesses generally borrow less, which reduces economic activity, causing inflation to decrease. The Fed does not have the authority to raise or lower taxes."
+  },
+  {
+    "id": "m4-32",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam IV"
+    },
+    "chapter": 16,
+    "topic": "Fiscal Policy",
+    "question": "Fiscal policy encompasses all of the following EXCEPT:",
+    "choices": [
+      "government spending",
+      "social security payment levels",
+      "tax policy",
+      "monetary policy"
+    ],
+    "answer": 3,
+    "explanation": "Fiscal policy is set through Government Actions (approved by Congress) that influence economic activity. Fiscal policy encompasses the tax code, government transfer payment levels, and government spending. Monetary policy is controlled by the Federal Reserve Board."
+  },
+  {
+    "id": "m4-33",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam IV"
+    },
+    "chapter": 15,
+    "topic": "Communications with the Public",
+    "question": "Which of the following would be considered to be a \"retail communication?\"",
+    "choices": [
+      "A direct mailing sent to 25 existing retail clients",
+      "A research report sent to 20 prospective retail clients",
+      "An institutional communication",
+      "A website maintained by a broker-dealer that provides daily market information"
+    ],
+    "answer": 3,
+    "explanation": "Any communication made available to MORE than 25 existing or prospective retail clients is defined as \"retail communication.\" Retail communications must be approved in advance of use by a principal and can be required to be filed with FINRA. A website is seen by a broad audience and falls into this category.\nAny communication made available to 25 or fewer existing or prospective retail clients is defined as \"correspondence.\" Correspondence is required to be approved after use (as long as the firm has appropriate supervisory procedures in place) and is not subject to FINRA filing rules.\nNote that the research report sent to 20 clients is defined as \"correspondence\" and the direct mailing to 25 existing retail clients is right at the limit of the \"correspondence\" definition.\nInstitutional communications are excluded from the \"retail communications\" definition, approval and filing rules because institutions are sophisticated investors who know what they are doing."
+  },
+  {
+    "id": "m4-34",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam IV"
+    },
+    "chapter": 15,
+    "topic": "Registration (Form U4 and U5)",
+    "question": "Which of the following best describes the process followed when a securities agent (registered rep) switches employment from ABC brokerage firm to DEF brokerage firm?",
+    "choices": [
+      "ABC files Form U5 and DEF files Form U4",
+      "ABC amends Form U4 to show DEF as the rep's new employer",
+      "DEF amends Form U4 to show DEF as the rep's new employer",
+      "ABC files Form U4 and DEF files Form U5"
+    ],
+    "answer": 0,
+    "explanation": "When an agent ends employment at a firm, that firm is responsible for filing a Form U-5. Similarly, when an agent begins employment at a firm, that firm is responsible for filing a Form U-4 for the new agent."
+  },
+  {
+    "id": "m4-35",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam IV"
+    },
+    "chapter": 14,
+    "topic": "Insider Trading and Front Running",
+    "question": "An officer of a listed company calls his registered representative and tells him to sell the maximum amount of that company's common shares allowed under Rule 144. Prior to placing the order to sell, the registered representative calls five of his customers and tells them to sell that company's stock. Which statement is TRUE?",
+    "choices": [
+      "This action does not violate any securities laws",
+      "This action violates the Securities Act of 1933",
+      "This action violates the Securities Exchange Act of 1934",
+      "This action violates Rule 144"
+    ],
+    "answer": 2,
+    "explanation": "This is a violation of the Securities Exchange Act of 1934 Rule 10b-5. When the registered representative received the sell order from the officer, he is obligated to execute that order before acting on the information he has received. Once the order is executed, the Form 144 has been filed (it must be filed either at or prior to execution of the order) and the order is public information. At this point, he can trade for himself or his customers, and he is no longer considered to be an \"insider.\" In effect, the registered representative is \"front running\" the officer by telling his other customers to sell before placing the officer's sell order. This is a violation of the Securities Exchange Act Rule 10b-5."
+  },
+  {
+    "id": "m4-36",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam IV"
+    },
+    "chapter": 15,
+    "topic": "MSRB and EMMA",
+    "question": "The MSRB operates EMMA, which:",
+    "choices": [
+      "Requires issuers to submit new issue information for use by other market participants",
+      "Requires underwriters to submit municipal security information, including official disclosure documents, for use by the general public",
+      "Serves as an electronic database to provide information to regulators like FINRA",
+      "Serves as a securities depository where securities are deposited and held for ease of transfer between owners"
+    ],
+    "answer": 1,
+    "explanation": "The Electronic Municipal Market Access (EMMA) website is an electronic database operated by the MSRB that provides free public access to official disclosure documents and trade data associated with municipal securities. EMMA requires much the same information as NIIDS. Where NIIDS supplies information to the depository agency, EMMA provides information to the general public. Underwriters must provide information to EMMA via its Form G-32. A securities depository is a facility where securities are deposited and held for ease of transfer between owners. Transactions are cleared and settled in a depository. Municipal securities are almost exclusively held in the Depository Trust Company (DTC). NIIDS is an electronic system operated by the Depository Trust and Clearing Corporation (DTCC), of which DTC is a subsidiary. The NIIDS system accepts new issue information and distributes it to vendors, dealers and other market participants."
+  },
+  {
+    "id": "m4-37",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam IV"
+    },
+    "chapter": 14,
+    "topic": "Antifraud Provisions",
+    "question": "Which statement is TRUE regarding the Securities Exchange Act of 1934?",
+    "choices": [
+      "The antifraud provisions of the Act apply only to exempt securities",
+      "The antifraud provisions of the Act apply only to non-exempt securities",
+      "The antifraud provisions of the Act apply to both exempt and non-exempt securities",
+      "The antifraud provisions of the Act do not apply to either exempt or non-exempt securities"
+    ],
+    "answer": 2,
+    "explanation": "The antifraud provisions of the Act apply to both exempt and non-exempt securities. Thus, if a person fraudulently trades municipal bonds (an exempt security), this person is in violation of the Act.\nIn contrast, the general provisions of the Securities Exchange Act of 1934 apply to non-exempt securities only. For example, holders of municipal bonds (an exempt security) cannot be considered to be \"insiders\" while a holder of a large amount of corporate stock (a non-exempt security) can be an \"insider.\""
+  },
+  {
+    "id": "m4-38",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam IV"
+    },
+    "chapter": 14,
+    "topic": "Insider Trading Penalties",
+    "question": "An individual who made a profit of $1,000,000 from insider trading would be subject to a civil penalty of:",
+    "choices": [
+      "$1,000,000",
+      "$2,000,000",
+      "$3,000,000",
+      "$4,000,000"
+    ],
+    "answer": 2,
+    "explanation": "If an individual is found guilty of insider trading, he or she must pay back the profit achieved or loss avoided, and in addition must pay a penalty equal to 3 times that amount. This is called \"treble damages.\"\n[Note - added by Claude] Under the Insider Trading and Securities Fraud Enforcement Act of 1988, the civil penalty is up to 3 times the profit gained or loss avoided. The exam answer uses the maximum. Returning the profit (disgorgement) is separate from this penalty."
+  },
+  {
+    "id": "m4-39",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam IV"
+    },
+    "chapter": 14,
+    "topic": "OFAC",
+    "question": "Who creates the list of SDNs that must be checked when opening an account for a foreigner or foreign entity?",
+    "choices": [
+      "FINRA",
+      "FDIC",
+      "OFAC",
+      "FinCEN"
+    ],
+    "answer": 2,
+    "explanation": "The Department of Treasury's Office of Foreign Assets Control (OFAC) maintains a list of named countries, organizations, and individuals with whom anyone in the U.S. is prohibited from doing business.\nThe \"SDN\" (Specially Designated Nationals) list includes such countries as Iran and North Korea and such organizations as the Al-Qaeda, as well as specified individuals associated with these countries and organizations.\nThe intent is to place economic pressure on these groups by stopping U.S. investment in them. The SDN list must be checked before opening an account for a foreigner or foreign entity."
+  },
+  {
+    "id": "m4-40",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam IV"
+    },
+    "chapter": 15,
+    "topic": "MSRB and EMMA",
+    "question": "Which statement is TRUE?",
+    "choices": [
+      "RTRS information is found within EMMA",
+      "EMMA is run by the SEC",
+      "EMMA information is found within SHORT",
+      "EMMA is run by FINRA"
+    ],
+    "answer": 0,
+    "explanation": "EMMA stands for Electronic Municipal Market Access. The EMMA web portal, run by the MSRB, makes available to the investing public:\n- Official Statements, Preliminary Official Statements, Advance Refunding Documents, and Event Notices;\n- Real time reporting of municipal bond trades through RTRS (Real Time Reporting System); and\n- Real time reporting of municipal note trades through SHORT (Short-Term Obligation Rate Transparency System).\n\nNote: SHORT and RTRS information is found within EMMA; not the other way around."
+  },
+  {
+    "id": "m4-41",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam IV"
+    },
+    "chapter": 13,
+    "topic": "SEC Review of Registration Statements",
+    "question": "Which of the following best describes what SEC regulators are attempting to do when reviewing the registration statement for a new securities issue?",
+    "choices": [
+      "Make sure that it contains no omission of material facts",
+      "Determine whether or not all statements made are accurate",
+      "Ensure that the securities provide a good potential investment opportunity",
+      "Acknowledge whether or not the securities merit SEC approval"
+    ],
+    "answer": 0,
+    "explanation": "During the cooling-off period, the SEC reviews the registration statement for a new securities issue. At that time, it will not try to determine whether all statements are accurate or whether the security has the potential to be a good investment. Rather, it checks to see if everything that is supposed to be in the registration statement is actually in it. Thus, regulators are mainly concerned with making sure that the registration statement contains no omission of material facts or misleading statements. Remember that the SEC never 'approves' of a securities issue."
+  },
+  {
+    "id": "m4-42",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam IV"
+    },
+    "chapter": 16,
+    "topic": "Economic Theories",
+    "question": "Keynesian Economic Theory postulates that production and economic growth are stimulated by:",
+    "choices": [
+      "Lower government spending and decreased government borrowing",
+      "Higher government spending and decreased government borrowing",
+      "Lower government spending and increased government borrowing",
+      "Higher government spending and increased government borrowing"
+    ],
+    "answer": 3,
+    "explanation": "Keynesian Economic Theory states that economic growth is controlled by government spending and transfer payments (e.g., Social Security). This theory gained adherents in the 1930s during the Great Depression. With the private economy shattered at that time, the only way out was to have the government employ workers in large projects. This increased Government spending; and helped to stimulate economic activity as earnings were placed in individual pockets. To pay for this, the Government had to borrow more money."
+  },
+  {
+    "id": "m4-43",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam IV"
+    },
+    "chapter": 15,
+    "topic": "MSRB Customer Complaints",
+    "question": "All of the following statements are true regarding the requirements of the MSRB for handling written customer complaints EXCEPT:",
+    "choices": [
+      "All customer complaints must be addressed",
+      "If the customer alleges in a complaint that there has been a monetary loss, the MSRB must be notified",
+      "The municipal principal must supervise the review process",
+      "The municipal principal must retain a file of all customer complaints with their resolution"
+    ],
+    "answer": 1,
+    "explanation": "Written customer complaints must be addressed under the supervision and review of the municipal securities principal. Records of complaints and their formal resolution, if any, must be retained for six years.\n\nThere is no requirement to notify the MSRB if a customer alleges a monetary loss. MSRB rules are enforced primarily through FINRA and other regulatory authorities.\n\nTherefore, the correct answer is B."
+  },
+  {
+    "id": "m4-44",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam IV"
+    },
+    "chapter": 15,
+    "topic": "Customer Complaints",
+    "question": "If a customer calls their registered representative and states the following: \"I just got my account statement and I see that your recommendations have lost 15% in value. Clearly, you have made unsuitable recommendations and you will be hearing from my attorney.\" Which statement is TRUE under FINRA rules regarding how the representative should handle this?",
+    "choices": [
+      "No action is required by FINRA because the customer has not complained in writing",
+      "FINRA includes oral complaints in its definition of a complaint that must be documented and resolved by the member firm",
+      "A record of the complaint must be filed with FINRA within 15 business days",
+      "A record of the complaint must be filed with the SEC within 15 business days"
+    ],
+    "answer": 0,
+    "explanation": "FINRA defines a customer \"complaint\" as one received in writing - screamers don't count."
+  },
+  {
+    "id": "m4-45",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam IV"
+    },
+    "chapter": 16,
+    "topic": "Capital Gains Taxation",
+    "question": "Which statements are TRUE regarding the taxation of capital gains?",
+    "choices": [
+      "A capital gain is considered to be short term if a position is liquidated at a profit after being held for 1 year or less",
+      "A capital gain is considered to be short term if a position is liquidated at a profit after being held for over 1 year",
+      "For investors in the maximum tax bracket, any short term capital gains will be taxed at 20%",
+      "For investors in the maximum tax bracket, any short term capital gains will be taxed at 15%"
+    ],
+    "answer": 0,
+    "explanation": "Under Internal Revenue rules, a capital gain (or loss) is considered to be short term if a position is liquidated after being held for 1 year or less. Short term capital gains are taxed at ordinary income rates with a maximum rate of 37% (the maximum individual tax rate).\nIf the position is held for over 1 year (1 year and 1 day), then any gain or loss is long term. Gains on assets held over 12 months are taxed at a maximum rate of 15%. (Note that this rate is raised to 20% for taxpayers in the highest tax bracket.)"
+  },
+  {
+    "id": "m4-46",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam IV"
+    },
+    "chapter": 15,
+    "topic": "Municipal Advertising",
+    "question": "All of the following statements are true regarding municipal advertising EXCEPT:",
+    "choices": [
+      "all municipal advertising must be approved by either the Municipal Principal or General Principal prior to use",
+      "copies of municipal advertising must be filed in advance of first use with the Municipal Securities Rulemaking Board",
+      "copies of municipal advertising must be retained by the member for 4 years",
+      "Official Statements are exempted from the advertising rules"
+    ],
+    "answer": 1,
+    "explanation": "There is no requirement to file municipal advertising with the MSRB - they wouldn't know what to do with it since they can't enforce their own rules (remember, FINRA does this for the MSRB).\nThe other statements are true. All advertising must be approved in advance of use by a municipal principal or general securities principal; copies must be retained for 4 years (in contrast, FINRA's rule is 3 years); and Official Statements, prospectuses, and other similar \"lawyer prepared\" documents are exempted from the advertising rules. Such documents are exempted because their content is legally dictated and is not promotional in nature."
+  },
+  {
+    "id": "m4-47",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam IV"
+    },
+    "chapter": 13,
+    "topic": "All or None Offerings (Rule 15c2-4)",
+    "question": "In an \"all or none\" offering commitment, where could the money be kept for the shares held until the terms of the offering are met or not met?",
+    "choices": [
+      "In an escrow account at the investment bank where the investment bank is not the trustee of the account",
+      "In an escrow account at a bank that is an affiliate of the issuer",
+      "In an escrow account at a bank that is independent of the issuer",
+      "At any of the other choices"
+    ],
+    "answer": 2,
+    "explanation": "Securities Exchange Act of 1934, Rule 15c2-4 requires that payments for securities in an \"all or none\" or \"part or none\" offering be deposited into an escrow account at a different bank or into a separate bank account at the investment bank where the investment bank is the trustee for the account. If the terms of the offering are met and all the specified shares are sold within a specified time period, the payments will be sent to the issuer. If the terms of the offering are not met, the payments will be returned to the investors.\n[Note - added by Claude] Cerifi's screen showed no chapter under Area of Study for this question. I filed it under Chapter 13 (Primary Market), where underwriting commitments are covered."
+  },
+  {
+    "id": "m4-48",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam IV"
+    },
+    "chapter": 16,
+    "topic": "Economic Theories",
+    "question": "The economic theory that postulates that production and economic growth are stimulated by increased government spending and transfer payments is:",
+    "choices": [
+      "Supply Side Theory",
+      "Monetarist Theory",
+      "Keynesian Theory",
+      "Modern Monetary Theory"
+    ],
+    "answer": 2,
+    "explanation": "Keynesian Economic Theory states that economic growth is controlled by government spending and transfer payments (e.g., Social Security). This theory gained adherents in the 1930s during the Great Depression. With the private economy shattered at that time, the only way out was to have the government employ workers in large projects. This increased Government spending; and helped to stimulate economic activity as earnings were placed in individual pockets."
+  },
+  {
+    "id": "m4-49",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam IV"
+    },
+    "chapter": 14,
+    "topic": "USA PATRIOT Act",
+    "question": "The USA PATRIOT Act establishes provisions allowing financial institutions to assist the federal government in monitoring suspicious activity related to:",
+    "choices": [
+      "insider trading",
+      "communism",
+      "money laundering",
+      "patriotism"
+    ],
+    "answer": 2,
+    "explanation": "The Act is specifically related to anti-terrorism strategies that were a reaction to 9/11, and includes anti-money laundering provisions as an effort to track funneling of funds by enemies of the state."
+  },
+  {
+    "id": "m4-50",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam IV"
+    },
+    "chapter": 14,
+    "topic": "State Registration",
+    "question": "All of the following securities would be exempt from state registration except:",
+    "choices": [
+      "Mutual funds",
+      "Securities sold in an intra-state offering",
+      "Municipal securities sold outside the issuer's state",
+      "Securities listed on the NYSE"
+    ],
+    "answer": 1,
+    "explanation": "Securities that are generally not required to be registered at the state level include:\n- nationally traded securities\n- investment company securities\n- securities sold to qualified purchasers\n- securities sold in certain exempt offerings\n\nSecurities sold in an intra-state offering would not be federally covered and would need to register with the state."
+  }
+]

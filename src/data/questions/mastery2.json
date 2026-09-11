@@ -1,0 +1,908 @@
+[
+  {
+    "id": "m2-01",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam II"
+    },
+    "chapter": 8,
+    "topic": "Settlement",
+    "question": "Regular way trades of all of the following securities settle \"next business day\" EXCEPT:",
+    "choices": [
+      "Options",
+      "U.S. Government Bonds",
+      "Cash settlement transactions",
+      "Municipal Debt"
+    ],
+    "answer": 2,
+    "explanation": "Just about all securities transactions, including stocks, government bonds, and municipal bonds, settle the business day after the trade date. Cash settlement transactions, however, settle on the trade date."
+  },
+  {
+    "id": "m2-02",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam II"
+    },
+    "chapter": 8,
+    "topic": "Confirmations",
+    "question": "All of the following are disclosed on a customer confirmation EXCEPT:",
+    "choices": [
+      "Commission if an agency trade was executed",
+      "Mark-up if a principal transaction was effected in a Nasdaq security",
+      "Inventory position of the dealer",
+      "Amount of accrued interest for a bond trade"
+    ],
+    "answer": 2,
+    "explanation": "Customer confirmations must disclose the commission in an agency trade. The mark-up is disclosed for Nasdaq stocks (principal transactions in non-Nasdaq OTC stocks don't require this, though). The confirmation does not disclose the inventory position of the dealer - this has no bearing on the customer. The amount of accrued interest must be on a confirmation, since the buyer pays this amount to the seller."
+  },
+  {
+    "id": "m2-03",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam II"
+    },
+    "chapter": 7,
+    "topic": "Order Types",
+    "question": "If a retail customer gives a market-not held order:",
+    "choices": [
+      "the order is treated as a \"good-til-canceled\" (GTC order)",
+      "the order is treated as a \"day\" order",
+      "a written power of attorney must be on file from that customer to accept the order",
+      "the order cannot be handled manually and must be executed via an electronic system"
+    ],
+    "answer": 1,
+    "explanation": "Market-Not Held orders give discretion to the broker over price and time of execution. These orders must be executed that day if given verbally. If discretion is to last longer than 1 day, written authorization of the customer is required."
+  },
+  {
+    "id": "m2-04",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam II"
+    },
+    "chapter": 6,
+    "topic": "Fund Types",
+    "question": "Samuel wants a mutual fund that invests in a mixture of stocks and bonds so he can take advantage of lower volatility than an equity fund and higher returns than a bond fund. Which of the following funds would be most suitable for Samuel?",
+    "choices": [
+      "Fixed income fund",
+      "Money market fund",
+      "Value fund",
+      "Balanced fund"
+    ],
+    "answer": 3,
+    "explanation": "Balanced funds typically hold equities for appreciation and bonds for income. The objective of a balanced fund is to achieve lower volatility than a pure equity fund and higher returns than a pure bond fund. In addition, a balanced fund offers diversification across stocks and bonds. If the stock market is down, there is a good chance the bond prices in the fund will be up. A value fund is an equity fund that invests in stocks that are down for some reason and may therefore be undervalued by the market. A money market fund invests in short-term fixed income securities such as government bonds, treasury bills, bankers' acceptances, commercial paper and certificates of deposit. Money market funds are considered very safe but offer low returns. A fixed income fund invests in securities that offer fixed returns, typically government bonds, investment-grade corporate bonds and high-yield corporate bonds."
+  },
+  {
+    "id": "m2-05",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam II"
+    },
+    "chapter": 7,
+    "topic": "Broker vs. Dealer",
+    "question": "A broker-dealer acting in its capacity as a broker is:",
+    "choices": [
+      "Buying and selling from its own inventory",
+      "Compensated through markups and markdowns",
+      "Compensated as a percentage of assets under management",
+      "A go-between for two other parties"
+    ],
+    "answer": 3,
+    "explanation": "Broker-dealers help people buy or sell securities in one of two ways: by acting as a broker, or by acting as a dealer.A broker is merely a go-between for two parties interested in making a transaction. By contrast, a dealer is an actual party to the transaction. The dealer is either buying securities from a customer to add to their inventory of securities or selling securities to a customer from that same inventory of securities.A broker makes money by charging a commission on the transactions it helps with. A dealer makes money by charging a markup on securities sold out of its own account, or by purchasing securities for its account at a markdown."
+  },
+  {
+    "id": "m2-06",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam II"
+    },
+    "chapter": 6,
+    "topic": "Mutual Fund Benefits",
+    "question": "Which of these is an advantage of investing in a bond fund versus individual bonds?",
+    "choices": [
+      "Lower taxes",
+      "Higher yields",
+      "Less diversification",
+      "Professional investment management"
+    ],
+    "answer": 3,
+    "explanation": "Most mutual funds, including bond funds, come with professional investment management, which is considered one of their major benefits. On the other hand, because a bond mutual fund gets to pass through capital gains to the shareholder, they are not the most tax efficient vehicles. However, a bond mutual fund does offer many other conveniences compared to buying an individual bond. These advantages include greater liquidity (same day redemption privilege) and greater diversification (due to the pool of many bonds). Neither higher yields nor lower taxes is generally considered to be an advantage of a bond fund when compared to individual bonds."
+  },
+  {
+    "id": "m2-07",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam II"
+    },
+    "chapter": 8,
+    "topic": "Stock Dividends",
+    "question": "Lauryn holds 500 shares of ABC. On the day that a 10% stock dividend is made, ABC is trading at $30/share. After the stock dividend is made, how many shares of ABC does Lauryn have and what is their price?",
+    "choices": [
+      "450 shares at $33.33",
+      "500 shares at $27.00",
+      "550 shares at $27.27",
+      "550 shares at $30.00"
+    ],
+    "answer": 2,
+    "explanation": "When a company pays a 10% stock dividend, this means each common stockholder will see her total number of shares increase by 10%. At the same time, the total value of her investment will remain the same. With an additional 10% added to her original 500-share investment, Lauryn now has 550 shares (500 shares x 0.10 = 50 shares + 500 original shares = 550). Before the stock dividend was paid, her investment was worth $15,000 (500 shares x $30/share = $15,000), and after the dividend its total value remains the same. However, the per-share price has changed. It can be determined by dividing the value of her investment by the new number of shares. Doing so gives a per-share price of $27.27 ($15,000 / 550 shares = $27.27)."
+  },
+  {
+    "id": "m2-08",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam II"
+    },
+    "chapter": 6,
+    "topic": "Mutual Fund Regulation",
+    "question": "With regard to mutual funds, which of the following is not true?",
+    "choices": [
+      "They are regulated by the Investment Company Act of 1940.",
+      "They must register with the SEC.",
+      "They must provide semiannual reports to shareholders.",
+      "They provide protection against systematic risk."
+    ],
+    "answer": 3,
+    "explanation": "Mutual funds are regulated by the Investment Company Act of 1940, and they must register with the SEC. Annual reports must be provided to the SEC and semiannual reports to shareholders. Mutual funds provide diversification against unsystematic risk. Unsystematic risk (also called non-systematic risk) is a type of risk that is specific to a company or an industry. For example, a software company faces the risk of not keeping up with ever-changing hardware. This is unsystematic risk because it is not a risk that other non-software companies face. (Systematic risk, on the other hand, is the risk that the entire market will decline, thereby hurting every company in the market.)"
+  },
+  {
+    "id": "m2-09",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam II"
+    },
+    "chapter": 7,
+    "topic": "Third Market",
+    "question": "The trading of listed securities over-the-counter occurs in the:",
+    "choices": [
+      "First Market",
+      "Second Market",
+      "Third Market",
+      "Primary Market"
+    ],
+    "answer": 2,
+    "explanation": "The trading markets are:\n\nFirst Market: Trading of exchange listed securities on stock exchanges\nSecond Market: Trading of unlisted securities over-the-counter\nThird Market: Trading of exchange listed securities over-the-counter\nThe Primary Market is where new issues are sold (not traded)."
+  },
+  {
+    "id": "m2-10",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam II"
+    },
+    "chapter": 8,
+    "topic": "Dividend Dates",
+    "exhibit": "                 July 20XX\n Sun   Mon   Tue   Wed   Thu   Fri   Sat\n         1     2     3     4     5     6\n   7     8     9    10    11    12    13\n  14    15    16    17    18    19    20\n  21    22    23    24    25    26    27\n  28    29    30    31\n\n      Note: July 4th is a legal holiday",
+    "exhibitMono": true,
+    "question": "ABC corporation has set the record date for a cash dividend at Monday, July 22nd. The last day to buy the stock before it goes ex dividend is:",
+    "choices": [
+      "July 17th",
+      "July 18th",
+      "July 19th",
+      "July 21st"
+    ],
+    "answer": 2,
+    "explanation": "The last day to purchase the stock in a regular way trade and receive the dividend is 1 business day prior to record date or the 19th. Note that weekend days and holidays are not counted as business days. The ex date, which is the first day the stock trades without the value of the dividend, is the same as the record date."
+  },
+  {
+    "id": "m2-11",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam II"
+    },
+    "chapter": 7,
+    "topic": "Short Sales",
+    "question": "A sell order for a customer is considered to be \"long\" if the customer is long:",
+    "choices": [
+      "a call option on the stock being sold that has not yet been exercised",
+      "the stock and will not deliver the shares on settlement",
+      "a convertible bond that has been converted into the stock being sold for delivery on settlement",
+      "a warrant on the stock being sold that has not yet been exercised"
+    ],
+    "answer": 2,
+    "explanation": "A customer order to sell can only be marked \"long\" if the customer will deliver the shares being sold on settlement.\nFor a customer who is long a call option or a warrant, these must be exercised and the stock delivered for the sell order to be \"long.\"\nA customer who is long the stock, but will not deliver the shares on settlement, is \"going short against the box.\" Since he or she is not delivering the shares, this is a short sale because the shares must be borrowed for delivery.\nA customer who is long a convertible bond that has been converted into the stock being sold, and that will deliver the converted shares on settlement, is selling \"long.\""
+  },
+  {
+    "id": "m2-12",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam II"
+    },
+    "chapter": 8,
+    "topic": "Dividend Dates",
+    "question": "On which date does the price of a stock typically drop by about as much as the dividend per share?",
+    "choices": [
+      "Declaration date",
+      "Ex-date",
+      "Business day after the ex-date",
+      "Payable date"
+    ],
+    "answer": 1,
+    "explanation": "The IRS says the ex-dividend date is \"the first date following the declaration of a dividend on which the buyer of a stock is not entitled to receive the next dividend payment.\" It is the date on and after which you no longer receive a dividend. On the ex-date, the share price drops by about the dividend amount. If the stock is selling at $50/share and it's about to pay a $1/share dividend, on the ex-date the stock will open at $49/share."
+  },
+  {
+    "id": "m2-13",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam II"
+    },
+    "chapter": 6,
+    "topic": "Breakpoints",
+    "question": "Which of the following is the correct definition of breakpoint sales? Choose the best answer.",
+    "choices": [
+      "When someone sells a mutual fund to a client in an amount just under the breakpoint without informing the client of the breakpoint",
+      "When a representative earns mutual fund sales through encouraging breakpoints",
+      "When a registered representative pushes a customer to purchase a mutual fund to make a breakpoint.",
+      "When a representative does incorporate a breakpoint into the commission even though the client has earned it"
+    ],
+    "answer": 0,
+    "explanation": "Breakpoint sales are when a representative does not inform a client of a breakpoint on a mutual fund order when the client is close to earning a breakpoint. This is prohibited by FINRA. Registered representatives should advise their clients when it is possible to earn a breakpoint even when it reduces their commissions."
+  },
+  {
+    "id": "m2-14",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam II"
+    },
+    "chapter": 7,
+    "topic": "ECNs and Fourth Market",
+    "question": "The Secondary Market is divided into how many submarkets?",
+    "choices": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": 2,
+    "explanation": "The Secondary Market is divided into 4 subcategories: the First Market; the Second Market; Third Market; and the Fourth Market.\nThe First Market is trading of exchange listed securities on that stock exchange.\nThe Second Market is trading of securities that are not exchange listed on the over the counter market.\nThe Third Market is trading of exchange listed securities over the counter.\nThe Fourth Market is trading of securities directly between institutions in the over the counter market via ECNs (Electronic Communications networks) such as Instinet."
+  },
+  {
+    "id": "m2-15",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam II"
+    },
+    "chapter": 6,
+    "topic": "Fund Structure",
+    "question": "The underwriter of a mutual fund is known as the:",
+    "choices": [
+      "Sponsor",
+      "Manager",
+      "Custodian",
+      "Guardian"
+    ],
+    "answer": 0,
+    "explanation": "The fund underwriter is also known as the fund sponsor. The sponsor is responsible for establishing the fund in compliance with the requirements of the Investment Company Act of 1940."
+  },
+  {
+    "id": "m2-16",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam II"
+    },
+    "chapter": 6,
+    "topic": "Direct Participation Programs",
+    "question": "Which of the following types of oil and gas direct participation programs is the riskiest?",
+    "choices": [
+      "Income",
+      "Developmental",
+      "Exploratory",
+      "Combination"
+    ],
+    "answer": 2,
+    "explanation": "Exploratory oil and gas programs drill for oil in unproven areas. This is the riskiest type of oil and gas program. Developmental programs drill near existing fields. Income programs simply buy proven oil reserves in the ground, and sell them using the depletion allowance as a partial tax shelter. Combination programs combine all three types."
+  },
+  {
+    "id": "m2-17",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam II"
+    },
+    "chapter": 7,
+    "topic": "Liquidity and Bid-Ask Spread",
+    "question": "Which of the following indicates an investment is less liquid:",
+    "choices": [
+      "Large bid-ask spread",
+      "Small bid-ask spread",
+      "Higher price",
+      "Lower price"
+    ],
+    "answer": 0,
+    "explanation": "Liquidity refers to how quickly an investment can be converted into cash without affecting the value of the investment. When buying and selling securities, the bid is the highest price that a buyer is willing to pay and the ask is the lowest price that a seller is willing to sell for. The bid-ask spread is the difference between the two. If the spread is regularly large, that indicates fewer buyers and sellers, if the spread is regularly small that indicates more buyers and sellers. For a sale to occur, the bid and the ask must meet. A small bid-ask spread means a sale will be easier to execute while a large bid-ask spread means a sale will be more difficult to execute and could require the seller to lower the ask price or the buyer to be willing to pay more. Therefore, a large bid ask spread indicates a less liquid market — buyers and sellers are far apart. The price of an investment, on its own, is not a factor when gauging liquidity."
+  },
+  {
+    "id": "m2-18",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam II"
+    },
+    "chapter": 7,
+    "topic": "OTC Markets",
+    "question": "Which of the following is not an exchange market?",
+    "choices": [
+      "NYSE",
+      "Nasdaq",
+      "AMEX (NYSE American)",
+      "OTC Markets Group"
+    ],
+    "answer": 3,
+    "explanation": "The exchange market is made up o the major stock exchanges. This includes those with trading floors like the NYSE and NYSE American (AMEX). It also includes Nasdaq, which is an electronic network. Exchanges have listing standards for the companies that trade there and accessible order books, where orders can be posted and traded against.\nAny companies that do not meet exchange listing standards are quoted by the OTC Markets Group, which maintains 3 quotation feeds:\nOTCQX: Established U.S. and international companies\nOTCQB: Development stage U.S. and international companies\nPink Open Market: Speculative stocks with minimal quotation standards"
+  },
+  {
+    "id": "m2-19",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam II"
+    },
+    "chapter": 6,
+    "topic": "Hedge Funds",
+    "question": "Which of the following is true of hedge funds?",
+    "choices": [
+      "They are suitable for investors who may need cash in the near future",
+      "They typically have to register with the SEC",
+      "They are typically not risky investments",
+      "Their managers can be paid a percentage of profits"
+    ],
+    "answer": 3,
+    "explanation": "Hedge funds are often subject to lock-up periods, meaning they cannot redeem shares in the first one or more years of investment, so they are usually not suitable for investors who need cash in the near future. Hedge funds are typically exempt from registration with the SEC. They are typically high risk investments, and their managers can be paid a percentage of profits."
+  },
+  {
+    "id": "m2-20",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam II"
+    },
+    "chapter": 6,
+    "topic": "Leveraged and Inverse ETFs",
+    "question": "At the market opening, a customer purchases 200 shares of an S&P 500 2X ETF at $50 per share. At the end of that day, the S&P 500 Index increases by 10%. The next day, the index declines by 5%. What will be the market value of the 200 share position?",
+    "choices": [
+      "$10,000",
+      "$10,450",
+      "$10,500",
+      "$10,800"
+    ],
+    "answer": 3,
+    "explanation": "Since this ETF is \"2x,\" it is an ETF that moves in the same direction as the market, but it moves twice as fast The customer starts with 200 shares at $50, or a $10,000 position. At the end of the first day, because the index rises by 10%, this position will rise by 20% to $12,000 value ($10,000 x 1.2). At the end of the second day, because the index goes down by 5%, the ETF value will decline by 10%. $12,000 x .90 = $10,800."
+  },
+  {
+    "id": "m2-21",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam II"
+    },
+    "chapter": 8,
+    "topic": "Yield to Worst (MSRB)",
+    "question": "Under MSRB rules, yield to worst means that:",
+    "choices": [
+      "all municipal bonds quoted on a yield basis must be priced to the first call date",
+      "municipal par bonds quoted on a yield basis must be priced to the first call date",
+      "municipal discount bonds quoted on a yield basis must be priced to the first call datee",
+      "municipal premium bonds quoted on a yield basis must be priced to the first call date"
+    ],
+    "answer": 3,
+    "explanation": "When municipal serial bonds are quoted on a yield basis, the dealer must compute the dollar price shown on the customer confirmation. This dollar price must assure, that at a minimum, the customer will receive the promised yield. This is known as pricing to the \"worst case\" scenario.\n\nFor a premium bond, the \"worst case\" scenario is having the bond called early (which is the likely case). Bonds trade at a premium because market interest rates have dropped, so the issuer can refund the issue at lower current market rates by calling in the bonds. In this case, the bond is priced based on giving the customer the promised yield using the near-term in whole call date as the redemption date. If the bond were not called, the customer's actual yield would improve, because the annual loss of premium incorporated into the yield would be spread over a longer time frame.\n\nFor a discount bond, the \"worst case\" scenario is having the bond held to maturity (which is the likely case). Bonds trade at a discount because market interest rates have risen, so the issuer would not call these bonds. In this case, the bond is priced based on giving the customer the promised yield using the maturity date. If the bond were called early, the customer's actual yield would improve, because the annual earning of the discount incorporated into the yield would be spread over a shorter time frame."
+  },
+  {
+    "id": "m2-22",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam II"
+    },
+    "chapter": 7,
+    "topic": "Short Sales",
+    "question": "Noah owns 1,000 shares. Noah wants to sell them today. Which order would they enter?",
+    "choices": [
+      "A sell short order",
+      "A sell long order",
+      "A margin order",
+      "A long put order"
+    ],
+    "answer": 1,
+    "explanation": "When an investor owns securities and wants to sell them, they enter a sell long order. A sell short order is entered by an investor who borrows shares from their broker-dealer and sells them immediately. The investor will need to repurchase the shares at some future date to return to the broker-dealer and close out their position."
+  },
+  {
+    "id": "m2-23",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam II"
+    },
+    "chapter": 8,
+    "topic": "Good Delivery",
+    "question": "All of the following are considered to be a good delivery for a 500 share trade of stock EXCEPT:",
+    "choices": [
+      "Two 250 share certificates",
+      "Twenty 25 share certificates",
+      "Ten 50 share certificates",
+      "Fifty 10 share certificates"
+    ],
+    "answer": 0,
+    "explanation": "To be a good delivery dealer to dealer, stock certificates must be delivered in multiples of 100 on one certificate or in certificates of less than 100, where the certificates can be added exactly to 100 share units. Choice A does not meet this requirement - two 250 share certificates are not in multiples of 100 on a certificate. Twenty 25 share certificates work because four 25 share certificates = 100. Ten 50 share certificates work because two 50 share certificates = 100. And fifty 10 share certificates work because ten 10 share certificates = 100."
+  },
+  {
+    "id": "m2-24",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam II"
+    },
+    "chapter": 6,
+    "topic": "ETFs vs. ETNs",
+    "question": "Exchange Traded Notes are backed by:",
+    "choices": [
+      "The US Treasury",
+      "SIPC",
+      "FDIC",
+      "The issuer"
+    ],
+    "answer": 3,
+    "explanation": "Exchange-traded notes (ETNs) are unsecured debt securities issued by a bank or financial institution. ETNs are backed only by the credit of the issuer and if the issuer defaults, then an ETN investor would not be protected and would simply be an unsecured creditor of the ETN issuer. SIPC is insurance for customers of broker-dealers in the event a broker-dealer goes bankrupt or engages in unauthorized trading. FDIC is federal insurance for bank deposits and would not apply to ETNs. The US Treasury doesn't insure ETNs or any non-Treasury security."
+  },
+  {
+    "id": "m2-25",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam II"
+    },
+    "chapter": 7,
+    "topic": "Third Market",
+    "question": "The trading of unlisted stocks would not take place on:",
+    "choices": [
+      "The secondary market",
+      "The third market",
+      "The fourth market",
+      "Unlisted stocks are traded on each of the other choices"
+    ],
+    "answer": 1,
+    "explanation": "The secondary market involves the trading of securities between investors that are not the issuer of the securities. Unlisted stocks are traded on the secondary market. While the secondary market includes the third market, OTC stocks are not traded on this market. Instead, the third market involves trading listed securities outside their exchanges. The fourth market involves the trading of both listed and unlisted securities among institutional investors (without the use of a broker-dealer)."
+  },
+  {
+    "id": "m2-26",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam II"
+    },
+    "chapter": 6,
+    "topic": "Share Classes",
+    "exhibit": "A mutual fund discloses the following in its prospectus:\n\nClass A: As shown in the table below, the initial sales charge paid when purchasing Class A shares may be reduced or eliminated for larger purchases. Any applicable sales charge is paid directly out of the investment and reduces the investment amount.\n\n                          Sales Charges as a Percentage of\nInvestment                Offering Price   Net Amount Invested\n$0       - $24,999            4.00%              4.17%\n$25,000  - $49,999            3.00%              3.09%\n$50,000  - $74,999            2.00%              2.04%\n$75,000  - $174,999           1.00%              1.01%\n$175,000 - $249,999            .50%               .50%\n\nTo receive the reduced sales charge on Class A shares, investments may be aggregated by the client and immediate family members (spouse and children under age 21). In addition, trust accounts, single participant retirement accounts, and solely controlled business accounts established by the client can be aggregated to qualify for the breakpoint.\n\nClass B: Class B shares have no initial sales charge. However, a contingent deferred sales charge may be applied to any client redemptions that occur within the first 5 years of purchase, as shown in the table below:\n\nRedemption After      Contingent Deferred\nHolding For:          Sales Charge\n1 year                     5%\n2 years                    4%\n3 years                    3%\n4 years                    2%\n5 years                    1%\n\nAfter 6 years, B shares convert to A shares",
+    "exhibitMono": true,
+    "question": "A customer has $100,000 to invest in the mutual fund shown in the exhibit window, but will need to start redeeming shares in 3 years to pay for her child's college tuition. You should inform the customer that:",
+    "choices": [
+      "Class A shares are the best investment choice",
+      "Class B shares are the best investment choice",
+      "mutual fund shares are not an appropriate investment for a customer with a short investment time horizon because of the uncertainty of investment return",
+      "mutual fund shares are not an appropriate investment for a customer with a short investment time horizon because of penalties imposed for early withdrawals from the fund"
+    ],
+    "answer": 0,
+    "explanation": "Because this customer has $100,000 to invest, she qualifies for a 1% sales charge on the Class A shares. If she purchased Class B shares, there would be no up-front sales charge, but since she needs to start liquidating shares in 3 years to pay for college expenses, the redemption fees on the Class B shares would be more than the 1-time up-front sales charge on the Class A shares."
+  },
+  {
+    "id": "m2-27",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam II"
+    },
+    "chapter": 6,
+    "topic": "Expense Ratio",
+    "question": "A mutual fund's expense ratio has been increasing over the last 4 years. Which of the following may have caused the increase?",
+    "choices": [
+      "Higher redemptions",
+      "Higher sales charges",
+      "Decreased dividend distributions",
+      "An increase in the fund's NAV"
+    ],
+    "answer": 0,
+    "explanation": "The formula for the expense ratio is: Total Expenses ÷ Average Net Assets. If expenses rise (such as a higher fees), or assets fall (caused by increased redemptions), the ratio will rise. Decreased dividend distributions will result in a higher NAV, which would lower the expense ratio."
+  },
+  {
+    "id": "m2-28",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam II"
+    },
+    "chapter": 6,
+    "topic": "Sales Charges",
+    "question": "The formula for calculating the sales charge percentage on mutual fund A-shares is",
+    "choices": [
+      "(NAV-POP)/POP",
+      "(POP-NAV)/NAV",
+      "(NAV-POP)/NAV",
+      "(POP-NAV)/POP"
+    ],
+    "answer": 3,
+    "explanation": "(POP minus NAV) divided by the POP equals the sales charge. If POP = $10.00 and NAV = $9.45, subtract $9.45 from $10 ($0.55) and divide by $10 to reveal the sales charge of 5.5%."
+  },
+  {
+    "id": "m2-29",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam II"
+    },
+    "chapter": 6,
+    "topic": "Open-End vs. Closed-End Funds",
+    "question": "In terms of how they are bought and sold, shares in closed-end investment companies most closely resemble:",
+    "choices": [
+      "Shares of common stock",
+      "Shares of open-end investment companies",
+      "Individual bonds",
+      "Mutual fund shares"
+    ],
+    "answer": 0,
+    "explanation": "Shares of closed-end investment companies are traded on an exchange, they can be shorted, and they have bid and ask prices like shares of common stock. None of these factors apply to open-end mutual funds."
+  },
+  {
+    "id": "m2-30",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam II"
+    },
+    "chapter": 6,
+    "topic": "Breakpoints",
+    "exhibit": "Below is the breakpoint schedule for ACME Growth Fund Class A shares:\n\nPurchase Amount        Sales Charge\n$0 - $10,000                5%\n$10,001 - $25,000           4%\n$25,001 - $50,000           3%\n$50,000 - $100,000          4%\n$100,000 - $250,000         3%\n$250,000 - $500,000         2%\n$500,000 and up             1%",
+    "exhibitMono": true,
+    "question": "What purchase amount would constitute a breakpoint sale?",
+    "choices": [
+      "$26,000",
+      "$38,000",
+      "$99,000",
+      "$262,000"
+    ],
+    "answer": 2,
+    "explanation": "A breakpoint sale is where a customer buys just beneath the breakpoint level, so he or she does not get the benefit of the lower sales charge. In this case, if the customer buys $99,000, he or she simply needs to invest just $1,000 more to get the sales charge reduced from 4% to 3%. Not making a customer aware that he or she is close to a breakpoint is a \"breakpoint sale\" violation.\n[Note - added by Claude] Cerifi's table goes up from 3% to 4% at $50,000. Real breakpoint schedules only go down as the purchase grows, so this row is likely a Cerifi error. The answer still works with the table as shown."
+  },
+  {
+    "id": "m2-31",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam II"
+    },
+    "chapter": 6,
+    "topic": "Diversified Funds",
+    "question": "Under the Investment Company Act of 1940, a diversified fund is one which has at least:",
+    "choices": [
+      "75% of its assets invested in securities, with no more than 5% of assets invested in any one issuer, representing no more than 10% of the voting stock of that issuer",
+      "75% of its assets invested in securities, with no more than 10% of assets invested in any one issuer, representing no more than 5% of the voting stock of that issuer",
+      "95% of its assets invested in securities, with no more than 5% of assets invested in any one issuer, representing no more than 10% of the voting stock of that issuer",
+      "95% of its assets invested in securities, with no more than 10% of assets invested in any one issuer, representing no more than 5% of the voting stock of that issuer"
+    ],
+    "answer": 0,
+    "explanation": "A diversified fund is defined as one which has at least 75% of its assets invested in securities, with no more than 5% of assets invested in any one issuer, representing no more that 10% of the voting stock of that issuer."
+  },
+  {
+    "id": "m2-32",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam II"
+    },
+    "chapter": 6,
+    "topic": "Fund Types",
+    "question": "Rudolfo would like to put his money in an equity fund that provides both the potential for capital appreciation as well as current dividends. While he knows that the fund will have to invest in companies with growth potential, he also wants the peace of mind that comes with investments in well-established companies. Which equity fund is most suitable for Rudolfo?",
+    "choices": [
+      "Growth fund",
+      "Income fund",
+      "Growth and income fund",
+      "Blend fund"
+    ],
+    "answer": 2,
+    "explanation": "Growth and income funds combine the potential for capital appreciation of a growth fund with the dividends of an income fund. A blend fund would be less suitable for Rudolfo because it invests in growing and undervalued companies, not well-established companies."
+  },
+  {
+    "id": "m2-33",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam II"
+    },
+    "chapter": 6,
+    "topic": "REITs",
+    "question": "What type of REIT is this? Its shares are illiquid. It has a high level of risk. It is typically limited to accredited or institutional investors. It is not registered with the SEC",
+    "choices": [
+      "Listed REIT",
+      "Public non-listed REIT",
+      "Private REIT",
+      "Hybrid REIT"
+    ],
+    "answer": 2,
+    "explanation": "Private REITs are significantly different from both listed and public non-listed REITS. Since private REITs do not register with the SEC, they are not subject to the same disclosure requirements as both exchange-traded and public non-listed REITS. As a result, private REITs come with a high level of risk and are typically sold only to accredited investors. Because of this, shares are illiquid. Public non-listed REITs, also called non-traded REITs, are registered with the SEC, but not publicly traded on an exchange. FINRA warns that the period of illiquidity for this type of REIT can be as long as eight years. Front-end fees for non-listed REITs can be as high as 15% of the share price. In addition, non-listed REITs may have significant transaction costs, such as property acquisition fees and asset management fees. Investors in non-listed REITs generally seek income from dividends over a period of years. Because public non-listed REITs register with the SEC, investors can review publicly available documents before investing, and broker-dealers are required to annually post a per share value on their customers' account statements.Exchange-traded REITs are those which are SEC-registered and publicly traded on an exchange. They are the most liquid due to being exchange-listed. The main fee associated with purchase is a brokerage commission. While investors depend on dividends as a source of income, they also benefit from an appreciation in the REIT's market price. The term \"hybrid REIT\" does not refer to whether a REIT is registered or how it is traded. Rather, it refers to a REIT that both owns real estate, and also finances third parties' real estate projects."
+  },
+  {
+    "id": "m2-34",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam II"
+    },
+    "chapter": 7,
+    "topic": "Order Types",
+    "question": "A customer who wishes the broker to place an order immediately at the best available price would request a _________ order?",
+    "choices": [
+      "Market",
+      "Limit",
+      "Stop",
+      "Stop-limit"
+    ],
+    "answer": 0,
+    "explanation": "A market order is an order to buy or sell a security immediately at the best available price. A limit order is an order to buy or sell a security at a specific price or \"better.\" A stop order, also referred to as a stop-loss order, is an order to buy or sell a stock once the price of the stock reaches a specified price, known as the stop price. When the stop price is reached, a stop order becomes a market order. Stop-limit orders are orders that become limit orders after the market passes a trigger price."
+  },
+  {
+    "id": "m2-35",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam II"
+    },
+    "chapter": 6,
+    "topic": "Open-End vs. Closed-End Funds",
+    "question": "An open-end management company:",
+    "choices": [
+      "continuously rebalances its portfolio to specified asset allocation percentages",
+      "continuously trades the stocks in its portfolio to generate trading profits",
+      "continuously liquidates appreciated positions with liquidations of depreciated positions",
+      "continuously offers its own shares to investors"
+    ],
+    "answer": 3,
+    "explanation": "An open-end management company is a mutual fund. It continuously issues and redeems its own shares."
+  },
+  {
+    "id": "m2-36",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam II"
+    },
+    "chapter": 6,
+    "topic": "Fund Taxation",
+    "question": "A fund that distributes at least 90% of its Net Investment Income to shareholders is termed a(n):",
+    "choices": [
+      "income fund",
+      "registered fund",
+      "regulated fund",
+      "tax exempt fund"
+    ],
+    "answer": 2,
+    "explanation": "A fund that distributes at least 90% of Net Investment Income to shareholders is \"regulated\" under Subchapter M of the Internal Revenue Code and pays no tax on the distributed amount."
+  },
+  {
+    "id": "m2-37",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam II"
+    },
+    "chapter": 6,
+    "topic": "Fund Structure",
+    "question": "Which of the following terms are synonymous when talking about open-end funds?",
+    "choices": [
+      "Underwriter / Dealer",
+      "Underwriter / Sponsor",
+      "POP/ Bid Price",
+      "NAV/ Ask Price"
+    ],
+    "answer": 1,
+    "explanation": "When talking about mutual funds, the Fund Sponsor is the Fund Underwriter. Broker-dealers may join in a selling group to sell these funds, acting as agent only. Net asset value (NAV) of a fund is the same as the fund's bid price. Public Offering Price (POP) is the same as the fund's ask price."
+  },
+  {
+    "id": "m2-38",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam II"
+    },
+    "chapter": 7,
+    "topic": "ECNs and Fourth Market",
+    "question": "ECNs trade:",
+    "choices": [
+      "stocks",
+      "stock options",
+      "bonds",
+      "mutual funds"
+    ],
+    "answer": 0,
+    "explanation": "ECNs - Electronic Communications Networks - only accept orders for actively traded securities - that is, NYSE listed and Nasdaq stocks. Essentially they are electronic matching services, matching customer buy and sell orders on an agency basis only for a very low fee (often as low as $1 per trade).\nStock options are not traded through ECNs since the ECNs are not members of the Options Clearing Corporation - thus they do not have the capability of reporting trades to the OCC for recordkeeping and margin purposes. Mutual funds do not trade - rather they are redeemable securities. Most bonds are traded through dealers in the OTC market."
+  },
+  {
+    "id": "m2-39",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam II"
+    },
+    "chapter": 6,
+    "topic": "Breakpoints",
+    "question": "A husband and wife both have individual accounts at a brokerage firm and they also have a custodial account for their minor child. They have $60,000 that they wish to invest in ABC mutual fund shares, for which breakpoints start at a $25,000 investment. They wish to allocate the investment as follows:\n\n$20,000 - Husband's IRA account\n$20,000 - Wife's IRA account\n$20,000 - Custodial account\n\nAs the registered representative handling these accounts, you should tell these customers that:",
+    "choices": [
+      "These purchases will qualify for a breakpoint",
+      "These purchases will not qualify for a breakpoint because each account is buying less than the $25,000 minimum",
+      "These purchases should be made initially as 1 purchase in 1 account to qualify for the breakpoint and then the investment should be allocated and disbursed in $20,000 amounts to the desired accounts",
+      "These purchases will not qualify for the breakpoint because investors cannot join together to take advantage of breakpoint sales charge reductions"
+    ],
+    "answer": 0,
+    "explanation": "Mutual fund breakpoints are generally calculated using all investments made within a family - that is, parents and their children. Note, however, that groups of unrelated individuals cannot join together to get the benefit of a breakpoint."
+  },
+  {
+    "id": "m2-40",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam II"
+    },
+    "chapter": 6,
+    "topic": "Unit Investment Trusts",
+    "question": "Which of the following is true of fixed UITs?",
+    "choices": [
+      "is an Investment Company",
+      "Issues bonds",
+      "Is actively managed",
+      "Usually comes with a management fee"
+    ],
+    "answer": 0,
+    "explanation": "A unit investment trust is an investment company that issues shares of beneficial interest representing an undivided interest in a unit of the trust's portfolio. A fixed trust selects a portfolio of securities (usually bonds). Once the portfolio is selected, it is not changed: no buying or selling occurs in the trust.\n\nThere is no management of the trust and, therefore, no management fee. The trust then sells units to investors. These units are typically negotiable. As interest payments are made on the bonds, they are passed to the unit holders. As bonds mature, the principal is repaid to the unit holders. When all the bonds have matured, the trust self-liquidates."
+  },
+  {
+    "id": "m2-41",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam II"
+    },
+    "chapter": 6,
+    "topic": "Investment Company Act of 1940",
+    "question": "For the purpose of the Investment Company Act of 1940, investment companies are classified into three distinct categories. Each of the following is a category of investment company EXCEPT",
+    "choices": [
+      "Face amount certificate companies",
+      "Open-end companies",
+      "Unit investment trusts",
+      "Management companies"
+    ],
+    "answer": 1,
+    "explanation": "The three categories are face amount certificate companies, unit investment trusts, and management companies. Management companies are then further divided into open-end and closed-end companies. Face amount certificate companies are investment companies that offer face amount certificates, and unit investment trusts are investment companies organized under a trust indenture."
+  },
+  {
+    "id": "m2-42",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam II"
+    },
+    "chapter": 6,
+    "topic": "Share Classes",
+    "question": "Which of the following do B shares have, but A shares do not?",
+    "choices": [
+      "Contingent deferred sales charge",
+      "A front end sales load",
+      "A management fee",
+      "Breakpoints"
+    ],
+    "answer": 0,
+    "explanation": "The difference between A and B shares is the contingent deferred sales charge and the 12b-1 fee. Investors in A shares pay an upfront load and a small or no 12b-1 fee. Investors in B shares pay a back-end load (contingent deferred sales charge) if they redeem their fund shares within the first several years. The contingent deferred sales charge declines each year until it goes completely away, generally sometime after year 5 to 7. In addition to the contingent deferred sales charge, the B share investor pays a higher 12b-1 fee until the contingent deferred sales charge expires, after which time the B shares often convert to A shares. Breakpoints apply to A shares, but they do not apply to B shares."
+  },
+  {
+    "id": "m2-43",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam II"
+    },
+    "chapter": 8,
+    "topic": "Order Ticket Alterations",
+    "question": "Under FINRA rules, alterations to executed order tickets for orders that were filled on the NYSE are prohibited:",
+    "choices": [
+      "under all circumstances",
+      "unless the alterations are approved in writing by the Floor Governors of the NYSE",
+      "unless the alterations are approved in writing by the DMM on the floor of the NYSE",
+      "unless the alterations are approved in writing by the Branch Manager"
+    ],
+    "answer": 3,
+    "explanation": "Under FINRA rules, alterations to order tickets are prohibited, unless the alteration is approved in writing by a \"designated person\" such as a branch manager. This person must understand all of the facts surrounding the alteration before approving of the change, and is responsible for the change."
+  },
+  {
+    "id": "m2-44",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam II"
+    },
+    "chapter": 6,
+    "topic": "12b-1 Fees",
+    "question": "Which is true about a 12b-1 fee:",
+    "choices": [
+      "The 12b-1 fee covers the cost of advertising and other distribution expenses.",
+      "The 12b-1 fee cannot be more than 25 basis points.",
+      "The 12b-1 fee is part of all mutual funds' expense ratios.",
+      "The 12b-1 fee is sometimes used by the Fund manager to cover management costs."
+    ],
+    "answer": 0,
+    "explanation": "The 12b-1 fee is named after a section of the '40 Act and is used by some mutual funds to pay for sales and marketing costs, sometimes called distribution fees."
+  },
+  {
+    "id": "m2-45",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam II"
+    },
+    "chapter": 8,
+    "topic": "Accrued Interest",
+    "question": "Accrued interest on municipal bonds is computed:",
+    "choices": [
+      "30/360",
+      "30/actual",
+      "actual/360",
+      "actual/actual"
+    ],
+    "answer": 0,
+    "explanation": "When a bond is traded, because interest payments are made only 2 times a year, the buyer must pay the seller any \"accrued interest\" due for the period that the seller held the bond between those interest payment dates.\nInterest accrues from the date of the last interest payment made, up until, but not including, settlement date (which is the date that the money actually changes hands). For corporate and municipal bonds, the method of accruing interest is \"standardized\" so that each month only counts 30 days. Thus, for corporates and municipals, interest accrues on a \"30 day month/360 day year\" basis.\nNote that on the SIE, you do not actually have to calculate the number of days of accrued interest due."
+  },
+  {
+    "id": "m2-46",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam II"
+    },
+    "chapter": 6,
+    "topic": "Open-End vs. Closed-End Funds",
+    "question": "Unlike mutual funds and ETFs, closed-end funds:",
+    "choices": [
+      "Have a fixed number of shares issued in an IPO",
+      "May not use leverage",
+      "Are passively managed",
+      "Must be redeemed to the issuer"
+    ],
+    "answer": 0,
+    "explanation": "Closed-end funds (CEFs) differ from mutual funds and ETFs because they issue a fixed number of shares in an initial public offering (IPO). After the IPO, shares are not redeemed by the fund. Instead, they trade in the secondary market, often on an exchange.\n\nKey characteristics of closed-end funds include:\n- A fixed number of shares issued at the IPO\n- Shares trade between investors on an exchange (not redeemable with the issuer)\n- Market price may trade at a premium or discount to NAV\n- Typically actively managed by an investment adviser\n- May use leverage, which can increase both returns and risk\n\nBecause CEFs do not have the creation/redemption mechanism that keeps ETF prices close to NAV, closed-end fund prices are driven mainly by supply and demand."
+  },
+  {
+    "id": "m2-47",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam II"
+    },
+    "chapter": 8,
+    "topic": "Prohibited Practices",
+    "question": "Jared and several of his friends recently purchased a large number of shares in Company A. Before making their purchases, they created profiles on a host of different websites devoted to sharing stock tips. Once the shares were purchased, each member of the group took to these sites and made unsubstantiated claims related to the overall value of Company A. They even boasted that many of those claims were based on inside information that was inaccessible to retail investors. The group's collective promotion seemed to work as the value of shares in Company A increased by 25% over a two-week period. Once the 25% benchmark was reached, the group sold all of its shares, realizing a nice gain. The value of Company A stock subsequently dropped. Which of the following is true of the group's actions?",
+    "choices": [
+      "The actions could be described as a \"pump and dump\" scheme and they are prohibited",
+      "The actions could be described as a \"touting\" and they are prohibited",
+      "The actions are prohibited because they are part of a high yield investment program",
+      "The actions are allowable"
+    ],
+    "answer": 0,
+    "explanation": "Pump and dump schemes typically involve an investor or a group of investors \"pumping\" up the price of a security through the publication of false or misleading information, often on social media. Publications or posts may claim to have inside information and urge investors to purchase a stock quickly to get in early on the investment. Once the price of a security rises, the schemers typically sell their shares realizing a quick profit. This is what Jared and his friends did. Such schemes are strictly prohibited. Touting, on the other hand, occurs when an investor offers a positive opinion on a security in exchange for a fee. Since Jared and his friends received no pay-off, they did not engage in touting. Finally, high yield investment programs typically involve unregistered investments that are offered on websites promising high yields at little to no risk to investors, which does not describe what Jared and his group did in this instance."
+  },
+  {
+    "id": "m2-48",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam II"
+    },
+    "chapter": 7,
+    "topic": "Dividend Dates",
+    "question": "When would the price of a stock fall without any change in the underlying demand for that stock?",
+    "choices": [
+      "On the ex date",
+      "On the payable date",
+      "On the annual meeting date",
+      "On the annual 10K filing date"
+    ],
+    "answer": 0,
+    "explanation": "The \"ex date\" for a cash dividend is the first day that the purchaser of the stock in a regular way trade will no longer be entitled to that dividend. Since regular way stock trades settle in 1 business day, if the stock is purchased 1 business day or more prior to the record date, the trade will settle on record or before and the purchaser will get the dividend. If the stock is purchased on the record date or after, the buyer would not receive the dividend from the issuer."
+  },
+  {
+    "id": "m2-49",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam II"
+    },
+    "chapter": 6,
+    "topic": "Unit Investment Trusts",
+    "question": "Which of the following is a characteristic of a fixed UIT?",
+    "choices": [
+      "No active management",
+      "Invests only in mutual fund shares",
+      "No fixed term of existence",
+      "Issues shares of stock"
+    ],
+    "answer": 0,
+    "explanation": "Fixed UITs, like all UITs, issue shares of beneficial interest. They do not issue shares of stock. Fixed UITs invest mainly in bonds, but can also contain shares of stock. Fixed UITs are not actively managed. Instead, the trust is set up with a portfolio of securities that does not change. A fixed UIT comes with a designated period. Once that period passes, the trust is dissolved."
+  },
+  {
+    "id": "m2-50",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam II"
+    },
+    "chapter": 8,
+    "topic": "DTC",
+    "question": "What entity was created to provide clearing and settlement efficiencies by immobilizing securities and to make \"book entry\" changes to ownership of securities?",
+    "choices": [
+      "FRB",
+      "OCC",
+      "DTC",
+      "PSA"
+    ],
+    "answer": 2,
+    "explanation": "Depository Trust and Clearing Corporation (DTCC, sometimes just called DTC), is owned by U.S. banks and brokerage firms. It is the central clearing house for stock and bond transactions, and also maintains custody of both physical certificated securities and electronic book-entry securities.\nThe OCC (Options Clearing Corporation) performs a similar function for the options markets.\nPSA stands for Prepayment Speed Assumption - which is used to determine the average life of a mortgage backed security.\n[Note - added by Claude] DTC and DTCC are not the same entity. DTC (Depository Trust Company) is a subsidiary of DTCC (Depository Trust & Clearing Corporation). DTC is the depository that immobilizes securities and records book-entry transfers, which is what this question asks about. Chapter 8, question 11 describes this correctly."
+  }
+]

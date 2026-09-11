@@ -37,6 +37,7 @@ for (const file of readdirSync(dir).filter((f) => f.endsWith('.json'))) {
     if (!Array.isArray(q.choices) || q.choices.length < 2) fail(where, 'choices needs at least 2 entries')
     else if (!Number.isInteger(q.answer) || q.answer < 0 || q.answer >= q.choices.length)
       fail(where, `answer must be an index 0..${q.choices.length - 1}`)
+    if (q.exhibit != null && typeof q.exhibit !== 'string') fail(where, 'exhibit must be a string')
     if (!q.explanation) console.warn(`warn ${where}: no explanation`)
     count++
   })

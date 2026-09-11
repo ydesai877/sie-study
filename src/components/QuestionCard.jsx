@@ -50,6 +50,7 @@ export default function QuestionCard({ q, index, total, mode = 'practice', onAns
         {' · '}
         <span>{sourceLabel(q)}</span>
       </div>
+      {q.exhibit && <div className={`exhibit${q.exhibitMono ? ' mono' : ''}`}>{q.exhibit}</div>}
       <div className="question-text">{q.question}</div>
       {view.choices.map((c, i) => {
         let cls = 'choice'

@@ -1,0 +1,902 @@
+[
+  {
+    "id": "m3-01",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam III"
+    },
+    "chapter": 12,
+    "topic": "Variable Annuities",
+    "question": "All of the following are true of variable annuities, except:",
+    "choices": [
+      "Funds from variable annuities are kept in accounts that are separate from the insurance company's general account",
+      "A variable annuity has two phases; accumulation and annuitization",
+      "Typically a customer makes contributions into a variable annuity with after-tax dollars",
+      "Variable annuities are not subject to regulations by both SEC and FINRA because they are only considered to be insurance products"
+    ],
+    "answer": 3,
+    "explanation": "Variable annuities are considered to be both an insurance product and a security and are subject to regulations by the SEC, FINRA, as well as by each state."
+  },
+  {
+    "id": "m3-02",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam III"
+    },
+    "chapter": 11,
+    "topic": "Margin Accounts",
+    "question": "Which of following documents is NOT unique to margin accounts?",
+    "choices": [
+      "new account form",
+      "margin agreement",
+      "loan consent agreement",
+      "credit disclosure statement"
+    ],
+    "answer": 0,
+    "explanation": "A new account form must be completed whether an account is set up as a cash or a margin account.\nThe paperwork that is unique to opening margin accounts includes the margin agreement, which the customer must sign, pledging the securities in the account as collateral for the margin loan; the loan consent agreement, which is customarily signed, where the customer permits the securities in the account to be lent out for short sales by others; and the credit disclosure statement, which explains how the loan balance is computed and interest is charged."
+  },
+  {
+    "id": "m3-03",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam III"
+    },
+    "chapter": 11,
+    "topic": "Margin Requirements",
+    "question": "To sell short a listed stock in a margin account requires a deposit of:",
+    "choices": [
+      "25% of the price of the transaction",
+      "50% of the price of the transaction",
+      "25% of the closing price of the security that day",
+      "50% of the closing price of the security that day"
+    ],
+    "answer": 1,
+    "explanation": "Regulation T requires that 50% of the sale amount, based on the price of the trade, be deposited to sell a stock short. The closing price has no effect on the deposit amount required."
+  },
+  {
+    "id": "m3-04",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam III"
+    },
+    "chapter": 11,
+    "topic": "Options Accounts",
+    "question": "Prior to opening an options account, all of the following steps must be taken EXCEPT:",
+    "choices": [
+      "completing the new account form",
+      "delivering the options disclosure document to the customer",
+      "receiving the signed options agreement from the customer",
+      "approving the first transaction in the account"
+    ],
+    "answer": 2,
+    "explanation": "The customer has 15 days after the account is opened to sign and return the options agreement.\nAll of the other steps must be completed prior to opening the account - the new account form must be completed; the customer must be delivered an Options Disclosure Document (ODD); and the first transaction (as well as the account itself) must be approved in writing by the Registered Options Principal."
+  },
+  {
+    "id": "m3-05",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam III"
+    },
+    "chapter": 12,
+    "topic": "Variable Annuities",
+    "question": "Any changes in value of a variable annuity accumulation unit are directly related to changes in the:",
+    "choices": [
+      "Standard and Poor's 500 Average",
+      "Value of the securities funding the separate account",
+      "Consumer Price Index",
+      "Dow Jones Averages"
+    ],
+    "answer": 1,
+    "explanation": "Since the separate account of investments funds a variable annuity, accumulation unit values are directly influenced by changes in the values of the securities in the separate account."
+  },
+  {
+    "id": "m3-06",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam III"
+    },
+    "chapter": 11,
+    "topic": "Custodial Accounts (UGMA/UTMA)",
+    "question": "Which statement is TRUE about a minor in a custodial account under UGMA (Uniform Gifts To Minors Act) reaching legal age?",
+    "choices": [
+      "The account must be transferred into the name of the new adult",
+      "The account is transferred into the name of the new adult when requested by the custodian",
+      "The account is transferred into the name of the new adult when requested by the parents",
+      "The account must be liquidated and the proceeds paid to the new adult"
+    ],
+    "answer": 0,
+    "explanation": "Under UGMA, when a minor in a custodial account reaches legal age, then the new adult simply presents proof of age, along with a government issued photo I.D. and the account is transferred into that person's name only."
+  },
+  {
+    "id": "m3-07",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam III"
+    },
+    "chapter": 9,
+    "topic": "Put and Call Contract Outcomes",
+    "question": "Marilyn writes an ABC Aug 20 put @ 4. What is the maximum amount she could lose on this option?",
+    "choices": [
+      "$400",
+      "$1,600",
+      "$2,000",
+      "Unlimited"
+    ],
+    "answer": 1,
+    "explanation": "Since Marilyn wrote a put, she is obligated to purchase 100 shares of the stockat the strike priceif the option is exercised. If ABC company drops to zero, she would lose$20 per share minus the premium. Her maximum loss would be($20- $4) x 100= $1,600."
+  },
+  {
+    "id": "m3-08",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam III"
+    },
+    "chapter": 12,
+    "topic": "529 Plans",
+    "question": "A distribution from a Section 529 Plan would be subject to a 10% penalty tax if the beneficiary:",
+    "choices": [
+      "does not go to college",
+      "gets a full scholarship",
+      "goes on disability",
+      "goes to vocational school"
+    ],
+    "answer": 0,
+    "explanation": "Payments from Section 529 Plans made to colleges, universities, vocational schools, and any other accredited post secondary education institution are not taxable. Distributions made to pay for \"non-qualified\" expenses are subject to regular income tax plus a 10% penalty tax (on the earnings in the account only). Refunds made because of death or disability of the beneficiary, or because the beneficiary received a scholarship, are not subject to the 10% penalty tax, but are still subject to regular income tax (on the earnings in the account only)."
+  },
+  {
+    "id": "m3-09",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam III"
+    },
+    "chapter": 10,
+    "topic": "Senior Investors and Specified Adults",
+    "question": "To prevent financial exploitation of seniors, FINRA requires that when opening an account for a client, reasonable efforts must be made to obtain the name, phone number, and mailing or e-mail address of a(n):",
+    "choices": [
+      "close relative of the client",
+      "trusted contact person",
+      "attorney for the client",
+      "fiduciary for the client"
+    ],
+    "answer": 1,
+    "explanation": "To address growing problems with financial exploitation of vulnerable senior citizens, FINRA requires that \"reasonable efforts\" be made to obtain the name and contact information of a \"trusted contact person\" when an account is being opened. Note that this requirement applies to any new account, not just to accounts opened by senior citizens (age 65 or older).\nIf a member places a temporary hold on a senior citizen's account because of suspected financial exploitation, within 2 business days of placing the hold, all parties authorized to do business in the account must be notified, as well as the trusted contact person.\nThe \"idea\" is that the trusted contact person will take the steps necessary to stop the financial exploitation of the senior citizen (such as filing a complaint with the police)."
+  },
+  {
+    "id": "m3-10",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam III"
+    },
+    "chapter": 10,
+    "topic": "Accounts for Employees of Other Firms",
+    "question": "When completing a new account form, you discover that the customer is an accounting supervisor at another FINRA member firm. Under FINRA rules, all of the following procedures are required EXCEPT:",
+    "choices": [
+      "Prior to opening the account, written approval of the employing member must be obtained",
+      "The associated person opening the account must give written notice to the executing member of his or her association with the employer member",
+      "Duplicate confirmations and statements must be sent to the employer member on request",
+      "Annual account summaries of all activity must be sent to the employer member"
+    ],
+    "answer": 3,
+    "explanation": "FINRA requires that if an employee of another FINRA member firm (whether registered or unregistered) wishes to open an account:\n- prior written consent of the employing member firm must be obtained;\n- the executing member must be notified in writing of the employee's association with another member firm; and\n- on written request of the employer member, the executing member must provide duplicate confirmations and statements.\n\nNote that the rule applies to \"associated persons\" of a member firm opening an account at another member - and an associated person is either an officer or a registered or unregistered employee of the member firm, with an exception given to anyone who only performs clerical or ministerial duties.\nNot only does the rule apply to accounts opened at other member firms by associated persons, it also applies to securities accounts opened at non-member financial institutions such as banks and investment advisers."
+  },
+  {
+    "id": "m3-11",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam III"
+    },
+    "chapter": 9,
+    "topic": "American vs. European Style",
+    "question": "If you want to exercise an option before the expiration date, which type of option would you need?",
+    "choices": [
+      "American",
+      "European",
+      "Either American or European",
+      "Neither American nor European"
+    ],
+    "answer": 0,
+    "explanation": "Only American options can be exercised before the expiration date. European options can only be exercised on the expiration date."
+  },
+  {
+    "id": "m3-12",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam III"
+    },
+    "chapter": 10,
+    "topic": "Anti-Money Laundering",
+    "question": "Each firm shall develop and implement a written anti-money laundering program reasonably designed to achieve and monitor the member's compliance with the requirements of the:",
+    "choices": [
+      "Foreign Transactions Act",
+      "Bank Secrecy Act",
+      "Sarbanes-Oxley Act",
+      "Securities Fraud Act"
+    ],
+    "answer": 1,
+    "explanation": "Each firm shall develop and implement a written anti-money laundering program reasonably designed to achieve and monitor the member's compliance with the requirements of the Bank Secrecy Act (31 U.S.C. 5311, et seq.), and the implementing regulations promulgated thereunder by the Department of the Treasury. Each firm's anti-money laundering program must be approved, in writing, by a member of senior management."
+  },
+  {
+    "id": "m3-13",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam III"
+    },
+    "chapter": 10,
+    "topic": "Customer Privacy (Regulation S-P)",
+    "question": "Regulation S-P limits the ability of broker-dealers, investment companies, and investment advisers to disclose __________ information about their customers with non-affiliated third parties.",
+    "choices": [
+      "Any",
+      "Personal",
+      "Nonpublic personal",
+      "Suitability"
+    ],
+    "answer": 2,
+    "explanation": "Regulation S-P was put into place to protect customers from having their non-public personal information disclosed to non-affiliated third parties. It requires firms and investment companies to provide customers with a description of the type of information that will be collected, how the information will be used, and with whom it will be shared. Regulation S-P requires all firms and companies to give customers an adequate notice to opt out of sharing nonpublic personal information with third parties."
+  },
+  {
+    "id": "m3-14",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam III"
+    },
+    "chapter": 9,
+    "topic": "Intrinsic Value and Moneyness",
+    "question": "Sandy shorts an ABC Apr 30 call at 2.50. The stock is currently selling at 31. Which of the following is true?",
+    "choices": [
+      "The intrinsic value of the option is 1",
+      "The intrinsic value of the option is 1.50",
+      "The intrinsic value of the option is 0",
+      "The intrinsic value of the option cannot be determined until the option is exercised"
+    ],
+    "answer": 0,
+    "explanation": "For both long and short positions, call options are in-the-money when the market price is above the strike price. The intrinsic value is the amount that a stock is in the money. This is the difference between the market price and the strike price. In this case, it is $1 (31 - 30).\n[Edit note - added by Claude] Feedback, last sentence: Cerifi's screen dropped the minus sign. Original: \"(31 30)\" Edited: \"(31 - 30)\""
+  },
+  {
+    "id": "m3-15",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam III"
+    },
+    "chapter": 12,
+    "topic": "Annuity Settlement Options",
+    "question": "A 50-year-old man has purchased a variable annuity contract. He wants payments for his life, but wants to make sure that payments are made for at least 20 years, should he die prematurely. He should choose a:",
+    "choices": [
+      "joint and last survivor annuity option",
+      "systematic withdrawal plan that provides for 20 years of payments",
+      "life annuity with a 20 year period certain",
+      "unit refund annuity"
+    ],
+    "answer": 2,
+    "explanation": "A life annuity with a 20-year period certain will pay for the life of the annuitant, but if the annuitant dies early, it will pay for a minimum of 20 years regardless. These payments will be made to a designated beneficiary."
+  },
+  {
+    "id": "m3-16",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam III"
+    },
+    "chapter": 11,
+    "topic": "Joint Accounts",
+    "question": "All of the following are types of joint accounts EXCEPT:",
+    "choices": [
+      "Tenants by Entireties",
+      "Custodian for a minor",
+      "Tenants in Common",
+      "Joint Tenants with Rights of Survivorship"
+    ],
+    "answer": 1,
+    "explanation": "The joint account ownership options are:\nTenants in Common - each person has a divided interest with a specified ownership percentage for each party;\nJoint Tenancy With Rights of Survivorship (JTWROS) - each person has an undivided interest with each owning 100% of the account; or\nTenants by Entireties - only allowed in some states, it is similar to JTWROS, however if a single tenant is sued, the assets of the joint account cannot be claimed.\n\nCustodial accounts are not joint accounts - the minor is not authorized to trade the account nor can he or she draw checks from the account. Only the custodian can perform these actions."
+  },
+  {
+    "id": "m3-17",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam III"
+    },
+    "chapter": 9,
+    "topic": "Income Strategies",
+    "question": "A customer sells short 100 shares of PDQ at $47 and sells 1 PDQ Sep 50 Put @ $6. The maximum potential gain while both positions are in place is:",
+    "choices": [
+      "0",
+      "$300",
+      "$600",
+      "unlimited"
+    ],
+    "answer": 1,
+    "explanation": "If the market falls, the short put is exercised and the stock must be bought at $50. Since it was already \"sold\" at $47, there is a loss of $3 per share ($300 total). But the customer collected $600 in premiums; so the end result is a net gain or $300. This is the maximum potential gain. Conversely, if the market rises, the short put expires, leaving a short stock position that has potentially unlimited loss."
+  },
+  {
+    "id": "m3-18",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam III"
+    },
+    "chapter": 12,
+    "topic": "Municipal Fund Securities",
+    "question": "Local government investment pools and 529 College Savings Plans are examples of:",
+    "choices": [
+      "Variable-rate demand obligations",
+      "Municipal fund securities",
+      "Municipal bond funds",
+      "Tax-exempt commercial paper"
+    ],
+    "answer": 1,
+    "explanation": "A municipal fund security is a fund of securities that is issued by a state or municipality. Examples of municipal fund securities are local government investment pools and 529 College Savings Plans."
+  },
+  {
+    "id": "m3-19",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam III"
+    },
+    "chapter": 12,
+    "topic": "ABLE Accounts",
+    "question": "ABLE accounts are:",
+    "choices": [
+      "used to save funds on a tax-deferred basis and may only be used to pay for medical expenses",
+      "used to save funds on a tax-deferred basis to pay for the ongoing care of disabled children below age 21",
+      "regulated by the MSRB",
+      "regulated by FINRA"
+    ],
+    "answer": 2,
+    "explanation": "ABLE accounts were enacted by Congress in late 2014. ABLE stands for \"Achieving a Better Life Experience Act.\" It allows each state to set up a \"municipal fund security\" regulated by the MSRB that permits an account to be established to pay for the ongoing expenses of a disabled person.\nOne of the key features of an ABLE account is that accumulated savings do not affect that person's eligibility for other federal benefits (it used to be the case that having too much in assets would disqualify that person from other federal benefits, such as Medicaid).\nThe federal gift tax exclusion amount can be contributed to an ABLE account, with no tax deduction. The account grows tax-deferred, and payments to pay for qualified expenses are tax-free. Qualified expenses include medical care, transportation, housing, education, and assistive technology.\nThe account must be established before the disabled individual reaches age 46, and proof that the beneficiary is disabled or blind must be provided.\nABLE accounts are permitted under Section 529A of the Internal Revenue Code. Do not confuse these with 529 Plans, which are a municipal fund security to save for education expenses."
+  },
+  {
+    "id": "m3-20",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam III"
+    },
+    "chapter": 12,
+    "topic": "403(b) Plans",
+    "question": "Employees of non-profit organizations are permitted to make salary reduction retirement plan contributions to a:",
+    "choices": [
+      "401(k) plan",
+      "Tax sheltered annuity",
+      "Profit Sharing Plan",
+      "Defined Benefit Plan"
+    ],
+    "answer": 1,
+    "explanation": "403(b) retirement plans allow employees of non-profit institutions such as hospitals and universities to establish their own retirement plans if none is provided by the employer. The monies contributed are excluded from taxable income, and must be used to purchase \"tax sheltered\" annuities or mutual funds; direct stock investments are prohibited."
+  },
+  {
+    "id": "m3-21",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam III"
+    },
+    "chapter": 11,
+    "topic": "Powers of Attorney",
+    "question": "A nephew has been given a durable power of attorney over his uncle's brokerage account. Upon the death of the uncle, the power of attorney:",
+    "choices": [
+      "remains in force",
+      "is terminated",
+      "transfers to the executor of the uncle's estate",
+      "transfers to the registered representative servicing the uncle's account"
+    ],
+    "answer": 1,
+    "explanation": "Any power of attorney, durable or non-durable, is terminated when a customer dies. The distinction between a durable and a non-durable power of attorney is that a non-durable power of attorney terminates if the grantor is mentally incapacitated whereas durable power of attorney remains in force if the grantor is mentally incapacitated."
+  },
+  {
+    "id": "m3-22",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam III"
+    },
+    "chapter": 9,
+    "topic": "Leveraged and Inverse ETFs",
+    "question": "An inverse ETF is most similar to taking what options position(s) on the reference index?",
+    "choices": [
+      "Long Call",
+      "Short Call",
+      "Long Put",
+      "Short Put"
+    ],
+    "answer": 2,
+    "explanation": "An inverse ETF is unprofitable when the market rises, and profitable when the market falls. So the answer is either a Long Put or a Short Call. Since the maximum loss in a rising market is capped to the amount invested, and the gain keeps increasing as the market falls, the best choice is a Long Put, which has a maximum loss of the premium in a rising market and ever-increasing gain as the market falls.\nIn contrast, with a Short Call, in a rising market there is ever-increasing loss, and in a falling market, the gain is capped to the collected premium."
+  },
+  {
+    "id": "m3-23",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam III"
+    },
+    "chapter": 10,
+    "topic": "Suitability",
+    "question": "Which of the following is considered a speculative investment suitable ONLY for experienced investors who can absorb potential losses?",
+    "choices": [
+      "Growth funds",
+      "High-yield corporate bonds",
+      "Leveraged ETFs",
+      "Each of the other answer choices"
+    ],
+    "answer": 2,
+    "explanation": "Leveraged ETFs are inverse or amplified products designed for sophisticated investors. They are explicitly classified as speculative investments in the content, alongside penny stocks, crypto assets, and high-risk limited partnerships. Growth funds and high-yield bonds do come with significant risk; however, they are not considered speculative investments."
+  },
+  {
+    "id": "m3-24",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam III"
+    },
+    "chapter": 12,
+    "topic": "Roth vs. Traditional IRAs",
+    "question": "Which statement is TRUE when comparing a Roth IRA to a Traditional IRA?",
+    "choices": [
+      "Anyone with earned income can open a Roth IRA",
+      "Anyone with investment income can open a Traditional IRA",
+      "Roth IRAs are not available to high-earning individuals",
+      "Traditional IRAs are not available to high-earning individuals"
+    ],
+    "answer": 2,
+    "explanation": "Clients who have only investment income are not eligible to make IRA contributions.\nRoth IRAs allow for the same contribution amounts as Traditional IRAs, but the contribution is never tax-deductible (which is usually the case with a Traditional IRA). Earnings build tax deferred and when distributions commence after age 59 1/2, no tax is due.\nThis is a very good deal. Unfortunately, the Roth IRA is not available for high-earners."
+  },
+  {
+    "id": "m3-25",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam III"
+    },
+    "chapter": 12,
+    "topic": "Variable Annuity Risks",
+    "question": "All of the following are types of risks that owners of variable annuities might face EXCEPT:",
+    "choices": [
+      "The investor's variable annuities performs poorly due to a decline in the overall market",
+      "An investor chooses a suite of investments that do not perform well",
+      "An investor might need to withdraw the money before the surrender period is over and cannot afford the surrender charges",
+      "An investor will be unable to participate in market gains"
+    ],
+    "answer": 3,
+    "explanation": "Variable annuities are subject to certain risks. Investors of variable annuities will have to face systematic risk. Systematic risk (also called market risk), refers to the risk that the entire market will decline, and hence the value of the securities in their variable annuity will decline with it. Funds from variable annuities are kept in accounts that are separate from the insurance company's general account, often referred to as separate accounts. Within a separate account, the investor chooses from several possible subaccounts that operate like mutual funds.\nIf the investments in the subaccounts perform well, the periodic payments to the annuitant will be larger, but if they perform poorly, the payments will be smaller. The investor rather than the issuer bears the investment risk. Because annuities often have long surrender periods, they should never be sold to older clients, who may need to withdraw their money before the surrender period is over. A benefit of a variable annuity is that the investor gets to participate in market gains."
+  },
+  {
+    "id": "m3-26",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam III"
+    },
+    "chapter": 12,
+    "topic": "Variable Life Insurance",
+    "question": "All of the following terms apply to a variable life policy EXCEPT:",
+    "choices": [
+      "permanent insurance",
+      "cash value",
+      "general account",
+      "level premium"
+    ],
+    "answer": 2,
+    "explanation": "Any \"variable\" product, either a variable annuity or variable life insurance, takes the premium and invests it in a designated separate account, also called a subaccount, that invests in a specified mutual fund. The performance of the mutual fund builds cash value in a variable life policy. This cash value build can be borrowed from the policy. If the cash value grows to more than the death benefit and has not been borrowed, then the policy will pay the higher cash value on death.\nVariable life is \"permanent insurance\" - as long as the premium is paid, the policy is in effect. This contrasts with term insurance, which has a stated term, after which the policy expires and must be renegotiated. The premium amount is level - the same premium payment is paid periodically. What will vary is the cash value build and the amount of insurance coverage, based on the performance of the separate account.\nIn contrast, whole life is another form of permanent insurance. It invests premiums in the insurance company's general account, which is typically invested safely, mainly in bonds. The cash value builds at a fixed rate, and the coverage amount does not vary."
+  },
+  {
+    "id": "m3-27",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam III"
+    },
+    "chapter": 12,
+    "topic": "Variable Annuities",
+    "question": "Which of the following is not true of variable annuities?",
+    "choices": [
+      "They are considered to be insurance products.",
+      "They are considered to be securities.",
+      "Contributions to a variable annuity are typically made with pre-tax dollars.",
+      "The investor bears the investment risk."
+    ],
+    "answer": 2,
+    "explanation": "Variable annuities are considered both an insurance product and a security and are subject to the regulations of both industries. The investor, rather than the issuer, bears the investment risk. Typically, a customer makes contributions into a variable annuity with after-tax dollars. Taxes on income earned in the annuity will be deferred until the money is withdrawn."
+  },
+  {
+    "id": "m3-28",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam III"
+    },
+    "chapter": 11,
+    "topic": "Margin Requirements",
+    "question": "The Regulation T initial margin requirement for short stock positions is:",
+    "choices": [
+      "25%",
+      "30%",
+      "50%",
+      "100%"
+    ],
+    "answer": 2,
+    "explanation": "Regulation T initial margin for short stock positions is set at 50%."
+  },
+  {
+    "id": "m3-29",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam III"
+    },
+    "chapter": 9,
+    "topic": "Hedging Strategies",
+    "question": "A customer buys 100 shares of XYZ at $51 and buys 1 XYZ Jan 50 Put @ $5. The position is:",
+    "choices": [
+      "very bullish",
+      "cautiously bullish",
+      "very bearish",
+      "cautiously bearish"
+    ],
+    "answer": 1,
+    "explanation": "The customer is bullish due to the core long stock position and buys the put as a hedge. This makes the customer cautiously bullish since he/she has hedged the bullish stock bet with the put purchase."
+  },
+  {
+    "id": "m3-30",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam III"
+    },
+    "chapter": 9,
+    "topic": "Option Positions",
+    "question": "Which of the following is true of an investor who shorts a call option?",
+    "choices": [
+      "She profits when the price of the underlying security goes up",
+      "She profits when the price of the underlying security goes down",
+      "Her maximum gain is unlimited",
+      "She pays a premium as part of her investment"
+    ],
+    "answer": 1,
+    "explanation": "An investor who shorts a call option profits when the price of the underlying security goes down or remains below the option's strike price. When that occurs, the option will not be exercised, and she will be able to keep the premium she received when she sold the option. The premium received is the maximum potential gain for a short options investor."
+  },
+  {
+    "id": "m3-31",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam III"
+    },
+    "chapter": 10,
+    "topic": "Discretionary Accounts",
+    "question": "A representative with discretionary authority over a customer's account cannot do which of the following without the customer's prior permission?",
+    "choices": [
+      "Determine a specific security to buy for a customer's account",
+      "Sell any securities from the customer's account",
+      "Decide how many shares of a specific security to buy",
+      "Withdraw money from the customer's account"
+    ],
+    "answer": 3,
+    "explanation": "Discretionary authority gives a representative third-party authority to trade in the account without prior permission from the customer. This means the representative can decide which securities to buy and sell and how many of those securities to buy and sell. However, discretionary authority does not give the representative permission to make unauthorized withdrawals from a customer's account. Only full trading authority allows a representative to make unauthorized withdrawals."
+  },
+  {
+    "id": "m3-32",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam III"
+    },
+    "chapter": 9,
+    "topic": "Income Strategies",
+    "question": "Jake opens the following positions:\n\nLong 100 GOOG at 505\n\nShort GOOG Jun 500 call @10.\n\nAssuming the option is assigned to Jake when it is exercised, what was Jake's profit or loss?",
+    "choices": [
+      "$1,000 profit",
+      "$500 profit",
+      "$1,000 loss",
+      "$500 loss"
+    ],
+    "answer": 1,
+    "explanation": "In this scenario, Jake has written a covered call. It is a covered call because he purchases the shares and then he writes a call on these shares. Jake purchases the shares for $50,500 (100 × $505). When he sells the call, he makes $1,000 ($10 × 100 shares). When the option is exercised, he sells the shares for $50,000. Thus, his profit is $500 (-$50,500 + $1,000 + $50,000)."
+  },
+  {
+    "id": "m3-33",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam III"
+    },
+    "chapter": 12,
+    "topic": "Variable Life Insurance",
+    "question": "A customer who buys a variable life policy is most susceptible to:",
+    "choices": [
+      "purchasing power risk",
+      "market risk",
+      "default risk",
+      "exchange rate risk"
+    ],
+    "answer": 1,
+    "explanation": "The premium paid in a variable life policy is invested in a separate account that buys shares of a designated mutual fund. If the mutual fund does poorly, the account will not build cash value as quickly and the amount of coverage provided will not grow as rapidly. If the NAV of the mutual fund declines, the coverage amount can actually decline (though not below a minimum stated coverage amount). So the main risk is market risk.\nDefault risk is associated with investing in bonds - it is the same as credit risk. Purchasing power risk is inflation risk - and because the separate account is typically invested in equity mutual funds, where companies can raise prices if there is inflation, this risk is minimized. Finally, exchange rate risk is associated with making investments denominated in foreign currencies."
+  },
+  {
+    "id": "m3-34",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam III"
+    },
+    "chapter": 11,
+    "topic": "Margin Requirements",
+    "question": "In a margin account the term \"maintenance margin\" means:",
+    "choices": [
+      "The amount loaned by the broker-dealer",
+      "The rate of interest charged by the broker-dealer",
+      "The amount of equity to be maintained on a security position held or carried in an account",
+      "None of these choices"
+    ],
+    "answer": 2,
+    "explanation": "Maintenance margin is the minimum required collateral to maintain a margin position. Usually it is lower than the initial margin requirement. Equity in the account both initially and over time is the measuring factor in establishing and maintaining a margin account."
+  },
+  {
+    "id": "m3-35",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam III"
+    },
+    "chapter": 12,
+    "topic": "Variable Annuity Suitability (Rule 2330)",
+    "question": "In order to recommend a variable annuity to a customer, all of the following statements are true EXCEPT:",
+    "choices": [
+      "The customer must be informed, in general terms, of the material features of the product",
+      "The representative must believe that the customer would benefit from the product's features",
+      "The representative must believe that the variable product as a whole, the underlying separate accounts to which funds are allocated, and riders to the policy are suitable",
+      "The customer, representative and branch manager must all sign a statement that all required representations and determinations were completed"
+    ],
+    "answer": 3,
+    "explanation": "In order to recommend a variable annuity to a customer, the representative must have a reasonable basis to believe that the:\n- customer has been informed, in general terms, of the material features of the product;\n- customer would benefit from one or more of the product's features; and\n- particular variable product as a whole, the underlying separate accounts to which funds are allocated, and riders to the policy, are suitable.\n\nThe representative must sign a statement that all required representations and determinations were completed. Note that there is no customer signature here!"
+  },
+  {
+    "id": "m3-36",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam III"
+    },
+    "chapter": 9,
+    "topic": "Hedging Strategies",
+    "question": "A customer owning 100 shares of stock could receive protection by:",
+    "choices": [
+      "buying another 100 shares of the stock",
+      "buying a call",
+      "buying a put",
+      "selling a put"
+    ],
+    "answer": 2,
+    "explanation": "In order to hedge a long stock position against a downside market move, the best choice is to buy a put. The long put option allows the holder to put (sell) the stock at the exercise price if the market falls - protecting the stock position from downside market risk."
+  },
+  {
+    "id": "m3-37",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam III"
+    },
+    "chapter": 9,
+    "topic": "Hedging Strategies",
+    "question": "On the same day in a margin account, a customer sells short 100 shares of ABC at $43 and buys 1 ABC Jan 45 Call @ $4. The customer will break even when:",
+    "choices": [
+      "the stock rises",
+      "the stock remains flat",
+      "the stock falls by the amount of the premium paid",
+      "the stock is $41"
+    ],
+    "answer": 2,
+    "explanation": "The customer has sold short the stock at $43, hoping to profit if the price should fall. As a hedge, the customer bought the call option to buy in the stock at a price of $45 if the market should rise. This protects the short stock position from unlimited upside loss potential.\nSince the customer sold the stock at $43 and paid $4 for the call option, the customer has a net sale amount of $39. To break even, the customer must buy back the stock at $39 per share, which is the sales price of $43 minus the premium of $4 paid for the call.\nNote: Students are unlikely to see math calculations on hedging problems, but they must realize the short stock needs to fall by the premium paid for the customer to come out even."
+  },
+  {
+    "id": "m3-38",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam III"
+    },
+    "chapter": 10,
+    "topic": "Street Name Registration",
+    "question": "Street name registration of common stock means the stock is registered in the name of :",
+    "choices": [
+      "The stockholder",
+      "The stockholder's broker",
+      "The issuer",
+      "The issuer's transfer agent"
+    ],
+    "answer": 1,
+    "explanation": "Street name registration means the securities are registered in the name of the broker-dealer with the customer as the beneficial owner."
+  },
+  {
+    "id": "m3-39",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam III"
+    },
+    "chapter": 9,
+    "topic": "Foreign Currency and Investments",
+    "question": "Which option exchange trades foreign currency options?",
+    "choices": [
+      "Chicago Board Options Exchange",
+      "American Stock Exchange",
+      "Philadelphia Stock Exchange",
+      "All of the above"
+    ],
+    "answer": 2,
+    "explanation": "Trading of foreign currency options in the United States takes place only on the Philadelphia Stock Exchange. (Do not confuse this with the futures market for trading of foreign currency futures and options on futures.)"
+  },
+  {
+    "id": "m3-40",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam III"
+    },
+    "chapter": 10,
+    "topic": "Opening Accounts",
+    "question": "All of the following information is needed to open a new cash account for a customer EXCEPT:",
+    "choices": [
+      "the citizenship of the customer",
+      "whether the customer is an officer or director of a publicly held company",
+      "whether the customer owns the stock of another publicly traded broker-dealer",
+      "whether the customer is an employee of another broker-dealer"
+    ],
+    "answer": 2,
+    "explanation": "Country of citizenship is deemed to be an essential piece of information because the PATRIOT ACT requires that a copy of the customer's passport be obtained if an account is opened for a non-U.S. citizen and the customer must have a U.S. tax identification number.\nOfficers and directors of publicly held companies are restricted under federal law in their trades of that company's stock, so this information is essential.\nIf a customer is employed by another financial services firm, then special procedures must be followed to open the account, so this information is essential.\nWhether a customer owns stock of another publicly traded broker-dealer is not essential - for example, if a customer opening an account at Merrill Lynch owns the stock of, say, Raymond James, this does not affect the opening of the account; nor how transactions are handled in the account."
+  },
+  {
+    "id": "m3-41",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam III"
+    },
+    "chapter": 9,
+    "topic": "Option Premiums",
+    "question": "An ABC Jan 50 Call is trading at a premium of $2 when the market price of ABC stock is $49. The time value per share is:",
+    "choices": [
+      "$0",
+      "$1",
+      "$2",
+      "$3"
+    ],
+    "answer": 2,
+    "explanation": "The value of a premium is made up of two components: intrinsic value and time value.\npremium = intrinsic value + time value\nIntrinsic value is the amount per share that the holder of an option stands to gain by exercising it. Stated another way, it is the extent to which the option is in the money. This call option is out of the money because the stock price of $49 is lower than the call's strike price of $50. This means the intrinsic value is $0, and so the entire $2 premium is made up of time value."
+  },
+  {
+    "id": "m3-42",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam III"
+    },
+    "chapter": 11,
+    "topic": "Margin Requirements",
+    "question": "As an initial transaction in a new margin account, a customer sells short 100 shares of ABC at $35. The customer must deposit:",
+    "choices": [
+      "$1,500",
+      "$1,750",
+      "$2,000",
+      "$3,500"
+    ],
+    "answer": 2,
+    "explanation": "The Regulation T requirement to sell short $3,500 of stock in a short margin account is 50% = $1,750. However, this is the initial transaction and the minimum equity to open an account is $2,000, so this amount must be deposited."
+  },
+  {
+    "id": "m3-43",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam III"
+    },
+    "chapter": 10,
+    "topic": "Regulation Best Interest",
+    "question": "Regulation Best Interest applies to recommendations made to any of the following, except:",
+    "choices": [
+      "A retail customer who is an associated person of the firm",
+      "A retail customer who is an accredited investor",
+      "A retail customer who is trading on margin",
+      "An institutional customer"
+    ],
+    "answer": 3,
+    "explanation": "Regulation Best Interest requires broker-dealers and their associated persons to act in their retail customers' best interest whenever a recommendation is made. A person is considered a retail customer for purposes of Reg BI if all of the following are true:\n- The customer is a natural person or a natural person's legal representative (such as a trustee or executor). In other words, the customer is an individual rather than a legal entity such as a corporation.\n- The customer receives a recommendation from a broker-dealer about any securities transaction, or any investment strategy involving securities.\n- The customer uses the recommendation primarily for his personal investing (or that of his family or household). This obligation to every retail customer is not altered by the customer being an accredited investor, associated person, or margin trader."
+  },
+  {
+    "id": "m3-44",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam III"
+    },
+    "chapter": 9,
+    "topic": "Option Positions",
+    "question": "Which options strategy provides the greatest profit potential in a bear market?",
+    "choices": [
+      "Long Call",
+      "Short Call",
+      "Long Put",
+      "Short Put"
+    ],
+    "answer": 2,
+    "explanation": "The purchaser of a put (long put) has the right to sell stock at a fixed price, no matter how low the market price of the stock may go. This strategy has increasing gain potential as the market falls, with the maximum gain occurring if the market falls to \"0.\""
+  },
+  {
+    "id": "m3-45",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam III"
+    },
+    "chapter": 11,
+    "topic": "Cash vs. Margin Accounts",
+    "question": "Which statement is TRUE about a cash account?",
+    "choices": [
+      "All transactions must be paid for and settled the same day",
+      "All transactions must be effected in securities that are not marginable",
+      "All transactions must be paid in full on settlement",
+      "All transactions must be in DRS securities"
+    ],
+    "answer": 2,
+    "explanation": "Regulation T of the Federal Reserve Board not only sets 50% initial margin for stock positions, it also defines which securities are marginable, defines the types of accounts in which securities transactions can be effected, and sets the time period for collection of funds when securities are purchased.\nRegulation T defines both a Cash Account and a Margin Account. In a Cash Account, all purchases must be fully paid - there is no margin. In a Margin Account, the securities are pledged as collateral for a loan, and borrowing of up to 50% is allowed on an initial transaction. Regulation T applies to cash accounts where securities are fully-paid because the Federal Reserve does not want broker-dealers to tell customers something like \"Pay me in full - you can pay me in 30 days\" - which is the same as giving the client a 30-day loan. So Regulation T says that purchases in either a cash or margin account must be paid for \"promptly\" but no later than 2 business days past settlement.\nNote that industry settlement rules differ from Regulation T. A \"cash settlement\" is same day settlement. A regular way settlement is 1 business day after trade date. Either of these can be done in a cash account or a margin account. Marginable securities can be purchased in a cash account - but they must be paid in full. Finally, DRS is the Direct Registration System - book-entry recordkeeping for securities as opposed to issuing physical certificates."
+  },
+  {
+    "id": "m3-46",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam III"
+    },
+    "chapter": 11,
+    "topic": "Prime Brokerage Accounts",
+    "question": "A prime broker provides services to:",
+    "choices": [
+      "Inexperienced customers",
+      "Institutional investors",
+      "Retirement plans",
+      "Issuers"
+    ],
+    "answer": 1,
+    "explanation": "In a prime brokerage agreement, an institutional investor, like a hedge fund, can use different executing brokers for its trades, but all of these trades are settled by the \"prime broker\" who maintains custody of the positions, and most importantly, provides margin financing on these positions and arranges for stock loans on short stock positions.\n\nBy using a prime broker to consolidate all positions, the hedge fund gets lower financing costs on borrowed funds and \"front of the line\" status when it wishes to borrow securities to effect short sales."
+  },
+  {
+    "id": "m3-47",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam III"
+    },
+    "chapter": 9,
+    "topic": "Option Basics",
+    "question": "A call option holder has the _____________ the underlying security at the option's strike price; a call option seller has the _______________ the underlying security at the option's strike price.",
+    "choices": [
+      "Obligation to sell; obligation to buy",
+      "Right to sell; obligation to buy",
+      "Obligation to buy; right to sell",
+      "Right to buy; obligation to sell"
+    ],
+    "answer": 3,
+    "explanation": "A call option holder has the right to buy the underlying securities at the option's strike price, while its seller has the obligation to sell the underlying securities at the strike price when the option is exercised. Note that if a call option expires unexercised, this means the buyer did not purchase the underlying securities and the seller did not sell those same securities."
+  },
+  {
+    "id": "m3-48",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam III"
+    },
+    "chapter": 11,
+    "topic": "Trust Accounts",
+    "question": "All of the following are true statements about trust accounts EXCEPT:",
+    "choices": [
+      "a copy of the trust agreement must be obtained prior to opening the account",
+      "transactions in the account are limited to the types specified in the trust document",
+      "margin transactions are prohibited unless specific authorization to open a margin account is given in the trust document",
+      "securities that may be purchased in the account are restricted to those included in that state's \"Legal List\""
+    ],
+    "answer": 3,
+    "explanation": "To open a trust account, a copy of the trust document must be obtained. The document will spell out the types of transactions that are permitted. The account must be opened as a cash account unless the document specifically permits margin transactions. Finally, there is no requirement that investments be limited to that state's \"legal list\" (these are lists of so-called \"prudent\" investments that are considered to be conservative, such as government bonds), though this can be the case if only \"legal list\" investments are authorized in the trust document."
+  },
+  {
+    "id": "m3-49",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam III"
+    },
+    "chapter": 9,
+    "topic": "Put and Call Contract Outcomes",
+    "question": "Potential profits for a call option holder are:",
+    "choices": [
+      "Unlimited",
+      "The same as potential profits for a call option writer",
+      "Equal to the value of the option's strike price minus its premium",
+      "Equal to the value of the option's strike price plus its premium"
+    ],
+    "answer": 0,
+    "explanation": "The potential profits for a call option holder are unlimited. This is because a call option's holder can buy the underlying securities at the option's strike price no matter how the market price of those securities has risen. Since the market price of a security can theoretically rise to infinity, this means potential profits for a long call holder are have no limit. On the other hand, the potential profit for any option writer (seller) is the premium received. A call option's breakeven point is the value of the option's strike price plus its premium. The breakeven point for a call option holder is the market value that the underlying security must rise above in order for the investor to be assured a profit on his option's investment."
+  },
+  {
+    "id": "m3-50",
+    "source": {
+      "type": "mastery",
+      "name": "Mastery Exam III"
+    },
+    "chapter": 9,
+    "topic": "Index Options",
+    "question": "At expiration, in-the-money S&P 500 index call options are settled by delivery of?",
+    "choices": [
+      "The underlying stock",
+      "Cash",
+      "Option credit",
+      "An equal number of S&P 500 index put options"
+    ],
+    "answer": 1,
+    "explanation": "Because index options represent the collective performance of a large number of securities, settlement requires cash. It would be impossible for an investor to buy fractional shares of 500 stocks upon the expiration of an S&P 500 index option."
+  }
+]
