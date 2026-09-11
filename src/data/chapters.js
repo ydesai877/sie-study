@@ -10,13 +10,13 @@ export const CHAPTERS = [
   { n: 7, name: 'Trading Markets' },
   { n: 8, name: 'Trade Processing and Settlement' },
   { n: 9, name: 'Options' },
-  { n: 10, name: 'Chapter 10' },
-  { n: 11, name: 'Chapter 11' },
-  { n: 12, name: 'Chapter 12' },
-  { n: 13, name: 'Chapter 13' },
-  { n: 14, name: 'Chapter 14' },
-  { n: 15, name: 'Chapter 15' },
-  { n: 16, name: 'Chapter 16' },
+  { n: 10, name: 'Individual Customer Accounts and Suitability' },
+  { n: 11, name: 'Other Account Types' },
+  { n: 12, name: 'Retirement Plans, Variable Annuities, and Municipal Fund Securities' },
+  { n: 13, name: 'Primary Market' },
+  { n: 14, name: 'Act of 1934 and Other Federal and State Regulations' },
+  { n: 15, name: 'Self-Regulatory Organization (SRO) Rules' },
+  { n: 16, name: 'Economic Analysis and Tax Rules' },
 ]
 
 export const chapterName = (n) => {
@@ -36,8 +36,8 @@ export const SOURCE_TYPES = {
 // FINRA SIE content-area weights, used to build a realistic mock exam.
 // Map each chapter to one of the four FINRA functions.
 export const FINRA_AREAS = [
-  { key: 'F1', name: 'Knowledge of Capital Markets', weight: 0.16, chapters: [] },
-  { key: 'F2', name: 'Understanding Products and Their Risks', weight: 0.44, chapters: [1, 2, 3, 4, 5, 6, 9] },
-  { key: 'F3', name: 'Trading, Customer Accounts, Prohibited Activities', weight: 0.31, chapters: [7] },
-  { key: 'F4', name: 'Overview of Regulatory Framework', weight: 0.09, chapters: [] },
+  { key: 'F1', name: 'Knowledge of Capital Markets', weight: 0.16, chapters: [13, 16] },
+  { key: 'F2', name: 'Understanding Products and Their Risks', weight: 0.44, chapters: [1, 2, 3, 4, 5, 6, 9, 12] },
+  { key: 'F3', name: 'Trading, Customer Accounts, Prohibited Activities', weight: 0.31, chapters: [7, 10, 11] },
+  { key: 'F4', name: 'Overview of Regulatory Framework', weight: 0.09, chapters: [14, 15] },
 ]

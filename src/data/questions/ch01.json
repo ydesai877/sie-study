@@ -1,17 +1,28 @@
 [
   {
     "id": "ch01-01",
-    "source": { "type": "chapter", "name": "Chapter 1 Test: Equities" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 1 Test: Equities"
+    },
     "chapter": 1,
     "topic": "ADRs",
     "question": "An ADR has been issued where each ADR equals 10 ordinary shares of the foreign issuer. If a client wished to buy enough ADRs to cover 1,000 ordinary shares, how many ADRs must be purchased?",
-    "choices": ["1", "10", "100", "1,000"],
+    "choices": [
+      "1",
+      "10",
+      "100",
+      "1,000"
+    ],
     "answer": 2,
     "explanation": "Since each ADR equals 10 ordinary shares, the purchase of 100 ADRs would cover 1,000 ordinary shares.\nNote that when the foreign shares are inexpensive, it is typical for the ADR to cover a \"multiple\" of shares; and when the foreign shares are expensive, it is typical for the ADR to cover a \"fraction\" of shares."
   },
   {
     "id": "ch01-02",
-    "source": { "type": "chapter", "name": "Chapter 1 Test: Equities" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 1 Test: Equities"
+    },
     "chapter": 1,
     "topic": "Common vs. Preferred Stock",
     "question": "From an investor's point of view, what is the primary advantage of common stock over preferred stock?",
@@ -26,7 +37,10 @@
   },
   {
     "id": "ch01-03",
-    "source": { "type": "chapter", "name": "Chapter 1 Test: Equities" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 1 Test: Equities"
+    },
     "chapter": 1,
     "topic": "Shareholder Rights",
     "question": "Which action does NOT need shareholder approval?",
@@ -41,7 +55,10 @@
   },
   {
     "id": "ch01-04",
-    "source": { "type": "chapter", "name": "Chapter 1 Test: Equities" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 1 Test: Equities"
+    },
     "chapter": 1,
     "topic": "ADRs",
     "question": "Which statement is TRUE regarding ADRs?",
@@ -56,7 +73,10 @@
   },
   {
     "id": "ch01-05",
-    "source": { "type": "chapter", "name": "Chapter 1 Test: Equities" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 1 Test: Equities"
+    },
     "chapter": 1,
     "topic": "Common Stock Valuation",
     "question": "What is the formula for market capitalization?",
@@ -71,7 +91,10 @@
   },
   {
     "id": "ch01-06",
-    "source": { "type": "chapter", "name": "Chapter 1 Test: Equities" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 1 Test: Equities"
+    },
     "chapter": 1,
     "topic": "Stock Dividends",
     "question": "A client owns 100 shares of COSMO Company common stock. The client receives a notice that COSMO has declared a 10% stock dividend. What does this mean?",
@@ -86,7 +109,10 @@
   },
   {
     "id": "ch01-07",
-    "source": { "type": "chapter", "name": "Chapter 1 Test: Equities" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 1 Test: Equities"
+    },
     "chapter": 1,
     "topic": "Rights",
     "question": "You own shares in a corporation that grants subscription rights. The corporation holds a rights offering. Which of the following is an advantage of deciding you WILL exercise your rights?",
@@ -101,37 +127,64 @@
   },
   {
     "id": "ch01-08",
-    "source": { "type": "chapter", "name": "Chapter 1 Test: Equities" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 1 Test: Equities"
+    },
     "chapter": 1,
     "topic": "Shareholder Rights",
     "question": "The right that common stockholders have to buy shares of newly issued stock is called a:",
-    "choices": ["voting right", "statutory right", "cumulative voting right", "preemptive right"],
+    "choices": [
+      "voting right",
+      "statutory right",
+      "cumulative voting right",
+      "preemptive right"
+    ],
     "answer": 3,
     "explanation": "A preemptive right allows existing shareholders to buy enough shares in a follow-on offering to maintain their proportionate share of ownership in the company. For example, if a company has 1 million shares of stock outstanding and one shareholder owns 300,000 shares, then that shareholder would be allowed to buy another 300,000 shares of a new 1 million share offering before it reaches the public. These shares are usually issued at a discount to the public offering price."
   },
   {
     "id": "ch01-09",
-    "source": { "type": "chapter", "name": "Chapter 1 Test: Equities" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 1 Test: Equities"
+    },
     "chapter": 1,
     "topic": "Dividend Yield",
     "question": "At the beginning of the year, an investor buys 1,000 shares of XYZ stock, purchased at $33 per share. Subsequently, the stock rises to $40 by the end of the year and the stock pays a $4 dividend during the year. By the end of the following year, the stock has fallen to $25 and pays the same $4 dividend. What is the stock's dividend yield?",
-    "choices": ["4%", "10%", "12%", "16%"],
+    "choices": [
+      "4%",
+      "10%",
+      "12%",
+      "16%"
+    ],
     "answer": 3,
     "explanation": "Dividend yield is based on the current market share price, not on cost of the stock. The annual dividend amount paid is $4 per year. Since the stock is currently trading at $25 per share, the dividend yield is $4 / $25 = 16%."
   },
   {
     "id": "ch01-10",
-    "source": { "type": "chapter", "name": "Chapter 1 Test: Equities" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 1 Test: Equities"
+    },
     "chapter": 1,
     "topic": "Authorized, Issued, Outstanding Shares",
     "question": "What term applies to shares that have been sold by a corporation, whether they are currently outstanding or held in treasury?",
-    "choices": ["Retired", "Issued", "Outstanding", "Preferred"],
+    "choices": [
+      "Retired",
+      "Issued",
+      "Outstanding",
+      "Preferred"
+    ],
     "answer": 1,
     "explanation": "Issued shares are those that have been sold by the corporation out of its authorized shares. These shares include both:\n- Outstanding shares (held by investors), and\n- Treasury shares (repurchased by the corporation)"
   },
   {
     "id": "ch01-11",
-    "source": { "type": "chapter", "name": "Chapter 1 Test: Equities" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 1 Test: Equities"
+    },
     "chapter": 1,
     "topic": "Preferred Stock",
     "question": "Which of the following is true of unpaid dividends on cumulative preferred stock?",
@@ -146,7 +199,10 @@
   },
   {
     "id": "ch01-12",
-    "source": { "type": "chapter", "name": "Chapter 1 Test: Equities" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 1 Test: Equities"
+    },
     "chapter": 1,
     "topic": "Warrants",
     "question": "Which statement is TRUE regarding warrants?",
@@ -161,7 +217,10 @@
   },
   {
     "id": "ch01-13",
-    "source": { "type": "chapter", "name": "Chapter 1 Test: Equities" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 1 Test: Equities"
+    },
     "chapter": 1,
     "topic": "Voting Rights and Proxies",
     "question": "A customer gives the right to vote his shares on his behalf at the company's annual meeting to someone else. Which statement is TRUE?",
@@ -172,11 +231,14 @@
       "This is known as a voting trust which may be revoked prior to the annual meeting"
     ],
     "answer": 1,
-    "explanation": "When a shareholder cannot attend the annual meeting and vote, the shareholder can give a power of attorney to another individual or the management of the company to \"stand in\" and cast that shareholder's votes as directed. This is called a \"proxy,\" where the individual granted the power of attorney acts as the shareholder's proxy. A power of attorney is revocable at any time as long as it is revoked in writing. The customer can revoke the power of attorney if he decides to change his vote or decides to go to the annual meeting himself."
+    "explanation": "When a shareholder cannot attend the annual meeting and vote, the shareholder can give a power of attorney to another individual or the management of the company to \"stand in\" and cast that shareholder's votes as directed. This is called a \"proxy,\" where the individual granted the power of attorney acts as the shareholder's proxy. A power of attorney is revocable at any time as long as it is revoked in writing. The customer can revoke the power of attorney if he decides to change his vote or decides to go to the annual meeting himself.\n[Edit note - added by Claude] Question text: removed stray period. Original: \"...at the company's annual meeting. to someone else.\" Edited: \"...at the company's annual meeting to someone else.\""
   },
   {
     "id": "ch01-14",
-    "source": { "type": "chapter", "name": "Chapter 1 Test: Equities" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 1 Test: Equities"
+    },
     "chapter": 1,
     "topic": "Settlement",
     "question": "What does T+1 mean in the securities industry?",
@@ -191,28 +253,49 @@
   },
   {
     "id": "ch01-15",
-    "source": { "type": "chapter", "name": "Chapter 1 Test: Equities" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 1 Test: Equities"
+    },
     "chapter": 1,
     "topic": "Liquidation Priority",
     "question": "If a company is forced to liquidate due to bankruptcy, common stockholders have ______________ claim on the company's assets after all liabilities have been paid.",
-    "choices": ["No", "A residual", "A priority", "A secondary"],
+    "choices": [
+      "No",
+      "A residual",
+      "A priority",
+      "A secondary"
+    ],
     "answer": 1,
     "explanation": "If a company is forced to liquidate due to bankruptcy, common stockholders have a residual claim to corporate assets after all debt obligations have been satisfied. This means that common stockholders are at the bottom of the list of claims on the corporation. They are paid only after bondholders and preferred stockholders have been paid."
   },
   {
     "id": "ch01-16",
-    "source": { "type": "chapter", "name": "Chapter 1 Test: Equities" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 1 Test: Equities"
+    },
     "chapter": 1,
     "topic": "Shareholder Meetings",
     "question": "How often are shareholder meetings typically held?",
-    "choices": ["Quarterly", "Semiannually", "Annually", "Every two years"],
+    "choices": [
+      "Quarterly",
+      "Semiannually",
+      "Annually",
+      "Every two years"
+    ],
     "answer": 2,
     "explanation": "Shareholder meetings are typically held on an annual basis. However, shareholders may also request an extraordinary general meeting to present an urgent issue.",
-    "tags": ["archived"]
+    "tags": [
+      "archived"
+    ]
   },
   {
     "id": "ch01-17",
-    "source": { "type": "chapter", "name": "Chapter 1 Test: Equities" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 1 Test: Equities"
+    },
     "chapter": 1,
     "topic": "Preferred Stock",
     "question": "Which of the following characteristics apply to preferred stock?",
@@ -227,7 +310,10 @@
   },
   {
     "id": "ch01-18",
-    "source": { "type": "chapter", "name": "Chapter 1 Test: Equities" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 1 Test: Equities"
+    },
     "chapter": 1,
     "topic": "Stock Splits",
     "question": "When a corporation declares a stock split, the:",
@@ -242,17 +328,28 @@
   },
   {
     "id": "ch01-19",
-    "source": { "type": "chapter", "name": "Chapter 1 Test: Equities" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 1 Test: Equities"
+    },
     "chapter": 1,
     "topic": "Yields by Security Type",
     "question": "Which security of the same issuer is likely to give the highest current yield?",
-    "choices": ["warrant", "common stock", "convertible preferred stock", "non-convertible preferred stock"],
+    "choices": [
+      "warrant",
+      "common stock",
+      "convertible preferred stock",
+      "non-convertible preferred stock"
+    ],
     "answer": 3,
     "explanation": "Warrants give no yield. Common stocks give the lowest yields since there is direct growth potential in the price of the stock as reported earnings increase. Convertible preferred yields are higher than common yields but not as high as non-convertible yields. A non-convertible preferred stockholder gets a fixed rate of return without any growth potential. A convertible preferred stockholder can convert to common if the common's price rises, so growth potential is included. Because of this, yields for convertible preferred are lower than for non-convertible preferred."
   },
   {
     "id": "ch01-20",
-    "source": { "type": "chapter", "name": "Chapter 1 Test: Equities" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 1 Test: Equities"
+    },
     "chapter": 1,
     "topic": "Stock Dividends",
     "question": "How does a stock dividend impact shareholders?",
@@ -267,17 +364,28 @@
   },
   {
     "id": "ch01-21",
-    "source": { "type": "chapter", "name": "Chapter 1 Test: Equities" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 1 Test: Equities"
+    },
     "chapter": 1,
     "topic": "Warrants, Rights, Options",
     "question": "At the time it is issued, which of the following is most likely to have at least two years until it expires?",
-    "choices": ["A repurchase agreement", "A warrant", "An option", "A right"],
+    "choices": [
+      "A repurchase agreement",
+      "A warrant",
+      "An option",
+      "A right"
+    ],
     "answer": 1,
     "explanation": "A warrant is a security that gives its holder the right to purchase shares of stock from an issuing company at a specific price in the future. Warrants are meant to be kept for a relatively long time before use, usually 2 to 10 years, and are usually not worth anything until the company's stock has increased in value. Rights are very similar to warrants because they also give their holder the right to purchase securities at a designated price. However, rights generally expire within 2 to 4 weeks of issuance. Options allow an investor to either buy or sell an underlying security at a designated price. Like rights, however, options are a relatively short-term security; they usually only last for months and not years. Finally, a repurchase agreement is a type of money market security. The life span on a money market security can be no more than one year."
   },
   {
     "id": "ch01-22",
-    "source": { "type": "chapter", "name": "Chapter 1 Test: Equities" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 1 Test: Equities"
+    },
     "chapter": 1,
     "topic": "Settlement",
     "question": "What best describes the trade settlement date?",
@@ -292,7 +400,10 @@
   },
   {
     "id": "ch01-23",
-    "source": { "type": "chapter", "name": "Chapter 1 Test: Equities" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 1 Test: Equities"
+    },
     "chapter": 1,
     "topic": "Voting Rights and Proxies",
     "question": "A proxy is which of the following?",
@@ -307,7 +418,10 @@
   },
   {
     "id": "ch01-24",
-    "source": { "type": "chapter", "name": "Chapter 1 Test: Equities" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 1 Test: Equities"
+    },
     "chapter": 1,
     "topic": "Preferred Stock",
     "question": "When interest rates fall, the price of the fixed-rate preferred stock will typically do what?",
@@ -322,11 +436,19 @@
   },
   {
     "id": "ch01-25",
-    "source": { "type": "chapter", "name": "Chapter 1 Test: Equities" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 1 Test: Equities"
+    },
     "chapter": 1,
     "topic": "Authorized, Issued, Outstanding Shares",
     "question": "The terms \"earnings per share\" and \"voting shares\" refer to",
-    "choices": ["Authorized shares", "Issued shares", "Outstanding shares", "Treasury shares"],
+    "choices": [
+      "Authorized shares",
+      "Issued shares",
+      "Outstanding shares",
+      "Treasury shares"
+    ],
     "answer": 2,
     "explanation": "Authorized shares are identified in the corporate charter. Fewer than that number are issued. Some of the issued shares are re-purchased by the company for treasury stock. The remaining shares are the outstanding shares. These shares are in the hands of the public and are used for voting and EPS calculations."
   }

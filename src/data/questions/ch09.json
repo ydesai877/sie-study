@@ -1,47 +1,82 @@
 [
   {
     "id": "ch09-01",
-    "source": { "type": "chapter", "name": "Chapter 9 Test: Options" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 9 Test: Options"
+    },
     "chapter": 9,
     "topic": "Option Positions",
     "question": "A customer has the following position: Long ABCD Jul 25 put @ 3. What do you know is true about the position?",
-    "choices": ["It is bullish", "It is bearish", "It is in-the-money", "It is out-of-the money"],
+    "choices": [
+      "It is bullish",
+      "It is bearish",
+      "It is in-the-money",
+      "It is out-of-the money"
+    ],
     "answer": 1,
     "explanation": "Long put positions are bearish. In order to determine whether a put is in-the-money or out-of-the-money, you need to know what the security (in this case ABCD) is currently trading at, and the question doesn't give this information."
   },
   {
     "id": "ch09-02",
-    "source": { "type": "chapter", "name": "Chapter 9 Test: Options" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 9 Test: Options"
+    },
     "chapter": 9,
     "topic": "Exercise and Assignment",
     "question": "The writer of a call on a listed stock is exercised. The writer must:",
-    "choices": ["deliver stock", "deliver cash", "take delivery of stock", "take delivery of the premium"],
+    "choices": [
+      "deliver stock",
+      "deliver cash",
+      "take delivery of stock",
+      "take delivery of the premium"
+    ],
     "answer": 0,
     "explanation": "If the writer of a call option on listed stocks is exercised, he or she must deliver 100 shares of stock, for which the writer will receive the strike price in cash. The premium is received at the time of the initial trade, not at exercise."
   },
   {
     "id": "ch09-03",
-    "source": { "type": "chapter", "name": "Chapter 9 Test: Options" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 9 Test: Options"
+    },
     "chapter": 9,
     "topic": "Put and Call Contract Outcomes",
     "question": "A customer buys 1 ABC Jul 70 Put at $9 when the market price of ABC is $66. ABC stock falls to $62 per share and the customer exercises the put and buys the stock at the market for delivery. The customer:",
-    "choices": ["gains $100", "loses $100", "gains $700", "gains $800"],
+    "choices": [
+      "gains $100",
+      "loses $100",
+      "gains $700",
+      "gains $800"
+    ],
     "answer": 1,
     "explanation": "If the market falls to $62 and the put is exercised and the customer buys the stock at the market, the customer sells at $70, stock that is purchased at $62, for an $8 point gain. Since $9 was paid in premiums, the net loss is 1 point or -$100 for the contract covering 100 shares."
   },
   {
     "id": "ch09-04",
-    "source": { "type": "chapter", "name": "Chapter 9 Test: Options" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 9 Test: Options"
+    },
     "chapter": 9,
     "topic": "Option Positions",
     "question": "For a call option, the option writer is __________ on the security, while the option holder is __________ on the security.",
-    "choices": ["bullish; bearish", "bearish; bullish", "bearish; bearish", "bullish; bullish"],
+    "choices": [
+      "bullish; bearish",
+      "bearish; bullish",
+      "bearish; bearish",
+      "bullish; bullish"
+    ],
     "answer": 1,
     "explanation": "The holder of a call option has the right to purchase the underlying securities at the strike price. The holder hopes the market price will increase in the future so that they can purchase the security at the strike price, and then sell them at the increased market price. The option holder is considered bullish because they expect a price increase. In contrast, the call option writer profits when the option is not exercised. The writer is considered bearish because they hope the market price will decrease."
   },
   {
     "id": "ch09-05",
-    "source": { "type": "chapter", "name": "Chapter 9 Test: Options" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 9 Test: Options"
+    },
     "chapter": 9,
     "topic": "Hedging Strategies",
     "question": "A customer buys 100 shares of XYZ stock at $80 and buys 1 XYZ Oct 80 Put @ $3. The customer has a(n):",
@@ -52,31 +87,50 @@
       "limited profit potential and unlimited loss potential"
     ],
     "answer": 2,
-    "explanation": "The customer buys the put for $3 and buys the stock at $80 for a total outlay of $83 per share. The put has been purchased as protection if the stock price should fall. This means the client's loss potential is limited by the hedge.\nIf the stock rises in value, the put would expire \"out the money,\" but the stock could theoretically rise an unlimited amount. This means the core long (bullish) stock position has unlimited profit potential."
+    "explanation": "The customer buys the put for $3 and buys the stock at $80 for a total outlay of $83 per share. The put has been purchased as protection if the stock price should fall. This means the client's loss potential is limited by the hedge.\nIf the stock rises in value, the put would expire \"out the money,\" but the stock could theoretically rise an unlimited amount. This means the core long (bullish) stock position has unlimited profit potential.\n[Edit note - added by Claude] Feedback: Cerifi showed the phrase with doubled quotation marks, \"\"out the money,\"\". Edited to single quotation marks, \"out the money,\"."
   },
   {
     "id": "ch09-06",
-    "source": { "type": "chapter", "name": "Chapter 9 Test: Options" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 9 Test: Options"
+    },
     "chapter": 9,
     "topic": "Income Strategies",
     "question": "A customer buys 100 shares of ABC stock at $40 and sells 1 ABC Jan 45 Call @ $2 on the same day in a cash account. The customer's maximum potential gain until the option expires is:",
-    "choices": ["limited", "unlimited", "$200 if the option expires", "$4,000"],
+    "choices": [
+      "limited",
+      "unlimited",
+      "$200 if the option expires",
+      "$4,000"
+    ],
     "answer": 0,
     "explanation": "A long stock position coupled with a call write is referred to as a covered call writer. This is a bullish position with a capped profit potential since the call will be exercised if the stock rises sharply."
   },
   {
     "id": "ch09-07",
-    "source": { "type": "chapter", "name": "Chapter 9 Test: Options" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 9 Test: Options"
+    },
     "chapter": 9,
     "topic": "Income Strategies",
     "question": "A customer buys 100 shares of ABC stock at $44 and sells 1 ABC Jan 45 Call at $5. Subsequently, the market price of ABC goes to $59, and the call contract is exercised. The customer must:",
-    "choices": ["sell stock at $59", "buy stock at $59", "sell stock at $45", "buy stock at $45"],
+    "choices": [
+      "sell stock at $59",
+      "buy stock at $59",
+      "sell stock at $45",
+      "buy stock at $45"
+    ],
     "answer": 2,
-    "explanation": "The customer has created an income strategy. In this case, the customer buys the stock and thinks that the market price of ABC will remain at or about the price for which the customer bought the stock. Thus, the customer sells a call against his or her long stock position.\nHowever, if the market goes up, he or she will not enjoy the market rise because the call goes \"in the money\" and is exercised. The customer will still make money - just not as much. The customer originally bought the stock at $44 and must deliver the stock at the strike price of the call, or $45, for a $1 point gain. The customer also gets $5 in premiums for selling the call. The total gain is $600."
+    "explanation": "The customer has created an income strategy. In this case, the customer buys the stock and thinks that the market price of ABC will remain at or about the price for which the customer bought the stock. Thus, the customer sells a call against his or her long stock position.\nHowever, if the market goes up, he or she will not enjoy the market rise because the call goes \"in the money\" and is exercised. The customer will still make money - just not as much. The customer originally bought the stock at $44 and must deliver the stock at the strike price of the call, or $45, for a $1 point gain. The customer also gets $5 in premiums for selling the call. The total gain is $600.\n[Edit note - added by Claude] Feedback: Cerifi showed the phrase with doubled quotation marks, \"\"in the money\"\". Edited to single quotation marks, \"in the money\"."
   },
   {
     "id": "ch09-08",
-    "source": { "type": "chapter", "name": "Chapter 9 Test: Options" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 9 Test: Options"
+    },
     "chapter": 9,
     "topic": "Intrinsic Value and Moneyness",
     "question": "A call option is out of the money if:",
@@ -91,87 +145,154 @@
   },
   {
     "id": "ch09-09",
-    "source": { "type": "chapter", "name": "Chapter 9 Test: Options" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 9 Test: Options"
+    },
     "chapter": 9,
     "topic": "Option Premiums",
     "question": "The premium of an option is affected by all of the following variables except:",
-    "choices": ["taxes", "time value", "intrinsic value", "None of the choices listed"],
+    "choices": [
+      "taxes",
+      "time value",
+      "intrinsic value",
+      "None of the choices listed"
+    ],
     "answer": 0,
     "explanation": "While taxes will ultimately play a role in the profit or loss that an investor receives, they are not an inherent factor in determining option premium prices."
   },
   {
     "id": "ch09-10",
-    "source": { "type": "chapter", "name": "Chapter 9 Test: Options" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 9 Test: Options"
+    },
     "chapter": 9,
     "topic": "Income Strategies",
     "question": "A customer sells short 100 shares of ABC stock at $63 per share and writes 1 ABC Sept 55 Put at $2. The customer is a:",
-    "choices": ["naked put writer", "covered put writer", "hedged bull", "hedged bear"],
+    "choices": [
+      "naked put writer",
+      "covered put writer",
+      "hedged bull",
+      "hedged bear"
+    ],
     "answer": 1,
     "explanation": "When a customer shorts stock and writes a put, they are engaged in covered put writing. This is an income-producing strategy for a client with a core short stock position. The core short stock position determines the client's bearish bias. A long call would be used to hedge a short stock position."
   },
   {
     "id": "ch09-11",
-    "source": { "type": "chapter", "name": "Chapter 9 Test: Options" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 9 Test: Options"
+    },
     "chapter": 9,
     "topic": "Hedging Strategies",
     "question": "A customer sells short 100 shares of ABC stock at $38 and buys 1 ABC Mar 40 Call @ $5. The maximum potential gain occurs when:",
-    "choices": ["the option expires worthless", "the option is assigned", "the stock rises dramatically", "the market price of the stock is $0"],
+    "choices": [
+      "the option expires worthless",
+      "the option is assigned",
+      "the stock rises dramatically",
+      "the market price of the stock is $0"
+    ],
     "answer": 3,
     "explanation": "The client has a core bearish stock bet. If the stock falls, the customer gains on the short stock position. The customer sold the stock for $38. If it falls to \"0,\" the customer can buy the shares for \"nothing\" to replace the borrowed shares sold and make 38 points. The customer lets the call expire \"out the money\" losing 5 points, so the maximum potential gain is 33 points, which equals $3,300."
   },
   {
     "id": "ch09-12",
-    "source": { "type": "chapter", "name": "Chapter 9 Test: Options" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 9 Test: Options"
+    },
     "chapter": 9,
     "topic": "Put and Call Contract Outcomes",
     "question": "Ben buys 5 contracts of XYZ Aug 30 puts @3. Three months later the stock is trading at $25. Could he exercise his contracts profitably?",
-    "choices": ["No, he would lose $1,000", "No, he would lose $5,000", "Yes, he would profit $5,000", "Yes, he would profit $1,000"],
+    "choices": [
+      "No, he would lose $1,000",
+      "No, he would lose $5,000",
+      "Yes, he would profit $5,000",
+      "Yes, he would profit $1,000"
+    ],
     "answer": 3,
     "explanation": "Since Ben has purchased a put, or the right to sell the stock, Ben will profit as the market price falls below the breakeven point. His breakeven point is the strike price ($30) minus the premium ($3), or $27. Since the stock is currently trading below the breakeven point at $25, Ben will make a profit. To calculate how much Ben profits per share, take the strike price and then subtract the market price and the premium ($30 - $25 - $3 = $2). Since Ben bought 5 contracts of 100 securities each, his profit will be 5 x 100 x $2 = $1,000"
   },
   {
     "id": "ch09-13",
-    "source": { "type": "chapter", "name": "Chapter 9 Test: Options" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 9 Test: Options"
+    },
     "chapter": 9,
     "topic": "Income Strategies",
     "question": "A customer buys 100 shares of PDQ stock at $41 and sells 1 PDQ Jan 45 Call @ $2 on the same day in a cash account. The client is a:",
-    "choices": ["covered call writer", "protected call writer", "call hedger", "bearish investor"],
+    "choices": [
+      "covered call writer",
+      "protected call writer",
+      "call hedger",
+      "bearish investor"
+    ],
     "answer": 0,
     "explanation": "Buying a stock and selling a call against the position is referred to as covered call writing. This income-producing strategy is often viewed as a dividend supplement to holders of core long stock positions. The investor is bullish due to the core long stock position."
   },
   {
     "id": "ch09-14",
-    "source": { "type": "chapter", "name": "Chapter 9 Test: Options" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 9 Test: Options"
+    },
     "chapter": 9,
     "topic": "Hedging Strategies",
     "question": "A customer sells short 100 shares of ABC stock at $40 and buys 1 ABC Mar 40 Call @ $5. The maximum potential gain occurs when:",
-    "choices": ["the option expires worthless", "the option is assigned", "the stock rises dramatically", "the market price of the stock is $0"],
+    "choices": [
+      "the option expires worthless",
+      "the option is assigned",
+      "the stock rises dramatically",
+      "the market price of the stock is $0"
+    ],
     "answer": 3,
     "explanation": "The client has a core bearish short stock bet. If the stock falls, the customer gains on the short stock position. The customer sold the stock for $40. If it falls to \"0,\" the customer can buy the shares for \"nothing\" to replace the borrowed shares sold and make 40 points. The customer lets the call expire \"out the money\" losing 5 points, so the maximum potential gain is 35 points, which equals $3,500."
   },
   {
     "id": "ch09-15",
-    "source": { "type": "chapter", "name": "Chapter 9 Test: Options" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 9 Test: Options"
+    },
     "chapter": 9,
     "topic": "Intrinsic Value and Moneyness",
     "question": "A client buys an ABC Jul 50 Call @$2 when the stock is trading at $55. The contract:",
-    "choices": ["is out of the money", "has 2 points of intrinsic value", "has 3 points of intrinsic value", "has 5 points of intrinsic value"],
+    "choices": [
+      "is out of the money",
+      "has 2 points of intrinsic value",
+      "has 3 points of intrinsic value",
+      "has 5 points of intrinsic value"
+    ],
     "answer": 3,
     "explanation": "In the money and out of the money amounts for options contracts disregard the premium amount. The holder of this call has the right to buy ABC stock at $50 per share when the market price of ABC is at $55, so the contract is 5 points \"in the money\" - meaning there is a 5-point profit at this moment to the holder, disregarding the premium paid.\nIf the question had asked \"What is the profit or loss?\" then the answer would be a 3-point profit, because 2 points were paid in premiums.\nNote: While this may appear to present an unrealistically good deal (buying a call for $2 with $5 of intrinsic value), remember that licensing exams often test one concept at a time in isolation. In the real world, such pricing could reflect an arbitrage opportunity - but on the exam, you should treat this as a simplified teaching example focused solely on intrinsic value."
   },
   {
     "id": "ch09-16",
-    "source": { "type": "chapter", "name": "Chapter 9 Test: Options" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 9 Test: Options"
+    },
     "chapter": 9,
     "topic": "Put and Call Contract Outcomes",
     "question": "Sheila writes 5 contracts of SUNZ Aug 15 put @ 2. When SUNZ is trading at $10, she is assigned the option contracts. If Sheila immediately sells the underlying shares she receives as a result of the exercised options at their market price, what is her gain or loss?",
-    "choices": ["$2,500 loss", "$1,000 gain", "$1,200 gain", "$1,500 loss"],
+    "choices": [
+      "$2,500 loss",
+      "$1,000 gain",
+      "$1,200 gain",
+      "$1,500 loss"
+    ],
     "answer": 3,
     "explanation": "A put option gives its holder the right to sell the underlying stock at the strike price. In this case, the holder exercised his right to sell the stock to Sheila for $15 per share. Sheila then sold the shares she received for their market price of $10 per share. She thus lost $5 per share on her purchase and sale. This means she incurred a loss of $500 per contract and $2,500 overall ($5/share loss x 100 shares in an options contract x 5 contracts = $2,500). However, Sheila received $1,000 in premiums when she wrote the options ($2/premium x 100 shares in an options contract x 5 contracts = $1,000). This means her net loss is $1,500 ($1,000 gain + $2,500 loss = -$1,500)."
   },
   {
     "id": "ch09-17",
-    "source": { "type": "chapter", "name": "Chapter 9 Test: Options" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 9 Test: Options"
+    },
     "chapter": 9,
     "topic": "Income Strategies",
     "question": "A customer is long 100 ABC at $39 and short 1 ABC Jan 40 Call at $5. If the market moves down sharply, the customer has:",
@@ -186,7 +307,10 @@
   },
   {
     "id": "ch09-18",
-    "source": { "type": "chapter", "name": "Chapter 9 Test: Options" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 9 Test: Options"
+    },
     "chapter": 9,
     "topic": "Option Premiums",
     "question": "The purchase of a call has all of the same characteristics as buying stock EXCEPT:",
@@ -201,37 +325,64 @@
   },
   {
     "id": "ch09-19",
-    "source": { "type": "chapter", "name": "Chapter 9 Test: Options" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 9 Test: Options"
+    },
     "chapter": 9,
     "topic": "Intrinsic Value and Moneyness",
     "question": "Wanda buys a $5 call option with a strike price of $75. The price of the underlying stock goes up to $90. What is the intrinsic value of the call option?",
-    "choices": ["$10", "$15", "$5", "$90"],
+    "choices": [
+      "$10",
+      "$15",
+      "$5",
+      "$90"
+    ],
     "answer": 1,
     "explanation": "Recall that the intrinsic value of an option is the difference between its value on the market and its strike price. That means that its intrinsic value is $90 - $75 = $15. The price of the call option is not used to determine the intrinsic value."
   },
   {
     "id": "ch09-20",
-    "source": { "type": "chapter", "name": "Chapter 9 Test: Options" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 9 Test: Options"
+    },
     "chapter": 9,
     "topic": "Option Positions",
     "question": "Which of the following options strategies provides a gain equal to the premium in a bear market?",
-    "choices": ["Long Call", "Short Call", "Long Put", "Short Put"],
+    "choices": [
+      "Long Call",
+      "Short Call",
+      "Long Put",
+      "Short Put"
+    ],
     "answer": 1,
     "explanation": "The writer of a call (short call) collects a premium in return for agreeing to sell stock at a fixed price, no matter how high the market price of the stock may go. If the market price falls, the call expires \"out the money\" and the writer keeps the collected premium. This is the maximum potential gain."
   },
   {
     "id": "ch09-21",
-    "source": { "type": "chapter", "name": "Chapter 9 Test: Options" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 9 Test: Options"
+    },
     "chapter": 9,
     "topic": "American vs. European Style",
     "question": "An American Style stock option differs from a European style stock options because it can be:",
-    "choices": ["traded anytime until expiration", "exercised anytime until expiration", "issued at any time until expiration", "redeemed anytime until expiration"],
+    "choices": [
+      "traded anytime until expiration",
+      "exercised anytime until expiration",
+      "issued at any time until expiration",
+      "redeemed anytime until expiration"
+    ],
     "answer": 1,
     "explanation": "The very first options contracts were single stock options, which started trading on the Cboe in 1973. All single stock options are \"American Style\" - these are options that can be exercised at any time. In contrast, European style options can only be exercised at expiration and not before.\nAll options contracts can be traded anytime until expiration. Options contracts cannot be redeemed and they can only be issued based on the cycles set by the Options Clearing Corporation."
   },
   {
     "id": "ch09-22",
-    "source": { "type": "chapter", "name": "Chapter 9 Test: Options" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 9 Test: Options"
+    },
     "chapter": 9,
     "topic": "Index Options",
     "question": "All of the following are characteristics of index option contracts EXCEPT:",
@@ -246,17 +397,28 @@
   },
   {
     "id": "ch09-23",
-    "source": { "type": "chapter", "name": "Chapter 9 Test: Options" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 9 Test: Options"
+    },
     "chapter": 9,
     "topic": "Standardized Contracts",
     "question": "All of the following are standardized for listed option contracts EXCEPT:",
-    "choices": ["strike price", "contract size", "premium", "expiration"],
+    "choices": [
+      "strike price",
+      "contract size",
+      "premium",
+      "expiration"
+    ],
     "answer": 2,
     "explanation": "Exchange traded option contracts have standardized contract sizes (e.g., 100 shares of stock), expiration dates, and strike prices. The premium or \"price\" of the option is determined minute by minute in the trading market."
   },
   {
     "id": "ch09-24",
-    "source": { "type": "chapter", "name": "Chapter 9 Test: Options" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 9 Test: Options"
+    },
     "chapter": 9,
     "topic": "Foreign Currency and Investments",
     "question": "Which of the following is not true of a foreign investment?",
@@ -271,27 +433,46 @@
   },
   {
     "id": "ch09-25",
-    "source": { "type": "chapter", "name": "Chapter 9 Test: Options" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 9 Test: Options"
+    },
     "chapter": 9,
     "topic": "Put and Call Contract Outcomes",
     "question": "A customer buys 1 ABC Jul 40 Put at $6 when the market price of ABC is 38. The maximum potential loss to the holder is:",
-    "choices": ["$600", "$3,400", "$4,000", "unlimited"],
+    "choices": [
+      "$600",
+      "$3,400",
+      "$4,000",
+      "unlimited"
+    ],
     "answer": 0,
     "explanation": "The holder of a put buys the right to sell at a fixed price. If the contract expires \"out the money,\" the maximum loss is the premium paid. This occurs if the market price rises above the strike price."
   },
   {
     "id": "ch09-26",
-    "source": { "type": "chapter", "name": "Chapter 9 Test: Options" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 9 Test: Options"
+    },
     "chapter": 9,
     "topic": "Option Positions",
     "question": "A customer has the following position: Long XYZ Jan 50 put @ 6. What do you know is true about the position?",
-    "choices": ["It is bullish", "It is bearish", "It is in-the-money", "It is out-of-the money"],
+    "choices": [
+      "It is bullish",
+      "It is bearish",
+      "It is in-the-money",
+      "It is out-of-the money"
+    ],
     "answer": 1,
     "explanation": "Long put positions are bearish. In order to determine whether a put is in-the-money or out-of-the-money, you need to know what the security (in this case XYZ) is currently trading at, and the question doesn't give this information."
   },
   {
     "id": "ch09-27",
-    "source": { "type": "chapter", "name": "Chapter 9 Test: Options" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 9 Test: Options"
+    },
     "chapter": 9,
     "topic": "Put and Call Contract Outcomes",
     "question": "What is the maximum potential gain for a short put investor?",
@@ -306,17 +487,28 @@
   },
   {
     "id": "ch09-28",
-    "source": { "type": "chapter", "name": "Chapter 9 Test: Options" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 9 Test: Options"
+    },
     "chapter": 9,
     "topic": "Put and Call Contract Outcomes",
     "question": "Jon shorts 3 ABC Apr 50 calls at 3.50. He has no other positions in the stock. The stock is currently selling at 51. What is his maximum loss?",
-    "choices": ["Unlimited", "$1,050", "$750", "$3,950"],
+    "choices": [
+      "Unlimited",
+      "$1,050",
+      "$750",
+      "$3,950"
+    ],
     "answer": 0,
     "explanation": "For naked short calls, an investor's maximum loss is unlimited."
   },
   {
     "id": "ch09-29",
-    "source": { "type": "chapter", "name": "Chapter 9 Test: Options" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 9 Test: Options"
+    },
     "chapter": 9,
     "topic": "Option Basics",
     "question": "For a call option, the strike price is:",
@@ -327,21 +519,32 @@
       "The price at which the call holder can buy the underlying security from the call writer"
     ],
     "answer": 3,
-    "explanation": "The strike price for a call option is the price at which the call seller is obligated to sell the underlying security to the call holder if the option is exercised. When the call option hits the strike price, it is said to be in the money; however, the call holder is not obligated to buy the underlying securities when they reach the strike price. Additionally, the strike price added to the option's premium, and not simply the strike price, is the breakeven point for both the holder and writer of a call option. Finally, the strike price for a put option, and not a call option, is the price at which the put writer must buy the underlying securities from the put holder when the put is exercised."
+    "explanation": "The strike price for a call option is the price at which the call seller is obligated to sell the underlying security to the call holder if the option is exercised. When the call option hits the strike price, it is said to be in the money; however, the call holder is not obligated to buy the underlying securities when they reach the strike price. Additionally, the strike price added to the option's premium, and not simply the strike price, is the breakeven point for both the holder and writer of a call option. Finally, the strike price for a put option, and not a call option, is the price at which the put writer must buy the underlying securities from the put holder when the put is exercised.\n[Edit note - added by Claude] Feedback, last sentence: \"call\" should be \"put\" (only a put writer buys from the holder at the strike). Original: \"the price at which the call writer must buy the underlying securities from the call holder when the put is exercised\" Edited: \"the price at which the put writer must buy the underlying securities from the put holder when the put is exercised\""
   },
   {
     "id": "ch09-30",
-    "source": { "type": "chapter", "name": "Chapter 9 Test: Options" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 9 Test: Options"
+    },
     "chapter": 9,
     "topic": "Foreign Currency and Investments",
     "question": "An Oregon winery exports wine to Japan. A major customer will only pay in Japanese Yen. In order to protect itself from a possible decline in the value of the Japanese Yen, the winery could:",
-    "choices": ["Buy Japanese yen calls", "Buy Japanese yen puts", "Buy U.S. dollar puts", "Sell Japanese yen calls"],
+    "choices": [
+      "Buy Japanese yen calls",
+      "Buy Japanese yen puts",
+      "Buy U.S. dollar puts",
+      "Sell Japanese yen calls"
+    ],
     "answer": 1,
     "explanation": "If the value of the yen drops suddenly, the customer's payment in yen is worth less to the winery. The Oregon winery would buy Japanese yen puts to protect itself from a decline in the value of the Japanese yen against the U.S. dollar. This would allow the winery to have the option to sell a fixed number of yen for a certain strike price (e.g., .01/yen). A U.S. importer, on the other hand, could buy Japanese yen calls to protect itself against a rise in the value of the yen and a corresponding weakening of the dollar. Remember EPIC. Exporters buy Puts, and Importers buy Calls."
   },
   {
     "id": "ch09-31",
-    "source": { "type": "chapter", "name": "Chapter 9 Test: Options" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 9 Test: Options"
+    },
     "chapter": 9,
     "topic": "Breakeven",
     "question": "The breakeven point for the holder of a call option:",
@@ -356,7 +559,10 @@
   },
   {
     "id": "ch09-32",
-    "source": { "type": "chapter", "name": "Chapter 9 Test: Options" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 9 Test: Options"
+    },
     "chapter": 9,
     "topic": "Option Basics",
     "question": "Why are options referred to as \"derivatives\"?",
@@ -371,47 +577,82 @@
   },
   {
     "id": "ch09-33",
-    "source": { "type": "chapter", "name": "Chapter 9 Test: Options" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 9 Test: Options"
+    },
     "chapter": 9,
     "topic": "Exercise and Assignment",
     "question": "If an equity call holder exercises a contract, the holder must deliver:",
-    "choices": ["cash in 1 business day", "stock in 1 business day", "cash in 2 business days", "stock in 2 business days"],
+    "choices": [
+      "cash in 1 business day",
+      "stock in 1 business day",
+      "cash in 2 business days",
+      "stock in 2 business days"
+    ],
     "answer": 0,
     "explanation": "If the holder of an equity call exercises, he is buying the stock at the strike price. Settlement is 1 business day after exercise date - this is a regular way stock trade."
   },
   {
     "id": "ch09-34",
-    "source": { "type": "chapter", "name": "Chapter 9 Test: Options" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 9 Test: Options"
+    },
     "chapter": 9,
     "topic": "Index Options",
     "question": "The exercise of an SPX (S&P 500 Index) option will result in the delivery of:",
-    "choices": ["cash the next business day", "cash in 2 business days", "SPDRs the next business day", "SPDRs in 2 business days"],
+    "choices": [
+      "cash the next business day",
+      "cash in 2 business days",
+      "SPDRs the next business day",
+      "SPDRs in 2 business days"
+    ],
     "answer": 0,
     "explanation": "If there is an exercise of an index option, the writer must pay the holder the \"in the money\" amount the next business day. There is no physical delivery of the underlying securities in the benchmark index. Note, for your information, that the SPDR is the S&P 500 Depositary Receipt - it is one of the most popular exchange traded funds (ETFs) based on the S&P 500 Index."
   },
   {
     "id": "ch09-35",
-    "source": { "type": "chapter", "name": "Chapter 9 Test: Options" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 9 Test: Options"
+    },
     "chapter": 9,
     "topic": "Hedging Strategies",
     "question": "A customer buys 100 shares of ABC at $50 and buys 1 ABC Jan 50 Put @ $5. This position results in a profit when the stock's price:",
-    "choices": ["rises above 55", "falls", "is stable", "rises above 50"],
+    "choices": [
+      "rises above 55",
+      "falls",
+      "is stable",
+      "rises above 50"
+    ],
     "answer": 0,
     "explanation": "If the market falls, the customer will exercise the put which was purchased for a premium of $5. The customer bought the stock at $50 and bought the right to sell the shares at $50. The loss would be the $5 per share ($500 total) premium paid. If the market remains stable, the put expires \"at the money,\" and the customer loses the $500 premium - and this is the maximum potential loss.\nIf the market rises, the long put expires \"out the money.\" However, the stock can be sold at the higher market price creating a profit. The maximum potential gain comes from the stock position and is unlimited - the put would expire and the stock could be sold at the higher market price.\nWhy is the position profitable above $55? Breakeven is at $55 - the customer has paid $5 in premiums and $50 per share for the stock, for a total outlay of $55 per share. The stock must be sold for this amount to breakeven. Any movement higher results in a profit."
   },
   {
     "id": "ch09-36",
-    "source": { "type": "chapter", "name": "Chapter 9 Test: Options" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 9 Test: Options"
+    },
     "chapter": 9,
     "topic": "Intrinsic Value and Moneyness",
     "question": "An option that is not in-the-money at expiration:",
-    "choices": ["Is worthless", "Is sold", "Is exercised", "Is assigned"],
+    "choices": [
+      "Is worthless",
+      "Is sold",
+      "Is exercised",
+      "Is assigned"
+    ],
     "answer": 0,
     "explanation": "At expiration, an option that is not in the money (or is out of the money), is worthless. Such an option cannot be sold, exercised or assigned."
   },
   {
     "id": "ch09-37",
-    "source": { "type": "chapter", "name": "Chapter 9 Test: Options" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 9 Test: Options"
+    },
     "chapter": 9,
     "topic": "Foreign Currency and Investments",
     "question": "John is a US investor who believes that the best opportunities to make money lie overseas. He is comfortable with volatility and he believes that currency hedging is over-rated and expensive. For an unhedged investor such as John, which of the following is the best scenario?",
@@ -426,31 +667,55 @@
   },
   {
     "id": "ch09-38",
-    "source": { "type": "chapter", "name": "Chapter 9 Test: Options" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 9 Test: Options"
+    },
     "chapter": 9,
     "topic": "Hedging Strategies",
     "question": "A customer sells short 100 shares of ABC at $54 and wants to fully hedge her core short position. The customer should engage in which of the following strategies?",
-    "choices": ["long put", "long call", "short put", "short call"],
+    "choices": [
+      "long put",
+      "long call",
+      "short put",
+      "short call"
+    ],
     "answer": 1,
     "explanation": "When a client has a short stock position, borrowed shares have been sold with the agreement that the customer will buy back the position at a later date. If the market rises, the loss potential is unlimited. The purchase of a call (long call) allows the stock to be bought in at a fixed price, limiting upside risk."
   },
   {
     "id": "ch09-39",
-    "source": { "type": "chapter", "name": "Chapter 9 Test: Options" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 9 Test: Options"
+    },
     "chapter": 9,
     "topic": "Income Strategies",
     "question": "A customer sells short 100 shares of PDQ stock at $49 and sells 1 PDQ Sept 50 Put @ $6. The maximum potential gain while both positions are in place is:",
-    "choices": ["limited", "unlimited", "$4,900", "$600"],
+    "choices": [
+      "limited",
+      "unlimited",
+      "$4,900",
+      "$600"
+    ],
     "answer": 0,
     "explanation": "If the market falls, the short put is exercised, and the stock must be bought at $50. Since it was already \"sold\" at $49, there is a loss of $1 per share ($100 total). But the customer collected $600 in premiums, so the end result is a net gain of $500. This is the maximum potential gain. Conversely, if the market rises, the short put expires, leaving a short stock position that has potentially unlimited loss."
   },
   {
     "id": "ch09-40",
-    "source": { "type": "chapter", "name": "Chapter 9 Test: Options" },
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 9 Test: Options"
+    },
     "chapter": 9,
     "topic": "Option Positions",
     "question": "Buying a put option would indicate what about an investor?",
-    "choices": ["She is bearish on a stock", "She is bullish on a stock", "She believes a stock will split soon", "She favors low-risk investments"],
+    "choices": [
+      "She is bearish on a stock",
+      "She is bullish on a stock",
+      "She believes a stock will split soon",
+      "She favors low-risk investments"
+    ],
     "answer": 0,
     "explanation": "Buying a put option would indicate that an investor hopes to profit from a decline in the price of a stock. This would make them \"bearish\" about the future of that stock."
   }

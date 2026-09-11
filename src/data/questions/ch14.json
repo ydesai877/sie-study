@@ -1,0 +1,252 @@
+[
+  {
+    "id": "ch14-01",
+    "source": { "type": "chapter", "name": "Chapter 14 Test: Act of 1934 and Other Federal and State Regulations" },
+    "chapter": 14,
+    "topic": "Insider Trading",
+    "question": "Insider trading:",
+    "choices": [
+      "Can apply to the trading of securities based on material public information",
+      "Applies to the person trading on the information, the tippee, and the person who passed on the information, the tipper",
+      "Can apply to the trading of securities based on non-material non-public information",
+      "Can occur if material non-public information was passed on, but no trading occurred"
+    ],
+    "answer": 1,
+    "explanation": "Insider trading involves the trading of securities based on material non-public information. It is unlawful for anyone who gains insider information, and knows it to be confidential and that it must be kept confidential, to trade on such information. It is also unlawful for someone to pass on inside information that is then traded on. This applies to all types of securities. Both the actions of the person trading on the information and the person who passed on the information would be considered to be illegal insider trading. Thus, insider trading is prohibited as to both the tipper and tippee."
+  },
+  {
+    "id": "ch14-02",
+    "source": { "type": "chapter", "name": "Chapter 14 Test: Act of 1934 and Other Federal and State Regulations" },
+    "chapter": 14,
+    "topic": "Insider Trading",
+    "question": "When making investment recommendations, no person may make security sales or purchases based on:",
+    "choices": ["Public material information", "Immaterial inside information", "Mature inside information", "Material inside information"],
+    "answer": 3,
+    "explanation": "A securities professional can never make recommendations based on material inside information. This practice is known as insider trading, and it is strictly prohibited. However, both public material information and any immaterial information may be used when recommending a trade to a client."
+  },
+  {
+    "id": "ch14-03",
+    "source": { "type": "chapter", "name": "Chapter 14 Test: Act of 1934 and Other Federal and State Regulations" },
+    "chapter": 14,
+    "topic": "Issuer Reporting (8-K)",
+    "question": "An issuer is required to make an 8K filing with the SEC for all of following events EXCEPT:",
+    "choices": [
+      "Election of new members of the Board of Directors",
+      "Declaration of bankruptcy",
+      "Declaration of a cash dividend",
+      "Proposal of a merger with another corporation"
+    ],
+    "answer": 2,
+    "explanation": "An 8K filing with the SEC is required by a corporation if a \"major event\" happens at the company. These include if there is a change in the composition of the Board of Directors; if the company declares bankruptcy; if there is a major acquisition or divestiture of assets; if the company proposes a merger; or if any other major corporate event occurs. The notice must be filed no later than 4 business days after the event."
+  },
+  {
+    "id": "ch14-04",
+    "source": { "type": "chapter", "name": "Chapter 14 Test: Act of 1934 and Other Federal and State Regulations" },
+    "chapter": 14,
+    "topic": "Regulation M (Stabilization)",
+    "question": "Stabilization rules for new issues are set forth under the:",
+    "choices": ["The Securities Act of 1933", "Regulation M", "The Trust Indenture Act of 1939", "The New Issue Rule"],
+    "answer": 1,
+    "explanation": "The Securities Exchange Act of 1934 prohibits market manipulation - with one exception. According to the SEC's Regulation M, stabilization of new issues will not considered market manipulation under certain conditions."
+  },
+  {
+    "id": "ch14-05",
+    "source": { "type": "chapter", "name": "Chapter 14 Test: Act of 1934 and Other Federal and State Regulations" },
+    "chapter": 14,
+    "topic": "Regulators (SEC, FINRA, MSRB, CFTC)",
+    "question": "What is the U.S. Government agency that has enforcement authority over the U.S. securities markets?",
+    "choices": ["FINRA", "SEC", "MSRB", "CFTC"],
+    "answer": 1,
+    "explanation": "Both FINRA and the Securities and Exchange Commission (SEC) regulate and have enforcement capability over the U.S. securities markets and market participants. However, the SEC is a government agency, while FINRA is an SRO - a self-regulatory organization under SEC oversight.\nThe Municipal Securities Rulemaking Board is another SRO that creates rules for municipal market participants, but has no enforcement ability - enforcement of MSRB rules is performed by FINRA.\nThe CFTC regulates futures and commodities."
+  },
+  {
+    "id": "ch14-06",
+    "source": { "type": "chapter", "name": "Chapter 14 Test: Act of 1934 and Other Federal and State Regulations" },
+    "chapter": 14,
+    "topic": "Blue Sky Laws and NSMIA",
+    "question": "Under the National Securities Markets Improvement Act (NSMIA), many securities are exempt from which part of blue sky laws?",
+    "choices": ["Registration", "Notice filings", "Anti-fraud provisions", "Fees"],
+    "answer": 0,
+    "explanation": "The National Securities Markets Improvement Act (NSMIA) exempts certain \"covered securities\" from state registration requirements and from most state regulatory hurdles. Covered securities include mutual funds, government securities, and securities listed on a national exchange.\nAlthough NSMIA essentially eliminated state authority to substantively regulate large national offerings, it allows states to require notice filings (filings that merely notify the state that the security will be sold there) and payment of registration fees. NSMIA also specifically preserves the ability of state regulators to enforce state laws prohibiting fraudulent, deceptive, or unlawful conduct in connection with securities transactions."
+  },
+  {
+    "id": "ch14-07",
+    "source": { "type": "chapter", "name": "Chapter 14 Test: Act of 1934 and Other Federal and State Regulations" },
+    "chapter": 14,
+    "topic": "Blue Sky Laws and NSMIA",
+    "question": "A blue sky law is meant to do which of the following?",
+    "choices": [
+      "Protect a state's investors against securities fraud",
+      "Ensure uniformity in the rules governing securities issued in different states",
+      "Ensure that all securities are registered at the state level",
+      "Assure investors that their bond principal will be repaid"
+    ],
+    "answer": 0,
+    "explanation": "The true purpose of blue sky laws is simply to protect a state's investors against securities fraud. While they may increase the likelihood that all bond obligations will be met by the issuer, these laws cannot guarantee such an outcome. Far from ensuring uniformity in securities laws between different states, blue sky laws vary widely. Blue sky laws do not affect covered securities, which are exempt from registration at the state level."
+  },
+  {
+    "id": "ch14-08",
+    "source": { "type": "chapter", "name": "Chapter 14 Test: Act of 1934 and Other Federal and State Regulations" },
+    "chapter": 14,
+    "topic": "Anti-Money Laundering (CIP, OFAC, BSA)",
+    "question": "The Customer Identification Program (CIP) is related to which of the following?",
+    "choices": ["Protecting customer privacy", "Anti-money laundering compliance", "Identifying margin insufficiencies", "Customer suitability requirements"],
+    "answer": 1,
+    "explanation": "A broker-dealer is required to establish and maintain a written Customer Identification Program (CIP) as part of the government's anti-money laundering compliance program to verify the identity of a customer."
+  },
+  {
+    "id": "ch14-09",
+    "source": { "type": "chapter", "name": "Chapter 14 Test: Act of 1934 and Other Federal and State Regulations" },
+    "chapter": 14,
+    "topic": "Blue Sky Laws and NSMIA",
+    "question": "Which of the following people must be registered in the states where they do business?",
+    "choices": [
+      "Representatives who work for a broker-dealer",
+      "Representatives who work for an investment adviser",
+      "Representatives who work for a broker-dealer and representatives who work for an investment adviser",
+      "Neither representatives who work for a broker-dealer nor those who work for an investment adviser"
+    ],
+    "answer": 2,
+    "explanation": "Each state has its own securities laws known as blue sky laws. State blue sky laws require that:\n- Securities issues be registered in the state in order to be sold to that state's residents (unless an exemption is available)\n- Broker-dealers and their agents (registered representatives) register in each state where they do business\n- Investment advisers and their representatives register in each state where they do business"
+  },
+  {
+    "id": "ch14-10",
+    "source": { "type": "chapter", "name": "Chapter 14 Test: Act of 1934 and Other Federal and State Regulations" },
+    "chapter": 14,
+    "topic": "SIPC",
+    "question": "SIPC is backed financially by which of the following groups?",
+    "choices": ["The U.S. Treasury", "The U.S. Federal Reserve", "The FDIC", "Broker-dealers that are members of SIPC"],
+    "answer": 3,
+    "explanation": "The Securities Investor Protection Corporation is not a government agency but a membership-owned, nonprofit corporation. Most SEC-registered broker-dealers are required to be SIPC members. Exempt broker-dealers include firms that exclusively sell mutual funds, variable annuities, insurance products, or that exclusively provide investment advice to registered investment or insurance companies."
+  },
+  {
+    "id": "ch14-11",
+    "source": { "type": "chapter", "name": "Chapter 14 Test: Act of 1934 and Other Federal and State Regulations" },
+    "chapter": 14,
+    "topic": "Anti-Money Laundering (CIP, OFAC, BSA)",
+    "question": "A member firm is required to verify the identification of its customers and run a check in accordance with regulations established by OFAC. What is OFAC and the purpose of the I.D. check?",
+    "choices": [
+      "Office of Foreign Assets Control. To check if the person is on a known or suspected terrorist list.",
+      "Office of Financial Assets and Compliance. To check if the person is a known or suspected money launderer.",
+      "Office of Foreign Aliens Compliance. To check if the person is a known or suspected funder of terrorist organizations.",
+      "Office of Financial Advisor Compliance. To check if the person has a criminal record."
+    ],
+    "answer": 0,
+    "explanation": "OFAC stands for the Office of Foreign Assets Control. It maintains and publishes the Specially Designated Nationals List (SDNs list), which is a compilation of names that are suspected or known terrorists. Every covered financial institution must run new customers' names through this list under the USA PATRIOT Act's \"know your customer\" regulations."
+  },
+  {
+    "id": "ch14-12",
+    "source": { "type": "chapter", "name": "Chapter 14 Test: Act of 1934 and Other Federal and State Regulations" },
+    "chapter": 14,
+    "topic": "Securities Exchange Act of 1934",
+    "question": "The Securities Exchange Act of 1934 is MOST concerned with:",
+    "choices": [
+      "full and fair disclosure to investors on new issues",
+      "prevention of manipulation and fraud in the primary market",
+      "prevention of manipulation and fraud in the secondary market",
+      "assuring that an efficient trading market exists characterized by broad investor participation"
+    ],
+    "answer": 2,
+    "explanation": "The primary purpose of the Securities Acts was to curb speculation and fraud in the markets. The Securities Act of 1933 regulates the primary (new issue) market and requires full disclosure to investors on non-exempt new issues.\nThe Securities Exchange Act of 1934 regulates the secondary (trading market) and consists of a variety of rules primarily intended to prevent manipulation and fraud. While having an efficient trading market is certainly a good thing, it is not the principal concern of the Securities Exchange Act of 1934."
+  },
+  {
+    "id": "ch14-13",
+    "source": { "type": "chapter", "name": "Chapter 14 Test: Act of 1934 and Other Federal and State Regulations" },
+    "chapter": 14,
+    "topic": "Insider Trading",
+    "question": "Nefarious Investments, a brokerage firm, is found guilty of a criminal violation involving insider securities trading. What is the maximum fine it could receive?",
+    "choices": ["$5 million", "$10 million", "$25 million", "$50 million"],
+    "answer": 2,
+    "explanation": "A firm convicted of an act of insider trading can face a fine of up to $25 million. A natural person convicted of an act of insider trading can be sentenced up to 20 years and fined up to $5 million. These criminal penalties are in addition to any civil penalties and restitution."
+  },
+  {
+    "id": "ch14-14",
+    "source": { "type": "chapter", "name": "Chapter 14 Test: Act of 1934 and Other Federal and State Regulations" },
+    "chapter": 14,
+    "topic": "New Issue Rule (FINRA Rule 5130)",
+    "question": "The self-supporting spouse of a registered representative has an account with your firm. Your firm is underwriting the initial public offering (IPO) of ACME Co. common stock, and the spouse inquires about whether it is possible to receive an allocation. The registered representative should inform the spouse that the issue:",
+    "choices": [
+      "cannot be purchased through the IPO",
+      "can only be purchased through the IPO if the amount purchased is insubstantial",
+      "can only be purchased through the IPO with the approval of FINRA",
+      "can be purchased through the IPO without restriction"
+    ],
+    "answer": 0,
+    "explanation": "FINRA prohibits the purchase of equity IPOs (Initial Public Offerings) by industry \"insiders.\" The list of prohibited purchasers includes FINRA member firms for their own accounts, officers and employees of member firms (and their immediate family members), fiduciaries to member firms (such as accountants and lawyers that are retained by FINRA member firms); and investment managers for investment companies, insurance companies, pension plans, who want to buy personally, etc."
+  },
+  {
+    "id": "ch14-15",
+    "source": { "type": "chapter", "name": "Chapter 14 Test: Act of 1934 and Other Federal and State Regulations" },
+    "chapter": 14,
+    "topic": "Anti-Money Laundering (CIP, OFAC, BSA)",
+    "question": "The regulator that is responsible for enforcing the Bank Secrecy Act of 1970 is:",
+    "choices": ["SEC", "FinCEN", "FINRA", "FDIC"],
+    "answer": 1,
+    "explanation": "FinCEN is part of the Department of Treasury and stands for the Financial Crimes Enforcement Network. While FinCEN itself was not created until 1990, the Department of Treasury was given responsibility for tracking large cash deposits over $10,000 under the Bank Secrecy Act of 1970 (BSA).\nAt the time, this was intended as an \"anti-Mafia\" regulation to stop the mob from doing large transactions in cash. The BSA required the filing of CTRs (Currency Transaction Reports) with the Department of Treasury for deposits or withdrawals of cash that exceeded $10,000. These reports identify the individual, so that FinCEN can investigate if it wants.\nFinCEN's mission was expanded under the PATRIOT Act of 2001 to stop terrorist money laundering. If a financial institution is suspicious about customer transactions, this Act requires the filing of an SAR - Suspicious Activities Report with FinCEN."
+  },
+  {
+    "id": "ch14-16",
+    "source": { "type": "chapter", "name": "Chapter 14 Test: Act of 1934 and Other Federal and State Regulations" },
+    "chapter": 14,
+    "topic": "Broker-Dealer Financial Reporting",
+    "question": "Broker-dealers are required to report their computed Net Capital to customers:",
+    "choices": ["monthly", "quarterly", "semi-annually", "annually"],
+    "answer": 2,
+    "explanation": "Broker-dealers must send their customers a semi-annual balance sheet and Net Capital computation."
+  },
+  {
+    "id": "ch14-17",
+    "source": { "type": "chapter", "name": "Chapter 14 Test: Act of 1934 and Other Federal and State Regulations" },
+    "chapter": 14,
+    "topic": "SIPC",
+    "question": "Jon has an individual account and an UGMA account that he has opened up for his daughter. Both accounts are at the same brokerage house. What is the combined maximum SIPC coverage for both accounts?",
+    "choices": ["$500,000", "$1,000,000", "$250,000", "$750,000"],
+    "answer": 1,
+    "explanation": "SIPC covers a maximum of $500,000 per \"separate customer\" at a broker-dealer or clearing firm including up to $250,000 in cash. Total coverage can be higher for multiple accounts if the accounts are considered to be held by separate customers. There are five categories of separate customers defined by the SIPC. These categories include 1) individual accounts, 2) joint accounts, 3) accounts held by executors, administrators, and guardians/custodians/conservators (such as UGMA accounts), 4) accounts held by corporations, partnerships, or unincorporated associations, and 5) trust accounts. Thus, Jon's individual account is subject to a maximum of $500,000 and the UGMA account is subject to a maximum of $500,000, so in total both accounts together are subject to $1,000,000 in coverage."
+  },
+  {
+    "id": "ch14-18",
+    "source": { "type": "chapter", "name": "Chapter 14 Test: Act of 1934 and Other Federal and State Regulations" },
+    "chapter": 14,
+    "topic": "Regulators (SEC, FINRA, MSRB, CFTC)",
+    "question": "The Securities and Exchange Commission was:",
+    "choices": [
+      "created under the Securities Act of 1933",
+      "created under the Securities Exchange Act of 1934",
+      "established after the 1929 market crash as the first self-regulatory organization",
+      "given regulatory authority over futures exchanges"
+    ],
+    "answer": 1,
+    "explanation": "The Securities and Exchange Commission was created under the Securities Exchange Act of 1934. It has overall regulatory authority over the securities markets and securities market participants. It has no power over the futures markets - these are regulated by the CFTC - the Commodities Futures Trading Commission. FINRA, not the the SEC is an SRO. The SEC is part of the Federal Government."
+  },
+  {
+    "id": "ch14-19",
+    "source": { "type": "chapter", "name": "Chapter 14 Test: Act of 1934 and Other Federal and State Regulations" },
+    "chapter": 14,
+    "topic": "New Issue Rule (FINRA Rule 5130)",
+    "question": "Suze would like to buy shares in an IPO, but her brother works for a broker-dealer. Which of the following is true? Choose the best answer.",
+    "choices": [
+      "Suze cannot buy shares in the IPO because she is considered to be immediate family of a restricted person.",
+      "Suze may buy shares of the IPO if her brother's firm is not selling the issue and he does not provide her with material support",
+      "Suze may freely buy shares of the IPO regardless of her relationship to her brother",
+      "Suze may buy shares of the IPO only with written permission from her brother's employer"
+    ],
+    "answer": 1,
+    "explanation": "Under FINRA Rule 5130 (the New Issue Rule), immediate family members of a broker-dealer employee are restricted from purchasing IPO shares only if one of the following applies:\n- The associated person provides or receives material support (generally more than 25% of prior-year income or same-household support)\n- The associated person works for the firm selling the IPO to that family member\n- The associated person can influence IPO allocations\nIf none of these conditions apply, the family member is not considered restricted and may purchase IPO shares.\nTherefore, Suze may buy IPO shares if her brother's firm is not involved in selling the offering and he does not materially support her.\nNote: Family relationship alone does not automatically make someone restricted—FINRA focuses on beneficial interest, support, and allocation influence."
+  },
+  {
+    "id": "ch14-20",
+    "source": { "type": "chapter", "name": "Chapter 14 Test: Act of 1934 and Other Federal and State Regulations" },
+    "chapter": 14,
+    "topic": "Customer Protection Violations",
+    "question": "All of the following are violations of FINRA rules EXCEPT:",
+    "choices": [
+      "refusal to trade at a stated quote unless the quote has been identified as nominal",
+      "selling mutual fund shares to customers in quantities just below breakpoint levels",
+      "pledging fully paid customer securities to a bank to secure a loan",
+      "exchanging customer margin securities with other collateral to secure a debit balance"
+    ],
+    "answer": 3,
+    "explanation": "Under the \"margin agreement,\" margin securities are held in street name and can be commingled with the securities of other customers. Thus, collateral at a bank can be changed at any time, since it consists solely of commingled street name securities.\nFully paid securities must be segregated and placed in safekeeping.\nSelling to a customer just below a breakpoint is a violation.\nClearly, refusal to trade at stated quotes is a violation, since quotes must be \"bona fide.\""
+  }
+]

@@ -1,0 +1,452 @@
+[
+  {
+    "id": "ch15-01",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 15 Test: Self-Regulatory Organization (SRO) Rules"
+    },
+    "chapter": 15,
+    "topic": "Gifts and Business Entertainment",
+    "question": "A registered representative takes a customer out to a dinner and a show, spending $400. This activity is:",
+    "choices": [
+      "a violation of FINRA rules",
+      "permitted because less than $300 was spent on a per-person basis",
+      "permitted if it complies with the firm's policies and procedures",
+      "permitted under all circumstances"
+    ],
+    "answer": 2,
+    "explanation": "Business entertainment does not fall under the $300 gift limit. Business entertainment is permitted as long as it is not too excessive or too frequent and it must comply with the firm's policies and procedures."
+  },
+  {
+    "id": "ch15-02",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 15 Test: Self-Regulatory Organization (SRO) Rules"
+    },
+    "chapter": 15,
+    "topic": "Registration (Form U4)",
+    "question": "Jeff is applying to register as an agent with Broker X. Which of the following facts would not need to be reported on his Form U4?",
+    "choices": [
+      "That he foreclosed on his home five years ago",
+      "That he was laid off from his previous job as a result of downsizing at his firm",
+      "That he was convicted of a securities misdemeanor nine years ago",
+      "That a customer complaint was made against him in his previous job as an investment adviser representative"
+    ],
+    "answer": 1,
+    "explanation": "An applicant's Form U4 should contain detailed personal information including:\n- Physical characteristics\n- Residential history\n- Employment history and other businesses\n- Criminal history\n- Civil judicial proceedings\n- Bankruptcy judgments and liens (including foreclosures)\n- Customer complaints\n- Prior terminations due to improper behavior"
+  },
+  {
+    "id": "ch15-03",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 15 Test: Self-Regulatory Organization (SRO) Rules"
+    },
+    "chapter": 15,
+    "topic": "MSRB Rule G-37 (Political Contributions)",
+    "question": "An MFP (Municipal Finance Professional) lives in Hoboken, New Jersey. Her classmate from college, with whom she has maintained a close friendship for the past 15 years, is running in a campaign to become mayor of Newark, New Jersey. To show her support for her friend, the MFP sends a $150 check to her election campaign. Which statement is TRUE?",
+    "choices": [
+      "This will result in her employing municipal securities firm being banned from engaging in municipal securities business with Hoboken, New Jersey for the next 2 years",
+      "This will result in her employing municipal securities firm being banned from engaging in municipal securities business with Newark, New Jersey for the next 2 years",
+      "This will result in her employing municipal securities firm being banned from engaging in municipal securities business with both Newark and Hoboken New Jersey for the next 2 years",
+      "This will not result in a ban because the amount given is less than the $250 de minimis limit"
+    ],
+    "answer": 1,
+    "explanation": "\"\nAn MFP (Municipal Finance Professional) can give up to $250 to an elected official's campaign in which they are entitled to vote with no problems. If more is given, the employing firm will be banned from engaging in municipal securities business with that issuer for 2 years.\nIn addition, if an MFP gives ANY amount to an elected official's campaign in which they are not entitled to vote, this will result in a ban. This is the situation in this question. The issue here is so-called \"pay-to-play\" - that by giving big election campaign contributions, the elected official, if he or she wins, could steer future underwriting business to the MFP's employer.\nMunicipal securities business includes performing negotiated underwritings or municipal advisory work for that issuer. It does not include competitive bid underwritings, because the decision of the underwriter cannot be \"influenced.\""
+  },
+  {
+    "id": "ch15-04",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 15 Test: Self-Regulatory Organization (SRO) Rules"
+    },
+    "chapter": 15,
+    "topic": "MSRB Rules",
+    "question": "Under MSRB rules, a registered representative that has been given discretionary authority by a customer, needs specific customer authorization to purchase:",
+    "choices": [
+      "non-investment grade municipal bonds",
+      "bonds where a control relationship exists between the municipal broker-dealer and the issuer whose bonds are purchased",
+      "municipal bond unit investment trusts",
+      "municipal bond option contracts"
+    ],
+    "answer": 1,
+    "explanation": "Discretionary authority given by a customer allows the registered representative to buy or sell any securities that the representative considers to be suitable for that customer. It makes no difference if the securities selected are not investment grade; nor if the securities are \"packaged products\" like mutual funds and unit trusts; or \"derivatives\" like options.\nHowever, the MSRB does require that if a control relationship exists between a broker-dealer and the issuer whose bonds are to be purchased, this can only be done in a discretionary account with specific customer authorization. For example, if the Mayor of a municipality is an Officer of the municipal broker-dealer, a control relationship exists. To buy the municipality's bonds into discretionary accounts, specific customer authorization is required."
+  },
+  {
+    "id": "ch15-05",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 15 Test: Self-Regulatory Organization (SRO) Rules"
+    },
+    "chapter": 15,
+    "topic": "Registration (Form U4)",
+    "question": "Neil leaves the industry, and is concerned that he might not reassociate with another member firm within 2 years. He approaches his friend Janice, who is a supervisor at another member firm. Neil asks Janice to \"park\" his registration by keeping him on her firm's books as an employee, so that he can retain his registration. This action is:",
+    "choices": [
+      "permitted without restriction",
+      "permitted with the permission of the principal",
+      "permitted with the permission of the self-regulatory organization",
+      "prohibited"
+    ],
+    "answer": 3,
+    "explanation": "FINRA prohibits \"parking\" of licenses when an individual is not affiliated with a member firm. If that person remains unaffiliated for 2 years, all licenses lapse. However, an individual can take part in FINRA's MQP program and remain qualified to resume their registration without retaking their exams for up to 5 years if they continue to complete annual CE requirements."
+  },
+  {
+    "id": "ch15-06",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 15 Test: Self-Regulatory Organization (SRO) Rules"
+    },
+    "chapter": 15,
+    "topic": "SRO Structure",
+    "question": "In the securities industry, which of the following entities gives final approval of self-regulatory organization rules?",
+    "choices": [
+      "Congress",
+      "The SEC",
+      "FINRA",
+      "The Federal Reserve"
+    ],
+    "answer": 1,
+    "explanation": "Each SRO creates rules to ensure proper conduct and establishes measures to ensure market integrity and investor protection. SRO-proposed rules are published for public industry comment before the SEC gives its final review and approval."
+  },
+  {
+    "id": "ch15-07",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 15 Test: Self-Regulatory Organization (SRO) Rules"
+    },
+    "chapter": 15,
+    "topic": "Customer Disclosures",
+    "question": "Annually, a broker-dealer firm must provide customers with which of the following?",
+    "choices": [
+      "A plain English description of the customer pre-dispute arbitration agreement",
+      "Information about BrokerCheck and the FINRA website",
+      "An extended hours trading risk disclosure statement",
+      "The firm's Statement of Financial Condition"
+    ],
+    "answer": 1,
+    "explanation": "Once every calendar year, each FINRA member firm must provide its customers in writing with the FINRA website address, FINRA's BrokerCheck Hotline number, and a statement as to the availability of an investor brochure that describes FINRA BrokerCheck. An extended hours trading risk disclosure document, as well as a statement about the customer pre-dispute arbitration agreement, must only be delivered once. The Statement of Financial Condition must be delivered to customers every six months (or upon request if it is also made available on the firm's website)."
+  },
+  {
+    "id": "ch15-08",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 15 Test: Self-Regulatory Organization (SRO) Rules"
+    },
+    "chapter": 15,
+    "topic": "MSRB Rule G-37 (Political Contributions)",
+    "question": "A Municipal Finance Professional (MFP) can give what dollar amount to an elected official's campaign in which they are NOT entitled to vote without this action resulting in a 2-year ban?",
+    "choices": [
+      "0",
+      "$100",
+      "$250",
+      "$500"
+    ],
+    "answer": 0,
+    "explanation": "Under MSRB Rule G-37, a Municipal Finance Professional can give up to $250 to an elected official's campaign in which the MFP is entitled to vote without any problems.\nIf the amount given is more than $250, or if ANY dollar amount is given to an elected official's campaign in which the MFP is not entitled to vote (as in this case), then the municipal broker-dealer is banned from doing negotiated underwritings and municipal financial advisory work for that municipality for 2 years.\nTherefore, an MFP can give nothing to an elected official's campaign in which they are not entitled to vote, otherwise a ban will result. The idea here is simple - why would an MFP give any campaign contribution where they are not entitled to vote, other than to curry favor with that issuer official?"
+  },
+  {
+    "id": "ch15-09",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 15 Test: Self-Regulatory Organization (SRO) Rules"
+    },
+    "chapter": 15,
+    "topic": "Customer Complaints",
+    "question": "Which of the following is an accurate statement about FINRA requirements for customer complaint records?",
+    "choices": [
+      "Customer complaint records must be kept at the member firm's corporate headquarters for six years after the date of complaint.",
+      "Customer complaint records must be kept for four years after the date of complaint on-site in the office of supervisory jurisdiction that relates to the office out of which the complaint came.",
+      "Customer complaint records may be kept out of the appropriate office of supervisory jurisdiction as long as they are made promptly available upon FINRA's request for six years after the date of complaint.",
+      "Customer complaint records must be preserved by the Office of Supervisory Jurisdiction for four years after the date of the complaint, either on-site or somewhere they can be made promptly available upon request."
+    ],
+    "answer": 3,
+    "explanation": "Customer complaint records must be kept for four years after the date of the complaint. FINRA extended the preservation time period from three years to four years effective on December 5, 2011 through FINRA Rule 4513. These records must be preserved by the appropriate Office of Supervisory Jurisdiction (OSJ) - either on-site or in a place where they can be made promptly available upon FINRA's request. The appropriate OSJ means the OSJ that received the complaint or the OSJ that supervises the branch that received the complaint."
+  },
+  {
+    "id": "ch15-10",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 15 Test: Self-Regulatory Organization (SRO) Rules"
+    },
+    "chapter": 15,
+    "topic": "SRO Structure",
+    "question": "Which of the following entities' mission is to promote a fair and efficient municipal securities market and conduct rulemaking for the municipal securities industry?",
+    "choices": [
+      "FINRA",
+      "MSRB",
+      "NASAA",
+      "OTC Link"
+    ],
+    "answer": 1,
+    "explanation": "The main duty of the MSRB (Municipal Securities Rulemaking Board) is to promote a fair and efficient municipal securities market and conduct rule making for the municipal securities industry. It is a self-regulatory organization that is subject to SEC oversight. FINRA's first responsibility is to register and approve all broker-dealers operating in the U.S. for membership and to regulate and enforce the regulatory rules that guide their practice. Additionally, FINRA establishes and interprets the rules that govern the over-the-counter markets. It is also charged with ensuring industry compliance with those rules.OTC Link is a quotation service that deals mainly in securities that do not meet the listing requirements of a national securities exchange. It has no rule-making functions. Finally, NASAA is the North American Securities Administrators Association. It is an association of securities administrators from the states, territories, and provinces of the U.S., Canada, and Mexico. NASAA investigates violations of state laws, files enforcement actions when appropriate, and educates the public about investment fraud. Though NASAA also makes model rules, those rules define the expected business conduct for investment advisers and broker dealers; they do not govern OTC markets."
+  },
+  {
+    "id": "ch15-11",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 15 Test: Self-Regulatory Organization (SRO) Rules"
+    },
+    "chapter": 15,
+    "topic": "MSRB Rule G-37 (Political Contributions)",
+    "question": "Sam, an MFP, is passionate about politics. He lives in State A and works in State B. He wants to contribute money to some campaigns for public office in each state, but is also hoping to engage in municipal securities business with each state. Where can Sam make contributions?",
+    "choices": [
+      "State A only",
+      "State B only",
+      "State A and State B",
+      "Neither State A nor State B"
+    ],
+    "answer": 0,
+    "explanation": "Municipal finance professionals may contribute up to $250 per election to candidates they could vote for. Contributions to other candidates would result in bans on doing municipal securities business with the municipal issuer where the candidate is running for office, because contributions may come only from those eligible to vote in a particular election."
+  },
+  {
+    "id": "ch15-12",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 15 Test: Self-Regulatory Organization (SRO) Rules"
+    },
+    "chapter": 15,
+    "topic": "MSRB Rules",
+    "question": "The MSRB online system that gives non-professional investors key information about municipal securities, including issuer financial disclosures, notices of material events, real-time prices, and market statistics is called:",
+    "choices": [
+      "EMMA",
+      "SHORT",
+      "RTRS",
+      "MSIL"
+    ],
+    "answer": 0,
+    "explanation": "\"EMMA\" - the Electronic Municipal Market Access system - is an MSRB-created website established specifically for retail customer use. It gives municipal investors access to municipal disclosure documents and municipal price reporting at no charge. The information that the investing public can find on EMMA is:\n- New municipal issue offering documents (Official Statements) for most municipal bond issues, notes, and 529 plans;\n- Details of bonds that have been pre-refunded;\n- Ongoing disclosures by municipal issuers about their finances, including material event notices and annual financial information;\n- Real-time prices and yields for municipal bond trades, as reported through RTRS (Real Time Reporting System) and SHORT (Short-Term Obligation Rate Transparency System)."
+  },
+  {
+    "id": "ch15-13",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 15 Test: Self-Regulatory Organization (SRO) Rules"
+    },
+    "chapter": 15,
+    "topic": "MSRB Rules",
+    "question": "The Chairman of a bank municipal broker-dealer is on the town council involved in a negotiated municipal bond underwriting being performed by that municipal broker-dealer. Under MSRB rules, which statement is TRUE regarding disclosure of the relationship?",
+    "choices": [
+      "The relationship need not be disclosed to any purchaser of the bonds",
+      "The relationship must be disclosed to customers in writing no later than at confirmation of sale",
+      "The relationship must be disclosed only if the municipality agrees in writing to such disclosure",
+      "The relationship must be disclosed only if the broker-dealer is the sole underwriter on the issue"
+    ],
+    "answer": 1,
+    "explanation": "The Chairman of the municipal broker-dealer is considered to be a \"control person,\" since he is on the town council and the town has selected his firm to perform a negotiated bond underwriting. Control relationships must be disclosed in writing to customers who buy those bonds either at, or prior to, confirmation of sale."
+  },
+  {
+    "id": "ch15-14",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 15 Test: Self-Regulatory Organization (SRO) Rules"
+    },
+    "chapter": 15,
+    "topic": "Outside Business Activities",
+    "question": "Which statement is TRUE about a registered representative who wishes to take a second job under FINRA rules?",
+    "choices": [
+      "This action is prohibited",
+      "This action is permitted without restriction",
+      "This action requires the prior written approval of FINRA",
+      "This action requires the prior written approval of the member organization employer"
+    ],
+    "answer": 3,
+    "explanation": "For a registered representative to take a second job requires approval of the branch manager or other authorized person at the member firm under FINRA rules."
+  },
+  {
+    "id": "ch15-15",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 15 Test: Self-Regulatory Organization (SRO) Rules"
+    },
+    "chapter": 15,
+    "topic": "Outside Business Activities",
+    "question": "A registered person associated with a member firm can accept employment away from the firm:",
+    "choices": [
+      "If she sends duplicate pay stubs to the firm",
+      "If he first provides a written notice to the firm after which the firm will review the outside employment",
+      "Under no circumstances",
+      "As long as he gives verbal notification to the firm within a reasonable amount of time before beginning such employment"
+    ],
+    "answer": 1,
+    "explanation": "Registered persons associated with a member firm cannot accept employment without first providing written notice to the firm. The member firm, in turn, must consider whether the outside activity will interfere with the associated person's responsibility to the firm or be viewed by customers and the public as part of the firm's own business. Based on the results of this review, the firm may impose conditions on the outside activity or prohibit it outright."
+  },
+  {
+    "id": "ch15-16",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 15 Test: Self-Regulatory Organization (SRO) Rules"
+    },
+    "chapter": 15,
+    "topic": "Sharing in Customer Accounts",
+    "question": "A registered representative wants to open an account with a friend to invest in a specific security. His friend has submitted a written request to open such account. Each person will contribute the same amount and share equally in any gains, if any. He comes to you to ask advice. Your response would be:",
+    "choices": [
+      "Joint accounts between registered representatives and the public are prohibited by FINRA",
+      "Joint accounts between registered representatives and the public are prohibited by FINRA unless they are with family members",
+      "Joint accounts between registered representatives and the public are allowed by FINRA if they are with accredited investors",
+      "Joint accounts between registered representatives and the public are allowed by FINRA if they are approved in writing by the member firm and the customer and that they share in the profits or losses proportionally to their contribution"
+    ],
+    "answer": 3,
+    "explanation": "The agent needs written approval from the member firm and the customer, and they must share in the profits or losses proportionally to their contributions. FINRA Rule 2150 states that \"no member or person associated with a member shall share directly or indirectly in the profits or losses in any account of a customer carried by the member or any other member; provided, however, that a member or person associated with a member may share in the profits or losses in such an account if:\n(i) such person associated with a member obtains prior written authorization from the member employing the associated person;\n(ii) such member or person associated with a member obtains prior written authorization from the customer; and\n(iii) such member or person associated with a member shares in the profits or losses in any account of such customer only in direct proportion to the financial contributions made to such account by either the member or person associated with a member.\""
+  },
+  {
+    "id": "ch15-17",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 15 Test: Self-Regulatory Organization (SRO) Rules"
+    },
+    "chapter": 15,
+    "topic": "SRO Structure",
+    "question": "Which entity does not enforce MSRB rules?",
+    "choices": [
+      "FDIC",
+      "FINRA",
+      "SEC",
+      "MSRB"
+    ],
+    "answer": 3,
+    "explanation": "While the MSRB drafts rules and regulations, it does not have the authority to enforce these regulations. The MSRB rules are enforced by the SEC and FINRA. The FDIC enforces MSRB rules for non-national banks that are not part of the Federal Reserve System, while the Federal Reserve Board enforces rules applying to non-national banks that are part of the Federal Reserve System. MSRB rules are enforced for securities dealers at national banks by the Comptroller of the Currency."
+  },
+  {
+    "id": "ch15-18",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 15 Test: Self-Regulatory Organization (SRO) Rules"
+    },
+    "chapter": 15,
+    "topic": "Communications (Institutional vs. Retail)",
+    "question": "A broker-dealer has just opened a new branch office in a small city and wants to publicize this by sending out a marketing postcard to the mailing addresses in the town, stating that the firm is \"endorsed by FINRA.\" Which statement is TRUE about this communication?",
+    "choices": [
+      "This is prohibited because member firms are not allowed to state that they are endorsed or approved by FINRA",
+      "This is permitted as long as the communication was approved by a principal of the firm",
+      "This is permitted because it is considered to be a non-promotional communication with the public",
+      "This is prohibited because mailings are only permitted to a list of individuals who have asked to receive communications from the firm"
+    ],
+    "answer": 0,
+    "explanation": "Member firms can only say that they are FINRA members. They cannot say that they are approved or endorsed by FINRA."
+  },
+  {
+    "id": "ch15-19",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 15 Test: Self-Regulatory Organization (SRO) Rules"
+    },
+    "chapter": 15,
+    "topic": "Outside Business Activities",
+    "question": "Which term refers to the practice of soliciting the purchase of securities without your employing firm's knowledge or participation?",
+    "choices": [
+      "Front running",
+      "Blind dealing",
+      "Selling away",
+      "Fencing"
+    ],
+    "answer": 2,
+    "explanation": "\"Selling away\" is a serious violation that involves soliciting a client to purchase a security or investment not otherwise available through your firm."
+  },
+  {
+    "id": "ch15-20",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 15 Test: Self-Regulatory Organization (SRO) Rules"
+    },
+    "chapter": 15,
+    "topic": "Qualification Exams",
+    "question": "An individual has failed a qualifying exam twice. How long must the individual wait before he or she can retake the exam?",
+    "choices": [
+      "30 days",
+      "60 days",
+      "90 days",
+      "180 days"
+    ],
+    "answer": 0,
+    "explanation": "If an individual fails a qualifying examination, that test-taker may retake it after thirty days. If that individual fails three times, he or she must wait six months to take the exam again."
+  },
+  {
+    "id": "ch15-21",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 15 Test: Self-Regulatory Organization (SRO) Rules"
+    },
+    "chapter": 15,
+    "topic": "MSRB Rules",
+    "question": "Under MSRB rules, which of the following documents, if prepared, must be sent to the purchaser of a new issue municipal bond?",
+    "choices": [
+      "Prospectus",
+      "Legal Opinion",
+      "Official Notice of Sale",
+      "Official Statement"
+    ],
+    "answer": 3,
+    "explanation": "The MSRB requires that all purchasers of new issue municipal bonds receive a Final Official Statement, if one has been prepared. If the Final is not going to be prepared, but a Preliminary Official Statement is available, then this document must be sent."
+  },
+  {
+    "id": "ch15-22",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 15 Test: Self-Regulatory Organization (SRO) Rules"
+    },
+    "chapter": 15,
+    "topic": "Continuing Education",
+    "question": "The regulatory element of continuing education must be completed:",
+    "choices": [
+      "Once",
+      "Every six months",
+      "Annually",
+      "Every two years"
+    ],
+    "answer": 2,
+    "explanation": "Both FINRA CE and MSRB CE include a regulatory element that must be completed annually."
+  },
+  {
+    "id": "ch15-23",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 15 Test: Self-Regulatory Organization (SRO) Rules"
+    },
+    "chapter": 15,
+    "topic": "Communications (Institutional vs. Retail)",
+    "question": "Which of the following fails to meet the definition of an institutional client of an investment adviser?",
+    "choices": [
+      "A registered investment adviser",
+      "An individual with assets worth $1.1 million, excluding place of residence",
+      "An insurance company",
+      "A mutual fund"
+    ],
+    "answer": 1,
+    "explanation": "An institutional client for an investment adviser is defined as:  a bank, savings and loan association, insurance company, registered investment company, registered investment adviser, or broker-dealer."
+  },
+  {
+    "id": "ch15-24",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 15 Test: Self-Regulatory Organization (SRO) Rules"
+    },
+    "chapter": 15,
+    "topic": "MSRB Rules",
+    "question": "A municipal \"workable\" quote is a:",
+    "choices": [
+      "firm offer",
+      "firm bid",
+      "indication of a likely bid",
+      "indication of a likely offer"
+    ],
+    "answer": 2,
+    "explanation": "A municipal \"workable quote\" is used to get an indication of a likely price at which a dealer will buy specified bonds. The municipal trading market is very thin, so quotes are not readily available for all bonds. Assume that a customer wants to sell certain municipal bonds and wants to know what price he can get. By calling other dealers, you can get a \"workable\" from each of the dealers giving a likely price at which they would buy. Now you can go back to the customer with a likely price at which the bonds would be bought. If the customer agrees, you can recall the dealer with the best \"workable\" and sell the bonds."
+  },
+  {
+    "id": "ch15-25",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 15 Test: Self-Regulatory Organization (SRO) Rules"
+    },
+    "chapter": 15,
+    "topic": "Arbitration",
+    "question": "A customer, who has previously signed an arbitration agreement, has a dispute with a member firm. Under FINRA rules, this will be handled by:",
+    "choices": [
+      "litigation",
+      "consultation",
+      "arbitration",
+      "negotiation"
+    ],
+    "answer": 2,
+    "explanation": "Under FINRA and MSRB rules, if a customer has previously signed an arbitration agreement, any disputes must be submitted to arbitration for resolution."
+  }
+]

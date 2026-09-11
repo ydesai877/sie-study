@@ -1,0 +1,362 @@
+[
+  {
+    "id": "ch13-01",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 13 Test: Primary Market"
+    },
+    "chapter": 13,
+    "topic": "Control Securities and Short-Swing Profits",
+    "question": "How does Rule 144 define a short-swing profit?",
+    "choices": [
+      "A profit from shorting stock",
+      "A profit from selling a control security that is owned for less than six months",
+      "A profit from selling any control security or restricted security",
+      "A de minimis profit"
+    ],
+    "answer": 1,
+    "explanation": "If a control security is sold after being held for less than six months, any profit that results is called a short-swing profit. Rule 144 requires that short-swing profits be handed over to the company.A control security is defined by Rule 144 as a security one owned by an affiliate of the issuer (also called an insider). Insiders include officers, directors, and shareholders who own more than 10% of the company.\n[Edit note - added by Claude] Feedback: missing space and extra word \"one\" (text above is Cerifi's original). Original: \"company.A control security is defined by Rule 144 as a security one owned\" Edited: \"company. A control security is defined by Rule 144 as a security owned\"\n[Note - added by Claude] Outside this question, the short-swing profit rule comes from Section 16(b) of the Securities Exchange Act of 1934. Rule 144 governs the resale of restricted and control securities."
+  },
+  {
+    "id": "ch13-02",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 13 Test: Primary Market"
+    },
+    "chapter": 13,
+    "topic": "Types of Offerings",
+    "question": "When an issuer files one registration statement for a large number of securities and does not sell them immediately it is known as a(n):",
+    "choices": [
+      "Shelf offering",
+      "Follow-on offering",
+      "Private offering",
+      "Initial public offering"
+    ],
+    "answer": 0,
+    "explanation": "If an issuer has issued securities previously and is a large enough company, it may file what is called a shelf registration or shelf offering. A shelf offering is when an issuer files one registration statement for a large number of securities and does not sell them immediately. Instead, the issuer puts the securities \"on a shelf\" and brings them down to sell when the market is favorable. An initial public offering is when a company that has never issued shares of public stock first makes its shares available to public investors. A follow-on offering occurs when a company decides to sell additional shares to the public after its initial public offering. Finally, in a private offering, also known as a private placement, issuers choose to avoid the laborious registration process by offering unregistered securities to a private group of investors."
+  },
+  {
+    "id": "ch13-03",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 13 Test: Primary Market"
+    },
+    "chapter": 13,
+    "topic": "Restricted Securities (Rule 144 and 144A)",
+    "question": "A customer purchased a lot of stock in a corporation in a private placement less than three months ago. He is in desperate need of cash and desires to sell the stock but realizes the stock is restricted under Reg D and therefore has resale restrictions. What is the best advice you can give without violating SEC rules:",
+    "choices": [
+      "Sell to a registered broker-dealer",
+      "Sell to 35 or fewer non-accredited investors",
+      "Sell the stock in a Rule 144A offering",
+      "Sell the stock under Rule 144 over the next 60 days"
+    ],
+    "answer": 2,
+    "explanation": "When an investor buys securities in a private placement, the securities become restricted securities. Restricted securities sold under Rule 144 must be held for at least six months if the company that issued the securities is subject to the reporting requirements of the Securities Exchange Act of 1934, or one year if the issuer is not subject to reporting requirements. The investor could sell them to QIBs through a Rule 144A offering. There are no holding periods under Rule 144A."
+  },
+  {
+    "id": "ch13-04",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 13 Test: Primary Market"
+    },
+    "chapter": 13,
+    "topic": "Cooling-Off Period",
+    "question": "During the 20-day cooling off period for an Initial Public Offering, officers of the company going public are:",
+    "choices": [
+      "allowed to make presentations in road shows",
+      "not allowed to answer questions posed by potential investors in road shows",
+      "only allowed to make presentations if a final prospectus is available",
+      "prohibited from making any kind of presentation about the issuer"
+    ],
+    "answer": 0,
+    "explanation": "Part of the IPO marketing process is to schedule road shows during the 20-day cooling off period, attended by invited large institutional investors, portfolio managers and research analysts. These are informational only - not promotional. The officers of the company make presentations and the attendees get to have their questions answered. This process helps build investor interest in the offering. A final prospectus would not yet be available during the 20-day cooling off period."
+  },
+  {
+    "id": "ch13-05",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 13 Test: Primary Market"
+    },
+    "chapter": 13,
+    "topic": "Trust Indenture Act of 1939",
+    "question": "The Trust Indenture Act of 1939 was enacted to:",
+    "choices": [
+      "regulate the activities of Real Estate Investment Trusts not included in the Investment Company Act of 1940",
+      "require the registration of Trust Company issues with the Securities and Exchange Commission",
+      "protect holders of non-exempt bond issues from issuer misconduct",
+      "require that trustees in bankruptcy, where new securities will be issued, are subject to the Securities Act of 1933"
+    ],
+    "answer": 2,
+    "explanation": "The primary purpose of the Trust Indenture Act of 1939 is to protect corporate bondholders from being taken advantage of by the issuing corporation. It provides for the appointment of a substantial independent trustee to protect the interests of the bondholders."
+  },
+  {
+    "id": "ch13-06",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 13 Test: Primary Market"
+    },
+    "chapter": 13,
+    "topic": "Types of Offerings",
+    "question": "A co-founder and 20% shareholder of a company decides to sell half of his shares. Due to the number of shares, he hires an underwriter to conduct an offering. This is an example of a(n):",
+    "choices": [
+      "Secondary offering",
+      "IPO",
+      "Follow-on offering",
+      "Private placement"
+    ],
+    "answer": 0,
+    "explanation": "In contrast to a primary offering (such as an IPO or follow-on offering), in which shares are issued and sold by the company, a secondary offering is the sale of shares that have already been issued. A secondary offering might be conducted by an institutional investor or a co-founder of the company. Technically, the sale of these shares takes place on the secondary market, because it is not the first time ownership of the shares has changed hands. However, when the number of shares to be sold is large enough, the seller may organize the selling similarly to a primary offering, for example by hiring an underwriter to manage it. Because of this resemblance, this kind of distribution is called a secondary offering. Although a secondary offering could take the form of a private placement, the question specifically states that the co-founder used an underwriter, not a private placement agent.\n[Edit note - added by Claude] Feedback: missing space. Original: \"co-founder of the company.Technically, the sale\" Edited: \"co-founder of the company. Technically, the sale\"\n[Edit note - added by Claude] Feedback: missing space. Original: \"called a secondary offering.Although a secondary\" Edited: \"called a secondary offering. Although a secondary\""
+  },
+  {
+    "id": "ch13-07",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 13 Test: Primary Market"
+    },
+    "chapter": 13,
+    "topic": "Underwriting Syndicate and Selling Group",
+    "question": "Which of the following is not true of selling group dealers?",
+    "choices": [
+      "Most shares that they receive as part of an underwriting are eventually sold to retail investors",
+      "They are typically engaged by syndicate members to help them sell shares of an offering",
+      "They bear some responsibility for unsold shares in an underwriting",
+      "They generally sell their shares to retail investors"
+    ],
+    "answer": 2,
+    "explanation": "Prior to a public offering, the lead underwriter will usually collect \"indications of interest\" from institutional investors, resulting in most of the lead manager's allocated shares being eventually sold to institutional investors. The other underwriters in the syndicate, in contrast, will often engage broker-dealers to help them sell shares of the offering to retail investors. These broker-dealers are referred to as selected dealers or selling group dealers. The selling group dealers do not bear any of the financial risk for unsold shares."
+  },
+  {
+    "id": "ch13-08",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 13 Test: Primary Market"
+    },
+    "chapter": 13,
+    "topic": "Underwriting Commitments",
+    "question": "The underwriter for a best efforts underwriting:",
+    "choices": [
+      "Is financially responsible for the securities it doesn't sell",
+      "Bears the risk of a market downturn",
+      "Must deposit all money received from prospective purchasers into an escrow account",
+      "May extend the offering if the issue doesn't sell out in the specified order period"
+    ],
+    "answer": 2,
+    "explanation": "In a best efforts underwriting, the issuer bears the risk of the underwriting. If for whatever reason, the securities do not sell, the underwriter may cancel the issue. Any money received must be deposited into an escrow account to protect the customer in case the issue happens to be cancelled. The terms of the offering cannot be altered, unless such an action was anticipated and permitted in the prospectus.\n[Edit note - added by Claude] Choice D: removed extra \"it\". Original: \"May extend the offering if it the issue doesn't sell out\" Edited: \"May extend the offering if the issue doesn't sell out\""
+  },
+  {
+    "id": "ch13-09",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 13 Test: Primary Market"
+    },
+    "chapter": 13,
+    "topic": "Registration Statement",
+    "question": "Which of these elements is not required to be included in a security's registration statement to the federal government?",
+    "choices": [
+      "Information about the company's business operation and its management",
+      "Expected settlement date of securities",
+      "A description of the securities being offered for sale",
+      "Financial statements certified by independent accountants"
+    ],
+    "answer": 1,
+    "explanation": "The Securities Act of 1933 requires the disclosure of material information to investors. The disclosure is done through the registration statement. Securities must be registered with the federal government prior to their sale, and this registration includes a disclosure which must contain information about the company's business operation and its management, a description of the securities that are being offered for sale, and financial statements from the company that have been certified by independent accountants. The expected settlement date of the securities is not a requirement of the registration statement."
+  },
+  {
+    "id": "ch13-10",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 13 Test: Primary Market"
+    },
+    "chapter": 13,
+    "topic": "Public Offering Price",
+    "question": "When purchasing a new registered securities offering from the underwriter, the customer will pay the:",
+    "choices": [
+      "Public Offering Price stated in the prospectus",
+      "Public Offering Price stated in the prospectus plus a commission",
+      "Public Offering Price stated in the prospectus plus a mark-up",
+      "prevailing market price for the security"
+    ],
+    "answer": 0,
+    "explanation": "New issues that are registered with the Securities and Exchange Commission are offered only at the Public Offering Price as stated in the prospectus. The underwriter's spread is already included in this price."
+  },
+  {
+    "id": "ch13-11",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 13 Test: Primary Market"
+    },
+    "chapter": 13,
+    "topic": "Securities Act of 1933",
+    "question": "All of the following are true of the Securities Act of 1933 except?",
+    "choices": [
+      "One of its purposes is to prohibit fraud and deceit in the marketing of securities",
+      "It requires that all securities are registered with the federal government prior to offering them for sale",
+      "The Act requires that a company's financial statements be certified by independent accountants",
+      "It requires companies to publicly disclose all relevant financial information about their securities before offering them for sale."
+    ],
+    "answer": 1,
+    "explanation": "The Securities Act of 1933 has two main purposes: (1) to require that companies publicly disclose all relevant financial information about their securities prior to offering them for sale, and (2) to prohibit fraud and deceit in the marketing of securities. The Act requires that most securities be registered with the federal government prior to their sale, but there are securities that are exempt from registration. The Act regulates how securities are issued and first sold to the public and requires companies to publicly disclose all relevant financial information about their securities before offering them for sale."
+  },
+  {
+    "id": "ch13-12",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 13 Test: Primary Market"
+    },
+    "chapter": 13,
+    "topic": "Exempt Securities",
+    "question": "Banker's Acceptances are:",
+    "choices": [
+      "money market instruments subject to the Securities Act of 1933",
+      "capital market instruments subject to the Securities Act of 1933",
+      "money market instruments exempt from the Securities Act of 1933",
+      "capital market instruments exempt from the Securities Act of 1933"
+    ],
+    "answer": 2,
+    "explanation": "Bankers Acceptances are a money market instrument used to finance imports and exports. They are an exempt security under the Securities Act of 1933 and can be sold without a prospectus."
+  },
+  {
+    "id": "ch13-13",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 13 Test: Primary Market"
+    },
+    "chapter": 13,
+    "topic": "Prospectus",
+    "question": "What document provides information contained in the registration statement of a security and must be provided to investors of that security after the effective date for the security while the security is still a new issue?",
+    "choices": [
+      "trust indenture",
+      "tombstone advertisement",
+      "red herring",
+      "final prospectus"
+    ],
+    "answer": 3,
+    "explanation": "A security's prospectus contains important information from the registration statement, which is included in the security's prospectus to aid investors in making informed decisions. The final prospectus includes the public offering price and effective date, in addition to the information contained in the red herring, or preliminary prospectus. Underwriters give red herrings to potential investors during the cooling-off period (the time after the registration statement has been filed with the SEC, but before it has become effective) when gathering indications of interest."
+  },
+  {
+    "id": "ch13-14",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 13 Test: Primary Market"
+    },
+    "chapter": 13,
+    "topic": "Private Placements (Regulation D)",
+    "question": "To claim a private placement exemption:",
+    "choices": [
+      "a registration statement must be filed with the SEC",
+      "a Form D must be filed with the SEC",
+      "a Form 144 must be filed with the SEC",
+      "no filing is required with the SEC"
+    ],
+    "answer": 1,
+    "explanation": "Private placements are exempt transactions under the Securities Act of 1933. No registration is required. The issuer must file a Form D with the SEC within 15 days of the offering to claim the exemption. The filing of Form D is not a registration. It simply notifies the SEC that the issue is being offered in compliance with the exemption."
+  },
+  {
+    "id": "ch13-15",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 13 Test: Primary Market"
+    },
+    "chapter": 13,
+    "topic": "Prospectus",
+    "question": "For stocks that go public over the counter, the prospectus has to be given for up to __________ after the IPO.",
+    "choices": [
+      "25 days",
+      "40 days",
+      "60 days",
+      "90 days"
+    ],
+    "answer": 3,
+    "explanation": "When a new security is issued, a broker-dealer must deliver a copy of its prospectus for a minimum amount of time. For stocks traded over the counter, that minimum period is 90 days from the time of first sale. For exchange-traded stocks, that minimum period is 25 days. The rationale behind this different delivery requirement is that the SEC assumes that there will be more information out in market about companies that go public on an exchange than those that do so over the counter."
+  },
+  {
+    "id": "ch13-16",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 13 Test: Primary Market"
+    },
+    "chapter": 13,
+    "topic": "Underwriting Commitments",
+    "question": "In a/an __________ commitment an underwriter agrees to make a good effort to sell the issuer's securities; however, the underwriter does not guarantee that all the shares will be sold and is not financially responsible for the securities it does not sell.",
+    "choices": [
+      "Best efforts",
+      "Regulation D",
+      "Negotiated offering",
+      "Firm"
+    ],
+    "answer": 0,
+    "explanation": "In a best efforts commitment, an underwriter agrees to use its best efforts to sell the issuer's securities, but the underwriter does not guarantee that all the shares will be sold. There are two types of best efforts commitments: all or none commitments and mini-max commitments. In an all or none commitment, the underwriter sells all the shares in the offering or the offering is voided. In a mini-max commitment, the underwriter commits to sell a minimum number of shares of the offering or the offering will be cancelled. The underwriter is then expected only to use its best efforts to sell the remainder. Finally, a firm commitment is an agreement that the underwriter will purchase all the securities at a discount and then sell the securities to the public at a public offering price. A Regulation D offering is for private placements. Most Reg D offerings are made on a best-efforts basis; however, this is not always the case."
+  },
+  {
+    "id": "ch13-17",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 13 Test: Primary Market"
+    },
+    "chapter": 13,
+    "topic": "Exempt Securities",
+    "question": "Which of the following securities is required to be registered with the SEC?",
+    "choices": [
+      "American Depositary Receipts",
+      "Eurodollar Debt",
+      "Foreign Government Debt",
+      "Municipal Debt"
+    ],
+    "answer": 0,
+    "explanation": "ADRs (American Depositary Receipts) are non-exempt securities and must be registered with the SEC under the Securities Act of 1933. ADRs are the way that most foreign corporate issues trade in the United States. The bank that structures the ADRs handles the registration.\nMunicipal debt, U.S. Government debt and Foreign Government debt are all exempt.\nEurodollar bonds are sold outside the U.S. and thus do not fall under the Act."
+  },
+  {
+    "id": "ch13-18",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 13 Test: Primary Market"
+    },
+    "chapter": 13,
+    "topic": "Exempt Securities",
+    "question": "All of the following are exempt securities under Securities Act of 1933 EXCEPT:",
+    "choices": [
+      "U.S. Government Bonds",
+      "U.S. Government Bond Trusts",
+      "Municipal Bonds",
+      "Issues made by Small Business Investment Companies"
+    ],
+    "answer": 1,
+    "explanation": "U.S. Government Bond Trusts are an investment company whose shares (actually, these are termed \"units\") must be registered with the SEC under the Securities Act of 1933. Government bonds, municipal bonds, and Small Business Investment Company issues are all exempt securities under the 1933 Act."
+  },
+  {
+    "id": "ch13-19",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 13 Test: Primary Market"
+    },
+    "chapter": 13,
+    "topic": "Primary vs. Secondary Market",
+    "question": "You buy stock on the primary market. What have you done?",
+    "choices": [
+      "Paid the issuer or an underwriter for partial ownership of the issuer",
+      "Paid another investor for partial ownership of the issuer",
+      "Lent money to the issuer",
+      "Paid a third party in order to become a holder of the issuer's debt"
+    ],
+    "answer": 0,
+    "explanation": "When a company would like to raise money by issuing a security, it has two general options. Equity financing means selling ownership in the company. In an accounting context, equity means what is left over after all debts have been paid, so equity financing can be seen as selling a stake in \"what's left over\": ownership in the business. Equity securities are certificates representing ownership interest in a public or private corporation. Equity securities include common stock, preferred stock, warrants, rights, American Depositary Receipts, and REITs.\nThe second main method for a company to raise money is by issuing bonds. Bonds are promises by the company (the issuer) to pay the bond purchaser a specific amount of money in the future and also to pay periodic interest along the way. Conceptually, a bond is like a loan or an IOU. Raising money by issuing corporate bonds is called debt financing, because the borrower (the company/issuer) will have to pay back money to the lender (investor) in the future. For this reason, bonds are often called debt securities.\nWhen a company issues and offers new securities for the first time, the issue is said to be sold in the primary market. Proceeds from sales in the primary market always go to the company that issues them. Once new equity or debt securities have been registered with the SEC and sold in the primary market, the shares can then be freely traded with other investors. When securities are being bought and sold between investors, they are said to be sold in the secondary market. The proceeds from sales in the secondary market do not go to the issuer but to the party who sells the shares.\n[Edit note - added by Claude] Feedback: missing space. Original: \"American Depositary Receipts, and REITs.The second\" Edited: \"American Depositary Receipts, and REITs. The second\"\n[Edit note - added by Claude] Feedback: missing space. Original: \"often called debt securities.When a company\" Edited: \"often called debt securities. When a company\""
+  },
+  {
+    "id": "ch13-20",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 13 Test: Primary Market"
+    },
+    "chapter": 13,
+    "topic": "Underwriting Commitments",
+    "question": "What type of transaction has the greatest financial risk for a broker-dealer retained by the issuer?",
+    "choices": [
+      "Firm commitment underwriting",
+      "Spin off",
+      "Best efforts underwriting",
+      "Merger"
+    ],
+    "answer": 0,
+    "explanation": "In a firm commitment underwriting, the broker-dealer acts as a principal, buying the issue outright from the issuer. The issuer is assured of raising the money it needs. The underwriter resells the issue to the public at a higher price, earning the spread. If the issue cannot be resold, the underwriter is stuck with it and could lose the entire investment if the stock becomes worthless.\nIn contrast, in a best efforts underwriting, the broker-dealer acts as an agent only, using its \"best efforts\" to sell, but taking no liability for unsold shares.\nIn a spin off, a company spins off a subsidiary to its shareholders as a separate listed company. The broker-dealer can assist with the process of communicating about the spin off to the shareholders and gets a fee for this. However, the firm has no financial liability.\nIn a merger, 2 listed companies merge to create 1 registered entity. The broker-dealer can assist with the process of communicating about the merger to the shareholders and gets a fee for this. Again, the firm has no financial liability."
+  }
+]

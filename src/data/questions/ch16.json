@@ -1,0 +1,247 @@
+[
+  {
+    "id": "ch16-01",
+    "source": { "type": "chapter", "name": "Chapter 16 Test: Economic Analysis and Tax Rules" },
+    "chapter": 16,
+    "topic": "Cyclical vs. Defensive Stocks",
+    "question": "Consumers love the product that XYZ Company produces. The company's stock has soared while the economy has been in a boom. The stock is most likely a:",
+    "choices": ["Defensive stock", "Cyclical stock", "Non-cyclical stock", "Expansionary stock"],
+    "answer": 1,
+    "explanation": "Stocks whose performances track the business cycle are called cyclical stocks. These stocks perform well when the economy is expanding, but they do poorly when the economy contracts. Cyclical stocks rely on consumers having disposable money. These include stocks in automotive, specialty retail, home furnishings, apparel, and travel industries. Non-cyclical stocks (also called defensive stocks) are more resilient to economic changes. The companies that issue non-cyclical stocks provide products and services that consumers need, whether the economy is doing well or poorly."
+  },
+  {
+    "id": "ch16-02",
+    "source": { "type": "chapter", "name": "Chapter 16 Test: Economic Analysis and Tax Rules" },
+    "chapter": 16,
+    "topic": "Economic Indicators",
+    "question": "A change in each of the following is a leading economic indicator EXCEPT:",
+    "choices": [
+      "Money supply level as measured by M-2",
+      "Stock prices as measured by Standard and Poor's 500 index",
+      "Durable goods orders",
+      "Reported corporate profits"
+    ],
+    "answer": 3,
+    "explanation": "Reported corporate profits is a lagging economic indicator - it shows how the company collected and spent its money in the preceding quarter. The money supply level as measured by M-2 is a leading economic indicator, as is stock prices as measured by the Standard and Poor's 500 index, and the amount of durable goods orders. Increasing money supply levels lead to increased spending; increased stock prices make people feel richer, so they are likely to spend more in the future; and increases in durable goods orders will require future production levels to be increased to fill those orders."
+  },
+  {
+    "id": "ch16-03",
+    "source": { "type": "chapter", "name": "Chapter 16 Test: Economic Analysis and Tax Rules" },
+    "chapter": 16,
+    "topic": "Federal Reserve Monetary Policy",
+    "question": "All of the following actions taken by the Fed would increase interest rates EXCEPT:",
+    "choices": [
+      "reverse repurchase agreements",
+      "buying securities from government dealers",
+      "draining reserves from the money supply",
+      "raising the discount rate"
+    ],
+    "answer": 1,
+    "explanation": "To increase interest rates, the Federal Open Market Committee must direct a tightening of the money supply.\nSales of securities by the Fed drains cash from the dealers, and tightens available credit.\nReverse repos by the Fed do the same thing. In a reverse repo the Fed sells government securities to the bank dealers, with an agreement to buy them back (usually the next day). For that day, the bank is drained of cash and credit is tightened.\nBy raising the discount rate, increases in the other market rates are likely to occur as well, tightening credit.\nIf the Fed buys securities from government dealers, it is giving the dealers cash that they can lend. This loosens credit and lowers interest rates."
+  },
+  {
+    "id": "ch16-04",
+    "source": { "type": "chapter", "name": "Chapter 16 Test: Economic Analysis and Tax Rules" },
+    "chapter": 16,
+    "topic": "Business Cycle",
+    "question": "An economic contraction must last at least how long to be considered a recession?",
+    "choices": ["One quarter", "Four months", "Two quarters", "One year"],
+    "answer": 2,
+    "explanation": "When gross domestic product (GDP) declines during a quarter, the economy is said to be in a contraction. If a contraction lasts for two or more consecutive quarters, the economy is said to be in a recession."
+  },
+  {
+    "id": "ch16-05",
+    "source": { "type": "chapter", "name": "Chapter 16 Test: Economic Analysis and Tax Rules" },
+    "chapter": 16,
+    "topic": "Capital Gains Tax",
+    "question": "Wendy has been an investor in ABC mutual fund for six months when the fund sells one of its municipal bond. If the fund held the bonds for two years, which of the following taxes will Wendy have to pay on any gains made as a result of the sale?",
+    "choices": [
+      "Long-term capital gains tax",
+      "Short-term capital gains tax",
+      "Tax at her ordinary income tax rate",
+      "Since the bonds are municipal bonds and thus are exempt, she does not need to pay any taxes"
+    ],
+    "answer": 0,
+    "explanation": "An investor must pay taxes on capital gains made as a result of an investment, whether that investment is tax exempt or not. Thus Wendy must pay capital gains on the sale of the bond. When determining whether long- or short-term capital gains taxes apply for mutual funds, an investor must consider how long the fund held the investment. If it is more than a year, the investor pays long-term capital gains tax; if it is less than a year, the investor pays short-term capital gains tax. Since ABC held the bond in question for two years, Wendy is obligated to pay the long-term capital gains tax. Please note that an investor's short-term capital gains tax rate is the same as her ordinary income tax rate."
+  },
+  {
+    "id": "ch16-06",
+    "source": { "type": "chapter", "name": "Chapter 16 Test: Economic Analysis and Tax Rules" },
+    "chapter": 16,
+    "topic": "Federal Reserve Monetary Policy",
+    "question": "When the Fed raises the reserve requirement for the U.S. banking system, it wishes to influence the national economy in all of the following ways except:",
+    "choices": ["Reduce the availability of credit", "Reduce consumer spending", "Reduce interest rates", "Reduce excess bank reserves"],
+    "answer": 2,
+    "explanation": "An increase in the reserve requirement lowers excess bank reserves that would otherwise be used to provide credit to individuals and businesses. This reduction of credit in turn raises interest rates, which tightens credit further. Individuals and businesses will borrow less, leaving them with less money to spend on consumer goods and industrial production."
+  },
+  {
+    "id": "ch16-07",
+    "source": { "type": "chapter", "name": "Chapter 16 Test: Economic Analysis and Tax Rules" },
+    "chapter": 16,
+    "topic": "Tax Structures",
+    "question": "The United States non-investment income tax code is structured as a(n):",
+    "choices": ["Regressive tax", "Flat tax", "Progressive tax", "Ad valorem tax"],
+    "answer": 2,
+    "explanation": "In the U.S., non-investment income is divided into brackets that are taxed at increasingly higher rates as an individual earns more money. This is considered a progressive tax system because the people making the least pay the lowest tax rate and the people making the most pay the highest tax rate."
+  },
+  {
+    "id": "ch16-08",
+    "source": { "type": "chapter", "name": "Chapter 16 Test: Economic Analysis and Tax Rules" },
+    "chapter": 16,
+    "topic": "Economic Theories",
+    "question": "Economist John Maynard Keynes believed that:",
+    "choices": [
+      "Unemployment is caused by natural changes in economic climate and that the private sector ultimately, given time, will naturally maintain balance",
+      "We are all wanderers in a fallen state innately relativist, all that varies is the degree",
+      "It is the government's right and responsibility to manipulate the overall demand by altering spending and taxation",
+      "The money supply is the most important influence on economic performance and tools such as the discount rate should be used to regulate the economy"
+    ],
+    "answer": 2,
+    "explanation": "Keynes believed strongly that demand for goods was the most important factor in controlling unemployment and the government should therefore manipulate the overall demand by changing its own spending and taxation. The idea that the money supply is the most important influence on economic performance is part of Monetarist economic theory originated by Milton Friedman."
+  },
+  {
+    "id": "ch16-09",
+    "source": { "type": "chapter", "name": "Chapter 16 Test: Economic Analysis and Tax Rules" },
+    "chapter": 16,
+    "topic": "Capital Gains Tax",
+    "question": "Which of the following securities transactions would result in a long term capital gain?",
+    "choices": [
+      "Purchase 100 shares of ABC stock at $50 on January 2, 2026; Sell 100 shares of ABC stock at $60 on July 2, 2026",
+      "Purchase 100 shares of ABC stock at $50 on January 2, 2026; Sell 100 shares of XYZ stock at $40 on July 2, 2027",
+      "Purchase 100 shares of ABC stock at $50 on January 2, 2026; Sell 100 shares of ABC stock at $60 on January 3, 2027",
+      "Purchase 100 shares of ABC stock at $60 on January 2, 2026; Sell 100 shares of XYZ stock at $60 on March 7, 2027"
+    ],
+    "answer": 2,
+    "explanation": "Under Internal Revenue rules, a profit (or loss) is considered to be long term if a position is liquidated after being held for more than 1 year (1 year and 1 day or more). Short term capital gains are taxed at a maximum rate of 37% (the maximum individual tax rate). Gains on assets held over 12 months are taxed at a maximum rate of 15%. (Note that this rate is raised to 20% for taxpayers in the highest tax bracket.)\nAlso note that to have a taxable gain or loss, the same security must have been purchased and subsequently sold (or vice versa) making Choice D incorrect.\nChoice B is incorrect because the trades result in a loss, not a gain."
+  },
+  {
+    "id": "ch16-10",
+    "source": { "type": "chapter", "name": "Chapter 16 Test: Economic Analysis and Tax Rules" },
+    "chapter": 16,
+    "topic": "Capital Losses",
+    "question": "In the same year, a customer has $14,000 of long-term capital losses on stock positions and $4,000 of short-term capital gains on options positions. Which statement is TRUE?",
+    "choices": [
+      "The capital losses can be netted against the capital gains and a $10,000 net capital loss is reported, all of which is deductible",
+      "The capital losses can be netted against the capital gains and a $10,000 net capital loss is reported, $3,000 of which is deductible",
+      "The $14,000 of capital losses on the stock positions must be reported separately from the $4,000 of capital gains on the options positions, with all $14,000 of capital losses being deductible and all $4,000 of capital gains being taxable",
+      "The $14,000 of capital losses on the stock positions must be reported separately from the $4,000 of capital gains on the options positions, with only $3,000 of capital losses being deductible and all $4,000 of capital gains being taxable"
+    ],
+    "answer": 1,
+    "explanation": "Capital gains and capital losses on all assets are \"netted\" against each other. There is no segregation by type of asset. This customer had $14,000 of long term capital losses on stocks and $4,000 of short term capital gains on options. The customer has a net $10,000 long-term capital loss, of which only $3,000 is deductible in 1 year. The remaining $7,000 of unused net capital losses is carried forward to the next year."
+  },
+  {
+    "id": "ch16-11",
+    "source": { "type": "chapter", "name": "Chapter 16 Test: Economic Analysis and Tax Rules" },
+    "chapter": 16,
+    "topic": "Economic Theories",
+    "question": "Keynesian Theory states that the economy is stimulated by:",
+    "choices": ["the actions of the Federal Reserve", "increased Government spending", "decreased Government spending", "lowered tax rates"],
+    "answer": 1,
+    "explanation": "Keynesian Economic Theory states that economic growth is controlled by government spending and transfer payments (e.g., Social Security). This theory gained adherents in the 1930s during the Great Depression. With the private economy shattered at that time, the only way out was to have the government employ workers in large projects. This increased Government spending and helped to stimulate economic activity as earnings were placed in individual pockets."
+  },
+  {
+    "id": "ch16-12",
+    "source": { "type": "chapter", "name": "Chapter 16 Test: Economic Analysis and Tax Rules" },
+    "chapter": 16,
+    "topic": "Currency and Trade",
+    "question": "If the U.S. dollar appreciates against foreign currencies, which statement is TRUE?",
+    "choices": [
+      "U.S. exports should increase and any trade deficit should narrow",
+      "U.S. exports should increase and any trade deficit should widen",
+      "U.S. exports should decrease and any trade deficit should narrow",
+      "U.S. exports should decrease and any trade deficit should widen"
+    ],
+    "answer": 3,
+    "explanation": "If the U.S. dollar appreciates against foreign currencies, then U.S. goods become more expensive to foreigners, while foreign goods become cheaper in the U.S. This should cause exports to decrease, and imports to increase. If the U.S. is running a trade deficit, the increase in net imports will widen the deficit."
+  },
+  {
+    "id": "ch16-13",
+    "source": { "type": "chapter", "name": "Chapter 16 Test: Economic Analysis and Tax Rules" },
+    "chapter": 16,
+    "topic": "Mutual Fund Taxation",
+    "question": "Which statement describes the advantage to a customer of a mutual fund family exchange privilege?",
+    "choices": [
+      "The customer can switch funds with differing investment objectives without incurring a tax liability",
+      "The customer can switch funds with differing investment objectives without incurring a sales charge",
+      "The customer can exchange fund shares for cash at the next computed net asset value any time",
+      "The customer can exchange fund shares for money market fund shares at the next computed net asset value at any time"
+    ],
+    "answer": 1,
+    "explanation": "The exchange privilege allows a customer to switch from one fund to another within the same family of funds and avoid additional sales charges. The exchange may be a taxable event since the IRS considers this transaction to be the sale of one security and the purchase of a different security. The customer must report any capital gain on the fund position that was sold upon making the switch.\nThe right of a customer to obtain cash for shares (Choice C) is the right of redemption, not an exchange privilege. Choice D describes a possible type of exchange between two funds, but Choice B is a better description."
+  },
+  {
+    "id": "ch16-14",
+    "source": { "type": "chapter", "name": "Chapter 16 Test: Economic Analysis and Tax Rules" },
+    "chapter": 16,
+    "topic": "Cost Basis (Gifts and Inheritance)",
+    "question": "Barry receives 100 shares of ABC Co. as a gift. The shares were originally purchased at $10/share. When Barry receives the shares, they are worth $30/share. When Barry eventually sells the shares, they are worth $50/share. What is Barry's cost basis when he sells the shares?",
+    "choices": ["$1,000", "$2,000", "$3,000", "$5,000"],
+    "answer": 0,
+    "explanation": "Shares received as a gift maintain their original cost basis. So Barry's shares remain at a basis of $10/share, resulting in a cost basis of $1,000 for the whole position."
+  },
+  {
+    "id": "ch16-15",
+    "source": { "type": "chapter", "name": "Chapter 16 Test: Economic Analysis and Tax Rules" },
+    "chapter": 16,
+    "topic": "Economic Indicators",
+    "question": "A change in each of the following is a coincident economic indicator EXCEPT:",
+    "choices": ["Money Supply as measured by M-2", "Personal income levels", "Gross Domestic Product", "Employment levels"],
+    "answer": 0,
+    "explanation": "The money supply level as measured by M-2 is a leading economic indicator, since if the money supply is rising, there is easy credit, encouraging spending.\nPersonal income levels, Gross Domestic Product, and employment levels all show current activity and are coincident indicators."
+  },
+  {
+    "id": "ch16-16",
+    "source": { "type": "chapter", "name": "Chapter 16 Test: Economic Analysis and Tax Rules" },
+    "chapter": 16,
+    "topic": "Mutual Fund Taxation",
+    "question": "Vanja purchases shares in XYZ Municipal Bond Fund on January 1. She redeems those shares for a profit on January 1 of the following year. Which taxes will she need to pay on the profit from the funds?",
+    "choices": [
+      "Short-term capital gains tax",
+      "Long-term capital gains tax",
+      "The type of capital gains tax on the shares depends on how long the fund held the bonds",
+      "Because the bonds in the fund are municipal bonds, she will not have to pay any taxes"
+    ],
+    "answer": 0,
+    "explanation": "If an investor sells or exchanges mutual fund shares for a profit, she has to pay tax on the gain. If she holds the shares for one year or less, she will pay at the short-term capital gains rate. Since Vanja held her shares for exactly a year, she will have to pay this type of tax. On the other hand, if an investor holds shares in the fund for more than a year, she will pay taxes at the long-term capital gains rate. The amount of time that a fund held a bond or bonds determines the capital gains rate when a capital gains distribution is made from the fund, and not when an investor redeems his shares. The tax-exempt status of municipal bonds applies only to the interest payments associated with those bonds, not on an appreciation of the fund shares."
+  },
+  {
+    "id": "ch16-17",
+    "source": { "type": "chapter", "name": "Chapter 16 Test: Economic Analysis and Tax Rules" },
+    "chapter": 16,
+    "topic": "Taxable Events",
+    "question": "Which of the following is a taxable event?",
+    "choices": ["Unrealized gains", "Cash dividends from investments", "Stock dividends from investments", "Stock splits on investments"],
+    "answer": 1,
+    "explanation": "Cash dividends and interest are taxable each year (unless the interest is exempt).\nStock dividends and stock splits are treated as a \"return of capital.\" The cost basis of the shares is reduced proportionately and the number of shares is increased for the stock dividend or stock split.\nUnrealized gains occur from profitable positions that have not yet been sold. These \"paper profits\" are not taxable.\n[Note - added by Claude] \"Return of capital\" is loose wording here. Stock dividends and splits are simply not taxable when received: the total cost basis stays the same and is spread over more shares, so the basis per share goes down. A true return of capital is a separate kind of distribution that reduces your total basis."
+  },
+  {
+    "id": "ch16-18",
+    "source": { "type": "chapter", "name": "Chapter 16 Test: Economic Analysis and Tax Rules" },
+    "chapter": 16,
+    "topic": "Dividend Taxation",
+    "question": "For investors who are not extremely high earners, the maximum tax rate on cash dividends received is:",
+    "choices": ["15%", "25%", "35%", "50%"],
+    "answer": 0,
+    "explanation": "Qualified cash dividends received from most domestic common and preferred stocks are generally taxed at preferential long-term capital gains rates rather than ordinary income tax rates. For most investors, the maximum tax rate on qualified dividends is 15%, although certain high-income taxpayers may pay 20%.\nTherefore, the correct answer is A."
+  },
+  {
+    "id": "ch16-19",
+    "source": { "type": "chapter", "name": "Chapter 16 Test: Economic Analysis and Tax Rules" },
+    "chapter": 16,
+    "topic": "Cost Basis (Gifts and Inheritance)",
+    "question": "An individual buys stock at $40 per share. Many years later, the individual dies when the market value is $60. The estate distributes the shares to a beneficiary when the stock is worth $70. What is the cost basis to the beneficiary?",
+    "choices": ["$40", "$60", "$65", "$70"],
+    "answer": 1,
+    "explanation": "One benefit built into the tax code is that inherited securities are given a new cost basis to the recipient, using the date of death to value the securities. Thus, if the securities have appreciated, there is no capital gains tax due on death. This is called a \"stepped up\" basis."
+  },
+  {
+    "id": "ch16-20",
+    "source": { "type": "chapter", "name": "Chapter 16 Test: Economic Analysis and Tax Rules" },
+    "chapter": 16,
+    "topic": "Business Cycle",
+    "question": "During the normal sequence of the economic cycle, after a period of recovery, the economy will move to a period of:",
+    "choices": ["depression", "recovery", "expansion", "prosperity"],
+    "answer": 2,
+    "explanation": "The normal sequence of the economic cycle is a period of expansion, followed by an economic peak (prosperity), followed by a decline in economic activity (recession), followed by an economic recovery leading to further expansion, etc."
+  }
+]

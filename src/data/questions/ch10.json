@@ -1,0 +1,362 @@
+[
+  {
+    "id": "ch10-01",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 10 Test: Individual Customer Accounts and Suitability"
+    },
+    "chapter": 10,
+    "topic": "Senior Investors and Specified Adults",
+    "question": "Under FINRA rules, if a member suspects that a senior citizen is being financially exploited:",
+    "choices": [
+      "a temporary hold may be placed on disbursements from the account for up to 5 business days",
+      "a temporary hold may be placed on disbursements from the account for up to 10 business days",
+      "any hold placed on the account, if supported by the member's review of the situation, can be extended for another 10 business days",
+      "any hold placed on the account, if supported by the member's review of the situation, can be extended for another 40 business days"
+    ],
+    "answer": 2,
+    "explanation": "If activity is thought to be suspicious, a firm can place an initial hold on the senior's account for 15 business days to investigate the activity. If the firm's investigation determines that the activity is possibly fraudulent, an additional hold of 10 more business days can be added for a total of 25 business days. If the activity becomes part of a governmental investigation, an additional hold of 30 business days can be placed on the account, for a grand total of 55 business days. Also note that the temporary hold only applies to disbursements that are suspicious."
+  },
+  {
+    "id": "ch10-02",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 10 Test: Individual Customer Accounts and Suitability"
+    },
+    "chapter": 10,
+    "topic": "Senior Investors and Specified Adults",
+    "question": "According to FINRA, which of the following would be considered a specified adult?",
+    "choices": [
+      "A 16 year old with autism",
+      "A 30 year old",
+      "A 60 year old with a heart condition",
+      "An 18 year old in a coma"
+    ],
+    "answer": 3,
+    "explanation": "According to FINRA, a specified adult is a natural person age 65 and older or a natural person age 18 and older who the member firm reasonably believes has a mental or physical impairment that renders the individual unable to protect his or her own interests.\n[Edit note - added by Claude] Feedback: removed stray \"<\". Original: \"...unable to protect his or her own interests.<\" Edited: \"...unable to protect his or her own interests.\""
+  },
+  {
+    "id": "ch10-03",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 10 Test: Individual Customer Accounts and Suitability"
+    },
+    "chapter": 10,
+    "topic": "Regulation Best Interest",
+    "question": "Bob is a registered rep who recommends an OTC stock to a customer. Bob has a reasonable belief that the investment is suitable for the customer. However, Bob does not disclose that his firm charges a higher markup when selling OTC securities because they are more thinly traded. Which Reg BI obligation has Bob failed to meet?",
+    "choices": [
+      "The disclosure obligation",
+      "The care obligation",
+      "The quantitative suitability obligation",
+      "The compliance obligation"
+    ],
+    "answer": 0,
+    "explanation": "Regulation Best Interest's disclosure obligation requires firms before or at the time a recommendation is given to provide in writing \"full and fair\" disclosure of all material facts about the terms and relationship between the broker-dealer and the retail customer. These material facts include:\n- That the firm is acting in a broker-dealer capacity\n- Material fees and costs\n- Type and scope of services provided\n- Any material limitations on the securities or investment strategies involving securities that may be recommended\n- All material facts relating to conflicts of interest that are associated with a recommendation (e.g., conflicts associated with proprietary products, payments from third parties, compensation arrangements)\nThe other main components of Reg BI are the care, compliance, and conflict-of-interest obligations. Bob's actions could also be considered a failure to meet the conflict-of-interest obligation. (The quantitative suitability obligation is one part of the care obligation.)"
+  },
+  {
+    "id": "ch10-04",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 10 Test: Individual Customer Accounts and Suitability"
+    },
+    "chapter": 10,
+    "topic": "Holding Customer Mail",
+    "question": "A member firm may hold a customer's mail who is traveling for a maximum of __________ unless there is an acceptable reason for holding it longer, such as safety.",
+    "choices": [
+      "1 month",
+      "2 months",
+      "3 months",
+      "6 months"
+    ],
+    "answer": 2,
+    "explanation": "A firm may hold a client's mail for a maximum of three months, unless there is an acceptable reason, such as safety or security. The customer's convenience is not an acceptable reason."
+  },
+  {
+    "id": "ch10-05",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 10 Test: Individual Customer Accounts and Suitability"
+    },
+    "chapter": 10,
+    "topic": "Know Your Customer",
+    "question": "Under the Know Your Customer Rule, in order to open and maintain a customer account, each registered representative must collect essential information so that the member firm can do all the following EXCEPT:",
+    "choices": [
+      "effectively service the customer's account",
+      "act in accordance with any special handling instructions for the account",
+      "understand the authority of each person acting for the customer",
+      "prevent significant losses in the account"
+    ],
+    "answer": 3,
+    "explanation": "The FINRA \"Know Your Customer\" rule is separate from the \"Suitability\" rule. The KYC rule requires that the essential facts about the customer be collected at account opening, so that the member firm can:\n- effectively service the customer's account;\n- act in accordance with any special handling instructions for the account;\n- understand the authority of each person acting for the customer; and\n- comply with applicable laws and regulations.\nUnfortunately, losses can occur in a customer account (as can profits!). This has nothing to do with KYC procedures."
+  },
+  {
+    "id": "ch10-06",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 10 Test: Individual Customer Accounts and Suitability"
+    },
+    "chapter": 10,
+    "topic": "Accounts for Employees of Other Firms",
+    "question": "When completing a new account form, you discover that the customer is an accounting supervisor at another broker-dealer. Under FINRA rules, which procedures are required?",
+    "choices": [
+      "Prior to opening the account, approval of the employing member must be obtained",
+      "Each transaction must be approved by the employing member firm prior to execution",
+      "Electronic duplicate confirmations and statements must be sent to the employing member firm's COO by end of day",
+      "Annual account summaries of all activity must be sent to the employer"
+    ],
+    "answer": 0,
+    "explanation": "FINRA requires that if an employee of another FINRA member firm (whether registered or unregistered) wishes to open an account:\n- prior written consent of the employing member firm must be obtained;\n- the executing member must be notified in writing of the employee's association with another member firm; and\n- on written request of the employer member, the executing member must provide duplicate confirmations and statements.\nNote that the rule applies to \"associated persons\" of a member firm opening an account at another member - and an associated person is either an officer or a registered or unregistered employee of the member firm, with an exception given to anyone who only performs clerical or ministerial duties.\nNot only does the rule apply to accounts opened at other member firms by associated persons, it also applies to securities accounts opened at non-member financial institutions such as banks and investment advisers."
+  },
+  {
+    "id": "ch10-07",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 10 Test: Individual Customer Accounts and Suitability"
+    },
+    "chapter": 10,
+    "topic": "Regulation Best Interest",
+    "question": "Jorge is an associated person discussing potential investments with Kurt. Which of the following makes a difference as to whether this discussion is subject to Regulation Best Interest?",
+    "choices": [
+      "Whether Kurt is a current customer or potential customer",
+      "Whether the discussion occurs in person or online",
+      "Whether Kurt is an accredited investor",
+      "Whether what Jorge says to Kurt constitutes a recommendation"
+    ],
+    "answer": 3,
+    "explanation": "Regulation Best Interest (Reg BI) requires associated persons to act in retail customers' best interest when making investment recommendations. Reg BI applies to recommendations about any securities transaction or investment strategy involving securities. It doesn't matter whether the recommendation is made to a current or potential customer. Nor does it matter whether the customer is an accredited investor. Finally, it doesn't matter whether the conversation occurs online or in person.\nHowever, Reg BI only applies to a communication that rises to the level of an actual recommendation. Merely inviting a potential customer to discuss investment options is not considered a recommendation, nor is an \"educational\" statement such as letting a customer know the annual contribution limit of her retirement account. The more that a communication emphasizes a certain type of investment, the more likely it is to be considered a recommendation. Statements involving a \"call to action\" are generally considered recommendations."
+  },
+  {
+    "id": "ch10-08",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 10 Test: Individual Customer Accounts and Suitability"
+    },
+    "chapter": 10,
+    "topic": "Suitability",
+    "question": "Parents with a 10-year-old child want to save for college while maintaining some growth potential. As the child approaches college age, what should happen to the asset allocation in their 529 plan?",
+    "choices": [
+      "Increase the equity allocation to maximize growth",
+      "Shift toward more fixed-income and capital preservation investments",
+      "Move entirely into high-yield assets for higher returns",
+      "Make no changes, as 529 plans use fixed allocations"
+    ],
+    "answer": 1,
+    "explanation": "As a child approaches college age, the investment horizon shortens and the risk of loss becomes more consequential. 529 age-weighted plans automatically shift from growth-oriented equities toward more conservative, capital-preservation-focused fixed-income securities as the enrollment date nears. Increasing equities or high-yield (high-risk) investments at this stage could jeopardize funds needed within a few years."
+  },
+  {
+    "id": "ch10-09",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 10 Test: Individual Customer Accounts and Suitability"
+    },
+    "chapter": 10,
+    "topic": "Holding Customer Mail",
+    "question": "A broker-dealer can hold the mail of a customer who is travelling domestically for __________, unless the customer provides an acceptable reason for the mail to be held for a longer time period.",
+    "choices": [
+      "1 month",
+      "2 months",
+      "3 months",
+      "6 months"
+    ],
+    "answer": 2,
+    "explanation": "When a customer is traveling domestically or abroad, a firm can hold his or her mail for up to three months without an acceptable reason. The mail can be held for a longer period if an acceptable reason is provided."
+  },
+  {
+    "id": "ch10-10",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 10 Test: Individual Customer Accounts and Suitability"
+    },
+    "chapter": 10,
+    "topic": "Discretionary Accounts",
+    "question": "In order to open a discretionary account, which of the following is NOT required?",
+    "choices": [
+      "Completed Customer New Account Form",
+      "Signed Trading Authorization",
+      "Signed Customer's Agreement",
+      "Signature of Manager on New Account Form"
+    ],
+    "answer": 2,
+    "explanation": "A signed customer's agreement is not required on the new account form. To open a discretionary account, a new account form must be completed by the registered representative and approved in writing by the manager. The customer must provide a signed trading authorization to the firm (first party trading authorization) allowing discretionary trades."
+  },
+  {
+    "id": "ch10-11",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 10 Test: Individual Customer Accounts and Suitability"
+    },
+    "chapter": 10,
+    "topic": "Opening Accounts",
+    "question": "A broker-dealer is required to obtain or make reasonable efforts to obtain all of the following when a customer opens a new cash account except:",
+    "choices": [
+      "Customer's name and address",
+      "Customer's social security number or tax I.D. number",
+      "Customer's signature",
+      "Customer's occupation and employer"
+    ],
+    "answer": 2,
+    "explanation": "A customer signature is not needed to open a cash account (thus cash accounts can be opened over the phone or electronically). A signature is required for margin accounts because they involve extending credit to the customer, creating a legally binding agreement where the customer promises to repay borrowed funds. As part of this arrangement, the customer also pledges the securities in the account as collateral to the brokerage firm.\nTo open a cash account, the registered representative must complete a new account form which includes the Social Security number of the customer (tax I.D. number) so that the IRS gets its 1099 reports of income earned in the account; and the customer's occupation and employer because if the customer is employed by another brokerage firm, special procedures must be followed.\nThe registered representative who performs the suitability determination and the manager (principal) must sign the form. By signing, the registered representative indicates that the information is written as stated by the customer; and the manager is signing that the information has been reviewed prior to accepting the account for the firm."
+  },
+  {
+    "id": "ch10-12",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 10 Test: Individual Customer Accounts and Suitability"
+    },
+    "chapter": 10,
+    "topic": "Anti-Money Laundering",
+    "question": "Which is not required of an Anti-Money Laundering (AML) Compliance Program?",
+    "choices": [
+      "Designate an AML officer",
+      "Be approved by the broker-dealer's board of directors",
+      "Require an annual review of the program",
+      "Provide for ongoing training of personnel"
+    ],
+    "answer": 1,
+    "explanation": "FINRA requires a member firm to adopt and implement a written anti-money laundering program. Per the Rule, the written program must designate an individual responsible for implementing and monitoring the program; provide for annual independent testing; provide for ongoing training of personnel; and be approved by a member of senior management. There is no requirement for the program to be approved by a board of directors."
+  },
+  {
+    "id": "ch10-13",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 10 Test: Individual Customer Accounts and Suitability"
+    },
+    "chapter": 10,
+    "topic": "Anti-Money Laundering",
+    "question": "Whenever a person executes a cash transaction that exceeds $10,000 in a single day, a financial institution must file a Currency Transaction Report with:",
+    "choices": [
+      "FINRA",
+      "The Federal Reserve",
+      "The SEC",
+      "FinCen"
+    ],
+    "answer": 3,
+    "explanation": "To identify money laundering activities, the Bank Secrecy Act requires financial institutions to file a Currency Transaction Report with the Financial Crimes Enforcement Network (FinCen), to report cash transactions in any account that exceed $10,000 per day. FinCen is a bureau within the U.S. Treasury Department."
+  },
+  {
+    "id": "ch10-14",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 10 Test: Individual Customer Accounts and Suitability"
+    },
+    "chapter": 10,
+    "topic": "Customer Privacy (Regulation S-P)",
+    "question": "Which regulation protects customers against broker-dealers sharing nonpublic customer information with third parties?",
+    "choices": [
+      "Regulation A",
+      "Regulation S-P",
+      "Regulation T",
+      "Regulation D"
+    ],
+    "answer": 1,
+    "explanation": "Regulation S-P protects customers against broker-dealers sharing nonpublic customer information with third parties."
+  },
+  {
+    "id": "ch10-15",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 10 Test: Individual Customer Accounts and Suitability"
+    },
+    "chapter": 10,
+    "topic": "Discretionary Accounts",
+    "question": "Johnny Jackson has an account with Big Brokerage. It is not a discretionary account. Which of the following orders requires discretionary authority?",
+    "choices": [
+      "Johnny instructs his broker to buy 10,000 shares of XYZ Corporation",
+      "Johnny instructs his broker to sell 30 shares of ABC Corporation at a time and price determined by his agent",
+      "Johnny instructs his agent to either buy or sell 500 shares of XYZ depending on the market",
+      "Johnny asks his agent to buy 100 shares of ABC when the market is favorable"
+    ],
+    "answer": 2,
+    "explanation": "For non-discretionary accounts customers must specify the security, the number of shares and whether to buy or sell the security. If an agent makes a decision on any of these, the agent must have discretionary authority. An agent may make a decision about timing and price without discretionary authority."
+  },
+  {
+    "id": "ch10-16",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 10 Test: Individual Customer Accounts and Suitability"
+    },
+    "chapter": 10,
+    "topic": "Suitability",
+    "question": "Donna is a 39-year-old teacher with a moderate risk tolerance who earns $61,000 per year. Her employer offers a 403(b) plan, to which she contributes 6% of her salary. She also has $25,000 in a Roth IRA currently invested in a Treasury bond fund. She has 26 years until retirement.\n\nWhich of the following changes, if any, would be most suitable for Donna's Roth IRA?",
+    "choices": [
+      "Shift the Roth IRA from Treasury bonds into a diversified mix of equity funds and intermediate bonds consistent with a moderate risk profile and a 26-year growth horizon",
+      "Maintain the Treasury bond allocation, as bonds provide stable income within any retirement account",
+      "Liquidate the Treasury bond fund and invest the Roth IRA entirely in penny stocks for maximum growth",
+      "Transfer the Roth IRA into a variable annuity for additional tax deferral within the retirement account"
+    ],
+    "answer": 0,
+    "explanation": "With 26 years until retirement and a moderate risk tolerance, Donna's Roth IRA should be invested for long-term growth, not fixed income. Treasury bonds inside a Roth IRA waste the account's most valuable feature—tax-free growth—by generating modest, low-growth returns over a 26-year horizon. A diversified equity and intermediate bond allocation is consistent with her moderate profile and long time horizon. Penny stocks are speculative and inappropriate for a moderate investor. Placing a variable annuity inside a Roth IRA is unsuitable—it adds high fees without providing any additional tax benefit, since the Roth IRA already grows tax-free."
+  },
+  {
+    "id": "ch10-17",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 10 Test: Individual Customer Accounts and Suitability"
+    },
+    "chapter": 10,
+    "topic": "Opening Accounts",
+    "question": "Which of the following does not need to be present on a new customer account form for a brokerage account?",
+    "choices": [
+      "Customer's residential address",
+      "Principal's signature",
+      "Name of the registered representative(s) who will handle the account",
+      "Address of the customer's employer"
+    ],
+    "answer": 3,
+    "explanation": "When a customer opens an account at a broker-dealer, each of the following must appear on his new account form:\n- His name and address\n- Whether he is of legal age\n- Name of registered reps who will handle his account\n- Principal's signature\nWhile the broker-dealer should make reasonable efforts to obtain the customer's occupation and the address of his employer, this information is not required on the new account form."
+  },
+  {
+    "id": "ch10-18",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 10 Test: Individual Customer Accounts and Suitability"
+    },
+    "chapter": 10,
+    "topic": "Customer Privacy (Regulation S-P)",
+    "question": "A broker-dealer or investment adviser must provide customers with a privacy notice. This privacy notice must describe all of the following except:",
+    "choices": [
+      "The type of customer information being collected",
+      "How customer information will be used",
+      "With whom customer information will be shared",
+      "When customer information will be retrieved"
+    ],
+    "answer": 3,
+    "explanation": "Under Regulation S-P, financial institutions must provide customers with a privacy notice when an account is opened and annually. The privacy notice must describe the type of information that will be collected, how it will be used, and with whom the information will be shared. When the customer information will be retrieved is not a required part of Regulation S-P."
+  },
+  {
+    "id": "ch10-19",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 10 Test: Individual Customer Accounts and Suitability"
+    },
+    "chapter": 10,
+    "topic": "Penny Stocks",
+    "question": "How often must member firms provide customers with account statements showing the market value of each penny stock held in the customer's account?",
+    "choices": [
+      "Weekly",
+      "Monthly",
+      "Every three months",
+      "Every six months"
+    ],
+    "answer": 1,
+    "explanation": "A member firm must provide customers with information on the amount of compensation that the firm and its broker(s) will receive from any source in connection with a penny stock trade. The member firm must also send customers monthly account statements showing the market value of each penny stock held in the customer's account."
+  },
+  {
+    "id": "ch10-20",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 10 Test: Individual Customer Accounts and Suitability"
+    },
+    "chapter": 10,
+    "topic": "Accounts for Employees of Other Firms",
+    "question": "FINRA requires employees of member firms get permission from their employer before opening certain accounts at other broker-dealers. What kind of accounts are covered by this rule?",
+    "choices": [
+      "Mutual fund accounts",
+      "Unit investment trusts",
+      "Variable contracts",
+      "Margin accounts"
+    ],
+    "answer": 3,
+    "explanation": "Employees of a broker-dealer must obtain written consent from their firm if they wish to open or maintain an account at a broker-dealer. Also, firm employees must do the same for any accounts opened by associated persons (spouses or children) with another financial firm in which the employee has a beneficial interest. However, the rule does not apply to transactions in unit investment trusts, municipal fund securities, qualified tuition programs pursuant to Section 529 of the Internal Revenue Code, and variable contracts or redeemable securities of companies registered under the Investment Company Act (mutual funds)."
+  }
+]

@@ -1,0 +1,267 @@
+[
+  {
+    "id": "ch11-01",
+    "source": { "type": "chapter", "name": "Chapter 11 Test: Other Account Types" },
+    "chapter": 11,
+    "topic": "Wrap Accounts",
+    "question": "All of the following are true statements about managed wrap accounts EXCEPT:",
+    "choices": [
+      "a single annual fee is charged for account maintenance",
+      "no separate commission charges are imposed for each transaction performed in the account",
+      "no separate charges are imposed for safekeeping of securities in the account",
+      "no options transactions are permitted in such account types"
+    ],
+    "answer": 3,
+    "explanation": "Wrap accounts are a type of customer account, where all services performed by the broker are \"wrapped\" into a single account; and a single annual fee based as a percentage of assets under management is charged. There is no commission charge for each transaction performed in such an account nor are charges imposed for safekeeping of securities. All services are covered in the single \"wrap\" fee. There is no prohibition on performing options transactions in such accounts.\nAlso note that \"wrap\" accounts, because they charge a flat annual fee and not commissions, are defined as investment adviser products. These must be sold through an investment adviser subsidiary of a broker-dealer, and the representatives that sell them must be registered as \"IARs\" - Investment Adviser Representatives - in each state where they offer the product."
+  },
+  {
+    "id": "ch11-02",
+    "source": { "type": "chapter", "name": "Chapter 11 Test: Other Account Types" },
+    "chapter": 11,
+    "topic": "Margin Requirements",
+    "question": "Which statement is TRUE regarding initial and minimum maintenance margins for a long margin account?",
+    "choices": [
+      "Both initial and maintenance margin is 30%",
+      "Both initial and maintenance margin is 50%",
+      "Maintenance margin is 30%",
+      "Maintenance margin is 25%"
+    ],
+    "answer": 3,
+    "explanation": "Initial margin for both long and short stock positions is set at a maximum of 50% by the Federal Reserve Board under Regulation T. Maintenance margin is set by FINRA at 25% for long stock positions and 30% for short stock positions."
+  },
+  {
+    "id": "ch11-03",
+    "source": { "type": "chapter", "name": "Chapter 11 Test: Other Account Types" },
+    "chapter": 11,
+    "topic": "Regulation T",
+    "question": "Credit on securities extended by brokers to customers is controlled by:",
+    "choices": ["Regulation T", "Regulation U", "Regulation Q", "Regulation G"],
+    "answer": 0,
+    "explanation": "Credit on securities from broker to customer is controlled by Regulation T of the Federal Reserve Board."
+  },
+  {
+    "id": "ch11-04",
+    "source": { "type": "chapter", "name": "Chapter 11 Test: Other Account Types" },
+    "chapter": 11,
+    "topic": "Margin Requirements",
+    "question": "Regulation T sets the initial margin to sell short a marginable stock position at:",
+    "choices": ["25% of the sale amount", "50% of the sale amount", "75% of the sale amount", "100% of the sale amount"],
+    "answer": 1,
+    "explanation": "Regulation T initial margin for short stock positions is set at 50%."
+  },
+  {
+    "id": "ch11-05",
+    "source": { "type": "chapter", "name": "Chapter 11 Test: Other Account Types" },
+    "chapter": 11,
+    "topic": "Margin Requirements",
+    "question": "A customer sells short 100 shares of ABC stock at $50 as an initial transaction in a margin account. At the end of the day, the stock has fallen to a price of $40 per share. The customer must deposit:",
+    "choices": ["$1,500", "$2,000", "$2,500", "$3,500"],
+    "answer": 2,
+    "explanation": "Initial margin to sell stock short is 50% of the sale price. 50% of $5,000 = $2,500. The fact that the stock drops to $40 at the end of the day, giving the customer a $1,000 profit, has nothing to do with the margin call amount."
+  },
+  {
+    "id": "ch11-06",
+    "source": { "type": "chapter", "name": "Chapter 11 Test: Other Account Types" },
+    "chapter": 11,
+    "topic": "Options Accounts",
+    "question": "A customer has how many days after opening an options account to sign and return the options agreement?",
+    "choices": ["0 days", "5 days", "15 days", "30 days"],
+    "answer": 2,
+    "explanation": "A copy of the options new account form is part of the Options Agreement that is sent to the customer, to be signed and returned within 15 days of account opening. The Options Agreement is a recap of the customer new account profile including the suitability determination and it qualifies the customer for a level of options trading, detailing which options transactions are permitted.\nDo not confuse this document with the Options Disclosure Document (ODD), which must be sent to customers at, or prior to, account opening."
+  },
+  {
+    "id": "ch11-07",
+    "source": { "type": "chapter", "name": "Chapter 11 Test: Other Account Types" },
+    "chapter": 11,
+    "topic": "Cash Accounts",
+    "question": "On Monday, April 5th, a customer places an order to buy 100 shares of ABC at $60 in a cash account. On April 6th, the stock rises to $80 and the customer sells. Which statement is TRUE?",
+    "choices": [
+      "No payment is required because the sale proceeds can be used to pay for the original purchase",
+      "No payment is required because the customer sold the position at a profit",
+      "If payment is not received by Thursday, April 8th, barring an extension request, the account must be liquidated",
+      "If payment is not received by Thursday, April 8th, barring an extension request, the account must be frozen"
+    ],
+    "answer": 3,
+    "explanation": "If a customer does not pay for a purchase within 3 business days after trade date, barring an extension, the account must be frozen for 90 days. Three business days from April 5th is April 8th. The fact that there was a profit on the position does not affect the amount that the customer must pay, nor does it affect the date by which payment is due."
+  },
+  {
+    "id": "ch11-08",
+    "source": { "type": "chapter", "name": "Chapter 11 Test: Other Account Types" },
+    "chapter": 11,
+    "topic": "Cash vs. Margin Accounts",
+    "question": "When comparing a cash account to a margin account:",
+    "choices": [
+      "cash account transactions must be settled faster in a cash account than in a margin account",
+      "cash account transactions are not subject to Regulation T while margin account transactions are",
+      "cash account transactions require full payment on settlement while margin account transactions do not",
+      "cash accounts do not permit options transactions while margin accounts do permit options transactions"
+    ],
+    "answer": 2,
+    "explanation": "Regulation T of the Federal Reserve Board not only sets 50% initial margin for stock positions, it also defines which securities are marginable, defines the types of accounts in which securities transactions can be effected, and sets the time period for collection of funds when securities are purchased. Regulation T defines both a Cash Account and a Margin Account. In a Cash Account, all purchases must be fully paid - there is no margin. In a Margin Account, the securities are pledged as collateral for a loan, and borrowing of up to 50% is allowed on an initial transaction. Regulation T applies to cash accounts where securities are fully-paid because the Federal Reserve does not want broker-dealers to tell customers something like \"Pay me in full - you can pay me in 30 days\" - which is the same as giving the client a 30-day loan. So Regulation T says that purchases in either a cash or margin account must be paid for \"promptly\" but no later than 2 business days past settlement. Note that industry settlement rules differ from Regulation T. A \"cash settlement\" is same day settlement. A regular way settlement is 1 business day after trade date. Either of these can be done in a cash account or a margin account. Marginable securities can be purchased in a cash account - but they must be paid in full. Finally, DRS is the Direct Registration System - book-entry recordkeeping for securities as opposed to issuing physical certificates."
+  },
+  {
+    "id": "ch11-09",
+    "source": { "type": "chapter", "name": "Chapter 11 Test: Other Account Types" },
+    "chapter": 11,
+    "topic": "Prime Brokerage Accounts",
+    "question": "What is one of the benefits of a prime brokerage account?",
+    "choices": [
+      "Consolidated account statement",
+      "Consolidated trade execution",
+      "Separated account positions",
+      "Separated stock loans on short positions"
+    ],
+    "answer": 0,
+    "explanation": "Sophisticated institutional investors, such as hedge funds, open accounts called \"prime brokerage accounts.\" The \"prime broker\" is a firm that caters to institutional clients, such as Goldman Sachs, J. P. Morgan or Merrill Lynch. The main advantage of using a \"prime broker\" is that the hedge fund can route its trades to different executing brokers other than the \"prime broker.\" In return for sending its trades to different executing brokers and paying them commissions, the hedge fund gets research and other valuable market information from the executing brokers.\nThe trades done through the executing brokers \"roll up\" to the prime broker. The prime broker holds all of the positions, arranges for stock loans on short positions taken, provides financing (margin loans) on positions taken, and provides consolidated account statements, among other services. Because all positions taken are consolidated, the loan amounts against them are larger and result in lower interest rates than if the positions were held separately at different brokerage firms."
+  },
+  {
+    "id": "ch11-10",
+    "source": { "type": "chapter", "name": "Chapter 11 Test: Other Account Types" },
+    "chapter": 11,
+    "topic": "Margin Accounts",
+    "question": "To open a margin account for a customer:",
+    "choices": [
+      "no signature of the customer is required",
+      "a customer signature must be obtained on the hypothecation agreement prior to placing the first order in the account",
+      "a customer signature must be obtained on the hypothecation agreement prior to confirmation of the first transaction in the account",
+      "a customer signature must be obtained on the hypothecation agreement prior to settlement of the first transaction in the account"
+    ],
+    "answer": 3,
+    "explanation": "Customers must sign margin agreements (hypothecation agreements) in order to open margin accounts. The signature must be obtained prior to settlement of the first transaction in the account."
+  },
+  {
+    "id": "ch11-11",
+    "source": { "type": "chapter", "name": "Chapter 11 Test: Other Account Types" },
+    "chapter": 11,
+    "topic": "Options Accounts",
+    "question": "A new customer wishes to open an options account with your firm. All of the following procedures are required prior to the first trade EXCEPT the:",
+    "choices": [
+      "customer must complete an Options Agreement",
+      "Registered Options Principal must approve the account before the first trade",
+      "customer must be sent an Options Disclosure Document",
+      "new account form must be completed"
+    ],
+    "answer": 0,
+    "explanation": "To open an options account, the new account form must be completed and the date that the customer was furnished with the latest Options Disclosure Document (ODD) must be placed on the new account form. The ROP must approve the new account form and the first trade in writing.\nThe customer does not have to complete the Options Agreement prior to the opening of the account. The Agreement must be sent to the customer and must be signed and returned within 15 days of opening the account."
+  },
+  {
+    "id": "ch11-12",
+    "source": { "type": "chapter", "name": "Chapter 11 Test: Other Account Types" },
+    "chapter": 11,
+    "topic": "Fiduciary Accounts",
+    "question": "What is NOT a fiduciary account?",
+    "choices": ["Custodial Account", "UGMA Account", "Partnership Account", "Trust Account"],
+    "answer": 2,
+    "explanation": "Both Trust accounts and Custodial accounts are \"fiduciary accounts,\" where a third party is designated to manage the account in the best interests of the account owner. UGMA accounts are custodial accounts.\nPartnership accounts and joint accounts are directly managed by an owner of the account, and thus are not fiduciary accounts."
+  },
+  {
+    "id": "ch11-13",
+    "source": { "type": "chapter", "name": "Chapter 11 Test: Other Account Types" },
+    "chapter": 11,
+    "topic": "Custodial Accounts (UGMA/UTMA)",
+    "question": "A mother and father of twin girls (Girl \"A\" and Girl \"B\") want to open UTMA accounts to save for their college education. Which of the following custodian/beneficiary relationships would be allowed?",
+    "choices": [
+      "Both the mother and the father as custodians on a joint account for both Girl \"A\" and Girl \"B\"",
+      "The mother on an account for Girl \"A\" and the mother on an account for Girl \"B\"",
+      "The mother only as custodian on an account for Girl \"A\" and both the mother and father as custodians on an account for Girl \"B\"",
+      "Both the mother and the father as custodians on an account for Girl \"A\" and both the mother and father as custodians on an account for Girl \"B\""
+    ],
+    "answer": 1,
+    "explanation": "UTMA is the Uniform Transfers to Minors Act - adopted in each state and governing custodial accounts. Custodial accounts must be cash accounts, with all securities registered in account name - and the rule is \"one custodian for one minor\" per account. There cannot be joint custodians, nor can there be joint minors, in a custodial account."
+  },
+  {
+    "id": "ch11-14",
+    "source": { "type": "chapter", "name": "Chapter 11 Test: Other Account Types" },
+    "chapter": 11,
+    "topic": "Cash vs. Margin Accounts",
+    "question": "Which of the following transactions cannot be executed in a cash account but requires a margin account:",
+    "choices": ["mutual fund purchase", "purchase of new issue", "short sale", "OTC purchase"],
+    "answer": 2,
+    "explanation": "A short sale requires the borrowing of securities from a broker-dealer, which can only be done on margin."
+  },
+  {
+    "id": "ch11-15",
+    "source": { "type": "chapter", "name": "Chapter 11 Test: Other Account Types" },
+    "chapter": 11,
+    "topic": "Margin Accounts",
+    "question": "In order to open a discretionary margin account, which of the following is NOT required?",
+    "choices": [
+      "Completed Customer New Account Form",
+      "Signed Trading Authorization",
+      "Signed Principal's Signature",
+      "Signature of Customer on New Account Form"
+    ],
+    "answer": 3,
+    "explanation": "Every new account must have a new account form, which is approved by the manager but there is no requirement for a customer signature.\nA signed customer's agreement is required for a margin account, as this is the case with this account (the customer's agreement is the hypothecation agreement).\nTo open a discretionary account, the customer must provide a signed trading authorization to the firm (first party trading authorization) allowing discretionary trades."
+  },
+  {
+    "id": "ch11-16",
+    "source": { "type": "chapter", "name": "Chapter 11 Test: Other Account Types" },
+    "chapter": 11,
+    "topic": "Fiduciary Accounts",
+    "question": "An officer of a trust wishes to open a margin account with your firm. This is allowed:",
+    "choices": [
+      "if the trust agreement specifically authorizes the opening of a margin account",
+      "as long as the new account form has been properly completed",
+      "if an officer of the trust provides a letter of guarantee",
+      "only with the prior approval of the branch manager"
+    ],
+    "answer": 0,
+    "explanation": "As a general rule fiduciary accounts must be cash accounts. A trust account will be opened as a cash account unless the agreement specifically authorizes the opening of a margin account."
+  },
+  {
+    "id": "ch11-17",
+    "source": { "type": "chapter", "name": "Chapter 11 Test: Other Account Types" },
+    "chapter": 11,
+    "topic": "Custodial Accounts (UGMA/UTMA)",
+    "question": "All of the following actions by a custodian in an account opened under the Uniform Gifts to Minors Act are permitted EXCEPT:",
+    "choices": [
+      "donating funds to the account to make additional investments",
+      "withdrawing funds from the account for the custodian's use",
+      "managing the investments in the account with the objective of generating enough income for college tuition",
+      "selling securities in the account to generate proceeds for other investments"
+    ],
+    "answer": 1,
+    "explanation": "Custodians are obligated to manage the assets of the account in the best interests of the minor. Custodians cannot use account assets for their own benefit."
+  },
+  {
+    "id": "ch11-18",
+    "source": { "type": "chapter", "name": "Chapter 11 Test: Other Account Types" },
+    "chapter": 11,
+    "topic": "Trust Accounts",
+    "question": "A trust that comes into effect upon the death of the trustor is called a:",
+    "choices": ["Revocable trust", "Testamentary trust", "Inter vivos trust", "Remainder trust"],
+    "answer": 1,
+    "explanation": "Living trusts, or inter vivos trusts, are created while a person is living. A testamentary trust is initiated upon a person's death according to the terms of a will. The person being dead, a testamentary trust is irrevocable. A charitable remainder trust is one in which the trustor leaves the residual of his or her estate to some charitable organization. It may or may not be a testamentary trust."
+  },
+  {
+    "id": "ch11-19",
+    "source": { "type": "chapter", "name": "Chapter 11 Test: Other Account Types" },
+    "chapter": 11,
+    "topic": "Marginable Securities",
+    "question": "Which statement is TRUE?",
+    "choices": [
+      "Mutual fund shares can be bought on 50% margin",
+      "Mutual fund shares must be paid in full when purchased, but become margin securities after being held for 30 days",
+      "ETF shares can be bought on 25% margin",
+      "ETF shares must be paid in full when purchased, but become marginable after being held for 30 days"
+    ],
+    "answer": 1,
+    "explanation": "ETFs (Exchange Traded Funds) are actively traded on stock markets like any other stock - they can be bought or sold any time that the market is open and can be bought or sold short on 50% margin. Mutual fund shares are bought from the fund sponsor and are a prospectus offering. As such, they must be paid in full and only become margin securities (i.e., securities that can be used as collateral on margin loans) after being held in the customer's account for 30 days. Mutual fund shares cannot be sold short."
+  },
+  {
+    "id": "ch11-20",
+    "source": { "type": "chapter", "name": "Chapter 11 Test: Other Account Types" },
+    "chapter": 11,
+    "topic": "Joint Accounts",
+    "question": "Two brothers wish to open an account to trade stocks, with one brother depositing $100,000, and the other brother depositing $200,000. When opening the account, the brothers specify that they want their respective interests to go to their beneficiaries if they should die. The account should be opened as a(n)",
+    "choices": [
+      "individual account in the name of the larger contributor; with trading authorization granted to the smaller contributor",
+      "joint account with rights of survivorship",
+      "joint account with tenancy in common",
+      "partnership account requiring a signed copy of the partnership agreement"
+    ],
+    "answer": 2,
+    "explanation": "In a joint account with tenancy in common, each owner has a divided interest in the account. A specific percentage ownership is assigned to each participant.\nIn this case, the brother contributing $100,000 out of $300,000 total will have a 1/3 interest, while the other brother contributing $200,000 out of $300,000 total will have a 2/3 interest. With tenancy in common, if one party should die, that person's interest goes to his beneficiary or estate. Thus, this form of ownership meets the brothers' wishes.\nA joint tenants with rights of survivorship account is not appropriate since each party owns an undivided interest in this account. If one person dies, the other party wholly owns that account."
+  }
+]

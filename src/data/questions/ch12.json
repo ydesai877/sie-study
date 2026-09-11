@@ -1,0 +1,362 @@
+[
+  {
+    "id": "ch12-01",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 12 Test: Retirement Plans, Variable Annuities, and Municipal Fund Securities"
+    },
+    "chapter": 12,
+    "topic": "Annuity Settlement Options",
+    "question": "If the beneficiary of an annuity is afraid she may die before her children are grown and she wants to make sure that payments continue after her death, the best settlement option is probably:",
+    "choices": [
+      "life",
+      "life with period certain",
+      "life with payment certain",
+      "lump sum"
+    ],
+    "answer": 1,
+    "explanation": "This option ensures payments for a specified number of years, even if the beneficiary dies before the end of that period. After a guaranteed period elapses, the payments continue only for the life of that beneficiary.\n[Edit note - added by Claude] Question text: missing space. Original: \"after her death,the best settlement option\" Edited: \"after her death, the best settlement option\""
+  },
+  {
+    "id": "ch12-02",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 12 Test: Retirement Plans, Variable Annuities, and Municipal Fund Securities"
+    },
+    "chapter": 12,
+    "topic": "ABLE Accounts",
+    "question": "Which of the following is true of the beneficiary of an ABLE account?",
+    "choices": [
+      "The beneficiary is always the account's owner",
+      "If the beneficiary is not a minor he/she can be the owner of the account",
+      "If the beneficiary is at least 46 years old he/she can be the owner of the account",
+      "The beneficiary is never the account's owner"
+    ],
+    "answer": 0,
+    "explanation": "An ABLE account's beneficiary is also the account's owner. To be eligible for an ABLE account, an individual's disability must begin before age 46, but that age is not related to an individual's ability to be the owner of the account."
+  },
+  {
+    "id": "ch12-03",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 12 Test: Retirement Plans, Variable Annuities, and Municipal Fund Securities"
+    },
+    "chapter": 12,
+    "topic": "Vesting",
+    "question": "If Sarah works two more years at her company, she will be fully vested. This means:",
+    "choices": [
+      "She can take the maximum retirement benefit offered by her company",
+      "She can begin withdrawing funds from her retirement account",
+      "She can withdraw funds from the account if she leaves her company before retirement",
+      "She will own 100% of the assets in her retirement account"
+    ],
+    "answer": 3,
+    "explanation": "Defined benefit plans, such as pension plans, usually calculate an employee's retirement benefit based on the employee's age, earnings, and years of service. Vesting is the process by which an employee incrementally accrues ownership of her account through working for the company. An employee is fully vested when she owns 100% of her account assets. Since benefit calculations include an employee's earnings, Sarah may not necessarily be able to take the maximum retirement benefit offered by her company. She also cannot begin withdrawing funds until she retires or until a specified age in the case that she leaves her company prior to retirement."
+  },
+  {
+    "id": "ch12-04",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 12 Test: Retirement Plans, Variable Annuities, and Municipal Fund Securities"
+    },
+    "chapter": 12,
+    "topic": "Variable Annuities",
+    "question": "Funds in variable annuities are kept in:",
+    "choices": [
+      "The general account",
+      "Separate accounts",
+      "Accumulation accounts",
+      "Annuitization accounts"
+    ],
+    "answer": 1,
+    "explanation": "Funds from variable annuities are kept in accounts that are separate from the insurance company's general account, often referred to as separate accounts."
+  },
+  {
+    "id": "ch12-05",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 12 Test: Retirement Plans, Variable Annuities, and Municipal Fund Securities"
+    },
+    "chapter": 12,
+    "topic": "Local Government Investment Pools (LGIPs)",
+    "question": "All of the following could be proper investors in an LGIP, EXCEPT:",
+    "choices": [
+      "The Camas School District",
+      "The Cowlitz Indian Tribe",
+      "The Starbucks Corporation",
+      "The Washington State Department of Transportation"
+    ],
+    "answer": 2,
+    "explanation": "Only municipal governments and their instrumentalities may invest in these trusts. LGIPs are not open to investment by the public. Towns, villages, counties, cities, school districts, sewer districts, commissions and committees may all be authorized to combine their resources in the pooled investment. Washington State allows cities and towns, counties, state agencies, federally recognized tribes, four-year universities, and others to invest. However, not all of these entities may always participate in every LGIP. Instead, participants are often limited to a specific type of municipal entity within a certain jurisdiction. For instance, the pool may be limited to school districts within the state or to cities and townships within a single county."
+  },
+  {
+    "id": "ch12-06",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 12 Test: Retirement Plans, Variable Annuities, and Municipal Fund Securities"
+    },
+    "chapter": 12,
+    "topic": "Annuity Taxation",
+    "question": "Taxes on income earned in a variable annuity are:",
+    "choices": [
+      "Taxed on an annual basis during both the accumulation and annuitization phase",
+      "Not taxed",
+      "Taxed when withdrawn at the customer's ordinary tax rate",
+      "Taxed when withdrawn at the customer's long-term capital gains rate"
+    ],
+    "answer": 2,
+    "explanation": "Earnings from a variable annuity are not taxed until they are withdrawn. Regular withdrawals from an annuity begin with the onset of the annuitization phase. At that time any earnings withdrawn will be taxed at the annuitant's ordinary tax rate.\n[Edit note - added by Claude] Feedback: missing space. Original: \"not taxed until they are withdrawn.Regular withdrawals\" Edited: \"not taxed until they are withdrawn. Regular withdrawals\""
+  },
+  {
+    "id": "ch12-07",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 12 Test: Retirement Plans, Variable Annuities, and Municipal Fund Securities"
+    },
+    "chapter": 12,
+    "topic": "Variable Life Insurance",
+    "question": "What will change the cash value of a variable life policy?",
+    "choices": [
+      "Changes in expenses",
+      "Changes in market value",
+      "Changes in death benefit",
+      "Changes in beneficiary"
+    ],
+    "answer": 1,
+    "explanation": "Any \"variable\" product, either a variable annuity or variable life insurance, takes the premium and invests it in a designated separate account, also called a subaccount, that invests in a specified mutual fund.\nThe performance of the mutual fund builds cash value in a variable life policy. This cash value build can be borrowed from the policy.\nIf the cash value grows to more than the death benefit and has not been borrowed, then the policy will pay the higher cash value on death."
+  },
+  {
+    "id": "ch12-08",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 12 Test: Retirement Plans, Variable Annuities, and Municipal Fund Securities"
+    },
+    "chapter": 12,
+    "topic": "Local Government Investment Pools (LGIPs)",
+    "question": "LGIPs are established by:",
+    "choices": [
+      "Local governments",
+      "Mutual funds",
+      "Underwriting firms",
+      "Financial advisors"
+    ],
+    "answer": 0,
+    "explanation": "Local Government Investment Pools (LGIPs) are trusts established by state and local governments that allow municipal entities to invest their money in a variety of securities. The government entities purchase interests in the trust, and the assets are invested according to the trust's stated investment objectives and state laws. By pooling their funds, the participants benefit from economies of scale, diversification, professional portfolio management, and liquidity. LGIPs are authorized by state law and may be managed by government employees or investment management firms."
+  },
+  {
+    "id": "ch12-09",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 12 Test: Retirement Plans, Variable Annuities, and Municipal Fund Securities"
+    },
+    "chapter": 12,
+    "topic": "Variable Life Insurance",
+    "question": "A variable life policy will remain in force:",
+    "choices": [
+      "for the stated term of the policy",
+      "as long as the premium is paid",
+      "if the policy has depleted its cash value",
+      "for the life of the insured individual"
+    ],
+    "answer": 1,
+    "explanation": "An insurance policy remains \"in force\" as long as the premiums are paid. If the premiums are not paid, the policy will lapse and there is no more insurance! Because variable life is permanent insurance that builds cash value, if the premium payment is not made, the insurance company will use the cash value (if any) to make the premium payment.\n[Edit note - added by Claude] Feedback: grammar. Original: \"permanent insurance that build cash value\" Edited: \"permanent insurance that builds cash value\""
+  },
+  {
+    "id": "ch12-10",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 12 Test: Retirement Plans, Variable Annuities, and Municipal Fund Securities"
+    },
+    "chapter": 12,
+    "topic": "Required Minimum Distributions",
+    "question": "All of the following retirement plans require that minimum distribution amounts be taken once the participant reaches the age of 73 EXCEPT:",
+    "choices": [
+      "403(b) plans",
+      "401(k) plans",
+      "Roth IRAs",
+      "Traditional IRAs"
+    ],
+    "answer": 2,
+    "explanation": "Roth IRA contributions are not deductible. As long as the assets are held in the Roth IRA for at least 5 years and distributions start after age 59 1/2, they are tax-free. Since the IRS does not get to tax the distributions, they don't care when they start!\nOn the other hand, Traditional IRA contributions, 401(k) contributions and 403(b) contributions, are all tax deductible. Distributions at retirement age are taxable, and the government wants its money before the plan participant dies. Thus, RMDs (Required Minimum Distributions) must commence at age 73. If they don't, a draconian tax rate of 25% is applied to any under distributed amount.\n[Edit note - added by Claude] Feedback: grammar. Original: \"for at least 5 year\" Edited: \"for at least 5 years\""
+  },
+  {
+    "id": "ch12-11",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 12 Test: Retirement Plans, Variable Annuities, and Municipal Fund Securities"
+    },
+    "chapter": 12,
+    "topic": "Variable Annuity Suitability (Rule 2330)",
+    "question": "Member firms that wish to recommend deferred variable annuities must make sure that the customer would benefit from certain features of these investments. The benefits include all of the following except:",
+    "choices": [
+      "Tax-deferred growth",
+      "Death or living benefit",
+      "Annuitization",
+      "Immediate redemption without tax penalties"
+    ],
+    "answer": 3,
+    "explanation": "Rule 2330 states that member firms that wish to recommend deferred variable annuities must make sure that the customer would benefit from certain features of these investments. The benefits include tax-deferred growth, death or living benefit, and annuitization. While customers are allowed to withdraw funds from a deferred variable annuity at any time, early withdrawals are usually subject to a surrender fee and tax penalties if made before the age of 59 and 1/2."
+  },
+  {
+    "id": "ch12-12",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 12 Test: Retirement Plans, Variable Annuities, and Municipal Fund Securities"
+    },
+    "chapter": 12,
+    "topic": "Required Minimum Distributions",
+    "question": "Distributions from an Individual Retirement Account must commence by age:",
+    "choices": [
+      "50 1/2",
+      "59 1/2",
+      "73",
+      "75 1/2"
+    ],
+    "answer": 2,
+    "explanation": "Distributions from an Individual Retirement Account must commence by April 1st of the year following that person reaching age 73. All subsequent RMDs must be taken no later than December 31st following this initial RMD."
+  },
+  {
+    "id": "ch12-13",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 12 Test: Retirement Plans, Variable Annuities, and Municipal Fund Securities"
+    },
+    "chapter": 12,
+    "topic": "ERISA",
+    "question": "ERISA requirements regarding the investments that are suitable for a retirement account stress:",
+    "choices": [
+      "income potential",
+      "capital gain potential",
+      "safety of principal",
+      "legal list securities"
+    ],
+    "answer": 2,
+    "explanation": "ERISA rules regarding retirement plans stress that investments should be \"safe.\""
+  },
+  {
+    "id": "ch12-14",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 12 Test: Retirement Plans, Variable Annuities, and Municipal Fund Securities"
+    },
+    "chapter": 12,
+    "topic": "ABLE Accounts",
+    "question": "All of the following are qualifying expenses under the ABLE Act EXCEPT:",
+    "choices": [
+      "education",
+      "housing",
+      "transportation",
+      "recreation"
+    ],
+    "answer": 3,
+    "explanation": "The ABLE Act itself defines \"qualified disability expenses\" as \"expenses related to the eligible individual's blindness or disability which are made for the benefit of an eligible individual who is the designated beneficiary.\" Basically, these are education, living and medical expenses. Recreational expenses, such as vacations, meals in restaurants and the like are not qualified expenses.\nThe ABLE Act lists a range of categories of potential uses for funds set aside in ABLE accounts, including:\n\"Education, housing, transportation, employment training and support, assistive technology and personal support services, health, prevention and wellness, financial management and administrative services, legal fees, expenses for oversight and monitoring, funeral and burial expenses, and other expenses that are consistent with the purposes of this section.\""
+  },
+  {
+    "id": "ch12-15",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 12 Test: Retirement Plans, Variable Annuities, and Municipal Fund Securities"
+    },
+    "chapter": 12,
+    "topic": "529 Plans",
+    "question": "The beneficiary of a 529 college savings account:",
+    "choices": [
+      "Must be related to the contributor",
+      "Can never be the contributor",
+      "Must be under 30 years old",
+      "Should be planning to attend an eligible college, university, vocational or trade school, apprenticeship or credentialing program, or primary or secondary school"
+    ],
+    "answer": 3,
+    "explanation": "Contributors designate the initial beneficiary. The beneficiary may be anyone who plans to attend an eligible elementary, secondary or post-secondary educational institution. Eligible educational institutions include any high school, college, university, technical or vocational school, or any other educational institution that is able to participate in a student aid program administered by the U.S. Department of Education. While 529 plans were originally designed for college, up to $20,000 per person annually may now be applied to the tuition of a primary or secondary institution. There is no age limit on the beneficiary, and the contributor does not have to be related to the beneficiary. Contributors can even set up a 529 plan for themselves.\n[Edit note - added by Claude] Choice D: end of text hidden in screenshot, completed as \"school\". Original: \"...or primary or secondary sch[cut off by the checkmark icon]\" Edited: \"...or primary or secondary school\"\n[Edit note - added by Claude] Feedback: grammar. Original: \"tuition of an primary or secondary institution\" Edited: \"tuition of a primary or secondary institution\""
+  },
+  {
+    "id": "ch12-16",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 12 Test: Retirement Plans, Variable Annuities, and Municipal Fund Securities"
+    },
+    "chapter": 12,
+    "topic": "Variable Annuities",
+    "question": "If a customer is more concerned about purchasing power risk than investment risk, which of the following investments would be most suitable for the customer?",
+    "choices": [
+      "A fixed annuity paid out in a lump sum",
+      "A municipal bond",
+      "A variable annuity",
+      "A fixed annuity paid out in regular payments"
+    ],
+    "answer": 2,
+    "explanation": "An annuity with a fixed rate is subject to purchasing power risk, or the risk that an investment will not keep up with inflation. This type of risk is less of a concern for an investor holding a variable annuity because over time variable annuities are more likely to offer higher returns than fixed annuities. Because they offer a fixed interest rate, municipal bonds are also subject to purchasing power risk."
+  },
+  {
+    "id": "ch12-17",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 12 Test: Retirement Plans, Variable Annuities, and Municipal Fund Securities"
+    },
+    "chapter": 12,
+    "topic": "529 Plans",
+    "question": "All of the following statements regarding 529 college savings plans are true EXCEPT:",
+    "choices": [
+      "They are legally known as qualified tuition plans",
+      "There are two general types of 529 plans",
+      "Federal law has established a uniform set of features and benefits for 529 plans",
+      "Withdrawals for eligible college expenses are not subject to federal taxation"
+    ],
+    "answer": 2,
+    "explanation": "Authorized by Congress in 1996, the 529 college savings plan is a tax-free savings plan that offers families professionally-managed portfolios to help meet rising college costs. 529 Plans are named after section 529 of the Internal Revenue Code and are legally known as \"qualified tuition plans.\" The 529 plans consist of two general types: pre-paid tuition plans and college savings plans. All fifty states sponsor at least one type of plan, and many colleges and universities sponsor a prepaid tuition plan. As a result, 529 plans tend to differ in their features and benefits. Earnings from both types of plan are not subject to federal tax and usually state tax, as long as withdrawals are made for eligible college expenses."
+  },
+  {
+    "id": "ch12-18",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 12 Test: Retirement Plans, Variable Annuities, and Municipal Fund Securities"
+    },
+    "chapter": 12,
+    "topic": "Variable Annuities",
+    "question": "A variable annuity is a(n):",
+    "choices": [
+      "security regulated under the Investment Company Act of 1940",
+      "insurance product that is not regulated under the Investment Company Act of 1940",
+      "security but it has no prospectus delivery requirement",
+      "insurance product that has no prospectus requirement"
+    ],
+    "answer": 0,
+    "explanation": "Variable annuities differ from other products sold by insurance companies in that the purchaser bears the investment risk; as opposed to the insurance company bearing the investment risk.\nFor example, if an insurance company achieves poor investment results, this does not affect the amount of death benefit that one gets from a traditional insurance policy; if the separate investment account funding a variable annuity achieves poor investment results, the annuity payment will drop.\nBecause the purchaser bears the investment risk in a variable annuity contract, these are defined by the SEC as a non-exempt security that must be registered and sold with a prospectus. Because these are structured as non-fixed unit trusts, variable annuities are regulated under the Investment Company Act of 1940."
+  },
+  {
+    "id": "ch12-19",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 12 Test: Retirement Plans, Variable Annuities, and Municipal Fund Securities"
+    },
+    "chapter": 12,
+    "topic": "Annuity Death Benefit",
+    "question": "Which of the following statements is true about annuities?",
+    "choices": [
+      "There is no death benefit for a beneficiary.",
+      "The annuity's value would NOT be included in the annuitant's estate at death for the purposes of calculating estate taxes.",
+      "If the policy holder dies during the accumulation phase, there is nothing paid out to the beneficiary.",
+      "Upon death of the policy holder during accumulation, the greater of payments made to the annuity or value of the annuity at death would be paid to the beneficiary."
+    ],
+    "answer": 3,
+    "explanation": "An important benefit of annuities, despite the fact that they are not life insurance products, is that they pay a death benefit. Even if the account owner dies during accumulation, the beneficiary would receive either the value of the annuity at the time of death OR the amount of payments made into the annuity -- whichever is greater. For tax reporting purposes, the value of the annuity would be included in the estate of the deceased and the beneficiary would be required to pay income taxes on the earnings."
+  },
+  {
+    "id": "ch12-20",
+    "source": {
+      "type": "chapter",
+      "name": "Chapter 12 Test: Retirement Plans, Variable Annuities, and Municipal Fund Securities"
+    },
+    "chapter": 12,
+    "topic": "Annuity Basics",
+    "question": "Annuities are meant to protect individuals against the risk of:",
+    "choices": [
+      "Dying early",
+      "Outliving their income",
+      "Loss of a job",
+      "Cost of living increases"
+    ],
+    "answer": 1,
+    "explanation": "Annuities are investment vehicles used to provide steady income to an individual after retirement, often until death. Since most annuity settlement (payout) options continue for the life of the annuity, they provide at least some level of income that cannot be outlived. They provide no protection against dying early (buy life insurance for that protection). They do not provide direct financial protection against job loss like unemployment coverage."
+  }
+]
