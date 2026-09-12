@@ -68,10 +68,10 @@ Each question file is a JSON array of objects:
 `src/data/questions/`:
 - `ch01.json` … `ch16.json` — chapter exams (done, all 16).
 - `mastery1.json` … `mastery4.json` — mastery exams I-IV (done, all 4).
-- `final01.json` … `final10.json` — final exams, 80 questions each, 800 total planned. Done so far: `final01`, `final02`, `final03` (3 of 10).
+- `final01.json` … `final10.json` — final exams, 80 questions each, 800 total planned. Done so far: `final01`, `final02`, `final03`, `final04` (4 of 10).
 - Not started yet: 1 random final exam file, and 49 quick quiz files (or one combined file — decide when that batch starts).
 
-Always run `node scripts/validate.mjs` after adding/editing a file — it checks ids (unique, present), `source.type`, chapter is a positive integer, choices/answer range, and that `exhibit` is a string if present. It prints a running total question count; use that to sanity-check progress. Totals at milestones: 710 after Final Exam 2, 790 after Final Exam 3.
+Always run `node scripts/validate.mjs` after adding/editing a file — it checks ids (unique, present), `source.type`, chapter is a positive integer, choices/answer range, and that `exhibit` is a string if present. It prints a running total question count; use that to sanity-check progress. Totals at milestones: 710 after Final Exam 2, 790 after Final Exam 3, 870 after Final Exam 4.
 
 ## App structure (for context, not usually touched during content uploads)
 
