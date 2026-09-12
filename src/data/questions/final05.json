@@ -1,0 +1,1442 @@
+[
+  {
+    "id": "f5-01",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 1,
+    "topic": "Cumulative preferred dividends",
+    "question": "A company issues cumulative preferred stock with a par value of $100 and a 10% annual dividend. The company skips paying its first-quarter dividend. If it wants to pay a second-quarter dividend to its common stockholders, how much of a dividend does it have to pay its cumulative preferred stockholders?",
+    "choices": [
+      "$0 per share",
+      "$2.50 per share",
+      "$5 per share",
+      "$10 per share"
+    ],
+    "answer": 2,
+    "explanation": "Dividends are typically given in annual terms, so a 10% dividend means four quarterly dividends of 2.5% each. With any preferred stock (cumulative or not), the current quarter's dividend must be paid to the preferred stockholders in order for any dividends to be paid to common stockholders. Additionally, if the preferred stock is cumulative, any skipped dividends to the cumulative preferred stockholders must be paid before the common stockholders can receive any dividends. The quarterly dividend is 2.5% of the share's $100 par value, which is $2.50. The company skipped one dividend, so it must pay twice this amount ($5) in preferred dividends in order to be able to pay anything at all in common dividends. Note that if the preferred stock were non-cumulative, the answer would have been $2.50."
+  },
+  {
+    "id": "f5-02",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 2,
+    "topic": "Corporate bond interest frequency",
+    "question": "It is most common for corporate bonds to pay interest:",
+    "choices": [
+      "Semiannually",
+      "Annually",
+      "Once, at maturity",
+      "Bimonthly"
+    ],
+    "answer": 0,
+    "explanation": "Most, but not all, corporate bonds pay interest semiannually. If an exam question does not indicate otherwise, it is safest to assume that half the annual interest will be paid every six months."
+  },
+  {
+    "id": "f5-03",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 5,
+    "topic": "Banker's acceptances",
+    "question": "Which of the following is used for international transactions and is backed by a bank?",
+    "choices": [
+      "Negotiable CDs",
+      "Banker's acceptances",
+      "Commercial paper",
+      "Repurchase agreements"
+    ],
+    "answer": 1,
+    "explanation": "A bankers' acceptance is a short-term credit instrument issued by a business for the purchase or sale of goods, usually in an international market. Imagine that a U.S. importer would like to purchase machines from Japan. The Japanese manufacturer may be reluctant to accept the order because of fear it may not receive payment. The U.S. importer could issue a bankers' acceptance, which is an order for a bank to pay a certain amount of money at a later date. The bankers' acceptance is guaranteed by the bank, so it is considered a secured debt security. The bankers' acceptance assures the Japanese machine maker of payment; thus, bankers' acceptances facilitate international trade by minimizing credit risk. Bankers' acceptances are usually issued at a discount to face value, like a Treasury bill, and they can be traded on the secondary market."
+  },
+  {
+    "id": "f5-04",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 4,
+    "topic": "Treasury note interest",
+    "question": "How often would you receive interest payments on Treasury notes?",
+    "choices": [
+      "Monthly",
+      "Semiannually",
+      "Annually",
+      "No interest, they are zero coupon bonds"
+    ],
+    "answer": 1,
+    "explanation": "Interest on Treasury notes is paid twice a year."
+  },
+  {
+    "id": "f5-05",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 8,
+    "topic": "Pump and dump scheme",
+    "question": "Max, your customer, comes into your office seeking advice. He has recently been made aware of a penny stock that is being aggressively advertised in a social media group he belongs to. People on the forum explain the stock is likely to sky rocket because they believe their technology can turn common recyclable plastics into rare earth minerals. You explain to Max that this is most likely:",
+    "choices": [
+      "Trade shredding",
+      "A pump and dump scheme",
+      "Insider trading",
+      "Interpositioning"
+    ],
+    "answer": 1,
+    "explanation": "This is most like a pump and dump scheme, and Max would be wise to avoid it. Typically an inexpensive and thinly traded stock is promoted \"pumped\" by scam artists, who have already purchased many shares at a very low price. Once they see the value rise, the scam artists \"dump\" their shares, securing a profit, before the rest of the market realizes that the stock is overvalued. Interpositioning is the prohibited practice of inserting a third party between a broker-dealer and the best available market price, resulting in a higher price than the customer otherwise would have paid. Churning is another prohibited practice when a representative executes excessive transactions in a customer's account to generate more commissions. Trade shredding is the prohibited practice splitting orders into multiple smaller orders for the generating more commissions for a broker."
+  },
+  {
+    "id": "f5-06",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 10,
+    "topic": "AML recordkeeping",
+    "question": "What is NOT true of a firm's obligation to AML procedures?",
+    "choices": [
+      "All MIL records must be kept for a minimum of three years",
+      "Each firm must designate an officer to be in charge of their program",
+      "SAR reports are required if an RR suspects illegal behavior",
+      "A firm's procedures must provide ongoing training that must be reviewed annually"
+    ],
+    "answer": 0,
+    "explanation": "A MIL (monetary instrument log) and other AML (anti-money laundering) reports, such as SARs (suspicious activity reports), CTRs (currency transaction reports) must be maintained for a minimum of five years, not three."
+  },
+  {
+    "id": "f5-07",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 14,
+    "topic": "Information barriers",
+    "question": "What kind of prohibited activity might be prevented with the use of information barriers?",
+    "choices": [
+      "Churning",
+      "Misusing material nonpublic information",
+      "Interpositioning",
+      "Publishing made up transactions or quotes"
+    ],
+    "answer": 1,
+    "explanation": "Information barriers are procedures within an organization that segregate material non-public information to one part of the business. These procedures block individuals in other parts of the organization from seeing this information, and therefore allow them to continue to trade securities without knowledge of this inside information. Firms are required to establish, maintain, and enforce information barriers, but there is no specific review requirement in the rule. Information barriers are sometimes referred to as Chinese Walls."
+  },
+  {
+    "id": "f5-08",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 15,
+    "topic": "Retail communications approval",
+    "question": "A registered principal must usually pre-approve which of the following:",
+    "choices": [
+      "Retail communications",
+      "Correspondence",
+      "Institutional communications",
+      "All of the above"
+    ],
+    "answer": 0,
+    "explanation": "A registered principal of the member must approve most forms of each item of retail communication before use. Note, however, that there are exceptions to this rule for retail communications that meet certain criteria, such as retail communications posted on online interactive electronic forums."
+  },
+  {
+    "id": "f5-09",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 9,
+    "topic": "Call option premium",
+    "question": "When an investor goes long a call option, she pays:",
+    "choices": [
+      "The strike price",
+      "The breakeven",
+      "The premium",
+      "The call price"
+    ],
+    "answer": 2,
+    "explanation": "When an investor purchases a call option, she pays a premium to the option seller. The call option stipulates the price at which the options holder can buy the underlying security. This price is known as the option's strike price. The breakeven point is the point the value that the underlying security in an option must rise above in order for the options holder to make money or stay below in order for the option seller to make money on the option. The call price is not a term commonly associated with call options."
+  },
+  {
+    "id": "f5-10",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 3,
+    "topic": "Bond yield and credit risk",
+    "question": "Which of the following would be most likely to pay the highest yield?",
+    "choices": [
+      "A U.S. Treasury bond",
+      "A municipal bond with an AA rating",
+      "A municipal bond with a BBB rating",
+      "A corporate bond with a CCC rating"
+    ],
+    "answer": 3,
+    "explanation": "Credit risk is like most other principles in the financial world: greater risk means greater reward. Thus bonds with higher credit risk can be expected to pay higher yields, while bonds with lower credit risk can be expected to pay lower yields. This principal is true regardless of whether or not a bond is a corporate or a municipal bond. A CCC rating means that a bond's issuer has poor standing and high credit risk, and thus the bond with that rating would be likely to pay the highest yield of those listed above. U.S. Treasury bonds are considered very safe and thus they typically pay low yields."
+  },
+  {
+    "id": "f5-11",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 15,
+    "topic": "Self-regulatory organizations",
+    "question": "Which of the following is not considered a self-regulatory organization (SRO)?",
+    "choices": [
+      "FINRA",
+      "Nasdaq",
+      "The SEC",
+      "The MSRB"
+    ],
+    "answer": 2,
+    "explanation": "The SEC is the governmental entity that is primarily responsible for the creation and enforcement of securities in the United States. A self-regulatory organization is a non-governmental entity authorized to regulate its own members by creating and enforcing rules of conduct and industry standards. The primary SROs include the New York Stock Exchange (NYSE), Nasdaq, FINRA, the Municipal Securities Rulemaking Board (MSRB), and the Chicago Board Options Exchange (Cboe)."
+  },
+  {
+    "id": "f5-12",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 12,
+    "topic": "Tax-sheltered annuity (403(b))",
+    "question": "What is another name for a tax-sheltered annuity (TSA) plan?",
+    "choices": [
+      "401(k) plan",
+      "412(i) plan",
+      "403(b) plan",
+      "457(b) plan"
+    ],
+    "answer": 2,
+    "explanation": "A 403(b) plan is also known as a tax-sheltered annuity (TSA). This retirement plan is used by public school employees as well certain non-profit organizations that qualify as tax-exempt."
+  },
+  {
+    "id": "f5-13",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 11,
+    "topic": "UGMA accounts",
+    "question": "Under a Uniform Gifts to Minors Act (UGMA) account, which of the following statements is not true:",
+    "choices": [
+      "all gifts to an UGMA account are irrevocable",
+      "any adult can open an UGMA account for any minor",
+      "all UGMA accounts are cash accounts",
+      "all UGMA accounts are margin accounts"
+    ],
+    "answer": 3,
+    "explanation": "In fact, margin accounts are never appropriate for UGMA accounts because of the risk they pose to the safety of the assets given to the minor and the long-term investment goals of an UGMA."
+  },
+  {
+    "id": "f5-14",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 10,
+    "topic": "Form CRS",
+    "question": "What is the purpose of Form CRS?",
+    "choices": [
+      "Summarizing information relevant to a new customer relationship",
+      "Reporting the termination of an associated person",
+      "Disclosing the holdings of a large institutional investment manager",
+      "Amending a registration statement"
+    ],
+    "answer": 0,
+    "explanation": "New customers must receive a copy of Form CRS at the beginning of the customer relationship. Form CRS must contain information about:\n\n- The relationship and services\n- Fees and costs\n- Conflicts of interest\n- Standard of conduct\n- Disciplinary history of the firm and its professionals\n- An explanation of how a customer can obtain additional information on the firm"
+  },
+  {
+    "id": "f5-15",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 16,
+    "topic": "Economic contraction and depression",
+    "question": "When a contraction occurs for eight quarters, what does this reflect?",
+    "choices": [
+      "Recession",
+      "Depression",
+      "Trough",
+      "Beginning of an expansion"
+    ],
+    "answer": 1,
+    "explanation": "When a contraction (as defined by a decline in the GDP) lasts more than six quarters, it is considered a depression. A contraction that lasts more than two quarters is considered a recession."
+  },
+  {
+    "id": "f5-16",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 14,
+    "topic": "SIPC",
+    "question": "What is the responsibility of the SIPC?",
+    "choices": [
+      "To protect investors from losses due to market decline",
+      "To protect investors from losses due to fraud",
+      "To provide investors with limited insurance in case their firm goes bankrupt",
+      "To protect firms from unsystematic risk"
+    ],
+    "answer": 2,
+    "explanation": "The Securities Investor Protection Corporation (SIPC) is an organization that provides limited insurance for the assets contained in investors' accounts if a firm goes bankrupt."
+  },
+  {
+    "id": "f5-17",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 6,
+    "topic": "Mutual fund share types",
+    "question": "All of the following are mutual fund types or mutual fund share types EXCEPT:",
+    "choices": [
+      "\"A\" share",
+      "\"C\" shares",
+      "no-load",
+      "accumulation units"
+    ],
+    "answer": 3,
+    "explanation": "Accumulation units refer to the method of accounting for investments in annuities, which use separate accounts instead of mutual funds."
+  },
+  {
+    "id": "f5-18",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 12,
+    "topic": "529 plan withdrawal penalty",
+    "question": "A 529 college savings plan applies a penalty to withdrawals that are not used for qualified educational expenses. This penalty applies to:",
+    "choices": [
+      "The entire withdrawal",
+      "The earnings",
+      "The basis",
+      "The separate account"
+    ],
+    "answer": 1,
+    "explanation": "Withdrawals are subject to a 10% penalty on earnings and earnings will be taxed if the money is used for purposes other than education."
+  },
+  {
+    "id": "f5-19",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 15,
+    "topic": "MSRB investor brochure",
+    "question": "Each year municipal broker-dealers and municipal advisors must deliver a statement to their customers containing instructions on how to access a copy of an investor brochure on the MSRB's website. The investor brochure describes:",
+    "choices": [
+      "How to file a customer complaint",
+      "The risks associated with a wide range of investment products",
+      "The Uniform Practice Code",
+      "The tax advantages of municipal securities"
+    ],
+    "answer": 0,
+    "explanation": "An investment brochure describes MSRB's customer protection rules and advises customers on how to file a complaint with an appropriate regulatory authority. The statement advising of its availability must be delivered each year as long as the relationship lasts. Municipal advisors must provide this information to their clients promptly upon establishing a municipal advisory relationship."
+  },
+  {
+    "id": "f5-20",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 15,
+    "topic": "MSRB pay-to-play rule",
+    "question": "A municipal finance professional (MFP) wishes to support a candidate for city council. He lives in that city council district and is eligible to vote in the race. How much can he donate to the candidate's campaign without triggering a two-year ban for his firm on doing business with the city?",
+    "choices": [
+      "$0",
+      "$100",
+      "$250",
+      "$500"
+    ],
+    "answer": 2,
+    "explanation": "The MSRB's pay-to-play rule applies to campaign contributions from a firm or an MFP to any candidate for, or current holder of, a municipal office that has the ability to direct municipal securities business toward the MFP's firm. Such donations normally trigger a two-year ban on business between the MFP's firm and the municipality. There is an exception to this rule if an MFP is eligible to vote in a race. If so, he may make a personal contribution of not more than $250 to that race. This is called a de minimis contribution. Note that the MFP's firm is still prohibited from making any contribution."
+  },
+  {
+    "id": "f5-21",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 9,
+    "topic": "Put option intrinsic value",
+    "question": "Helga bought a XYZ Corp Sep 50 put @ 3. If XYZ is currently trading at $51, what is the intrinsic value?",
+    "choices": [
+      "$0",
+      "$100",
+      "$200",
+      "$300"
+    ],
+    "answer": 0,
+    "explanation": "A put gives the holder (in this case, Helga) the right to sell the underlying stock at the strike price. If she bought the underlying stock at the current market of $51 and sold it at the strike price of $50, she would incur a loss. Therefore, the option is considered \"out of the money\" and has no intrinsic value. Put options only have intrinsic value if the underlying stock is trading below the strike price."
+  },
+  {
+    "id": "f5-22",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 9,
+    "topic": "Assigned put option gain or loss",
+    "question": "Jeffrey writes 8 contracts of SUNZ Nov 50 put @ 8. When SUNZ is trading at $40, he is assigned the option. If Jeffrey immediately sells the underlying shares he receives as a result of the exercised option at their market price, what is his gain or loss?",
+    "choices": [
+      "$1,600 loss",
+      "$8,000 gain",
+      "$6,400 gain",
+      "$3,200 loss"
+    ],
+    "answer": 0,
+    "explanation": "A put option gives its holder the right to sell the underlying stock at the strike price. In this case, the holder exercised her right to sell the stock to Jeffrey for $50 per share. Jeffrey then sold the shares he received for their current market price of $40 per share. He thus lost $10 per share on his purchase and sale. This means he incurred a loss of $1,000 per contract and $8,000 overall ($10/share loss x 100 shares in an options contract x 8 contracts = $8,000). However, Jeffrey received $6,400 in premiums when he wrote the options ($8 premium x 100 shares in an options contract x 8 contracts = $6,400). This means his net loss is $1,600 ($6,400 gain - $8,000 loss = -$1,600)."
+  },
+  {
+    "id": "f5-23",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 8,
+    "topic": "Trading ahead of a research report",
+    "question": "123 Markets LLC is a research and trading firm that specializes in technology stocks. The trade desk has learned that the research desk will be issuing a bullish research report on VdotCom next week and traders decide to size-up their current position by buying 20,000 shares before the price increases. 123 Markets LLC is guilty of:",
+    "choices": [
+      "Front-running",
+      "Insider trading",
+      "Trading ahead of a research report",
+      "Painting the tape"
+    ],
+    "answer": 2,
+    "explanation": "Trading ahead of a research report is the term used when a trade is executed with knowledge of a forthcoming research report that has the potential to move the market price of a stock. Trading ahead is not based upon material, non-public information from the company whose stock is being traded; rather, the trade is based upon a research report that, once made public, has the potential to move the price of the stock. Trading ahead is a violation of the Securities Exchange Act of 1934 and the FINRA Conduct Rules regarding unethical trading practices."
+  },
+  {
+    "id": "f5-24",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 3,
+    "topic": "Inflationary or purchasing power risk",
+    "question": "What type of investment risk involves the probability that the value of the investment will not keep pace with inflation?",
+    "choices": [
+      "market risk",
+      "interest rate risk",
+      "credit risk",
+      "inflationary/purchasing power risk"
+    ],
+    "answer": 3,
+    "explanation": "Inflationary risk is the probability that the value of an investment may not keep pace with inflation. Inflation may move prices up every year. For example, with an inflation rate of 3%, investments must at least make a 3% return just to break even due to inflation and must make more than a 3% return to outperform the inflation rate."
+  },
+  {
+    "id": "f5-25",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 16,
+    "topic": "Capital loss deduction limit",
+    "question": "If at the end of the year an investor's short- and long-term capital gains and losses result in net loss of $5,000, which of the following is true?",
+    "choices": [
+      "He can deduct $5,000 from his taxable income for that year.",
+      "He cannot deduct any of his $5,000 in losses from his taxable income, but he can carry it over to offset any gains he may have the next year.",
+      "Since capital losses are not taxed, the $5,000 cannot be used in any way for tax purposes.",
+      "He can deduct $3,000 from his income for that year and carry over $2,000 in losses to offset any gains he may have the next year."
+    ],
+    "answer": 3,
+    "explanation": "If after he matches up his losses and gains for a given year, an investor is left with a capital loss, he can deduct up to $3,000 of that loss from his taxable income for the year. The remaining loss can be carried over to the following year."
+  },
+  {
+    "id": "f5-26",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 6,
+    "topic": "Hedge fund fees",
+    "question": "Warren invests $100 million in a hedge fund that charges a 2% management fee plus 20% of any profits. The hedge fund manages $1 billion in total assets. The fund makes a profit of $50 million, of which Warren's share is $5 million. What does the hedge fund charge Warren for that year?",
+    "choices": [
+      "A $2 million management fee and $10 million based on the fund's profitability",
+      "A $2 million management fee and $1 million based on the fund's profitability",
+      "A $20 million management fee and $1 million based on the fund's profitability",
+      "A $20 million management fee and $10 million based on the fund's profitability"
+    ],
+    "answer": 1,
+    "explanation": "The annual management fee is based on the size of Warren's investment with the hedge fund. Therefore, the management fee will be 2% of $100 million, which is $2 million. The hedge fund also receives 20% of Warren's profits. This amounts to $1 million (20% of $5 million). The total assets managed by the fund and its total profits are not needed to answer the question."
+  },
+  {
+    "id": "f5-27",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 9,
+    "topic": "Put option rights",
+    "question": "You own a put option:",
+    "choices": [
+      "You have all of the rights of stock ownership and you expect the price of the stock to go up",
+      "You have all of the rights of stock ownership and you expect the price of the stock to go down",
+      "You have none of the rights of stock ownership and you expect the price of the stock to go up",
+      "You have none of the rights of stock ownership and you expect the price of the stock to go down"
+    ],
+    "answer": 3,
+    "explanation": "If you own a put option you have none of the rights of stock ownership because it is a derivative. If you have purchased a put you expect the price of the stock to go down."
+  },
+  {
+    "id": "f5-28",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 2,
+    "topic": "Current yield",
+    "question": "The type of yield that compares a bond's annual interest to its price is:",
+    "choices": [
+      "Yield to maturity",
+      "Yield to call",
+      "Nominal yield",
+      "Current yield"
+    ],
+    "answer": 3,
+    "explanation": "Current yield is a bond's annual interest payment divided by the price of the bond."
+  },
+  {
+    "id": "f5-29",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 16,
+    "topic": "Wilshire 5000",
+    "question": "An investor wanting to get the best measure of the entire US stock market would choose which index:",
+    "choices": [
+      "S&P 500",
+      "Dow Jones Industrial Average",
+      "Wilshire 5000",
+      "Russell 2000"
+    ],
+    "answer": 2,
+    "explanation": "The largest broad-based index is the Wilshire 5000. This is a super-composite index that measures the performance of all U.S. headquartered companies whose stock is traded on the New York Stock Exchange, American Stock Exchange, and Nasdaq. Despite its name, the index currently tracks substantially more than 5,000 stocks."
+  },
+  {
+    "id": "f5-30",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 13,
+    "topic": "Final prospectus filing",
+    "question": "The final prospectus for a securities offering is filed with the SEC at which time?",
+    "choices": [
+      "Toward the end of the pre-filing period",
+      "During the cooling-off period",
+      "During the post-effective period",
+      "At any time before the post-effective period"
+    ],
+    "answer": 2,
+    "explanation": "The post-effective period is the period after the registration statement has become effective. At this point, the issuer is allowed to sell the securities to the public, but first, the price of the security must be determined. Once that price is decided, it is inserted into the preliminary prospectus, and the resulting final prospectus is filed with the SEC. The preliminary prospectus, and not the final prospectus, is filed at the beginning of the cooling-off period, which is also known as the registration period."
+  },
+  {
+    "id": "f5-31",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 13,
+    "topic": "Red herring prospectus",
+    "question": "A preliminary prospectus is also commonly called:",
+    "choices": [
+      "a post-filing prospectus",
+      "a red herring prospectus",
+      "an unaudited prospectus",
+      "an effective prospectus"
+    ],
+    "answer": 1,
+    "explanation": "A company files a preliminary prospectus with the SEC, which contains a legend in red that states an offering has been filed but the prospectus is not final."
+  },
+  {
+    "id": "f5-32",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 13,
+    "topic": "All-or-none underwriting commitment",
+    "question": "In a(n) ________________ commitment, the underwriter sells all of the shares in the offering or the offering is voided.",
+    "choices": [
+      "Firm",
+      "Mini-max",
+      "All-or-none",
+      "Standby"
+    ],
+    "answer": 2,
+    "explanation": "An all-or-none offering is a type of underwriting commitment in which the underwriter must make its best efforts to sell all of the shares in the offering. If the underwriter in this type of offering fails to sell all of the shares, the offering is voided. This is different from a mini-max offering, which is another type of best efforts commitment in which the underwriter commits to sell a minimum number of shares in the offering, and if it fails to do so the offering is cancelled. Finally, a firm commitment offering is an underwriting agreement in which the underwriter purchases all shares of the offering at a discount and then sells them to investors at a designated public offering price. The underwriter in a firm or standby commitment offering assumes the risk for any unsold shares in the offering."
+  },
+  {
+    "id": "f5-33",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 11,
+    "topic": "Regulation T misrepresentation",
+    "question": "A registered representative solicits a customer to buy a stock, explaining that: \"Because the trade settles in 1 business day, if the stock rises, you can sell at any time during this time period and we will send you a check for the net profit. On the other hand, if the stock falls, you can sell at any time during this time period and only have to pay for the net loss.\" This statement is:",
+    "choices": [
+      "true",
+      "a misrepresentation of the requirements of Regulation T",
+      "permitted only if the security or transaction is exempt",
+      "permitted only if the security or transaction is non-exempt"
+    ],
+    "answer": 1,
+    "explanation": "Regulation T requires that customers pay for securities purchases promptly. If the customer sells the position prior to settlement, payment for the purchase is still required. The only way in which a customer is required to pay for a net loss, or will receive the proceeds of a net gain, is if both the buy and sell occur on the same day."
+  },
+  {
+    "id": "f5-34",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 16,
+    "topic": "Economic cycle recovery",
+    "question": "During the normal sequence of the economic cycle, after a period of recession, the economy will move to a period of:",
+    "choices": [
+      "depression",
+      "recovery",
+      "expansion",
+      "prosperity"
+    ],
+    "answer": 1,
+    "explanation": "The normal sequence of the economic cycle is a period of expansion, followed by an economic peak (prosperity), followed by a decline in economic activity (recession), followed by an economic recovery leading to further expansion, etc."
+  },
+  {
+    "id": "f5-35",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 8,
+    "topic": "Prohibited trading practices exception",
+    "question": "All of the following are prohibited practices under FINRA rules EXCEPT:",
+    "choices": [
+      "Interpositioning",
+      "Making a trade in a security prior release of a research report on it",
+      "Arbitrage Trading",
+      "Backing Away"
+    ],
+    "answer": 2,
+    "explanation": "Backing away from quotes (not honoring the quote) is prohibited; interpositioning another firm between a customer and market maker is prohibited; and trading ahead of a research report is also prohibited. Arbitrage is a basic trading activity."
+  },
+  {
+    "id": "f5-36",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 14,
+    "topic": "State registration for municipal bond sales",
+    "question": "A broker-dealer agent who lives and is registered in New York wishes to sell a municipal bond to a customer who lives in New Jersey. Which statement is TRUE about the registering of this agent and their broker-dealer in New Jersey?",
+    "choices": [
+      "Both the agent and the broker-dealer must be registered in New Jersey",
+      "Only the agent must be registered in New Jersey",
+      "Only the  broker-dealer must be registered in New Jersey",
+      "Neither the broker-dealer nor the agent is required  to be registered in New Jersey"
+    ],
+    "answer": 0,
+    "explanation": "Municipal bonds are an exempt security, from both Federal and State registration. However, broker-dealers and their sales employees must still be registered in each state where they do business. Therefore, the BD and agent must be registered in New Jersey to offer the bonds there (since they can offer these securities fraudulently, and the state wants to know where to find these persons if they do so!)."
+  },
+  {
+    "id": "f5-37",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 13,
+    "topic": "Accredited investor questionnaire",
+    "question": "An \"accredited investor questionnaire\" is required when which type of offering is made to investors?",
+    "choices": [
+      "Rule 147",
+      "Regulation D",
+      "Regulation A",
+      "Rule 144"
+    ],
+    "answer": 1,
+    "explanation": "Private placements under Regulation D are typically only offered to \"accredited investors.\" These are wealthy individuals and institutional investors. To document that the purchasers are, indeed, accredited, an \"accredited investor questionnaire\" must be completed and signed by the potential purchaser. This is retained by the broker-dealer or issuer selling the securities and is proof that the purchasers were accredited. Rule 147 is the intrastate exemption; Rule 144 is an exemption from SEC registration for the resale of private placement stock owned by an investor where the company subsequently went public; and Regulation A is an exemption from registration for the sale of a small dollar amount ($50 million or less)."
+  },
+  {
+    "id": "f5-38",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 14,
+    "topic": "Self-regulatory organization powers",
+    "question": "The Securities Exchange Act of 1934 established \"self regulatory organizations\" (SROs) and empowered these organizations to do all of the following EXCEPT:",
+    "choices": [
+      "set guidelines for fair dealing with the public",
+      "handle complaints against broker-dealers for securities law violations",
+      "take administrative action against broker-dealers that violate industry regulations",
+      "establish courts of justice for aggrieved customers to settle disputes"
+    ],
+    "answer": 3,
+    "explanation": "Originally, the exchanges, such as the NYSE and NASD (National Association of Securities Dealers) were both marketplaces and regulators of their member firms. This changed when FINRA was created in 2006. Each exchange now only regulates its trading operation; and FINRA regulates the broker-dealer member firms and is its own SRO (Self Regulatory Organization). FINRA sets guidelines for fair dealing with the public with its Conduct Rules; its handle complaints against broker-dealers for securities law violations under the Code of Procedure; it can take administrative action against broker-dealers that violate industry regulations; and it establishes arbitration procedures to settle intra-industry disputes. FINRA does not have the power to establish a court system. This is the jurisdiction of local, state, and federal governments. FINRA has created a Code of Arbitration for settling disputes; and has a Code of Procedure for taking action against firms and representatives who are \"bad actors.\""
+  },
+  {
+    "id": "f5-39",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 14,
+    "topic": "Securities Exchange Act of 1934 registration",
+    "question": "The Securities Exchange Act of 1934 requires registration all of the following EXCEPT:",
+    "choices": [
+      "Exchanges",
+      "Broker-Dealers",
+      "Registered Representatives",
+      "Securities"
+    ],
+    "answer": 3,
+    "explanation": "The Securities Act of 1933 regulates the new issue (primary) market and requires issuers to register non-exempt securities with the SEC. The Securities Exchange Act of 1934 requires the registration of securities exchanges, broker-dealers, and registered representatives (although reps register with FINRA instead of the SEC). The Securities Act of 1933 registers paper and the Securities Exchange Act of 1934 registers people!"
+  },
+  {
+    "id": "f5-40",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 13,
+    "topic": "Rule 144A eligible purchasers",
+    "question": "All of the following are permitted to purchase in a 144A transaction EXCEPT a(n):",
+    "choices": [
+      "Bank",
+      "Trust company",
+      "Insurance company",
+      "Accredited investor"
+    ],
+    "answer": 3,
+    "explanation": "Only QIBs - Qualified Institutional Buyers - can purchase in Rule 144A transactions. The basic definition of a QIB is an institution with at least $100 million of assets available for investment - so these are \"big boys.\" An accredited investor is not necessarily a QIB. For example, under a Regulation D \"private placement\" exemption, an individual that earns $200,000 a year is an accredited investor - but this person is not a QIB."
+  },
+  {
+    "id": "f5-41",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 12,
+    "topic": "Life annuity with period certain",
+    "question": "Which of the following annuity payment options will continue payments for a specified time period if the annuitant dies prematurely?",
+    "choices": [
+      "Life Annuity",
+      "Life Annuity with Period Certain",
+      "Joint and Last Survivor Annuity",
+      "Unit Refund Annuity"
+    ],
+    "answer": 1,
+    "explanation": "A life annuity-period certain pays for the annuitant's life, but if that person dies prematurely, the annuity will pay a designated beneficiary for a specified minimum time period (usually 10 years)."
+  },
+  {
+    "id": "f5-42",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 13,
+    "topic": "Registered primary distribution",
+    "question": "In a registered primary distribution, which statement is FALSE?",
+    "choices": [
+      "The offering is made at the POP",
+      "The purchaser must receive a prospectus",
+      "The proceeds from the sale go to selling shareholders",
+      "The issue cannot be purchased on margin"
+    ],
+    "answer": 2,
+    "explanation": "Underwritten offerings can be primary or secondary offerings (or both at the same time!). Assume that a privately held company wants to go public. The company wants to raise $300,000,000. To do this, the company will be issuing $150,000,000 of new shares (this is the primary portion of the distribution, where the proceeds of the sale go to the issuer) and another $150,000,000 consists of shares being sold by officers and directors of the company (who now want to cash out some or all of their investment in the company). The proceeds from the secondary portion go to the selling shareholders. This is a combined primary and secondary offering. All shares are sold with a prospectus at the POP and full payment is required (which is the case for any prospectus offering)."
+  },
+  {
+    "id": "f5-43",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 12,
+    "topic": "Local Government Investment Pools",
+    "question": "LGIPs offered by municipal broker-dealers are:",
+    "choices": [
+      "investment vehicles available to the general public that permit tax-deferred saving for higher education",
+      "investment vehicles available to the general public that permit tax-deferred saving for education below the college level",
+      "investment vehicles available to local government entities that permit investment of excess funds",
+      "investment vehicles available to local government entities that permit borrowing of funds as needed"
+    ],
+    "answer": 2,
+    "explanation": "An LGIP is a \"Local Government Investment Pool.\" It is an investment fund set up under state law that is only offered to local municipal governmental entities in that state. For example, if a town in a state has collected its real estate taxes, but has not yet spent those funds, it can put the balance in that state's LGIP. The LGIP is managed to provide a safe investment return. The MSRB takes the stance that if an LGIP retains a broker-dealer to market its offerings in that state, then it is a municipal fund security subject to MSRB rules. On the other hand, if the LGIP uses its own employees to market itself to local state governmental entities, then it is not subject to MSRB rules."
+  },
+  {
+    "id": "f5-44",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 12,
+    "topic": "Roth IRA taxation",
+    "question": "Which statement is TRUE regarding a Roth IRA?",
+    "choices": [
+      "Contributions are tax deductible and qualifying distributions are tax free",
+      "Contributions are not tax deductible and distributions above contributions are taxable as income",
+      "Contributions are not tax deductible and the entire distribution is taxable as income",
+      "Contributions are not tax deductible and qualifying distributions are not taxable"
+    ],
+    "answer": 3,
+    "explanation": "Roth IRAs, unlike Traditional IRAs, do not permit a tax deduction for the amount contributed. On the other hand, when distributions are taken, unlike a Traditional IRA, the distributions are not taxable (given that the investment has been held for at least 5 years)."
+  },
+  {
+    "id": "f5-45",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 12,
+    "topic": "IRA required minimum distributions",
+    "question": "Required Minimum distributions from an IRA plan must commence by:",
+    "choices": [
+      "59 1/2",
+      "April 1st of the year after reaching age 59 1/2",
+      "73",
+      "April 1st of the year after reaching age 73"
+    ],
+    "answer": 3,
+    "explanation": "Required Minimum Distributions (RMDs) from an IRA must commence April 1st of the year after reaching age 73. This follows more of a \"tax year\" rather than calendar year. Failure to take an RMD results in a 25% penalty."
+  },
+  {
+    "id": "f5-46",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 11,
+    "topic": "Joint account eligibility",
+    "question": "Which of the following can open a joint account without restriction?",
+    "choices": [
+      "Parent and minor",
+      "Guardian and custodian",
+      "3 limited partners",
+      "Registered representative and client"
+    ],
+    "answer": 2,
+    "explanation": "Minors cannot participate in a joint account - the only way to open an account for a minor is via a custodian, guardian, or trust account. A guardian and a custodian cannot open a joint account as such - the custodian opens an account for the benefit of the designated minor; the guardian opens the account for the benefit of the designated person whose assets need to be protected. A registered representative and a client cannot open a joint account unless the firm approves and profit and loss is shared in proportion to capital contributed. As a practical matter, almost all firms prohibit such sharing outright. 3 limited partners could open a joint account (they could also open a partnership account)."
+  },
+  {
+    "id": "f5-47",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 11,
+    "topic": "Durable power of attorney",
+    "question": "An elderly customer has a discretionary account with your firm. The power of attorney signed by the customer for the account is durable. If the customer becomes mentally incapacitated, the registered representative handling the account:",
+    "choices": [
+      "can no longer effect discretionary trades for that customer",
+      "must liquidate the account and wait for instructions from the court appointed guardian",
+      "can continue to execute discretionary trades for that customer",
+      "can only close existing positions but cannot introduce new positions in the account"
+    ],
+    "answer": 2,
+    "explanation": "A durable power of attorney continues in force if the grantor becomes mentally incompetent. A non-durable power of attorney ceases if the grantor becomes mentally incompetent. All powers of attorney die when the grantor dies."
+  },
+  {
+    "id": "f5-48",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 11,
+    "topic": "Prime brokerage accounts",
+    "question": "An institutional investor will open a prime brokerage account for all of the following reasons EXCEPT:",
+    "choices": [
+      "consolidation of account positions with one broker",
+      "lower financing costs on margined positions",
+      "to facilitate reporting and recordkeeping of all transactions",
+      "to achieve lower commission costs by using one executing broker"
+    ],
+    "answer": 3,
+    "explanation": "Hedge fund investors typically use a \"prime broker\" to consolidate all of their positions with one brokerage firm. In a prime brokerage agreement, the institutional investor can use different executing brokers for its trades, but all of these trades are settled by the \"prime broker\" who maintains custody of the positions, and most importantly, provides margin financing on these positions and arranges for stock loans on short stock positions. By using a single prime broker, trade reports and position reports come from a single source, making account recordkeeping easier. The hedge fund, in return for sending trades to different executing brokers at full commission rates, gets valuable research and recommendations in return. By using a prime broker to consolidate all positions, the hedge fund gets lower financing costs on borrowed funds and \"front of the line\" status when it wishes to borrow securities to effect short sales."
+  },
+  {
+    "id": "f5-49",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 11,
+    "topic": "Regulation T initial margin",
+    "question": "A customer buys 100 shares of ABC stock at $50 as an initial transaction in a margin account. At the end of that day, the stock is valued at $60 per share. The customer must deposit:",
+    "choices": [
+      "$1,500",
+      "$2,000",
+      "$2,500",
+      "$3,000"
+    ],
+    "answer": 2,
+    "explanation": "Initial margin to buy stocks is 50% of the purchase price. 50% of $5,000 = $2,500. The subsequent increase in value that day cannot be used to reduce the customer's deposit amount."
+  },
+  {
+    "id": "f5-50",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 11,
+    "topic": "Trust account rules",
+    "question": "Which following statement is FALSE regarding Trust Accounts?",
+    "choices": [
+      "A copy of the trust agreement must be obtained before any transactions are allowed",
+      "A new account form must be completed",
+      "The trust agreement will specify the transactions that the trustee is allowed to perform",
+      "Short selling is typically permitted"
+    ],
+    "answer": 3,
+    "explanation": "To open a trust account, a new account form must be completed and a copy of the trust agreement must be obtained before any transactions are allowed. The trust agreement will also specify what transactions are allowed. As a general rule, fiduciary accounts must be cash accounts. A trust account will typically opened as a cash account unless the agreement specifically authorizes the opening of a margin account. A margin account is required to short stock."
+  },
+  {
+    "id": "f5-51",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 10,
+    "topic": "MSRB duplicate confirmations for employee accounts",
+    "question": "The MSRB requires that if an employee of another municipal broker-dealer wishes to open an account at your firm:",
+    "choices": [
+      "duplicate copies of each confirmation must be sent to the employer",
+      "duplicate copies of each confirmation must be sent to the MSRB",
+      "the employer must approve each trade before execution",
+      "the municipal principal must approve each trade before execution"
+    ],
+    "answer": 0,
+    "explanation": "The MSRB requires that duplicate confirmations of each trade be sent to the employer if an employee of another municipal firm opens an account at your firm. In contrast, FINRA requires that confirmations and/or statements be sent only if the employer requests in writing. Also note that approval of the principal is not required prior to execution of each trade. The principal is responsible for \"prompt\" review and approval of transactions in municipal accounts -meaning by the end of the day."
+  },
+  {
+    "id": "f5-52",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 10,
+    "topic": "MSRB suitability and customer financial information",
+    "question": "To make a suitable recommendation, the registered representative must have sufficient knowledge of the customer's financial background. Regarding recommendations to a customer, which statement is TRUE under MSRB rules?",
+    "choices": [
+      "If the customer refuses to disclose sufficient financial information, recommendations are allowed if the recommended security is investment grade",
+      "If the customer refuses to disclose sufficient financial information, only recommendations being made to other customers are permitted",
+      "If the customer refuses to disclose sufficient financial information, recommendations are not permitted",
+      "If the customer insists upon performing a trade that is deemed to be unsuitable, the registered representative must refuse the trade"
+    ],
+    "answer": 2,
+    "explanation": "The registered representative should inquire as to the customer's \"financial background\" under MSRB rules, asking information such as income and net worth. The customer may refuse to provide this information, stating that it is an invasion of privacy. The account can still be opened, however when the customer fails to provide sufficient personal information on his or her financial status or investment objective, no recommendations can be made. If the customer wishes to execute an unsuitable trade, the registered representative should note this and mark the order ticket as \"unsolicited\" and execute the order. The registered representative is obligated to do what the customer instructs. Blanket recommendations, that include a specific security, are almost always a violation, because advice must always be customer-specific, unless it is so broad that it does not apply to one person. (Example: \"clients should seek to hold a diversified portfolio rather than solely investing in one security.\")"
+  },
+  {
+    "id": "f5-53",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 9,
+    "topic": "Options Clearing Corporation",
+    "question": "An opening trade in a call option contract takes place on the American exchange (AMEX) between a buyer at ABCD Securities and a writer at PDQR Securities. The issuer of the contract is:",
+    "choices": [
+      "American Stock Exchange",
+      "ABCD Securities",
+      "PDQR Securities",
+      "Options Clearing Corporation"
+    ],
+    "answer": 3,
+    "explanation": "The Options Clearing Corporation (O.C.C.) is the legal issuer and guarantor of all exchange traded options. Thus, the purchaser of an option contract is relieved of the worry that a writer will not perform on an exercise - since technically, the O.C.C. is the writer of the contract. (The O.C.C. requires that member firms deposit daily monies to ensure that the firms, if their customers are writers who have been exercised, can perform on the exercise.)"
+  },
+  {
+    "id": "f5-54",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 7,
+    "topic": "Sell stop order to protect a gain",
+    "question": "A customer has a gain on a long stock position that he wishes to protect. The appropriate order is:",
+    "choices": [
+      "buy stop order",
+      "sell stop order",
+      "sell limit order",
+      "market order"
+    ],
+    "answer": 1,
+    "explanation": "The customer will \"lose\" the gain on a long stock position if the market begins to fall. To sell out the position in a falling market, the order must be a sell stop order (placed below the market). To sell out a long position in a rising market the order would be a sell limit order."
+  },
+  {
+    "id": "f5-55",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 6,
+    "topic": "Oil and gas direct participation program types",
+    "question": "All of the following are types of oil and gas direct participation programs EXCEPT:",
+    "choices": [
+      "Exploratory",
+      "Income",
+      "Balanced",
+      "Combination"
+    ],
+    "answer": 2,
+    "explanation": "Exploratory oil and gas programs drill for oil in unproven areas. Developmental programs drill near existing fields. Income programs simply buy proven oil reserves in the ground, and sell them using the depletion allowance as a partial tax shelter. Combination programs combine all three types. There is no such thing as a \"balanced\" oil and gas program. This term only applies to investment company portfolio descriptions."
+  },
+  {
+    "id": "f5-56",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 8,
+    "topic": "Stock split share value",
+    "question": "A company decides to split its stock 3:1. Prior to the ex date, the stock is trading at $90 per share. The holder of 100 shares of stock, as of the ex date, will have:",
+    "choices": [
+      "150 shares valued at $60/share",
+      "300 shares valued at $30/share",
+      "100 shares valued at $30/share",
+      "100 shares valued at $90/share"
+    ],
+    "answer": 1,
+    "explanation": "After the split, the holder has 3 times the number of original shares (100 x 3/1) or 300 shares. Those shares will be valued at 1/3 the original value ($90 x 1/3) or $30/share."
+  },
+  {
+    "id": "f5-57",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 6,
+    "topic": "Income fund holdings",
+    "question": "An income fund would likely invest in all of the following securities EXCEPT:",
+    "choices": [
+      "Debentures",
+      "Treasury STRIPS",
+      "Preferred Stock",
+      "High Yield Bonds"
+    ],
+    "answer": 1,
+    "explanation": "Income funds invest primarily in bonds and preferred stocks for a high level of current income. Common stocks are not typically a choice for investment because the dividend yields are comparatively low. Treasury STRIPS would not be chosen as an investment because they only pay interest at maturity - they are zero-coupon Treasury obligations (that have been \"stripped\" of coupons). There is no current income from these securities."
+  },
+  {
+    "id": "f5-58",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 6,
+    "topic": "Mutual fund expense ratio",
+    "question": "The expense ratio of a mutual fund is:",
+    "choices": [
+      "Fund Operating Expenses / Average Net Assets",
+      "Fund Operating Expenses / Annual Fund Sales",
+      "Fund Operating Expenses / Fund Annual Net Income",
+      "Fund Portfolio Expenses / Fund Annual Net Income"
+    ],
+    "answer": 0,
+    "explanation": "The expense ratio of a mutual fund measures the proportion of investment return on assets that is consumed by expenses. The lower the ratio, the more \"efficient\" the fund is. The expense ratio is: Fund Operating Expenses / Average Net Assets"
+  },
+  {
+    "id": "f5-59",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 6,
+    "topic": "Mutual fund public offering price",
+    "question": "A mutual fund has a net asset value per share of $12.00. The maximum offering price per share is:",
+    "choices": [
+      "$13.11",
+      "$13.85",
+      "$14.30",
+      "$14.56"
+    ],
+    "answer": 0,
+    "explanation": "The maximum sales charge on a mutual fund is 8.5% under FINRA rules. The formula to find the offering price is: Net Asst Value/(100% - Sales Charge %)"
+  },
+  {
+    "id": "f5-60",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 6,
+    "topic": "Bond fund yield comparison",
+    "question": "A mutual fund sponsor has three different income funds, holding AAA rated debt securities with similar maturities. Assuming that the expense ratios for the funds are identical, which fund listed would have the highest yield from investment income?",
+    "choices": [
+      "Government Bond Fund",
+      "Corporate Bond Fund",
+      "Municipal Bond Fund",
+      "Any of the above"
+    ],
+    "answer": 1,
+    "explanation": "If the securities held in each of the bond funds have similar maturities and the funds have similar expense ratios, the remaining differences affecting yields are credit rating and tax status. Corporates are considered more risky than both governments and municipals, and are fully taxable, so their yield is the highest. Governments are less risky than municipals, but are taxable by the Federal government, so government yields are higher than municipal yields. The order from highest to lowest yield is: Corporates, Governments, Municipals."
+  },
+  {
+    "id": "f5-61",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 6,
+    "topic": "Mutual fund investment objective change",
+    "question": "A mutual fund that wishes to change its investment objective:",
+    "choices": [
+      "is not permitted to do so under the provisions of the Investment Company Act of 1940",
+      "can do so only with majority vote of the Board of Directors of the fund",
+      "can do so only with majority vote the independent members of the Board of Directors of the fund",
+      "can do so only with majority vote of the shareholders of the fund"
+    ],
+    "answer": 3,
+    "explanation": "If a fund wishes to change its investment objective, this action requires majority vote the shareholders of the fund."
+  },
+  {
+    "id": "f5-62",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 5,
+    "topic": "Municipal revenue bond backing",
+    "question": "A municipal revenue bond is backed by:",
+    "choices": [
+      "taxes collected by the municipality",
+      "taxes collected by the state",
+      "all revenue collected by the municipality",
+      "a specific source of revenue"
+    ],
+    "answer": 3,
+    "explanation": "Municipal revenue bonds are backed by a \"revenue pledge\" that pledges a specific source of revenue to back the bond. Pledged revenues may be derived from the operation of the financed project, grants, or excise or other specified non-ad valorem taxes, such as excise or sales taxes. Note, in contrast, that municipal general obligation bonds are backed by the unlimited taxing power of the issuer - typically ad valorem (property) taxes."
+  },
+  {
+    "id": "f5-63",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 4,
+    "topic": "Ginnie Mae pass-through certificate payments",
+    "question": "Payments to holders of Ginnie Mae pass-through certificates are made:",
+    "choices": [
+      "monthly and represent a payment of both interest and principal",
+      "monthly and represent a payment of  only interest",
+      "semi-annually and represent a payment of both interest and principal",
+      "semi-annually and represent a payment of only interest"
+    ],
+    "answer": 0,
+    "explanation": "All pass-through certificates pass on the monthly mortgage payments received from the pooled mortgages to the certificate holders. Thus, payments are received monthly. These represent a payment of both interest and principal on the underlying mortgages."
+  },
+  {
+    "id": "f5-64",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 4,
+    "topic": "Income bond interest obligation",
+    "question": "If a corporation reports a loss for a year, it is obligated to make interest payments on all of the following bonds EXCEPT:",
+    "choices": [
+      "Subordinated debentures",
+      "Income bonds",
+      "Convertible bonds",
+      "Callable bonds"
+    ],
+    "answer": 1,
+    "explanation": "Income bonds, also known as adjustment bonds, pay interest only if the corporation hits a predetermined level of earnings. If the income level is not sufficient, there is no obligation to make the interest payment. Reset bonds are obligated to pay interest, however the rate is reset annually. Conversion and call features have no effect on the obligation to pay."
+  },
+  {
+    "id": "f5-65",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 6,
+    "topic": "Closed-end fund secondary market trading",
+    "question": "Unlike mutual funds, closed-end funds are:",
+    "choices": [
+      "Initiated by a sponsor organization",
+      "Available only to accredited investors",
+      "Operated by independent fund managers",
+      "Traded on the secondary market"
+    ],
+    "answer": 3,
+    "explanation": "Open-end funds and closed-end funds share many characteristics. However, closed-end funds are issued through an initial public offering and are traded on the secondary market. Mutual funds are issued with each new purchaser and can only be sold back to the mutual fund company, whereupon the 'used' shares expire."
+  },
+  {
+    "id": "f5-66",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 12,
+    "topic": "ABLE accounts",
+    "question": "What is an ABLE account?",
+    "choices": [
+      "An account where a disabled person can hold assets without jeopardizing access to disability benefits",
+      "A type of 529 account through which college tuition can be prepaid",
+      "A trust for municipal entities to invest their cash reserves without losing liquidity",
+      "An account where the invested premiums from a variable annuity are kept separate from the insurance company's general account"
+    ],
+    "answer": 0,
+    "explanation": "ABLE accounts are designed to allow disabled people and their families to save for the future without being penalized for having these savings. In some ways, they function like 529 college savings accounts. But unlike a 529 account, the beneficiary of an ABLE account is always the owner. As long as the balance of an ABLE account is $100,000 or less, assets in the ABLE account have no effect on the beneficiary's access to federal disability benefits."
+  },
+  {
+    "id": "f5-67",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 1,
+    "topic": "Income statement and profitability",
+    "question": "Which financial statement shows a company's profitability?",
+    "choices": [
+      "Cash flow statement",
+      "Income statement",
+      "Balance Sheet",
+      "All choices listed"
+    ],
+    "answer": 1,
+    "explanation": "There are three financial statements you need to know for the exam: the income statement, the balance sheet and the cash flow statement. The cash flow statement divides the flow of funds into three categories: Operations, Investments and Financing. The cash flow statement reflects a firm's liquidity over a period of time. A balance sheet uses three categories -- assets, liabilities and shareholders' equity -- to give a snapshot of what a business owns and how it has been financed. The income statement starts with revenues (sales) at the top and then list expenses, which are deductions, going down to the proverbial \"bottom line\" which is net income (profits). Of course, if expenses are greater than revenues then the bottom line may be that ugliest of things in the business world: a loss."
+  },
+  {
+    "id": "f5-68",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 6,
+    "topic": "Mutual fund systematic risk misconception",
+    "question": "With regard to mutual funds, which of the following is not true?",
+    "choices": [
+      "They are regulated by the Investment Company Act of 1940.",
+      "They must register with the SEC.",
+      "They must provide semiannual reports to shareholders.",
+      "They provide protection against systematic risk."
+    ],
+    "answer": 3,
+    "explanation": "Mutual funds are regulated by the Investment Company Act of 1940, and they must register with the SEC. Annual reports must be provided to the SEC and semiannual reports to shareholders. Mutual funds provide diversification against unsystematic risk. Unsystematic risk (also called non-systematic risk) is a type of risk that is specific to a company or an industry. For example, a software company faces the risk of not keeping up with ever-changing hardware. This is unsystematic risk because it is not a risk that other non-software companies face. (Systematic risk, on the other hand, is the risk that the entire market will decline, thereby hurting every company in the market.)"
+  },
+  {
+    "id": "f5-69",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 6,
+    "topic": "Transfer agent role",
+    "question": "Which of the following is not true of transfer agents?",
+    "choices": [
+      "They are responsible for keeping track of a company's issue of securities",
+      "They may be responsible for paying dividends",
+      "They are allowed to cancel stock certificates surrendered by the seller",
+      "They are usually individuals and not banks"
+    ],
+    "answer": 3,
+    "explanation": "A transfer agent is typically hired by an issuing company to help it keep track of its securities issue. The transfer agent, which is usually a bank or trust company, records who owns shares and in what form, updating changes in ownership as needed. The transfer agent cancels stock certificates surrendered by the seller and issues new ones in the name of the buyer. It may be responsible for paying dividends."
+  },
+  {
+    "id": "f5-70",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 13,
+    "topic": "Firm commitment underwriting risk",
+    "question": "Who would take the financial risk in a firm commitment underwriting for an IPO?",
+    "choices": [
+      "Underwriters",
+      "Selling group members",
+      "Issuer",
+      "IPO investors"
+    ],
+    "answer": 0,
+    "explanation": "In a firm commitment underwriter, the underwriters purchases all of the securities at a discount from the issuer, and the sells the securities at the public offering price. The underwriter assumes all of the financial risk of any unsold shares."
+  },
+  {
+    "id": "f5-71",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 8,
+    "topic": "Order ticket alteration approval",
+    "question": "Under FINRA rules, alterations to executed order tickets for orders that were filled on the NYSE are prohibited:",
+    "choices": [
+      "under all circumstances",
+      "unless the alterations are approved in writing by the Floor Governors of the NYSE",
+      "unless the alterations are approved in writing by the DMM on the floor of the NYSE",
+      "unless the alterations are approved in writing by the Branch Manager"
+    ],
+    "answer": 3,
+    "explanation": "Under FINRA rules, alterations to order tickets are prohibited, unless the alteration is approved in writing by a \"designated person\" such as a branch manager. This person must understand all of the facts surrounding the alteration before approving of the change, and is responsible for the change."
+  },
+  {
+    "id": "f5-72",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 15,
+    "topic": "Outside business activity reporting",
+    "question": "A registered representative at a FINRA member firm has been elected to his cooperative apartment building's Board of Directors. Which statement is TRUE?",
+    "choices": [
+      "This event must be reported to FINRA",
+      "This event must be reported to his or her employer",
+      "This event must be reported to both FINRA and his or her employer",
+      "No report is required to either FINRA or the employing member firm"
+    ],
+    "answer": 1,
+    "explanation": "Any \"OBA\" \u2013 Outside Business Activity \u2013 must be reported to the firm and must first be approved by the firm. Furthermore, it must be reported on that registered representative's U4 Form and is disclosed in that individual's BrokerCheck report, if approved. Remember that an individual does not have to be paid for an OBA to require firm approval. The firm must first evaluate the proposed OBA and if necessary, they can allow it, allow it with restrictions, or deny it. Once a firm has permitted the OBA to take place, with or without restrictions, then FINRA must be notified."
+  },
+  {
+    "id": "f5-73",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 12,
+    "topic": "Variable annuity recommendation requirements",
+    "question": "In order to recommend a variable annuity to a customer, all of the following statements are true EXCEPT:",
+    "choices": [
+      "The customer must be informed, in general terms, of the material features of the product",
+      "The representative must believe that the customer would benefit from the product's features",
+      "The representative must believe that the variable product as a whole, the underlying separate accounts to which funds are allocated, and riders to the policy, are suitable",
+      "The customer, representative and branch manager must all sign a statement that all required representations and determinations were completed"
+    ],
+    "answer": 3,
+    "explanation": "In order to recommend a variable annuity to a customer, the representative must have a reasonable basis to believe that the: customer has been informed, in general terms, of the material features of the product; customer would benefit from one or more of the product's features; and particular variable product as a whole, the underlying separate accounts to which funds are allocated, and riders to the policy, are suitable. The representative must sign a statement that all required representations and determinations were completed. Note that there is no customer signature here!"
+  },
+  {
+    "id": "f5-74",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 7,
+    "topic": "First Market trading",
+    "question": "The First Market includes trading in:",
+    "choices": [
+      "unlisted issues",
+      "new issues",
+      "NYSE issues",
+      "OTC issues"
+    ],
+    "answer": 2,
+    "explanation": "The First Market is trading of listed stocks on an organized stock exchange - like the NYSE, AMEX (now renamed the \"NYSE American\") or Nasdaq exchanges. Exchanges have listing standards for the companies that trade there and accessible order books, where orders can be posted and traded against. Any companies that do not meet exchange listing standards (\"unlisted securities\") are quoted OTC (\"Over-The-Counter\"). These constitute the Second Market. OTC stocks are quoted by the OTC Markets Group (formerly the Pink Sheets) and are classified by the SEC as \"quotations vendors\" - they are not exchanges. To trade an OTC stock, the trade must be negotiated, either on-line or over the phone. New issues are sold for the first time in the Primary Market."
+  },
+  {
+    "id": "f5-75",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 5,
+    "topic": "Brokered CD FDIC insurance",
+    "question": "In order to determine whether a Brokered CD being recommended to a customer will qualify for FDIC insurance, the registered representative must know all of the following EXCEPT:",
+    "choices": [
+      "name of the bank issuing the CD",
+      "ownership title of the CD",
+      "face amount of the CD",
+      "call dates of the CD"
+    ],
+    "answer": 3,
+    "explanation": "Brokered CDs are sold by brokerage firms that are representing issuing banks. FDIC insurance of $250,000 maximum covers bank deposits - but only if the deposit is titled in the customer's name. If the CD is titled in the brokerage firm's name, then the insurance coverage would not apply! For example, if a customer wishes to buy a $75,000 CD, as long as the customer does not have deposits at the issuing bank in excess of $175,000 (thus not exceeding the $250,000 maximum FDIC coverage) and the CD is titled in the customer's name, then the CD would be FDIC insured. Therefore, the bank name must be known because the customer gets only one coverage at that bank. The CD must be titled in the customer's name for the FDIC coverage to apply. Since coverage is a maximum of $250,000 per customer at each bank, the amount of the CD must be aggregated with any other customer deposits held at the bank to determine if the FDIC limit is exceeded. Call features are irrelevant to FDIC coverage."
+  },
+  {
+    "id": "f5-76",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 3,
+    "topic": "Bond yield ranking at a premium",
+    "question": "For bonds trading at a premium, rank the yield measures from lowest to highest?",
+    "choices": [
+      "Nominal; Current; Yield to Maturity; Yield to Call",
+      "Yield to Call; Yield to Maturity; Current; Nominal",
+      "Current; Nominal; Yield to Call; Yield to Maturity",
+      "Yield to Maturity; Current; Yield to Call; Nominal"
+    ],
+    "answer": 1,
+    "explanation": "When bonds are trading at a premium, the yield to call will be the lowest measure since the annual return is reduced by the annual amortized portion of the premium that will be \"lost\" over the life of the bond to the call date. The next highest yield will be the yield to maturity, since the premium will be lost over a longer \"life\" than if the bond is called early. Current yield will be higher than yield to maturity, since it does not include the annual premium loss. Stated yield will be the highest since it is the return based on par value."
+  },
+  {
+    "id": "f5-77",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 1,
+    "topic": "Dividend yield calculation",
+    "question": "At the beginning of the year, an investor buys 1,000 shares of XYZ stock, purchased at $33 per share. Subsequently, the stock rises to $40 by the end of the year and the stock pays a $4 dividend during the year. By the end of the following year, the stock has fallen to $25 and pays the same $4 dividend. What is the stock's dividend yield?",
+    "choices": [
+      "4%",
+      "10%",
+      "12%",
+      "16%"
+    ],
+    "answer": 3,
+    "explanation": "Dividend yield is based on the current market share price, not on cost of the stock. The annual dividend amount paid is $4 per year. Since the stock is currently trading at $25 per share, the dividend yield is $4 / $25 = 16%."
+  },
+  {
+    "id": "f5-78",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 5,
+    "topic": "General obligation bond backing",
+    "question": "General obligation bonds issued by local units of government are typically backed by:",
+    "choices": [
+      "excise taxes",
+      "ad valorem taxes",
+      "pledged revenues",
+      "legislative appropriation"
+    ],
+    "answer": 1,
+    "explanation": "The principal source of funds for local government (cities, towns, etc.) is property taxes, known as \"ad valorem\" taxes, because the tax amount is based on property value (\"ad valorem\" is Latin for \"to the value\"). These local governments issue general obligation bonds backed by their unlimited ad valorem taxing power. Excise taxes are generally levied only at the state or federal level, not the local level. A local town could put an excise tax on purchased items such as gasoline or tobacco and use the proceeds to back a \"Special Tax\" bond issue. These require voter approval, so their issuance is typically very limited. Pledged revenues for an enterprise activity back a revenue bond issue, used to build such things as airports and toll roads. Legislative appropriation is often used to back state government general obligation bond issues."
+  },
+  {
+    "id": "f5-79",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 1,
+    "topic": "Preferred stock dividend priority",
+    "question": "A company has issued common stock, preferred stock, bonds, and warrants, and it offers shareholders pre-emptive rights. If the company pays a cash dividend on its common stock, which of the following must also receive a cash distribution?",
+    "choices": [
+      "Warrants",
+      "Preferred stock",
+      "Pre-emptive rights",
+      "Corporate bonds"
+    ],
+    "answer": 1,
+    "explanation": "If a company has preferred stock, and plans to pay out a dividend to common stockholders, it must first pay out preferred stock dividends. Warrants, bonds, and pre-emptive rights are all unrelated to common stock dividends."
+  },
+  {
+    "id": "f5-80",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 5"
+    },
+    "chapter": 6,
+    "topic": "Unit investment trust characteristics",
+    "question": "Which of the following is true of a unit investment trust?",
+    "choices": [
+      "It is actively managed",
+      "It has virtually no ongoing expenses",
+      "It is considered \"open-end\"",
+      "It can only buy bonds"
+    ],
+    "answer": 1,
+    "explanation": "Unit investment trusts are passive investment portfolios comprised of a pre-selected portfolio. The assembly of this portfolio is paid for out of the initial sales load."
+  }
+]
