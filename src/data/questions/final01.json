@@ -1,0 +1,1444 @@
+[
+  {
+    "id": "f1-01",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 16,
+    "topic": "Interest Rates and Bond Prices",
+    "question": "With increased inflation, interest rates typically _____ and the prices of outstanding bonds typically _____.",
+    "choices": [
+      "Rise; rise",
+      "Rise; fall",
+      "Fall; fall",
+      "Fall; rise"
+    ],
+    "answer": 1,
+    "explanation": "When inflation increases, interest rates typically rise. Higher interest rates typically lead to decreased market values for outstanding bonds."
+  },
+  {
+    "id": "f1-02",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 6,
+    "topic": "NAV and Sales Charges",
+    "question": "Shares of the mutual fund ZZY require a 5% sales charge. Excluding any other fees, what is the NAV if shares trade at $24.55?",
+    "choices": [
+      "$25.77",
+      "$12.28",
+      "$23.01",
+      "$23.32"
+    ],
+    "answer": 3,
+    "explanation": "If shares are trading at $24.55 which includes a 5% sales charge but excludes any other potential fees the NAV must be $23.32.  This is derived from 24.55 * .95 = 23.32."
+  },
+  {
+    "id": "f1-03",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 9,
+    "topic": "Hedging with Options",
+    "question": "Your customer is short 100 XOM at $75, and wants to hedge his position. To protect them from the risk that XOM's stock price may rise, you recommend that they:",
+    "choices": [
+      "Buy a put",
+      "Sell a put",
+      "Sell a call",
+      "Buy a call"
+    ],
+    "answer": 3,
+    "explanation": "In this question, the investor is going for protection and is not seeking income, so the best answer is to buy a call. The call allows the investor to buy the shares at a particular fixed price, no matter how high the stock price goes, protecting the investor's position. While selling a put is a possible hedge, it is not the most appropriate hedge for this investor's goal."
+  },
+  {
+    "id": "f1-04",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 12,
+    "topic": "Fixed Annuities",
+    "question": "How are funds deposited into a fixed annuity?",
+    "choices": [
+      "Into a separate account",
+      "Into a general account",
+      "Into both a separate account and a general account",
+      "Into a fixed index mutual fund"
+    ],
+    "answer": 1,
+    "explanation": "In a fixed annuity, the customer's investment is deposited into the insurance company's general account. This means that the insurance company is responsible for investing the customer's money as it sees fit and for providing a fixed payment over the customer's life. The insurance company thus bears the investment risk, and it is the insurance company's obligation to pay the fixed rate. In contrast, the funds of variable annuities are deposited into a separate account, and the investment risk is borne by the annuity holder. Because of that added risk, variable annuity holders have the potential for higher rewards."
+  },
+  {
+    "id": "f1-05",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 11,
+    "topic": "Exempt Securities",
+    "question": "Securities that are not required to be registered with the SEC are:",
+    "choices": [
+      "Federal covered securities",
+      "Exempt securities",
+      "Non-exempt securities",
+      "Mutual funds"
+    ],
+    "answer": 1,
+    "explanation": "Exempt securities are not required to be registered with the SEC. These include U.S. Treasury securities, municipal securities, and agency securities.\n[Note - added by Claude] Cerifi listed Chapter 11 (Other Account Types) as the Area of Study, so I filed it there. The subject, exempt securities, is covered in Chapter 13 (Primary Market)."
+  },
+  {
+    "id": "f1-06",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 16,
+    "topic": "Cost Basis",
+    "question": "All of the following help investors lower their tax bills, except:",
+    "choices": [
+      "Step-up cost basis for inherited securities",
+      "Step-up cost basis for securities received as a gift",
+      "The treatment of commissions on securities purchased",
+      "The treatment of commissions on securities sold"
+    ],
+    "answer": 1,
+    "explanation": "When an investor receives securities as a gift, her tax basis will be the lower of the tax basis of the person giving the gift or the market value of the securities when the gift is made. In other words, the person receiving the gift does not receive a step-up in basis. Because a lower tax basis will ensure that an investor will pay more taxes when the securities are sold, this method of determining tax basis does not work in the investor's favor.\n\nHowever, the tax basis on inherited securities does work in the investor's favor because the tax basis is \"stepped-up\" to the fair market price at the time of death. Additionally, both the commissions added to the purchase price of securities and the commissions subtracted from the proceeds when securities are sold serve to lower the amount of gains which will be taxed."
+  },
+  {
+    "id": "f1-07",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 12,
+    "topic": "401(k) Plans",
+    "question": "What is the penalty for early withdrawal from a 401(k)?",
+    "choices": [
+      "5%",
+      "10%",
+      "15%",
+      "20%"
+    ],
+    "answer": 1,
+    "explanation": "While an individual may withdraw funds at any time from a defined contribution account such as a 401(k), withdrawals made before the age of 59½ will be taxed and be charged a penalty in addition. The early withdrawal penalty is 10%."
+  },
+  {
+    "id": "f1-08",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 6,
+    "topic": "REITs",
+    "question": "How much of a REIT's annual income must be distributed to shareholders to qualify for tax advantages?",
+    "choices": [
+      "75%",
+      "90%",
+      "95%",
+      "100%"
+    ],
+    "answer": 1,
+    "explanation": "Ninety percent of a real estate investment trust's (REIT) annual income must be distributed to shareholders."
+  },
+  {
+    "id": "f1-09",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 10,
+    "topic": "Account Records",
+    "question": "Customer account records must be updated at least every:",
+    "choices": [
+      "1 year",
+      "2 years",
+      "3 years",
+      "6 months"
+    ],
+    "answer": 2,
+    "explanation": "Customer account records must be updated at least every three years...however, the \"at least\" is very important. While the SEC requires broker-dealers to update suitability information at least every three years, the Know Your Customer obligation may require broker-dealers to update their customers' information more often in order to exercise \"reasonable diligence.\""
+  },
+  {
+    "id": "f1-10",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 12,
+    "topic": "529 Plans",
+    "question": "The person who controls a 529 college savings account can do each of the following, EXCEPT:",
+    "choices": [
+      "Transfer the funds to another qualified beneficiary",
+      "Return the funds to herself, with earnings subject to a 10% penalty but no tax",
+      "Roll over the plan by designating a new beneficiary who is a qualified family member, tax-free",
+      "Cannot use contributions to reduce their federal income tax for the year"
+    ],
+    "answer": 1,
+    "explanation": "A 529 plan is owned and controlled by the individual who opens the account, not the beneficiary. While the account owner can withdraw funds at any time, there are consequences if the money is not used for qualified education expenses.\n- A 529 account owner can transfer funds to another qualified beneficiary, as long as the new beneficiary is a family member of the original one.\n- While an account owner can withdraw funds for personal use, any earnings withdrawn will be subject to both ordinary income tax and a 10% penalty. (The principal is not taxed, because it came from after-tax dollars.)\n- A 529 plan can be rolled over tax-free to another qualified family member.\n- 529 contributions do not reduce federal taxable income. (However, some states offer tax deductions or credits for contributions.)"
+  },
+  {
+    "id": "f1-11",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 15,
+    "topic": "Gifts and Gratuities",
+    "question": "According to FINRA, no person associated with a member may give or receive from employee, agent or representative of another firm anything of value in excess of how much per person per year?",
+    "choices": [
+      "$300",
+      "$500",
+      "$1,000",
+      "$1,500"
+    ],
+    "answer": 0,
+    "explanation": "FINRA Rule 3220 states that no member or person associated with a member shall give or be given anything of value, in excess of three hundred dollars per individual per year to any employee, agent or representative of another person where such payment is in relation to the business of the employer of the recipient of the payment or gratuity."
+  },
+  {
+    "id": "f1-12",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 15,
+    "topic": "Non-Cash Compensation",
+    "question": "Under FINRA rules, an offeror is not allowed to give which kind of non-cash compensation?",
+    "choices": [
+      "reimbursement for the cost of an all-day educational seminar about mutual funds attended by a registered representative of a member firm",
+      "golf balls with the issuer's logo on them",
+      "a movie ticket",
+      "dinner contingent on achieving a certain target goal"
+    ],
+    "answer": 3,
+    "explanation": "Offerors are restricted in the type of non-cash compensation that they can give to registered representatives or their member firms. Promotional items with the company's logo are allowed. Small, occasional gifts, meals, or entertainment are also allowed as long as they do not occur on a regular basis or are contingent on meeting a sales target. Reimbursement for educational expenses is allowed as long as they meet specific conditions, such as the majority of the time should be educational and they are not contingent on meeting a certain target goal."
+  },
+  {
+    "id": "f1-13",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 14,
+    "topic": "Customer Protection Rule",
+    "question": "The SEC requires broker-dealers to do the following with fully paid securities:",
+    "choices": [
+      "segregate them only",
+      "segregate them and ensure they are safely kept",
+      "commingle the two",
+      "segregate only at the written request of the customer"
+    ],
+    "answer": 1,
+    "explanation": "SEC Rule 15c3-3 pertains to the customer protection rule. Broker-dealers must segregate fully paid securities from other securities. In addition, the broker-dealer must take action to ensure these securities are kept safely."
+  },
+  {
+    "id": "f1-14",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 14,
+    "topic": "Restricted Persons (Rule 5130)",
+    "question": "Jenny is an employee of a broker-dealer. She is a receptionist at the firm and is not a registered representative. She would like to purchase shares in an IPO that she has recently heard about at her office. Her firm is not involved in the IPO. Which of the following BEST describes her participation?",
+    "choices": [
+      "Jenny may purchase shares of the IPO on the same basis as other customers.",
+      "Jenny is prohibited from purchasing shares of the IPO, but her spouse who she supports may purchase shares on the same basis as other customers.",
+      "Jenny may purchase shares of the IPO as long as the purchase quantity doesn't exceed 200 shares.",
+      "Jenny is prohibited from purchasing shares of the IPO."
+    ],
+    "answer": 3,
+    "explanation": "FINRA Rule 5130 - Restrictions on the Purchase and Sale of Initial Equity Public Offerings - prohibits a member firm (broker/dealer) from selling shares of an IPO to an account in which a \"restricted person\" has a beneficial interest, subject to certain limited exceptions. All employees of a broker-dealer are considered \"restricted persons\" under the rule. Note that the broker-dealer does not need to be involved in the IPO for this rule to apply."
+  },
+  {
+    "id": "f1-15",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 4,
+    "topic": "Secured Bonds",
+    "question": "Secured bonds are backed by:",
+    "choices": [
+      "The full faith and credit of the issuer",
+      "Physical property or other real assets",
+      "The full faith and credit of the United States government",
+      "Nothing"
+    ],
+    "answer": 1,
+    "explanation": "In the event of default, the property used as collateral for a secured bond can be foreclosed and sold off to repay the bond. Secured bonds are considered high grade, safe investments because their owners are paid off first, ahead of all other bondholders if the company goes out of business and is forced to liquidate."
+  },
+  {
+    "id": "f1-16",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 5,
+    "topic": "General Obligation Bonds",
+    "question": "General obligation (GO) bonds are:",
+    "choices": [
+      "Secured bonds backed by the full faith and credit of the municipality",
+      "Unsecured bonds backed by taxpayers",
+      "Bonds that pay higher interest rates than revenue bonds",
+      "Used to fund specific projects and paid for by revenue stream generated by the project"
+    ],
+    "answer": 1,
+    "explanation": "Municipal bonds come in two basic types: general obligation bonds and revenue bonds. The two types are distinguished by how they are funded. General obligation (GO) bonds are unsecured bonds backed by the full faith and credit of the municipality and paid for by taxpayers. Revenue bonds are secured bonds used to finance specific projects and are funded by the revenue stream generated by the project. While GO bonds are unsecured and revenue bonds are secured, GO bonds are generally viewed as less risky than revenue bonds because the municipality is obligated to raise taxes to pay general obligation bondholders if need be. Because they are thought of as safer, GO bonds typically pay lower interest rates than revenue bonds."
+  },
+  {
+    "id": "f1-17",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 8,
+    "topic": "CUSIP Numbers",
+    "question": "A CUSIP number is used to identify a:",
+    "choices": [
+      "Transaction",
+      "Security",
+      "Broker-dealer",
+      "Underwriting syndicate"
+    ],
+    "answer": 1,
+    "explanation": "A CUSIP number is the identification number of U.S. and Canadian securities. Municipal securities are required to have a CUSIP number if they are eligible for CUSIP number assignment and are not municipal fund securities."
+  },
+  {
+    "id": "f1-18",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 2,
+    "topic": "Current Yield",
+    "question": "Which of the following is true of a bond's current yield?",
+    "choices": [
+      "It is continuously changing",
+      "It changes only after the bond makes each semiannual interest payment",
+      "It changes on an annual basis",
+      "It is typically the same for the life of the bond"
+    ],
+    "answer": 0,
+    "explanation": "Current yield is a snapshot approximation that represents the return an investor might expect to receive if she purchased a bond today and held it for a year. It is calculated by the formula CY = Coupon payment/Current market price. CY is an approximate valuation because the market price of the bond is constantly fluctuating due to changing market conditions. Thus a bond's CY can be said to change on a continuous basis."
+  },
+  {
+    "id": "f1-19",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 13,
+    "topic": "Firm Commitment Underwriting",
+    "question": "Who would take the financial risk in a firm commitment underwriting for an IPO?",
+    "choices": [
+      "Underwriters",
+      "Selling group members",
+      "Issuer",
+      "IPO investors"
+    ],
+    "answer": 0,
+    "explanation": "In a firm commitment underwriter, the underwriters purchases all of the securities at a discount from the issuer, and the sells the securities at the public offering price. The underwriter assumes all of the financial risk of any unsold shares."
+  },
+  {
+    "id": "f1-20",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 14,
+    "topic": "Price Stabilization",
+    "question": "Which of the following statements BEST describes price stabilization?",
+    "choices": [
+      "placing a bid to maintain the price of a security",
+      "setting a price to ensure maximum profits with the sale of securities",
+      "setting the price of an offering made under Regulation D",
+      "a negotiated price agreed upon between the acquiring and target company in an acquisition"
+    ],
+    "answer": 0,
+    "explanation": "A price stabilization is made by an underwriter in relation to the offering of securities to support the price of the securities being offered. The underwriter will issue the stabilizing bid by making a notation so that the relevant Exchange where the security is trading is aware that it is a stabilizing price."
+  },
+  {
+    "id": "f1-21",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 9,
+    "topic": "Put Writers",
+    "question": "A put option writer has the ________to _________shares of the underlying securities when the option is exercised.",
+    "choices": [
+      "Right; buy",
+      "Right; sell",
+      "Obligation; buy",
+      "Obligation; sell"
+    ],
+    "answer": 2,
+    "explanation": "The seller of a put option has the obligation, and not the right, to buy shares of the underlying securities from the put option holder when the option is exercised.  The option would be exercised when the market price of the underlying security drops below the option's strike price.  When the option is exercised, the put option writer needs to purchase shares of the underlying security from the option holder for the strike price.  The option holder, and not the option writer, has the right to exercise the contract.  Finally, the writer of a call option, and not the writer of a put option, has the obligation to sell shares of the underlying security to the option holder when the contract is exercised."
+  },
+  {
+    "id": "f1-22",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 13,
+    "topic": "Underwriting Commitments",
+    "question": "Which of the following types of offerings offers the underwriter the least risk?",
+    "choices": [
+      "Firm commitment",
+      "Best efforts",
+      "Variable commitment",
+      "Public offering commitment"
+    ],
+    "answer": 1,
+    "explanation": "If the issuer is a smaller, less well-known company, it may engage in a best-efforts commitment with its underwriter. In this kind of agreement, the underwriter agrees to use its best efforts to sell the issuer's securities, but the underwriter does not guarantee that all the shares will be sold. The underwriter is not financially responsible for the securities it does not sell. Best efforts commitments are common for private offerings - also called private placements. In most cases, the investment bank will enter into what is called a firm commitment underwriting with the issuer of the securities. A firm commitment is an agreement that the underwriter will purchase all the securities at a discount and then sell the securities to the public at a public offering price. In this type of agreement, the underwriter is responsible for the marketing and sale of the securities and assumes all the risk of the offering, including the liability of any unsold shares. This is the most common type of underwriting commitment for a corporate offering, and it is preferred by most issuers. Variable commitment and public offering commitment are made-up terms."
+  },
+  {
+    "id": "f1-23",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 2,
+    "topic": "Dividends and Interest",
+    "question": "Which of the following investments would not pay a dividend?",
+    "choices": [
+      "Common stock",
+      "Preferred stock",
+      "Corporate bond",
+      "Mutual fund"
+    ],
+    "answer": 2,
+    "explanation": "Common and preferred stocks may pay dividends. Mutual funds may pay dividends as well as making capital gains distributions. Bonds pay interest."
+  },
+  {
+    "id": "f1-24",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 14,
+    "topic": "Price Stabilization",
+    "question": "An underwriter wishes to enter a stabilizing bid on the NYSE for a new issue, whose price has been dropping from its inception. The stabilizing bid must be:",
+    "choices": [
+      "only at the public offering price",
+      "only with approval from the issuer",
+      "at or below the public offering price",
+      "at or above the public offering price"
+    ],
+    "answer": 2,
+    "explanation": "Stabilizing bids must be placed at or below the public offering price (POP)."
+  },
+  {
+    "id": "f1-25",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 14,
+    "topic": "SIPC Coverage",
+    "question": "A customer has opened the following accounts:\n\nIndividual cash account\nIndividual margin account\nJoint cash account with husband\nCustodial account for minor child\n\nThis is treated as how many \"covered accounts\" in an SIPC liquidation?",
+    "choices": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 2,
+    "explanation": "Securities Investor Protection Corporation coverage is applied \"per customer name.\" If a customer has both an individual cash and margin account, they are treated as one account. The joint account with someone else is treated as a separate account. Finally, the custodial account for a minor child is treated as a separate account."
+  },
+  {
+    "id": "f1-26",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 16,
+    "topic": "Monetary Policy Tools",
+    "question": "Which tool would be used by the Federal Reserve to control inflation?",
+    "choices": [
+      "Adjusting tax rates",
+      "Adjusting the level of government spending",
+      "Adjusting the balance of payments",
+      "Adjusting the discount rate"
+    ],
+    "answer": 3,
+    "explanation": "Fiscal policy is set by Congress. It includes setting the level of government spending, setting tax rates, and setting the level of transfer payments such as social security payments. The balance of payments (level of imports versus the level of exports) is also influenced by fiscal policy.\n\nThe Federal Reserve sets monetary policy. Tools of the Fed include setting reserve requirements, open market operations, setting the discount rate, and setting margin rates. To memorize the 4 tools of the Fed, remember \"DORM.\"\n- D is Discount rate;\n- O is Open Market Operations;\n- R is Reserve Requirements; and\n- M is Margin on securities."
+  },
+  {
+    "id": "f1-27",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 1,
+    "topic": "Stock Splits",
+    "question": "The primary purpose of a corporate stock split is to:",
+    "choices": [
+      "dilute the reported earnings per share",
+      "reduce the market price of the stock to increase its accessibility to investors",
+      "avoid paying a cash dividend to shareholders",
+      "lower the risk of a takeover by increasing the number of shares outstanding"
+    ],
+    "answer": 1,
+    "explanation": "Corporations will split their stock when the market price gets too high, making the stock more accessible to investors.\n[Note - added by Claude] Cerifi's screen showed no Area of Study for this question. I filed it under Chapter 1 (Equities), where stock splits are covered."
+  },
+  {
+    "id": "f1-28",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 16,
+    "topic": "Economic Indicators",
+    "question": "A change in each of the following is a leading economic indicator EXCEPT:",
+    "choices": [
+      "new consumer goods orders",
+      "building permits",
+      "initial claims for unemployment",
+      "index of industrial production"
+    ],
+    "answer": 3,
+    "explanation": "The index of industrial production is a coincident economic indicator, since it is shows output levels as this occurs.\nInitial claims for unemployment (high levels indicate future production cutbacks), building permits (since the buildings will be built in the coming months, this shows future production levels), and new consumer goods orders (showing future production levels) are all leading indicators.\n[Note - added by Claude] Cerifi's screen showed no Area of Study for this question. I filed it under Chapter 16 (Economic Analysis and Tax Rules), where economic indicators are covered."
+  },
+  {
+    "id": "f1-29",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 16,
+    "topic": "Capital Loss Deduction",
+    "question": "A customer in a 37% tax bracket has $6,000 of capital gains and $10,000 of capital losses. How much loss is deductible from this year's tax return?",
+    "choices": [
+      "$3,000",
+      "$4,000",
+      "$6,000",
+      "$10,000"
+    ],
+    "answer": 0,
+    "explanation": "The customer has a capital gain of $6,000 and a capital loss of $10,000 for a net capital loss of $4,000. Only $3,000 of net capital losses can be deducted in a tax year, so $1,000 of the loss is carried forward to the next tax year. Note that the customer's tax bracket was not needed to answer the question.\n[Note - added by Claude] Cerifi's screen showed no Area of Study for this question. I filed it under Chapter 16 (Economic Analysis and Tax Rules), where capital gains and losses are covered."
+  },
+  {
+    "id": "f1-30",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 15,
+    "topic": "Guarantees Against Loss",
+    "question": "A customer buys 100 shares of ABC stock at $20 per share. Two months later, the stock is quoted at $10.00 - $10.50. The registered representative that sold the stock to the customer offers to repurchase the shares at $18. Which statement is TRUE?",
+    "choices": [
+      "This is prohibited because FINRA does not allow customer accounts to be guaranteed against loss",
+      "This is prohibited because the registered representative is interpositioning himself between the customer and the current \"inside\" market",
+      "This action is permitted, as long as the principal approves in writing prior to the proposed trade",
+      "This action is permitted as a method of maintaining customer \"goodwill\" with the firm"
+    ],
+    "answer": 0,
+    "explanation": "The action of repurchasing the customer's shares at a price higher than the current market to limit the customer's loss, is a prohibited practice under FINRA rules. Customers cannot be guaranteed against loss. If the market moves up, this customer wins; if it moves down, this customer loses.\n[Note - added by Claude] Cerifi's screen showed no Area of Study for this question. I filed it under Chapter 15 (SRO Rules), where prohibited practices under FINRA rules are covered."
+  },
+  {
+    "id": "f1-31",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 15,
+    "topic": "5% Mark-Up Policy",
+    "question": "Which statement is TRUE about the FINRA 5% Mark-Up Policy?",
+    "choices": [
+      "Secondary market transactions are required to have a 5% mark-up",
+      "Secondary market transactions are required to have a mark-up that is lower than 5%",
+      "Secondary market transactions must have a mark-up that is at least 5%",
+      "Secondary market transactions can have a mark-up that is either more or less than 5%"
+    ],
+    "answer": 3,
+    "explanation": "The FINRA 5% Mark-Up Policy applies to transactions in the secondary (trading market), with the exception of municipals, which are covered under a similar MSRB rule. It states that 5% is a guide - not a rule. The actual mark-up charged depends on the specifics of the transaction. Easy-to do transactions should be charged less; hard-to-do transactions can be charged more.\nThe rule is also a misnomer, because it applies to both principal transactions where a mark-up is charged, and agency transactions where a commission is charged.\n[Note - added by Claude] Cerifi's screen showed no Area of Study for this question. I filed it under Chapter 15 (SRO Rules), where the 5% policy is covered."
+  },
+  {
+    "id": "f1-32",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 15,
+    "topic": "Private Securities Transactions",
+    "question": "A registered representative employed by ABC broker/dealer is good friends with an independent venture capitalist. The venture capitalist asks the registered representative to obtain investors for a private placement that he is forming. Which statement is TRUE?",
+    "choices": [
+      "The registered representative can direct customers to the private placement since this is an exempt transaction",
+      "The registered representative cannot direct customers to the private placement since his broker-dealer is not the private placement sponsor",
+      "The registered representative can direct customers to the private placement only if the venture capitalist is a member of FINRA",
+      "The registered representative can direct customers to the private placement only with the prior written approval of his employer"
+    ],
+    "answer": 3,
+    "explanation": "Under FINRA rules, registered representatives are prohibited from effecting \"private securities transactions.\" As a registered representative, one is an agent for the firm and all transactions must be effected through the firm in one's agency capacity.\n\nHowever, FINRA does allow an exemption from this prohibition. If a registered representative:\n- provides written notice to the member of the transaction, and\n- details in writing any compensation to be received, and\n- obtains express approval in writing from the member firm,\n\nthen the associated person can perform the transaction. In addition, the member must record the transaction on its books as if it had been effected through the firm.\n[Note - added by Claude] Cerifi's screen showed no Area of Study for this question. I filed it under Chapter 15 (SRO Rules), where private securities transactions are covered."
+  },
+  {
+    "id": "f1-33",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 15,
+    "topic": "Principal Review of Communications",
+    "question": "All of the following would have to be reviewed by a principal EXCEPT:",
+    "choices": [
+      "Letters recommending securities to all clients of a registered representative",
+      "Complaint letters received from customers",
+      "Form letters mailed to all customers",
+      "Form letters for internal use within a firm"
+    ],
+    "answer": 3,
+    "explanation": "FINRA defines Communication with the Public as either:\n- Correspondence: A communication made available to 25 or fewer existing or prospective retail clients\n- Retail Communication: A communication made available to more than 25 existing or prospective retail clients\n\nRetail communications must be approved by a principal prior to use and can be required to be filed with FINRA. In contrast, correspondence is only subject to \"post use review and approval\" (as long as the firm has appropriate supervisory procedures in place) and cannot be required to be filed with FINRA.\nA \"Retail Communication\" is a very broad definition that includes advertising (seen by the general public) and sales literature (seen by a specific audience).\n- Advertising: TV, radio, newsprint, billboards, websites, internet bulletin boards\n- Sales Literature: Research reports, market letters or form letters delivered to more than 25 existing or prospective retail clients, scripted speeches delivered to more than 25 existing or prospective retail clients, password-protected websites\n\nInternal documents of a brokerage firm do not have to be reviewed by a manager or principal. Because the public does not see these, FINRA is not concerned with their content.\nAll customer complaint letters must also be reviewed and handled by a principal.\n[Note - added by Claude] Cerifi's screen showed no Area of Study for this question. I filed it under Chapter 15 (SRO Rules), where communications with the public are covered."
+  },
+  {
+    "id": "f1-34",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 12,
+    "topic": "Annuity Taxation",
+    "question": "Payments received by the owner of a tax qualified variable annuity are:",
+    "choices": [
+      "100% taxable as investment income",
+      "only taxable to the extent of earnings above the holder's cost basis",
+      "only taxable to the extent of the holder's cost basis",
+      "non-taxable"
+    ],
+    "answer": 0,
+    "explanation": "Funds paid into \"tax qualified\" retirement plans were never subject to tax, since the contribution amount was deductible from income at the time it was made. Earnings build up tax deferred in the plan. When distributions are taken, since none of the dollars in the plan were ever taxed, all of the distribution is taxable (these plans have a \"zero cost basis\").\nFunds paid into \"non-tax qualified\" retirement plans are not tax deductible. Any earnings build up tax deferred. When distributions are taken, the portion that represents the return of original after tax investment is not taxed; while the portion that represents the tax deferred earnings buildup is taxable.\n[Note - added by Claude] Cerifi's screen showed no Area of Study for this question. I filed it under Chapter 12 (Retirement Plans, Variable Annuities, and Municipal Fund Securities)."
+  },
+  {
+    "id": "f1-35",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 14,
+    "topic": "Margin on New Issues",
+    "question": "A corporation is preparing a registration statement for a new issue offering consisting of 300,000 new shares and 200,000 existing shares held by officers. Which statement is TRUE?",
+    "choices": [
+      "Only the 300,000 new shares can be purchased on margin",
+      "Only the 200,000 shares previously held by officers can be purchased on margin",
+      "All 500,000 shares can be purchased on margin",
+      "None of the shares can be purchased on margin"
+    ],
+    "answer": 3,
+    "explanation": "Under FRB rules \"new\" issues are not eligible for margin until 30 days after the offering. The definition of a \"new\" issue for the purposes of this rule is a prospectus offering. Both the primary and secondary shares held by the officers are being offered through the prospectus; so no margin is permitted.\n[Note - added by Claude] Cerifi's screen showed no Area of Study for this question. I filed it under Chapter 14 (Act of 1934 and Other Federal and State Regulations), where FRB margin rules are covered."
+  },
+  {
+    "id": "f1-36",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 11,
+    "topic": "Wrap Accounts",
+    "question": "A type of brokerage account where the customer is charged a single annual fee for all account services, regardless of activity in the account, is known as a:",
+    "choices": [
+      "fiduciary account",
+      "active trader account",
+      "wrap account",
+      "omnibus account"
+    ],
+    "answer": 2,
+    "explanation": "Wrap accounts are a type of customer account, where all services performed by the broker are \"wrapped\" into a single account; and a single annual fee based as a percentage of assets under management is charged. There is no commission charge for each transaction performed in such an account nor are charges imposed for safekeeping of securities. All services are covered in the single \"wrap\" fee.\n\nAlso note that \"wrap\" accounts, because they charge a flat annual fee and not commissions, are defined as investment adviser products. These must be sold through an investment adviser subsidiary of a broker-dealer, and the representatives that sell them must be registered as \"IARs\" - Investment Adviser Representatives - in each state where they offer the product.\n[Note - added by Claude] Cerifi's screen showed no Area of Study for this question. I filed it under Chapter 11 (Other Account Types), where wrap accounts are covered."
+  },
+  {
+    "id": "f1-37",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 11,
+    "topic": "Custodial Accounts",
+    "question": "Mr. Jones, a New York resident, is a widower with a 6 year old son. He opens an account for the son under the Uniform Gifts to Minors Act. Three years later, Mr. Jones remarries, and moves to California, a community property state. Under what conditions can Mrs. Jones enter orders into the UGMA account?",
+    "choices": [
+      "Only if a power of attorney is granted by the son",
+      "Only if a power of attorney is granted by Mr. Jones",
+      "Mrs. Jones can enter orders without restriction because California is a community property state",
+      "Mrs. Jones can not enter orders into the account under any circumstances"
+    ],
+    "answer": 3,
+    "explanation": "Custodial accounts are not permitted to have \"third parties\" that can trade the account. Only the custodian can enter orders. If the wife wishes, she can open a separate custodial account for the minor. The fact that California is a community property state is irrelevant to this question.\n[Note - added by Claude] Cerifi's screen showed no Area of Study for this question. I filed it under Chapter 11 (Other Account Types), where custodial accounts are covered."
+  },
+  {
+    "id": "f1-38",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 10,
+    "topic": "Senior Investors and Suitability",
+    "question": "In order to adequately assess the suitability of a recommendation to a customer that is a senior citizen, the member should make reasonable efforts to obtain all of the following information about the customer EXCEPT:",
+    "choices": [
+      "Age",
+      "Life stage",
+      "Liquidity needs",
+      "General health status"
+    ],
+    "answer": 3,
+    "explanation": "In its suitability rule, FINRA does not explicitly address the needs of senior citizens. However, in a separate notice to members, FINRA has stated that a customer's age and life stage are both important factors when performing a suitability determination for a senior citizen. It states that as investors age, their investment time horizons, goals, risk tolerance and tax status often change, and that liquidity takes on added importance.\nGeneral health status has nothing to do with suitability.\n[Note - added by Claude] Cerifi's screen showed no Area of Study for this question. I filed it under Chapter 10 (Individual Customer Accounts and Suitability)."
+  },
+  {
+    "id": "f1-39",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 7,
+    "topic": "Stop and Limit Orders",
+    "question": "If a customer has a gain on a long stock position that he or she wishes to protect, which statement is TRUE?",
+    "choices": [
+      "A sell stop order will be entered below the current market price",
+      "A sell stop order will be entered above the current market price",
+      "A sell limit order will be entered below the current market price",
+      "A sell limit order will be entered above the current market price"
+    ],
+    "answer": 0,
+    "explanation": "The customer will \"lose\" the gain on a long stock position if the market begins to fall. To sell out the position in a falling market, the order must be a sell stop order (placed below the market). Sell limit orders are used to sell if the market rises.\n[Note - added by Claude] Cerifi's screen showed no Area of Study for this question. I filed it under Chapter 7 (Trading Markets), where stop and limit orders are covered."
+  },
+  {
+    "id": "f1-40",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 8,
+    "topic": "DTC",
+    "question": "What entity was created to maintain an electronic book entry record of stock ownership and to handle a high volume of daily transactions?",
+    "choices": [
+      "DTC",
+      "FINRA",
+      "OCC",
+      "MSRB"
+    ],
+    "answer": 0,
+    "explanation": "Depository Trust and Clearing Corporation (DTCC, sometimes just called DTC), is owned by U.S. banks and brokerage firms. It is the central clearing house for stock and bond transactions, and also maintains custody of both physical certificated securities and electronic book-entry securities. The OCC (Options Clearing Corporation) performs a similar function for the options markets.\n[Note - added by Claude] Cerifi's screen showed no Area of Study for this question. I filed it under Chapter 8 (Trade Processing and Settlement), where clearing and depositories are covered.\n[Note - added by Claude] DTC and DTCC are not the same entity. DTC (Depository Trust Company) is a subsidiary of DTCC (Depository Trust & Clearing Corporation). DTC is the depository that keeps the book-entry record of ownership, which is what this question asks about."
+  },
+  {
+    "id": "f1-41",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 16,
+    "topic": "Cost Basis",
+    "question": "In January, 20XX a customer buys 100 shares of ABC stock at $30 per share and pays a $1 commission per share. The customer receives $1 in cash dividends during the year. The customer's cost basis in the stock is:",
+    "choices": [
+      "$29 per share",
+      "$30 per share",
+      "$31 per share",
+      "$32 per share"
+    ],
+    "answer": 2,
+    "explanation": "When the stock is purchased, any commission paid is not deductible - it is part of the cost basis of the shares. Thus, the cost basis for tax purposes is $30 + $1 commission = $31 per share. The $1 dividend received is included in taxable income for this year, and is not part of the stock's cost basis.\n[Note - added by Claude] Cerifi's screen showed no Area of Study for this question. I filed it under Chapter 16 (Economic Analysis and Tax Rules), where cost basis is covered."
+  },
+  {
+    "id": "f1-42",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 6,
+    "topic": "Open-End Fund Pricing",
+    "question": "An open end fund has a Net Asset Value of $10 per share. The minimum price at which a share can be purchased is:",
+    "choices": [
+      "$10",
+      "$10 plus a commission",
+      "the market price",
+      "the market price plus a commission"
+    ],
+    "answer": 0,
+    "explanation": "Mutual fund (open-end management company) shares are newly issued by the fund to any purchaser. The purchaser pays the next computed Net Asset Value plus a sales charge if the fund imposes a \"sales load.\" For a \"no load\" fund, the customer would simply pay Net Asset Value - this is the minimum price for an open-end fund.\nThis contrasts to a closed end fund, where the fund is traded in the market like any other stock. Any purchaser would pay the prevailing market price (which can be below, at, or above Net Asset Value) and would have to pay a commission to have the trade executed. Thus, a closed-end fund share is purchased at the prevailing market price plus a commission.\n[Note - added by Claude] Cerifi's screen showed no Area of Study for this question. I filed it under Chapter 6 (Packaged Products), where mutual fund pricing is covered."
+  },
+  {
+    "id": "f1-43",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 6,
+    "topic": "Shareholder Reports",
+    "question": "Mutual funds must send their financial statements to shareholders:",
+    "choices": [
+      "once a year",
+      "two times per year",
+      "three times per year",
+      "four times per year"
+    ],
+    "answer": 1,
+    "explanation": "Mutual funds must send their financial statements to shareholders semi-annually (twice a year).\n[Note - added by Claude] Cerifi's screen showed no Area of Study for this question. I filed it under Chapter 6 (Packaged Products), where mutual fund reports are covered."
+  },
+  {
+    "id": "f1-44",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 6,
+    "topic": "Fund Distributions and Taxes",
+    "question": "If a regulated mutual fund pays out a dividend and capital gains distribution, which the shareholder has automatically reinvested, which statement is TRUE?",
+    "choices": [
+      "Only the dividend is taxable",
+      "Only the capital gain is taxable",
+      "Both the dividend and the capital gain are taxable",
+      "Neither the dividend nor the capital gain are taxable"
+    ],
+    "answer": 2,
+    "explanation": "Every year that the fund distributes dividends and capital gains, both must be included on that year's income tax return - whether or not the investor reinvests the monies in additional fund shares or whether the investor takes the monies as cash.\n[Note - added by Claude] Cerifi's screen showed no Area of Study for this question. I filed it under Chapter 6 (Packaged Products), where fund distributions are covered."
+  },
+  {
+    "id": "f1-45",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 5,
+    "topic": "Bond Counsel",
+    "question": "The municipal bond counsel opines on all of the following EXCEPT:",
+    "choices": [
+      "validity",
+      "legality",
+      "feasibility",
+      "tax exempt status"
+    ],
+    "answer": 2,
+    "explanation": "The bond counsel examines new municipal issues for legal or tax problems and renders an opinion on the validity, legality and tax exempt status of the issue.\nBond counsels do not render economic opinions, which is the same as rendering an opinion on feasibility of an issue.\n[Note - added by Claude] Cerifi's screen showed no Area of Study for this question. I filed it under Chapter 5 (Municipal Debt and Money Market Instruments), where bond counsel is covered."
+  },
+  {
+    "id": "f1-46",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 15,
+    "topic": "Churning",
+    "question": "A broker-dealer that is guilty of churning may best be described to have engaged in:",
+    "choices": [
+      "Excessive buying and selling chiefly to generate commissions",
+      "Making discretionary trades without the customer's consent",
+      "Trading on behalf of retail customers without determining their suitability",
+      "Executing transactions without regard to obtaining a fair price for its customers"
+    ],
+    "answer": 0,
+    "explanation": "Churning is excessive trading in a customer's account to generate commissions. Churning is a prohibited practice. A discretionary trade is one made by the broker without the customer's knowledge. This practice is not allowed without the customer's prior written consent. Broker-dealers are also required to determine its customers' suitability for trading and to make reasonable efforts to obtain a fair market price.\n[Note - added by Claude] Cerifi's screen showed no Area of Study for this question. I filed it under Chapter 15 (SRO Rules), where prohibited practices are covered."
+  },
+  {
+    "id": "f1-47",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 12,
+    "topic": "IRA Withdrawals",
+    "question": "A person can start withdrawing from his or her Individual Retirement Account without penalty at age:",
+    "choices": [
+      "50 1/2",
+      "59 1/2",
+      "60 1/2",
+      "72"
+    ],
+    "answer": 1,
+    "explanation": "Before age 59 1/2, distributions from an IRA are subject to regular income tax plus a 10% penalty tax. Afterwards, withdrawals are subject to regular tax; but not to the 10% penalty tax.\n[Note - added by Claude] Cerifi's screen showed no Area of Study for this question. I filed it under Chapter 12 (Retirement Plans, Variable Annuities, and Municipal Fund Securities)."
+  },
+  {
+    "id": "f1-48",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 6,
+    "topic": "ETFs",
+    "question": "ETFs are:",
+    "choices": [
+      "non-negotiable",
+      "redeemable",
+      "traded on exchanges",
+      "traded over-the-counter"
+    ],
+    "answer": 2,
+    "explanation": "Exchange Traded Funds, as the name says, trade on stock exchanges. Most are AMEX (now renamed the NYSE American) listed, but there are ETFs on the NYSE and Nasdaq as well.\n[Note - added by Claude] Cerifi's screen showed no Area of Study for this question. I filed it under Chapter 6 (Packaged Products), where ETFs are covered."
+  },
+  {
+    "id": "f1-49",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 6,
+    "topic": "Breakpoints",
+    "exhibit": "      $0 -    $50,000  5%\n $50,001 -   $100,000  4%\n$100,001 -   $250,000  3%\n$250,001 - $1,000,000  2%",
+    "exhibitMono": true,
+    "question": "A customer has the following holdings in the ACME Fund Family:\n\nACME Growth Fund: $225,000\nACME Balanced Fund: $120,000\nACME International Fund: $15,000\n\nACME Funds has the following breakpoint schedule:\n\nThe customer wishes to buy another $60,000 of ACME Growth Fund. The sales charge that will be imposed is:",
+    "choices": [
+      "4%",
+      "3%",
+      "2%",
+      "0%"
+    ],
+    "answer": 2,
+    "explanation": "Mutual fund breakpoints are applied to the entire \"family\" of funds offered by a sponsor. This customer has a total $360,000 investment in the ACME fund family. Another $60,000 purchase brings the customer's position up to $420,000; and the applicable breakpoint on the $60,000 purchase is 2% from the breakpoint schedule shown.\n[Note - added by Claude] Cerifi's screen showed no Area of Study for this question. I filed it under Chapter 6 (Packaged Products), where breakpoints are covered."
+  },
+  {
+    "id": "f1-50",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 8,
+    "topic": "Introducing and Clearing Firms",
+    "question": "Which statement is TRUE about an introducing broker-dealer?",
+    "choices": [
+      "Introducing broker-dealers keep custody of customer funds and securities",
+      "Introducing broker-dealers send customers trade confirmations and statements of account",
+      "Introducing broker-dealers maintain their accounts at a clearing firm",
+      "Introducing broker-dealers cannot be FINRA members"
+    ],
+    "answer": 2,
+    "explanation": "An \"introducing\" broker-dealer signs a clearing agreement with a clearing firm. The introducing broker-dealer \"introduces\" its accounts into the clearing firm, which keeps custody of client positions and which acts as the \"back office.\" It is the clearing firm's responsibility to send trade confirmations and statements to the introducing firm's customers. Introducing firms do not hold customer funds or securities, and are subject to much lower net capital requirements.\n\nAny broker-dealer, whether it be clearing, introducing, or market making, must be a FINRA member.\n[Note - added by Claude] Cerifi's screen showed no Area of Study for this question. I filed it under Chapter 8 (Trade Processing and Settlement), where clearing agreements are covered."
+  },
+  {
+    "id": "f1-51",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 11,
+    "topic": "Corporate Accounts",
+    "question": "Under FINRA rules, all of the following are necessary to open a corporate account EXCEPT:",
+    "choices": [
+      "New account form",
+      "Corporate charter",
+      "Shareholder approval",
+      "Corporate resolution"
+    ],
+    "answer": 2,
+    "explanation": "To open a corporate account under FINRA rules, a new account form must be filled out, a copy of the corporate charter must be obtained (for proof of identity), and an authorizing resolution must be completed by the corporation. The resolution authorizes the opening of the account, names the persons who are authorized to trade, and is signed and sealed by the Secretary of the corporation.\nShareholder approval is not necessary for opening a new corporate account.\n[Note - added by Claude] Cerifi's screen showed no Area of Study for this question. I filed it under Chapter 11 (Other Account Types), where corporate accounts are covered."
+  },
+  {
+    "id": "f1-52",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 10,
+    "topic": "Suitability",
+    "question": "Under FINRA rules, to ascertain which investments are suitable for the customer, the registered representative would NOT generally inquire about the customer's:",
+    "choices": [
+      "Existing investment holdings",
+      "Current investment objective",
+      "Financial situation and needs",
+      "Daily living expenses"
+    ],
+    "answer": 3,
+    "explanation": "\"Suitability\" means that securities which are recommended to a customer are appropriate for that customer. To ascertain which investments are suitable for the customer, FINRA states that the basis for making the recommendation are the facts disclosed by the customer about his or her other security holdings and financial situation and needs. Inquiry should be made as the customer's investment objective, tax status, and financial status.\nInquiring about the customer's daily living expenses might be a little too intrusive to ask.\n[Note - added by Claude] Cerifi's screen showed no Area of Study for this question. I filed it under Chapter 10 (Individual Customer Accounts and Suitability)."
+  },
+  {
+    "id": "f1-53",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 5,
+    "topic": "Official Statement",
+    "question": "Issuers of municipal bonds offer what in the place of a prospectus?",
+    "choices": [
+      "A special SEC agreement",
+      "A disclosure document called an official statement",
+      "A document marked alternative to prospectus",
+      "A bond resolution"
+    ],
+    "answer": 1,
+    "explanation": "An official statement is a document containing detailed information about the bonds and the financial condition of the issuer, as well as a legal opinion verifying the municipality's authority to issue the bond.\n[Note - added by Claude] Cerifi's screen showed no Area of Study for this question. I filed it under Chapter 5 (Municipal Debt and Money Market Instruments), where official statements are covered."
+  },
+  {
+    "id": "f1-54",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 13,
+    "topic": "Prospectus Delivery",
+    "question": "Prospectus delivery is required for:",
+    "choices": [
+      "newly issued treasury bonds",
+      "existing common stock issues",
+      "municipal bond issues",
+      "open-end investment company issues"
+    ],
+    "answer": 3,
+    "explanation": "Delivery of a prospectus is required for primary distributions of corporate stocks and bonds, but not exempt securities such as municipal bonds and U.S. Treasuries. Purchases of open-end investment companies (mutual funds) always require a prospectus because they are always considered to be a new issue.\n[Note - added by Claude] Cerifi's screen showed no Area of Study for this question. I filed it under Chapter 13 (Primary Market), where prospectus delivery is covered."
+  },
+  {
+    "id": "f1-55",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 3,
+    "topic": "Bond Ratings",
+    "question": "A bond is rated BBB by Standard and Poor's. The bond is:",
+    "choices": [
+      "Highest Quality Investment Grade",
+      "High Quality Investment Grade",
+      "Lowest Quality Investment Grade",
+      "Highest Level Speculative Grade"
+    ],
+    "answer": 2,
+    "explanation": "A BBB rating is the lowest investment grade rating for a bond. The investment grade ratings are AAA, AA, A, and BBB.\n[Note - added by Claude] Cerifi's screen showed no Area of Study for this question. I filed it under Chapter 3 (Additional Bond Features and Risks), where bond ratings are covered."
+  },
+  {
+    "id": "f1-56",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 1,
+    "topic": "Authorized, Issued, and Outstanding Shares",
+    "question": "Issued shares would be:",
+    "choices": [
+      "Outstanding shares + treasury shares",
+      "Authorized shares - treasury shares",
+      "Treasury shares + issued shares",
+      "Outstanding shares - authorized shares"
+    ],
+    "answer": 0,
+    "explanation": "Authorized shares are what the corporation has listed in its articles of incorporation. Authorized shares is a big, somewhat arbitrary number reflecting what could be issued, not what has been issued. The portion of authorized stock that has been sold to shareholders is called issued stock. Treasury stock represents shares of issued stock that have been repurchased by the company and removed from public circulation. Treasury stock is treated as though it is still in the hands of the shareholder, in this case the corporation, hence it is still considered issued stock, however it has no voting rights and pays no dividends. When treasury stock is withdrawn from issued stock, the amount of stock remaining in circulation is the number of shares outstanding. Shares outstanding represents all shares in circulation and it is this number that is used to determine market capitalization and earnings per share.\n[Note - added by Claude] Cerifi's screen showed no Area of Study for this question. I filed it under Chapter 1 (Equities), where share classifications are covered."
+  },
+  {
+    "id": "f1-57",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 4,
+    "topic": "Debentures",
+    "question": "Debentures are unsecured bonds backed by:",
+    "choices": [
+      "The full faith and credit of the United States government",
+      "Physical property or other real assets",
+      "The full faith and credit of the issuer",
+      "The full faith and credit of the third-party trust"
+    ],
+    "answer": 2,
+    "explanation": "Debentures are unsecured bonds generally issued by well-established companies with high credit ratings and purchased in the belief that the issuer is unlikely to default.\n[Note - added by Claude] Cerifi's screen showed no Area of Study for this question. I filed it under Chapter 4 (Corporate and U.S. Government Debt), where debentures are covered."
+  },
+  {
+    "id": "f1-58",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 15,
+    "topic": "Form U4",
+    "question": "All of the following must be disclosed on a U4 Form by an individual applying for registration with a member firm EXCEPT:",
+    "choices": [
+      "The individual's primary residence for the past 5 years",
+      "The individual's employers for the past 10 years",
+      "Any foreign bank accounts currently owned by the individual",
+      "If the individual has declared bankruptcy or is the subject to a financial judgment or lien on assets"
+    ],
+    "answer": 2,
+    "explanation": "There is no requirement to disclose bank accounts on the U4 Form.On the U4, the individual must disclose residence addresses for the past 5 years (that way, if the authorities want to find that person, they know where to look!).The prior 10 years' employers must be disclosed. Note, however, that if the individual has declared bankruptcy or is the subject to a financial judgment or lien on assets, these must be disclosed.\n[Note - added by Claude] Cerifi's screen showed no Area of Study for this question. I filed it under Chapter 15 (SRO Rules), where registration forms are covered."
+  },
+  {
+    "id": "f1-59",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 6,
+    "topic": "Shareholder Voting Rights",
+    "question": "Shareholders in a management company have all of the following rights EXCEPT the right to vote:",
+    "choices": [
+      "to change the investment objective of the fund",
+      "for the investment adviser",
+      "for the Board of Directors",
+      "on the dividend distribution amount"
+    ],
+    "answer": 3,
+    "explanation": "Shareholders in a management company have the right to vote for the Board of Directors; to vote for changes in the investment objective; to vote annually on the investment adviser; and to receive semi-annual and annual reports. The dividend distribution is not decided on by the investors of the fund - it is decided by the Board of Directors.\n[Note - added by Claude] Cerifi's screen showed no Area of Study for this question. I filed it under Chapter 6 (Packaged Products), where management company shareholder rights are covered."
+  },
+  {
+    "id": "f1-60",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 9,
+    "topic": "Protective Put Breakeven",
+    "question": "Janice buys 1 XYZ Mar 20 put for a premium of $2. At the same time, she buys 100 shares of XYZ stock for $20 per share. If Janice decides to sell her 100 shares of XYZ when the put expires, at which per-share price does XYZ need to be trading for her to avoid losing money on her investment?",
+    "choices": [
+      "$2",
+      "$18",
+      "$20",
+      "$22"
+    ],
+    "answer": 3,
+    "explanation": "Janice pays $200 for her put options (100 shares in an options contract x $2 per share). Thus she would need the proceeds from her sale of XYZ stock to produce a $200 gain to counteract the amount she has paid out. Since she purchased 100 shares, this means the market value of the stock needs to be $2 higher when she sells it than it was when she bought it (100 shares x $2 = $200). So Janice would need the stock to be trading at $22 per share when her options contract expires to break even on her investments.\n[Note - added by Claude] Cerifi's screen showed no Area of Study for this question. I filed it under Chapter 9 (Options), where protective puts are covered."
+  },
+  {
+    "id": "f1-61",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 3,
+    "topic": "Junk Bonds",
+    "question": "A high yield is characteristic of a:",
+    "choices": [
+      "Municipal bond",
+      "Convertible bond",
+      "Zero-coupon bond",
+      "Junk bond"
+    ],
+    "answer": 3,
+    "explanation": "A high yield is characteristic of a junk bond. Corporations issuing junk bonds generally have lower credit ratings with a higher risk of default. The higher the risk of the bond, the higher the yield the company offers on their bonds.\n[Note - added by Claude] Cerifi's screen showed no Area of Study for this question. I filed it under Chapter 3 (Additional Bond Features and Risks), where junk bonds are covered."
+  },
+  {
+    "id": "f1-62",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 9,
+    "topic": "Hedging with Options",
+    "question": "A customer purchases 10,000 shares of AAA stock. To protect the position, she should:",
+    "choices": [
+      "purchase 10 AAA call options",
+      "purchase 100 AAA call options",
+      "purchase 10 AAA put options",
+      "purchase 100 AAA put options"
+    ],
+    "answer": 3,
+    "explanation": "In order to hedge a long stock position against a downside market move, the best choice is to buy a put. The long put option allows the holder to put (sell) the stock at the exercise price if the market falls - protecting the stock position from downside market risk.\nNote: The client would need to buy 100 puts to hedge the 10,000 shares since each put would protect 1 round lot or 100 shares of stock. (100 puts x 100 shares each = 10,000 shares protected)\n[Note - added by Claude] Cerifi's screen showed no Area of Study for this question. I filed it under Chapter 9 (Options), where hedging is covered."
+  },
+  {
+    "id": "f1-63",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 10,
+    "topic": "Liquidity and Suitability",
+    "question": "Which of the following would not be suitable for someone interested in a safe, liquid investment?",
+    "choices": [
+      "A bank-issued CD",
+      "A Treasury bill",
+      "A municipal bond",
+      "A treasury inflation protected security"
+    ],
+    "answer": 2,
+    "explanation": "Though each of the answer choices would be considered a low-risk security, a municipal bond is not considered a liquid investment. Bank-issued CDs and all Treasury securities are considered both safe and liquid investments.\n[Note - added by Claude] Cerifi's screen showed no Area of Study for this question. I filed it under Chapter 10 (Individual Customer Accounts and Suitability), where liquidity needs are covered."
+  },
+  {
+    "id": "f1-64",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 6,
+    "topic": "Fund Types",
+    "question": "An investor wishes to buy mutual fund shares that have investments in computer and high technology companies. Based on this information, the appropriate recommendation is a:",
+    "choices": [
+      "balanced fund",
+      "hedge fund",
+      "sector fund",
+      "dual purpose fund"
+    ],
+    "answer": 2,
+    "explanation": "A sector fund invests in a specific industry or geographic area. Because of the lack of diversification, there is greater gain potential, as well as higher risk.\n[Note - added by Claude] Cerifi's screen showed no Area of Study for this question. I filed it under Chapter 6 (Packaged Products), where fund types are covered."
+  },
+  {
+    "id": "f1-65",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 3,
+    "topic": "Purchasing Power Risk",
+    "question": "An investor who purchases a bond in the midst of rising inflation rates is most likely to be subject to which of the following types of risk?",
+    "choices": [
+      "Exchange rate risk",
+      "Purchasing power risk",
+      "Market risk",
+      "Political risk"
+    ],
+    "answer": 1,
+    "explanation": "Purchasing power risk is the same thing as inflationary risk -- it is the probability that the value of an investment may not keep pace with inflation. Inflation may move prices up every year, affecting buyers of bonds. For example, an investor who purchases a bond with a 6% coupon and 5 years until maturity will experience purchasing power risk if inflation outpaces the coupon rate. The bond must outperform the inflation rate to avoid losing value in terms of inflation-adjusted dollars.\n[Note - added by Claude] Cerifi's screen showed no Area of Study for this question. I filed it under Chapter 3 (Additional Bond Features and Risks), where bond risks are covered."
+  },
+  {
+    "id": "f1-66",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 16,
+    "topic": "Business Cycle",
+    "question": "Over a period of 12 months, prices of goods and services decreased by 2%. Prospective investors are intrigued by the falling prices, but most choose to hold off on investment for now because they expect further declines in market prices. This signals that the economy is in a period of:",
+    "choices": [
+      "depression",
+      "prosperity",
+      "deflation",
+      "recession"
+    ],
+    "answer": 2,
+    "explanation": "Deflation is characterized by two key elements:\n1. A decrease in the general price level of goods and services\n2. The expectation of further price declines, which leads to delayed spending/investment\n\nWhile recessions and depressions involve broader economic decline:\n- Deflation: Specifically describes falling prices AND the expectation of continued price declines\n- Recession: Defined as two consecutive quarters of declining GDP\n- Depression: A severe and prolonged downturn, lasting a minimum of 18 months or six quarters\n- Prosperity: Period of economic growth typically characterized by rising prices (often seen as equivalent to the peak of the expansionary period)\n[Note - added by Claude] Cerifi's screen showed no Area of Study for this question. I filed it under Chapter 16 (Economic Analysis and Tax Rules), where the business cycle is covered."
+  },
+  {
+    "id": "f1-67",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 9,
+    "topic": "Option Breakeven",
+    "question": "If Irving Investor is short an ELP Jun 50 call at 5, and the stock is currently trading at 60, what is his breakeven point?",
+    "choices": [
+      "$45",
+      "$55",
+      "$50",
+      "none of the choices listed"
+    ],
+    "answer": 1,
+    "explanation": "The breakeven point for calls is calculated by adding the premium to the strike price. $50 + $5 = $55. The actual stock price is irrelevant.\n[Note - added by Claude] Cerifi's screen showed no Area of Study for this question. I filed it under Chapter 9 (Options), where breakeven calculations are covered."
+  },
+  {
+    "id": "f1-68",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 1,
+    "topic": "Preferred Stock Dividends",
+    "question": "A customer buys 100 shares preferred at $110 per share. The par value is $100. The dividend rate is 5%. Assuming dividends are paid semi-annually, each dividend payment will be:",
+    "choices": [
+      "$250",
+      "$275",
+      "$500",
+      "$550"
+    ],
+    "answer": 0,
+    "explanation": "The annual rate is 5% x $100 par value = $5 per share x 100 shares = $500. Assuming the preferred dividends are paid semi-annually, each payment is $250.\n[Note - added by Claude] Cerifi's screen showed no Area of Study for this question. I filed it under Chapter 1 (Equities), where preferred stock is covered."
+  },
+  {
+    "id": "f1-69",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 2,
+    "topic": "Zero Coupon Bonds",
+    "question": "Zero coupon bonds:",
+    "choices": [
+      "pay interest semi-annually",
+      "pay interest annually",
+      "are bought at a discount and mature at par",
+      "are bought at a par and mature at a premium"
+    ],
+    "answer": 2,
+    "explanation": "Zero-coupon bonds are often called \"capital appreciation bonds\" since the bondholder does not receive annual interest payments from the issuer. Instead, the bonds are bought at a discount from par, and are redeemed at par at maturity (similar to savings bonds). The discount is earned over the life of the bond and is the \"income\" from this type of investment.\n[Note - added by Claude] Cerifi's screen showed no Area of Study for this question. I filed it under Chapter 2 (Debt Fundamentals), where zero coupon bonds are covered."
+  },
+  {
+    "id": "f1-70",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 14,
+    "topic": "Securities Exchange Act of 1934",
+    "question": "All of the following are covered under the Securities Exchange Act of 1934 EXCEPT:",
+    "choices": [
+      "registration of broker-dealers",
+      "registration of new issues",
+      "stabilization of new issues",
+      "registration of exchanges"
+    ],
+    "answer": 1,
+    "explanation": "The Securities Act of 1933 requires registration of non-exempt new issues. The Securities Exchange Act of 1934 requires registration of exchanges and their members with the SEC, and allows stabilization of new issues in the secondary market under prescribed conditions.\n[Note - added by Claude] Cerifi's screen showed no Area of Study for this question. I filed it under Chapter 14 (Act of 1934 and Other Federal and State Regulations)."
+  },
+  {
+    "id": "f1-71",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 12,
+    "topic": "Variable Annuity Disclosure",
+    "question": "In order to recommend a variable annuity to a customer, the representative must inform the customer, in general terms, about all of the following EXCEPT:",
+    "choices": [
+      "potential surrender period and surrender charge",
+      "potential tax penalty",
+      "mortality and expense fees",
+      "premium reductions available for enhanced riders"
+    ],
+    "answer": 3,
+    "explanation": "Consider this to be a learning question. To recommend a variable annuity, the representative must have a reasonable basis to believe that the customer has been informed, in general terms, about the material features of the variable annuity.\nThese include the potential surrender period and surrender charge, potential tax penalty, mortality and expense fees, charges for and expenses of enhanced riders (a very popular rider, at a cost, is a GMIB - a Guaranteed Minimum Income Benefit), insurance and investment components and market risk.\nEnhanced riders increase the premium cost - they do not reduce premium cost!\n[Note - added by Claude] Cerifi's screen showed no Area of Study for this question. I filed it under Chapter 12 (Retirement Plans, Variable Annuities, and Municipal Fund Securities)."
+  },
+  {
+    "id": "f1-72",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 1,
+    "topic": "Cumulative Voting",
+    "question": "The voting process by which an investor may use their total number of votes (number of shares owned times number of seats) to vote for just one candidate even when there are multiple seats open is known as:",
+    "choices": [
+      "statutory voting",
+      "preferred voting",
+      "cumulative voting",
+      "common voting"
+    ],
+    "answer": 2,
+    "explanation": "Common stockholders have voting rights on important matters such as electing the board of directors. Depending on the corporation, investors will use either statutory or cumulative voting. The total number of votes that an investor gets is the number of shares owned times the number of open seats on the board. Under cumulative voting, shareholders can allocate their total number of votes unevenly among the number of open seats. For example, if ABC company has four seats open on the board of directors, and an investor owns 100 shares of ABC company, this investor will get a total of 400 votes. The investor could allocate the 400 votes unevenly among the four seats, even choosing to use all 400 votes for a single candidate. Under statutory voting, an investor can only vote up to the number of shares owned for each open seat. So, in our example, the investor would only get 100 votes for each of the four seats.\n[Note - added by Claude] Cerifi's screen showed no Area of Study for this question. I filed it under Chapter 1 (Equities), where shareholder voting is covered."
+  },
+  {
+    "id": "f1-73",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 13,
+    "topic": "Cooling Off Period",
+    "question": "An underwriter is planning a road show for a new IPO. Which of the following actions is permitted during the road show?",
+    "choices": [
+      "Accepting indications of interest",
+      "Guaranteeing a maximum purchase price",
+      "Taking a deposit for an order",
+      "Providing a final prospectus"
+    ],
+    "answer": 0,
+    "explanation": "A road show takes place during the cooling off period. During this period, the underwriter is not allowed to accept deposits for firm orders, promise a price for a future order, or provide a copy of the final prospectus. They are permitted to accept indications of interest and provide a red herring (a preliminary prospectus.)\n[Note - added by Claude] Cerifi's screen showed no Area of Study for this question. I filed it under Chapter 13 (Primary Market), where the cooling off period is covered."
+  },
+  {
+    "id": "f1-74",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 1,
+    "topic": "Common Stock",
+    "question": "A typical share of common stock has all of the following properties, except:",
+    "choices": [
+      "It is an equity security.",
+      "It is callable.",
+      "It grants voting rights.",
+      "It is freely transferable."
+    ],
+    "answer": 1,
+    "explanation": "Callability is the right of a security's issuer to \"call \" the security, meaning that the security holder must return it to the issuer in exchange for some compensation defined in the call provision. Callability is much more common with bonds than stocks.Common stock is a form of equity. Common shareholders generally have the right to vote for corporate directors and to vote on corporate resolutions. Non-voting common stock does exist, but is rare. Typical common stock is freely transferable, with some exceptions such as restricted shares purchased in a private placement.\n[Note - added by Claude] Cerifi's screen showed no Area of Study for this question. I filed it under Chapter 1 (Equities), where common stock is covered."
+  },
+  {
+    "id": "f1-75",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 12,
+    "topic": "529 Plans",
+    "question": "A woman in the highest tax bracket has $105,000 to invest for her teenage child's college education. She wants to make sure that, if he doesn't attend college, that he will not have access to these funds. She should be advised to make the investment in a:",
+    "choices": [
+      "Coverdell ESA",
+      "529 Plan",
+      "UTMA account",
+      "Growth mutual fund"
+    ],
+    "answer": 1,
+    "explanation": "The keys here are that the parent wishes to maintain control and wishes to save for college. A 529 Plan allows the parent to maintain control - the kid has no access to the account. There are no income limits on opening a 529 Plan, and this parent is in the highest tax bracket. She cannot open a Coverdell ESA because these are not available to high earners. An UTMA account would allow the kid to control the account at the age of transfer, so this is not the best choice. A growth mutual fund would be taxable each year, while the purchase of a growth mutual fund in a 529 Plan would grow tax free. The 529 Plan is the way to go!\n[Note - added by Claude] Cerifi's screen showed no Area of Study for this question. I filed it under Chapter 12 (Retirement Plans, Variable Annuities, and Municipal Fund Securities)."
+  },
+  {
+    "id": "f1-76",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 2,
+    "topic": "Yield Measures",
+    "question": "For bonds trading at a premium, rank the yield measures from highest to lowest:",
+    "choices": [
+      "Yield to Maturity, Current, Yield to Call, Nominal",
+      "Nominal, Current, Yield to Maturity, Yield to Call",
+      "Current, Nominal, Yield to Maturity, Yield to Call",
+      "Yield to Call, Yield to Maturity, Nominal, Current"
+    ],
+    "answer": 1,
+    "explanation": "When bonds are trading at a premium, the yield to call will be the lowest measure since the annual return is reduced by the annual amortized portion of the premium that will be \"lost\" over the life of the bond to the call date.\nThe next highest yield will be the yield to maturity, since the premium will be lost over a longer \"life\" than if the bond is called early.\nCurrent yield will be higher than yield to maturity, since it does not include the annual premium loss.\nStated yield will be the highest since it is the return based on par value.\n[Note - added by Claude] Cerifi's screen showed no Area of Study for this question. I filed it under Chapter 2 (Debt Fundamentals), where yield measures are covered."
+  },
+  {
+    "id": "f1-77",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 7,
+    "topic": "Bid, Ask, and Market Orders",
+    "question": "Assuming shares of Scary Clown Entertainment are trading as follows:\n\nLast: 9.05 Bid: 9 Ask: 9.35\n\nWhat is the price a customer will get for a market order to sell?",
+    "choices": [
+      "9",
+      "9.01",
+      "9.05",
+      "9.35"
+    ],
+    "answer": 0,
+    "explanation": "The \"bid\" price is the price a market maker is offering to pay, and the \"ask\" (or offer) is the price a market maker is offering to sell for. The bid-ask (or bid-offer) spread is the difference. A market order is an order to buy or sell immediately, at \"the market.\" A customer who wants to buy immediately will pay at the ask (offer) price and a customer who wants to sell immediately will get the bid price. In this case, the bid price is $9 per share so a customer wanting to sell at the market should get that price.\n[Note - added by Claude] Cerifi's screen showed no Area of Study for this question. I filed it under Chapter 7 (Trading Markets), where quotes and market orders are covered."
+  },
+  {
+    "id": "f1-78",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 2,
+    "topic": "Equity vs. Debt",
+    "question": "Which of the following represents a major difference between equity and debt securities?",
+    "choices": [
+      "Debt securities represent a loan to the issuing company, while equity securities represent ownership in the issuing company",
+      "The value of debt securities is not influenced by economic conditions, while the value of equity securities is influenced by them",
+      "The maximum profit for equity securities is limited by the amount invested, while the maximum profit for debt securities is not limited",
+      "Equity securities trade in the secondary market, while debt securities do not"
+    ],
+    "answer": 0,
+    "explanation": "By definition debt securities are a promise-to-pay made by the issuer for a fixed amount of money lent by the investor who purchases the securities. Equity securities represent shares of partial ownership in the issuing company purchased by investors. Both equity and debt securities are influenced by economic conditions, though each may be more popular during different economic phases. Also, maximum profit for equity securities is unlimited, while the profits associated with debt securities are usually limited by their fixed nature. Finally, both equity and debt securities trade in the secondary market.\n[Note - added by Claude] Cerifi's screen showed no Area of Study for this question. I filed it under Chapter 2 (Debt Fundamentals), where debt securities are compared with equity."
+  },
+  {
+    "id": "f1-79",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 3,
+    "topic": "Exchange Rate Risk",
+    "question": "All of the following statements regarding currency exchange rate risk are true, except:",
+    "choices": [
+      "The value of an international investment could be affected by changes in currency exchange rates.",
+      "Currency exchange rate risk may be heightened by an increase in regulatory risk.",
+      "A U.S. investor in a Japanese security benefits when the U.S. dollar strengthens against the Japanese yen.",
+      "Currency exchange rate risk may be heightened by an increase in political risk."
+    ],
+    "answer": 2,
+    "explanation": "Exchange risk, also called foreign exchange risk or currency risk, is the risk that an investment in a foreign security may lose its value due to a strengthening of the U.S. dollar against the foreign country's currency. For example, imagine that you invest in a Japanese security that is trading on a Japanese exchange. If the dollar strengthens against the Japanese yen, you will get fewer American dollars when you sell your Japanese security.Political risk is associated with investments in foreign countries where the political process may be unstable (e.g., a country at risk of civil war). One of the effects of political risk is that it may heighten currency exchange rate risk.Regulatory risk is the risk that a regulator will make decisions that negatively affect an investment. Since exchange rates are affected by the decision of regulators, regulatory risk affects currency exchange rate risk. An example of increased regulatory risk resulting in increased exchange rate risk is if the Federal Reserve adopts a strong-dollar policy. If the Fed succeeds in strengthening the dollar against foreign currencies, this could harm U.S. investors in foreign securities.\n[Note - added by Claude] Cerifi's screen showed no Area of Study for this question. I filed it under Chapter 3 (Additional Bond Features and Risks), where investment risks are covered."
+  },
+  {
+    "id": "f1-80",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 1"
+    },
+    "chapter": 5,
+    "topic": "Municipal Bond Taxation",
+    "question": "Interest income from municipal bonds purchased by a resident of the issuing State is:",
+    "choices": [
+      "exempt from Federal, State and Local tax",
+      "exempt from Federal tax and subject to State and Local tax",
+      "subject to Federal tax and exempt from State and Local tax",
+      "subject to Federal, State and Local tax"
+    ],
+    "answer": 0,
+    "explanation": "The interest income from municipal bonds is exempt from Federal income tax; but is subject to State and Local tax. However, if a bond is purchased by a State resident, then the State exempts that issue from taxation as well.\n[Note - added by Claude] Cerifi's screen showed no Area of Study for this question. I filed it under Chapter 5 (Municipal Debt and Money Market Instruments), where municipal bond taxation is covered."
+  }
+]
