@@ -5,18 +5,20 @@ A study app for the SIE exam. React 19 + Vite 8, deployed to GitHub Pages via Gi
 ## People and machines
 
 - Yash uses this project (shared Claude account with his brother Dev — check who is talking before you use anything from personal memory).
-- Two copies of this repo exist:
-  - Cloud: `/home/claude/sie-study` — Claude edits, validates, and commits here.
-  - Mac: `~/repos/sie-study` — Yash reviews and runs `git commit` / `git push` here himself. Claude never pushes.
-- Cross-machine workflow for every change:
-  1. Edit files in the cloud repo. Run `node scripts/validate.mjs` before committing anything.
-  2. Commit in the cloud repo with:
-     `git -c user.name="Yash Desai" -c user.email="y2gj8gvj9d@privaterelay.appleid.com" commit -qm "<message>"`
-  3. Copy changed files to `/mnt/user-data/outputs/<same relative path>`.
-  4. `mcp__remote-devices__device_commit_files` with `{devicePath: "/Users/Yash/repos/sie-study/<path>", stagedPath: "/mnt/user-data/outputs/<path>"}` for each file.
-  5. `mcp__remote-devices__device_bash`: `cd $HOME/mnt/repos/sie-study && node scripts/validate.mjs && git add -A; rm -f .git/index.lock; git status --short`
-     - A stale `.git/index.lock` shows up after almost every `device_bash` git call — the `rm -f` step clears it. Delete permission for `/Users/Yash/repos` was already granted, so this works without asking again.
-  6. Tell Yash what's staged. He runs `git commit` and `git push` on the Mac himself.
+- The repo lives on the Mac at `~/repos/sie-study`. Claude edits it in place through the device bridge, where it mounts at `$HOME/mnt/sie-study` in `device_bash`. There is no cloud copy of the repo — don't clone one. Content uploads are plain JSON edits; staging files across machines just creates two copies that drift.
+- Workflow for every change:
+  1. Edit in place with `device_bash`. Write a whole file with a quoted heredoc, or merge a new batch with a short python script. Keep scratch files in `$HOME` **outside** `mnt/` — anything written inside the repo shows up in `git status` and you may not be able to delete it (see below).
+  2. `cd $HOME/mnt/sie-study && node scripts/validate.mjs` — node is installed on the Mac. Must report 0 errors.
+  3. Stage: `cd $HOME/mnt/sie-study && git add -A; rm -f .git/index.lock; git status --short`
+  4. Tell Yash what's staged. He runs `git commit` and `git push` on the Mac himself. Claude never commits and never pushes.
+
+### The `.git/index.lock` problem (read this before your first git call)
+
+Git leaves a stale 0-byte `.git/index.lock` after almost every `device_bash` git call. It blocks your next `git add` *and* Yash's `git commit`, so it has to be removed.
+
+Deletion is disabled by default in every new session: the first `rm -f` fails with `Operation not permitted`. Fix it once, early, with `device_request_delete_permission` on `/Users/Yash/repos/sie-study`. It lasts the whole session.
+
+**Word the `reason` carefully.** Yash declined this once because "enable file deletion in this folder" read as though the project itself was at risk. Name the actual files — something like: *"Only to remove git's stale .git/index.lock (0 bytes, blocks your commits) and my scratch file. No question data or project files are deleted."* If he still declines, don't retry: leave the lock in place and tell him to run `rm -f .git/index.lock` on the Mac before committing.
 
 ## Content pipeline
 
@@ -32,7 +34,8 @@ Yash uploads Cerifi screenshots in batches (e.g. "Q21-40"). For each question:
 - **No Area of Study shown:** when Cerifi's screen doesn't show a chapter/Area of Study for a question, pick the chapter yourself by subject matter and add:
   `[Note - added by Claude] Cerifi's screen showed no Area of Study for this question. I filed it under Chapter N (<name>), where <topic> is covered.`
 - If Yash later supplies his own manually-checked chapter list for an exam, treat it as authoritative and cross-check/update against it.
-- Exhibits (tables, schedules, etc. shown above a question) go in the `exhibit` field; use `exhibitMono: true` for anything tabular/monospace (breakpoint schedules, calendars).
+- Exhibits (tables, schedules, etc. shown above a question) go in the `exhibit` field; use `exhibitMono: true` for anything tabular/monospace (breakpoint schedules, calendars). Cerifi's question text stays verbatim — lift only the table out of it, leaving the lead-in sentence ("...the following share classes:") in place. See `f1-49` and `f3-36` for the pattern.
+- Check the arithmetic on any calculation question against Cerifi's stated answer before filing it, and report that you did.
 
 ## Question schema
 
@@ -57,17 +60,18 @@ Each question file is a JSON array of objects:
 - `source.type` must be one of: `chapter`, `mastery`, `final`, `random_final`, `quick_quiz` (enforced by `scripts/validate.mjs`).
 - `source.name` is the display name used on the Exams page (e.g. `"Mastery Exam II"`, `"Final Exam 3"`) — sorted numerically there, so name it consistently.
 - `chapter` is the chapter number (1-16, see `src/data/chapters.js` for names/FINRA areas).
-- IDs are prefixed per exam and sequential: `chNN-##` for chapters (actual prefixes vary, check the file), `m#-##` for mastery, `f##-##` for final, presumably `rf-##` for random final and `qq##-##` for quick quizzes (not started yet — confirm naming with Yash when that section starts, then keep it consistent).
+- IDs are prefixed per exam and sequential: `chNN-##` for chapters (actual prefixes vary, check the file), `m#-##` for mastery, `f#-##` for final (e.g. `f3-01` … `f3-80`), presumably `rf-##` for random final and `qq##-##` for quick quizzes (not started yet — confirm naming with Yash when that section starts, then keep it consistent).
+- After merging a batch, assert the ids form an unbroken sequence before writing. A silent gap is the easiest mistake to make and the hardest to spot later.
 
 ## File naming
 
 `src/data/questions/`:
 - `ch01.json` … `ch16.json` — chapter exams (done, all 16).
 - `mastery1.json` … `mastery4.json` — mastery exams I-IV (done, all 4).
-- `final01.json` … `final02.json` so far, up to `final10.json` — final exams (2 of 10 done as of this writing; 80 questions each, 800 total planned).
+- `final01.json` … `final10.json` — final exams, 80 questions each, 800 total planned. Done so far: `final01`, `final02`, `final03` (3 of 10).
 - Not started yet: 1 random final exam file, and 49 quick quiz files (or one combined file — decide when that batch starts).
 
-Always run `node scripts/validate.mjs` after adding/editing a file — it checks ids (unique, present), `source.type`, chapter is a positive integer, choices/answer range, and that `exhibit` is a string if present. It prints a running total question count; use that to sanity-check progress.
+Always run `node scripts/validate.mjs` after adding/editing a file — it checks ids (unique, present), `source.type`, chapter is a positive integer, choices/answer range, and that `exhibit` is a string if present. It prints a running total question count; use that to sanity-check progress. Totals at milestones: 710 after Final Exam 2, 790 after Final Exam 3.
 
 ## App structure (for context, not usually touched during content uploads)
 
@@ -81,4 +85,4 @@ Always run `node scripts/validate.mjs` after adding/editing a file — it checks
 
 - Once ALL content is uploaded (16 chapters ✅, 4 masteries ✅, 10 finals, 1 random final, 49 quick quizzes), remind Yash to export flashcards (Settings → Export backup) so they can be merged into `src/data/flashcards.json`.
 - Don't push to GitHub or run `git push` — that's Yash's step on the Mac.
-- Prefer starting a new chat session per big batch of work (e.g. one final exam) over piling everything into one long session — keeps each session's context small and cheap. This file exists so a fresh session doesn't need the full backstory repeated in chat.
+- Prefer starting a new chat session per big batch of work (one final exam per session works well) over piling everything into one long session — keeps each session's context small and cheap. This file exists so a fresh session doesn't need the full backstory repeated in chat.
