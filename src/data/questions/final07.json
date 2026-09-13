@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "f7-01",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 4,
+    "question": "A Treasury bond is exempt from:",
+    "choices": [
+      "Federal income tax",
+      "State and local income tax",
+      "Federal, state and local income tax",
+      "Capital gains tax"
+    ],
+    "answer": 1,
+    "explanation": "The general rule you should remember is that the federal government can't tax interest income from municipal bonds, and municipal governments can't tax interest income from federal bonds. (There are some exceptions for municipal bonds that channel funds to private entities.) Treasury bonds are federal bonds, so municipal governments can't tax the interest. The federal government can and does tax interest income from its own bonds. Income and capital gains are separate topics. Interest income is not a capital gain. You might earn a capital gain on a bond if you resell it for more than you paid for it. The capital gain will have no special tax exemption at any level."
+  },
+  {
+    "id": "f7-02",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 10,
+    "question": "Under SEC Regulation Best Interest, when would a broker-dealer be allowed to put its interests above the interests of a retail customer to whom it is making a recommendation?",
+    "choices": [
+      "Never",
+      "When the broker-dealer discloses that it is putting its interests above the interests of the customer",
+      "When the recommendation is suitable for the customer",
+      "When the broker-dealer does not have a conflict of interest when making the recommendation"
+    ],
+    "answer": 0,
+    "explanation": "Regulation BI requires broker-dealers and their associated persons to act in their retail customers' best interest at the time that a recommendation is made, without placing the financial or other interests of the firm ahead of their customers' interests. This is true regardless of any disclosures the broker-dealer makes. Regulation BI applies even when the recommendation is free from conflicts of interest."
+  },
+  {
+    "id": "f7-03",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 14,
+    "question": "The securities laws of ________ are known as blue sky laws.",
+    "choices": [
+      "The federal government",
+      "Foreign countries",
+      "State governments",
+      "The European Union"
+    ],
+    "answer": 2,
+    "explanation": "“Blue sky laws” are a common name for state securities laws. The purpose of a blue sky law is to protect a state's investors against securities fraud, and they are typically enforced by a state securities regulator. Blue sky laws vary from state to state, but most are based on a piece of model legislation called the Uniform Securities Act."
+  },
+  {
+    "id": "f7-04",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 9,
+    "question": "A customer sells 1 ABC Jul 40 Put at $6 when the market price of ABC is $38. The breakeven point is:",
+    "choices": [
+      "$32",
+      "$34",
+      "$44",
+      "$46"
+    ],
+    "answer": 1,
+    "explanation": "The writer collected $6 in premiums by obligating him- or herself to buy the stock at $40. If exercised, the customer's net outlay is $34 for the stock. To breakeven, he or she must be able to sell the position for $34. To summarize, the formula for breakeven on a short put is:\n\nShort Put Breakeven = Strike Price - Premium"
+  },
+  {
+    "id": "f7-05",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 1,
+    "question": "Common stockholders have all of the following \"rights\" EXCEPT:",
+    "choices": [
+      "Right to vote for the Board of Directors",
+      "Right to vote for the annual dividend rate",
+      "Pre-emptive right",
+      "Rights to corporate assets upon dissolution"
+    ],
+    "answer": 1,
+    "explanation": "Common shareholders do not set the dividend rate – this decision is made by the Board of Directors of the company. Common shareholders do have the right to vote for the Board of Directors, the pre-emptive right to any new common shares that the company may issue so that their ownership stake would not be diluted by such an action, and the right to remaining corporate assets upon dissolution."
+  },
+  {
+    "id": "f7-06",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 9,
+    "question": "What is the regular-way settlement for an options trade?",
+    "choices": [
+      "T+1",
+      "T+2",
+      "T+3",
+      "T+4"
+    ],
+    "answer": 0,
+    "explanation": "An investor with a cash account is supposed to pay for any securities she purchases by the regular way settlement date, which is the first business day after the trade date for stocks, corporate bonds, and treasuries. We sometimes see this referred to as T+1, for trade date plus one business day. Sellers must deliver the securities by the settlement date as well. Under Regulation T, the investor is given a grace period of two additional business days past the settlement date to come up with the payment, but the investor's broker-dealer must cover the payment by the settlement date."
+  },
+  {
+    "id": "f7-07",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 6,
+    "question": "An inverse ETF might be suitable for an investor:",
+    "choices": [
+      "Who anticipates a rising market",
+      "Who wants to hedge",
+      "Who wants to invest for the long-term",
+      "Who is living on a fixed income"
+    ],
+    "answer": 1,
+    "explanation": "Inverse ETFs use derivative products such as equity futures and swaps to seek a return the opposite of an underlying index. Instead of rising 2%, an inverse ETF would drop 2%. An inverse ETF might be desirable in a market that is trending downward. Inverse ETFs may be used to hedge against a drop in the market by sophisticated, risk-tolerant investors or to profit through a market-timing strategy. Because of their high risk and volatility, investors should not hold inverse ETFs for more than one day. Inverse ETFs are typically unsuitable for retail investors, especially those on a fixed income."
+  },
+  {
+    "id": "f7-08",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 12,
+    "question": "Which of the following annuity options will usually pay the lowest level of income?",
+    "choices": [
+      "straight life payout",
+      "life with period certain",
+      "joint life with 10-year period certain",
+      "joint life with 20-year period certain"
+    ],
+    "answer": 3,
+    "explanation": "Because this payout is based upon two lives and has a longer certain period in which to pay out, it will mathematically be the lowest per month of the four choices listed."
+  },
+  {
+    "id": "f7-09",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 16,
+    "question": "Money moving into the U.S. economy versus money going out of the U.S. economy is tracked by:",
+    "choices": [
+      "balance of payments",
+      "balance of trades",
+      "GNP",
+      "GDP"
+    ],
+    "answer": 0,
+    "explanation": "Balance of payments refers to money moving into the U.S. economy versus money going out of the U.S. economy. The balance of payments can be an indicator of whether the country has had a deficit (more money going out) or a surplus (more money coming in)."
+  },
+  {
+    "id": "f7-10",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 6,
+    "question": "Yesterday shares in the ABC closed-end fund traded for $15. Today shares in the same fund sold for $15.35. If the NAV today is $15.50, which of the following is true?",
+    "choices": [
+      "Sold at a discount of $0.15",
+      "Sold at a discount of $0.35",
+      "Sold at a premium of $0.15",
+      "Sold at a premium of $0.35"
+    ],
+    "answer": 0,
+    "explanation": "Since ABC shares were purchased for less than the NAV, they must be selling at a discount. If they were selling at a premium, they would sell for more than the NAV which is not the case in this question. To determine the discount, subtract the price from the NAV ($15.50 - $15.35 = $0.15). Closed end funds (CEFs) have the following characteristics:\n• Fixed number of shares, issued in an IPO.\n• Not redeemable, instead traded on secondary market, often on an exchange\n• May trade at a premium or discount to NAV\n• CEF portfolios are generally managed by an investment advisor\n• Higher expenses, often over 1%\n• Often use leverage, which is accomplished by issuing auction rate securities, preferred stock, long-term debt, or reverse-repurchase agreements.\n• Leverage a fund uses is expressed as a percent of total fund assets (e.g. if it has a 25% leverage ratio, that means that for each $100 of total assets under management, $75 is equity and $25 is debt).\n• Can invest in a variety of assets, including debt, equity and derivatives\n• May pay dividends monthly rather than quarterly\n• Are usually actively managed\n• Are subject to SEC registration and regulation under both the Securities Act of 1933 and the Investment Company Act of 1940\n• May use options to boost income, for example equity CEFs may sell call options against their stock portfolio\n• CEFs trade on exchanges like ETFs, but because institutional buyers may redeem shares of an ETF for creation units (a basket of the fund's underlying assets) ETF prices do not stray far from the NAV price. CEFs have no such arbitrage reduction mechanism built in, they are priced purely by supply and demand in the secondary market which means that CEF prices can and do vary substantially from their NAV."
+  },
+  {
+    "id": "f7-11",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 6,
+    "question": "Which class share of mutual funds typically charges a front-end sales charge?",
+    "choices": [
+      "class A shares",
+      "class B shares",
+      "class C shares",
+      "institutional shares"
+    ],
+    "answer": 0,
+    "explanation": "Mutual funds have different class shares. The different class shares are based on how the fee will be charged to the investor purchasing the mutual fund. Class A shares charge a front-end fee (usually called a front-end load)."
+  },
+  {
+    "id": "f7-12",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 6,
+    "question": "The cost of marketing and distributing a mutual fund is collected by a:",
+    "choices": [
+      "12b-1 fee",
+      "Front end sales charge",
+      "Back-end sales charge",
+      "Management fee"
+    ],
+    "answer": 0,
+    "explanation": "12b-1 fees are charged to recoup the expenses of selling, marketing and distributing the fund. They include the cost of advertising and the salaries of the fund's sales people."
+  },
+  {
+    "id": "f7-13",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 10,
+    "question": "A summary of a firm's business continuity plan must be posted on the firm's web site and it must be given to customers when they open an account. What additional BCP disclosure is required?",
+    "choices": [
+      "It must be included annually in customer statements",
+      "It must be mailed to customers upon request",
+      "It must be posted on BrokerCheck",
+      "It must be posted on the firm's Facebook page"
+    ],
+    "answer": 1,
+    "explanation": "FINRA requires member firms to provide a written BCP summary to new customers, to post a BCP summary on their web site (if the firm has one), and to mail it to customers upon request."
+  },
+  {
+    "id": "f7-14",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 11,
+    "question": "The hypothecation agreement allows for which of the following:",
+    "choices": [
+      "The pledging of securities as collateral",
+      "The changing of margin requirements",
+      "The terms of the margin loan",
+      "The right to liquidate options"
+    ],
+    "answer": 0,
+    "explanation": "The hypothecation agreement is part of the documentation used to open a margin account. It specifically refers to the pledging of securities as collateral."
+  },
+  {
+    "id": "f7-15",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 10,
+    "question": "When can a broker-dealer put a freeze on an account because of suspicion that the power of attorney (POA) or guardian is abusing the account?",
+    "choices": [
+      "If the accountholder is over 65 and the broker-dealer has a suspicion that the guardian is abusing the account",
+      "If the accountholder is over 65 and the broker-dealer has evidence that the guardian is abusing the account",
+      "If the accountholder is over 65 and the POA or guardian has made at least one withdrawal from the account and the broker-dealer suspects that the guardian or POA is abusing the account",
+      "If the accountholder is over 65 and the POA or guardian has made at least one withdrawal from the account and the broker-dealer has evidence that the guardian or POA is abusing the account"
+    ],
+    "answer": 0,
+    "explanation": "As long as the customer is a specified adult, the BD only needs to have a reasonable belief that the customer may be a victim of financial exploitation to put a hold on the account. A specified adult is defined as a natural person who is at least 65 years old or at least 18 years old with a mental or physical condition that prevents them from protecting their own interests."
+  },
+  {
+    "id": "f7-16",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 3,
+    "question": "Which of the following investments is least susceptible to liquidity risk?",
+    "choices": [
+      "DPPs",
+      "Municipal securities",
+      "Hedge Funds",
+      "Exchange-traded common stocks"
+    ],
+    "answer": 3,
+    "explanation": "Liquidity risk is the risk that an investor will not be able to quickly sell an investment at a fair price. Stocks and bonds traded on an exchange or with an active secondary market tend to have lower liquidity risk. Fewer investors are interested in DPPs and municipal securities thus their liquidity risk is higher. Hedge funds typically have periods of time in which shares may not be sold (lockup periods) so liquidity can be severely limited."
+  },
+  {
+    "id": "f7-17",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 1,
+    "question": "Which of the following is not a type of preferred stock?",
+    "choices": [
+      "Cumulative",
+      "Senior",
+      "Convertible",
+      "Participating"
+    ],
+    "answer": 1,
+    "explanation": "The four types of preferred stock are cumulative, participating, convertible, and callable. Senior is not a term associated with preferred stock types."
+  },
+  {
+    "id": "f7-18",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 3,
+    "question": "Most equity securities are subject to what type of risk?",
+    "choices": [
+      "regulatory risk",
+      "political risk",
+      "market risk",
+      "liquidity risk"
+    ],
+    "answer": 2,
+    "explanation": "All securities have prices that move one way or the other depending on many factors, including interest rates, inflation rates, and numerous other reasons. Because the price of all securities is able to fluctuate, securities are collectively subject to market risk. Market risk refers to the risk that the entire market will decline, and hence the value of a specific investment will decline with it."
+  },
+  {
+    "id": "f7-19",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 3,
+    "question": "According to Standard & Poor's, which rating would be considered to have significant speculative characteristics?",
+    "choices": [
+      "A",
+      "Ba",
+      "BB",
+      "F"
+    ],
+    "answer": 2,
+    "explanation": "According to Standard & Poor's, BB and below is considered to have significant speculative characteristics. 'Ba' is a distinction of Moody's rating system and F is not a valid rating."
+  },
+  {
+    "id": "f7-20",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 3,
+    "question": "Credit risk is most highly associated with which of the following types of investment?",
+    "choices": [
+      "Treasuries",
+      "Corporate bonds",
+      "REITs",
+      "Common stocks"
+    ],
+    "answer": 1,
+    "explanation": "Generally, credit risk, also known as default risk, is the risk that a debtor will not pay a lender what it owes. Credit risk is significant to bondholders because bonds are debt securities. Credit risk has two parts. First, it is the risk that an issuer's perceived or actual creditworthiness will drop, causing the issuer's bonds to lose value. Second, it is the risk that the issuer will default on a bond issue and, therefore, not pay bondholders owed interest or principal. Treasury securities have practically no credit risk. Real Estate Investment Trusts (REITs) are a form equity in the real estate industry so no credit risk, and common stocks are equity ownership so no credit risk."
+  },
+  {
+    "id": "f7-21",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 13,
+    "question": "All of the following are objectives of the road show EXCEPT:",
+    "choices": [
+      "accept orders",
+      "emphasize the attributes of the issuer",
+      "collect indications of interest",
+      "use demand data to determine the price"
+    ],
+    "answer": 0,
+    "explanation": "The road show takes place during the cooling-off period, during which no orders may be accepted."
+  },
+  {
+    "id": "f7-22",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 13,
+    "question": "According to Regulation D, which of the following are NOT considered \"accredited investors?\"",
+    "choices": [
+      "An individual with an annual earned income of $250,000 for each of the last two years",
+      "An individual with a net worth of $1,500,000, not counting his or her home",
+      "A married couple who each have an annual earned income of $125,000 for two years",
+      "A bank"
+    ],
+    "answer": 2,
+    "explanation": "Accredited investors are individuals who earned more than $200,000/year for the last two years, or married couples who jointly earned more than $300,000/year for the last two years, or individuals (or married couples) who have a net worth greater than $1,000,000, excluding their primary residence. To qualify as an accredited investor on the basis of income, the individual or married couple must have exceeded the threshold for the past two years."
+  },
+  {
+    "id": "f7-23",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 13,
+    "question": "Which of the following is true of advertising for a security during the cooling-off period?",
+    "choices": [
+      "It is not allowed in any form",
+      "It is typically done in the form of a tombstone ad",
+      "It can include as much information about a security as an issuer would like to make available",
+      "It represents an offer to sell the securities"
+    ],
+    "answer": 1,
+    "explanation": "The SEC generally prohibits advertisements about a new securities offering during the cooling-off period. An exception is a tombstone ad. A tombstone ad provides general information to the public and it does not represent an offer to sell."
+  },
+  {
+    "id": "f7-24",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 16,
+    "question": "A fully diversified portfolio that is matched to a broad-based market index has:",
+    "choices": [
+      "no risk",
+      "systematic risk",
+      "nonsystematic risk",
+      "both systematic and nonsystematic risk"
+    ],
+    "answer": 1,
+    "explanation": "The basic idea of diversification of a portfolio is that it reduces risk. If a portfolio consists of only a few positions, an adverse event affecting one of the positions can result in a big loss. If the portfolio consists of a broad range of positions, an adverse event affecting only a single position will not have as big a negative impact.\nA portfolio that is fully diversified still has risk. It is said to only have \"systematic\" risk, which is the same as market risk. If the overall market drops, the portfolio will likely drop by a similar percentage.\nA portfolio that is not fully diversified is said to have both \"systematic\" and \"nonsystematic\" risk. As more and more positions are added to the portfolio, the \"nonsystematic\" risk is diversified away, leaving the portfolio only with \"systematic\" risk."
+  },
+  {
+    "id": "f7-25",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 16,
+    "question": "An investor in a limited partnership generating passive losses can offset these against:",
+    "choices": [
+      "REIT dividends",
+      "income generated from direct investments in real estate",
+      "dividends received from blue chip corporations",
+      "capital gains generated from the sale of securities"
+    ],
+    "answer": 1,
+    "explanation": "Under the Tax Code, passive losses can only be offset against passive income. They cannot be offset against portfolio income (interest, dividends, capital gains) or earned income. Passive income and loss is defined as that derived from real estate investments and limited partnership interests."
+  },
+  {
+    "id": "f7-26",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 16,
+    "question": "All of the following would be taxed at \"earned income\" rates under IRS regulations EXCEPT:",
+    "choices": [
+      "Dividend payments received",
+      "Social security payments received",
+      "Royalty payments received",
+      "Bonus payments received"
+    ],
+    "answer": 0,
+    "explanation": "Earned income, under the tax code, has different definitions, depending on the regulation involved. The income items that are taxed at \"earned income\" rates (currently a maximum of 37%) includes wages, bonuses, social security payments, and royalties received (such as royalties earned for writing a book).\nInterest income received is classified as \"portfolio\" income. Portfolio income, depending on the type, can be taxed at lower rates (for example, cash dividends received are currently taxed at a maximum of 15% unless an individual is in the maximum tax bracket, in which case cash dividends are taxed at 20%; while interest received is taxed at a maximum of 37%)."
+  },
+  {
+    "id": "f7-27",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 8,
+    "question": "A FINRA member firm's research department has prepared a report on ACME Corp. that changes the firm's recommendation from \"Buy\" to \"Hold.\" Based on this information, a registered representative calls all of his customers and tells them that \"This report will create an exceptional opportunity to buy this stock at a more favorable price. I recommend you increase the size of your holdings.\" This action:",
+    "choices": [
+      "requires the prior approval of the branch manager",
+      "requires the prior approval of FINRA",
+      "misrepresents the findings of the firm's research report",
+      "is consistent with the findings of the firm's research report"
+    ],
+    "answer": 2,
+    "explanation": "Since this firm's research department is downgrading the stock (recommending that no additional purchases be made), the registered representative has misrepresented the report's findings."
+  },
+  {
+    "id": "f7-28",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 15,
+    "question": "A golf pro at the country club where a registered representative is a member wants to refer prospective customers to the representative in exchange for a small fee. Which statement is TRUE?",
+    "choices": [
+      "This is permitted since the referral payment is small",
+      "This is permitted if the representative discloses the existence of the relationship to each referred client",
+      "This is permitted as long as the payment is limited to less than 8 1/2% of the amount invested",
+      "This is prohibited"
+    ],
+    "answer": 3,
+    "explanation": "Registered representatives can only share commissions or pay referral fees to other registered persons at the same broker-dealer. Thus, paying referral fees to the golf pro is prohibited."
+  },
+  {
+    "id": "f7-29",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 14,
+    "question": "A customer has a margin account at a broker-dealer that goes bankrupt. The account holds $800,000 of securities and has a $400,000 debit balance. The customer will receive:",
+    "choices": [
+      "$400,000 in cash",
+      "$400,000 in securities",
+      "$500,000 of securities after the debit balance is paid off and becomes a general creditor for the remaining $300,000",
+      "The customer will receive $500,000 of cash and $300,000 of securities"
+    ],
+    "answer": 1,
+    "explanation": "The SIPC coverage limit of $500,000 in securities is based on the equity in a customer's account. An account with $800,000 in securities and a $400,000 debit has $400,000 of equity. The customer will receive $400,000 of securities in the liquidation."
+  },
+  {
+    "id": "f7-30",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 13,
+    "question": "Under Rule 147, intrastate offerings cannot be resold out of state for how long after the initial sale date?",
+    "choices": [
+      "6 months",
+      "12 months",
+      "18 months",
+      "24 months"
+    ],
+    "answer": 0,
+    "explanation": "Rule 147 requires that resale of securities sold under the intrastate exemption be restricted to intrastate only for 6 months following first sale. Thereafter, they can be resold interstate. Note, however, that because these securities were never registered with the SEC, they cannot be publicly traded. The only way to resell them is in a \"private transaction.\""
+  },
+  {
+    "id": "f7-31",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 13,
+    "question": "Which of the following actions on the part of a corporation would require a registration statement filing with the SEC under Rule 145?",
+    "choices": [
+      "Stock dividend distribution",
+      "Stock split",
+      "Merger with another publicly held company",
+      "Cash dividend distribution"
+    ],
+    "answer": 2,
+    "explanation": "Corporate distributions that result in an issuer distributing the exact same class of security to existing shareholders do not require a registration statement filing with the SEC. Thus, a corporation distributing a stock dividend or splitting its stock would not require a registration statement filing. A cash dividend distribution does not create a new security and therefore does not require a registration statement filing.\n\nHowever, if a corporation spins off a subsidiary to its shareholders, the shareholders are receiving stock in a different company, so a registration statement must be filed for those shares. If a corporation merges with another publicly held company, a new corporation is being created, and a registration statement must be filed as well."
+  },
+  {
+    "id": "f7-32",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 13,
+    "question": "All of the following are exempt issues under the Securities Act of 1933 EXCEPT:",
+    "choices": [
+      "U.S. Government Bonds",
+      "Savings and Loan Issues",
+      "Real Estate Investment Trusts",
+      "Municipal Revenue Bonds"
+    ],
+    "answer": 2,
+    "explanation": "Real Estate Investment Trusts are regulated similarly to Investment Companies, and their securities are non-exempt and must be registered under the Securities Act of 1933. U.S. Government issues, savings and loan issues, and municipal issues are exempt."
+  },
+  {
+    "id": "f7-33",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 13,
+    "question": "Excluding the percentage of the outstanding shares test, the maximum permitted sale under Rule 144 is the weekly average of the last:",
+    "choices": [
+      "2 weeks' trading volume",
+      "4 weeks' trading volume",
+      "8 weeks' trading volume",
+      "12 weeks' trading volume"
+    ],
+    "answer": 1,
+    "explanation": "Rule 144 allows the sale of 1% of the issuer's outstanding shares or the weekly average of the preceding 4 weeks' trading volume (whichever is greater) to be sold every 90 days."
+  },
+  {
+    "id": "f7-34",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 12,
+    "question": "Which statement is TRUE regarding variable annuities during the accumulation phase?",
+    "choices": [
+      "Periodic payments of fixed or varying dollar amounts can be made into the separate account",
+      "All payments into the contract must be made in a lump sum at the time of purchase",
+      "Periodic distributions of fixed dollar amounts can be made to the holder from the separate account",
+      "Periodic distributions of varying dollar amounts can be made to the holder from the separate account"
+    ],
+    "answer": 0,
+    "explanation": "During the accumulation phase of a variable annuity contract, money can be paid into the plan; but distributions cannot be taken.\nWhen distributions commence in the annuity phase, no more monies can be paid into the plan.\nThus, the accumulation phase allows payments to be made into the plan; but distributions cannot be taken out of the plan."
+  },
+  {
+    "id": "f7-35",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 13,
+    "question": "All of the following statements are true regarding the use of a \"red herring\" prior to the effective date of a securities registration EXCEPT:",
+    "choices": [
+      "it includes the issue's final Public Offering Price",
+      "it is used to help publicize the issue, without legally being considered an \"advertisement\"",
+      "it is used to solicit indications of interest",
+      "its use ends when the Final Prospectus is available"
+    ],
+    "answer": 0,
+    "explanation": "The \"red herring\" is used during the 20- day cooling off period to solicit indications of interest in the issue. This helps the underwriters gauge public interest in the issue; and helps the underwriters to set the final Public Offering Price.\nThe \"red herring\" is not legally considered to be an offer or advertisement of the issue - these are prohibited activities under the Securities Act of 1933. However, it does help publicize the issue without running afoul of the law.\nThe red herring typically does not contain the Public Offering Price, since this is not set until just prior to the effective date. Once registration is effective, the use of the red herring stops. Now, the issue is offered and publicized through the Final Prospectus that is now available."
+  },
+  {
+    "id": "f7-36",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 13,
+    "question": "A corporation wishes to raise capital by issuing common stock to the public. The corporation would select which of the following to advise them on the stock issuance?",
+    "choices": [
+      "Investment Adviser",
+      "Investment Banker",
+      "Broker Dealer",
+      "Registered Representative"
+    ],
+    "answer": 1,
+    "explanation": "Investment bankers help structure new securities offerings; decide the pricing of the issue based on market conditions; and underwrite the issue either as a principal (firm commitment) or as an agent (best efforts). Investment bankers also advise companies on mergers, acquisitions, divestitures and spin-offs."
+  },
+  {
+    "id": "f7-37",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 12,
+    "question": "Which account would be established to pay for the expenses of a disabled younger individual?",
+    "choices": [
+      "Coverdell ESA",
+      "529 Plan",
+      "401(k) Account",
+      "ABLE Account"
+    ],
+    "answer": 3,
+    "explanation": "Disabled individuals under age 46 can have an account set up to help pay for living, education and medical expenses called an “ABLE” account. The federal gift tax exclusion amount can be contributed to an ABLE account, with no tax deduction. The account grows tax free as long as distributions are used to pay for the disabled individual's expenses.\n\nCoverdell Education Savings Accounts can be used to pay for education expenses at all levels, with a maximum annual $2,000 non-deductible contribution. They are not very popular at broker-dealers because of the low annual dollar contribution limit, and they are subject to an income phase-out rule.\n\n529 Plans are state-sponsored college savings plans. The contribution amount is set by each state and can be very high, since college is expensive! There is no deduction for the contribution, but the account grows tax free when used to pay for qualified higher education expenses. (Also note that $20,000 per person per year can be withdrawn to pay for below-college level expenses).\n\n401(k) accounts are corporate sponsored salary reduction retirement plans."
+  },
+  {
+    "id": "f7-38",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 12,
+    "question": "Distributions after age 59 ½ from tax qualified retirement plans are:",
+    "choices": [
+      "100% taxable",
+      "partial tax free return of capital and partial taxable income",
+      "100% tax free",
+      "100% tax deferred"
+    ],
+    "answer": 0,
+    "explanation": "Contributions to tax qualified plans such as a 401(k) are tax deductible. They are made with \"before-tax\" dollars, hence those funds were never taxed. Earnings accrue tax deferred. When distributions commence, since no tax was paid on the entire amount, the distribution is 100% taxable."
+  },
+  {
+    "id": "f7-39",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 11,
+    "question": "Which statement is true regarding short margin account requirements?",
+    "choices": [
+      "Both initial and maintenance margin is 30%",
+      "Both initial and maintenance margin is 50%",
+      "Maintenance margin is 30%",
+      "Maintenance margin is 25%"
+    ],
+    "answer": 2,
+    "explanation": "Initial margin for a short stock positions is set by the Federal Reserve (FRB is the Federal Reserve Board) under Regulation T at 50%.\nMaintenance margin is set by FINRA at 30% for short stock positions and 25% for long stock positions."
+  },
+  {
+    "id": "f7-40",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 12,
+    "question": "If an individual, aged 69, takes a withdrawal from his IRA, which statement is TRUE?",
+    "choices": [
+      "The amount withdrawn is subject to regular income tax only",
+      "The amount withdrawn is subject to a 10% penalty tax only",
+      "The amount withdrawn is subject to regular income tax plus a 10% penalty tax",
+      "The amount withdrawn is not subject to any tax"
+    ],
+    "answer": 0,
+    "explanation": "Before age 59 1/2, distributions from an IRA are subject to regular income tax plus a 10% penalty tax. Afterwards, withdrawals are subject to regular tax; but not to the 10% penalty tax."
+  },
+  {
+    "id": "f7-41",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 12,
+    "question": "A divorced woman with 2 young children has just re-entered the workforce part time and earns $3,000 from this work. She collects another $2,400 per year in alimony payments. The woman wishes to make a contribution to an Individual Retirement Account this year. Which statement is TRUE?",
+    "choices": [
+      "No contribution can be made because the woman received alimony payments",
+      "A contribution can be made based only on the income earned from part-time work",
+      "A contribution can be made based only on the alimony payments received",
+      "A contribution can be made based on both the earned income from part-time work and the alimony payments received"
+    ],
+    "answer": 1,
+    "explanation": "IRA contributions can only be made based on earned income - meaning income from one's work. Alimony and child support payments are not classified as \"earned income\" for purposes of making IRA contributions. Thus, a woman who has both earned income from work and who received alimony payments can only make an IRA contribution based on the $3,000 earned from work.\n(Of course, the big question here is, \"If this person only has total income of $5,400 a year, how would she be able to make an IRA contribution since she doesn't even have enough money to eat!\")"
+  },
+  {
+    "id": "f7-42",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 11,
+    "question": "Additional supporting documentation is needed to open all of the following customer accounts EXCEPT a:",
+    "choices": [
+      "Trust Account",
+      "Guardian Account",
+      "Custodial Account",
+      "Corporate Account"
+    ],
+    "answer": 2,
+    "explanation": "Any adult can open a custodial account for any minor, without needing additional documentation. To open a Trust account, a copy of the Trust document must be obtained. To open a Guardian account, a copy of the court order appointing the guardian must be obtained. To open a Corporate account, a corporate resolution must be obtained (and it is highly recommended that a copy of the corporate charter be obtained as well)."
+  },
+  {
+    "id": "f7-43",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 11,
+    "question": "A customer buys 100 shares of ABC stock at $70 as an initial transaction in a margin account. At the end of the day, the stock is worth $80 per share. The customer must deposit:",
+    "choices": [
+      "$2,000",
+      "$2,500",
+      "$3,500",
+      "$4,000"
+    ],
+    "answer": 2,
+    "explanation": "Initial margin to buys stocks is 50% of the market value at the time of purchase. 50% of $7,000 is $3,500. The subsequent increase in value that day cannot be used to reduce the deposit amount."
+  },
+  {
+    "id": "f7-44",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 11,
+    "question": "A new customer comes to your firm to open a cash account, wishing to deposit a $20,000 cashiers check. When completing the new account form, you discover that the customer is 14 years old. The action that should be taken is to:",
+    "choices": [
+      "use whatever other information you can obtain from the customer to determine if it is appropriate to open the account",
+      "deposit the check and freeze the account until the customer reaches legal age in that state",
+      "appoint yourself as custodian, and open the account as a regular custodial account",
+      "inform the minor that the account cannot be opened unless a custodian effects the transaction"
+    ],
+    "answer": 3,
+    "explanation": "Since this customer is not of legal age, he or she does not have the legal capacity to open the account. A custodian must be present to open the account for the minor. It would be unethical for you to appoint yourself as custodian, making that choice incorrect."
+  },
+  {
+    "id": "f7-45",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 11,
+    "question": "A customer has an existing cash account that holds many different positions in blue chip stocks. The customer has an investment objective of moderate growth and income. The customer contacts his representative, stating that \"I think the market will be flat for a while, but I don't want to see my portfolio return drop.\" The registered representative recommends that the customer sell covered calls against some of the stocks held in the customer account. The representative:",
+    "choices": [
+      "can do so without any additional documentation as long as options positions taken do not exceed 15% of account value",
+      "cannot do so unless the account is qualified to trade options",
+      "cannot do so unless the stock positions are transferred to a margin account and the customer signs a margin agreement",
+      "can do so without restriction because covered call writing is a conservative strategy that is permitted in a cash account"
+    ],
+    "answer": 1,
+    "explanation": "This customer has a cash account holding blue chip stocks. The customer can only sell covered call options against those stock positions if the account is qualified to sell them. This means that the options new account form must be completed; the customer must be delivered the ODD (Options Disclosure Document); and the customer must be sent an Options Agreement for signature and return within 15 days of the first options transaction in the account."
+  },
+  {
+    "id": "f7-46",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 14,
+    "question": "Information about SIPC, must be made available to customers:",
+    "choices": [
+      "at account opening only",
+      "at account opening only and annually thereafter",
+      "on each account statement",
+      "on each trade confirmation"
+    ],
+    "answer": 1,
+    "explanation": "At, or prior to, account opening, the customer must be provided with the telephone number and web site address of SIPC (Securities Investor Protection Corp., which insures customer accounts against broker-dealer failure), through which the customer can obtain a copy of the SIPC brochure. In addition, this information must be provided to the customer annually thereafter."
+  },
+  {
+    "id": "f7-47",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 9,
+    "question": "The purchase of a put is a:",
+    "choices": [
+      "bull strategy",
+      "bear strategy",
+      "neutral strategy",
+      "bear/neutral strategy"
+    ],
+    "answer": 1,
+    "explanation": "The buyer of a put has the right to sell stock at a fixed price in a falling market. The buyer has ever increasing gain potential as the market falls, so this is a bear market strategy."
+  },
+  {
+    "id": "f7-48",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 9,
+    "question": "A customer buys 100 shares of ABC at $71 and wants to protect the position. He or she should:",
+    "choices": [
+      "sell a call",
+      "sell a put",
+      "buy a call",
+      "buy a put"
+    ],
+    "answer": 3,
+    "explanation": "In order to hedge a long stock position against a downside market move, the best choice is to buy a put. The long put option allows the holder to put (sell) the stock at the exercise price if the market falls – protecting the stock position from downside market risk."
+  },
+  {
+    "id": "f7-49",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 9,
+    "question": "An investor writes 1 ABC Jan 45 Call @ $3. The contract subsequently is exercised. The writer is obligated to:",
+    "choices": [
+      "buy stock at $45 per share",
+      "buy stock at $48 per share",
+      "sell stock at $45 per share",
+      "sell stock at $48 per share"
+    ],
+    "answer": 2,
+    "explanation": "The writer of a call is obligated to sell stock at the strike price of $45 per share specified in the contract, if exercised. For selling the contract, the writer initially receives a premium of $3 per share."
+  },
+  {
+    "id": "f7-50",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 7,
+    "question": "All of the following statements are true regarding stop orders EXCEPT:",
+    "choices": [
+      "stop orders can protect a profit on a long stock position",
+      "stop orders can limit a loss on a long stock position",
+      "stop orders allow a specific execution price to be \"locked-in\"",
+      "stop orders are placed \"away\" from the current market"
+    ],
+    "answer": 2,
+    "explanation": "Stop orders do not allow a specific execution price. Once the \"stop\" price is reached, the order is elected and becomes a market order to be filled at the next price - which could be higher, lower, or the same as the stop price.\nStop orders can be used to protect a profit on a long stock position (place a sell stop order just below the current market price of the stock).\nThey can be used to limit a loss on a long stock position (place a sell stop order for execution if the market falls to a certain price).\nStop orders are placed \"away\" from the current market - sell stop orders are placed below the current market price while buy stop orders are placed above the current market price."
+  },
+  {
+    "id": "f7-51",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 6,
+    "question": "When discussing hedge funds with customers, the registered representative should make the customer aware of all of the following risk factors EXCEPT:",
+    "choices": [
+      "these funds often hold illiquid investments",
+      "hedge funds use leverage and other speculative practices",
+      "hedge fund managers place limitations on withdrawal of funds",
+      "these funds provide performance that is often uncorrelated to the stock market."
+    ],
+    "answer": 3,
+    "explanation": "Hedge funds are set up as private placements, open only to accredited investors. They are not regulated as investment companies and are subject to minimal regulatory oversight. They are illiquid, since money can only be withdrawn once per year (and usually only with general partner approval). They use sophisticated aggressive investment strategies that are high-risk (but these can also be high-reward), including short selling, using large amounts of leverage, and speculating in futures, commodities, and foreign currency markets. Many of these are illiquid investments.\nBecause of their aggressive trading tactics, high levels of risk, and the fact that there is minimal regulatory oversight, they are only suitable for sophisticated, wealthy investors that are able to bear risk.\nThe fact that hedge funds provide performance that is often uncorrelated to the stock market is an attribute, not a risk factor."
+  },
+  {
+    "id": "f7-52",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 8,
+    "question": "All of the following securities deliveries are \"good\" EXCEPT:",
+    "choices": [
+      "Trust securities with an assignment performed by the Trustee",
+      "Guardian securities with an assignment performed by the legal guardian",
+      "Custodial securities with an assignment performed by the recipient of the gift",
+      "Partnership securities with an assignment performed by a partner designated in the Partnership Agreement"
+    ],
+    "answer": 2,
+    "explanation": "Custodial account securities cannot be assigned by the minor. The minor has no legal authority. Any assignment must be made by the custodian."
+  },
+  {
+    "id": "f7-53",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 7,
+    "question": "The Third Market trades:",
+    "choices": [
+      "listed and unlisted stocks between institutions without the use of a broker",
+      "listed securities on the trading floors of regional exchanges",
+      "unlisted securities over-the-counter",
+      "listed securities over-the-counter"
+    ],
+    "answer": 3,
+    "explanation": "The \"Third Market\" is over-the-counter trading of exchange listed securities. It can be viewed as a competitor for the exchanges as a place to execute trades of exchange listed stocks.\nThird Market Makers are OTC firms such as Jefferies and Co. and Weeden and Co. that stay open 24 hours a day and capture much of their trading volume in NYSE-listed issues when the NYSE is closed."
+  },
+  {
+    "id": "f7-54",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 6,
+    "question": "A mutual fund has a net asset value per share of $11.00. The maximum offering price per share is:",
+    "choices": [
+      "$11.85",
+      "$12.02",
+      "$12.42",
+      "$12.56"
+    ],
+    "answer": 1,
+    "explanation": "The maximum sales charge on a mutual fund is 8.5% under FINRA rules. The formula to find the offering price is: Net Asset Value/(100% - Sales Charge %)\n\nIn this case, it's:  $11 / (1 - .085) = $12.02"
+  },
+  {
+    "id": "f7-55",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 6,
+    "question": "All of the following statements are true about money market funds EXCEPT:",
+    "choices": [
+      "money market funds rarely have a sales charge",
+      "all distributions are fully taxable as investment income",
+      "most money market funds have a constant Net Asset Value per share of $1.00",
+      "money market funds have an objective of long term capital gains"
+    ],
+    "answer": 3,
+    "explanation": "Money funds typically do not have sales charges. All distributions are fully taxable as investment income. Money market funds are unusual in that the NAV per share is constant at $1.00. As the fund has earnings, and Total Assets increase, the shareholder receives more shares worth $1.00 each. Money market funds invest in very short term (usually 270 day maximum maturity) money market instruments with an investment objective of high current income."
+  },
+  {
+    "id": "f7-56",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 6,
+    "question": "A \"breakpoint sale\" is:",
+    "choices": [
+      "advising a customer to buy enough of a mutual fund to qualify for lowered sales charge shown in a breakpoint schedule",
+      "advising a customer to buy an amount of a mutual fund that is just above the minimum threshold needed to qualify for a lowered sales charge shown in a breakpoint schedule",
+      "encouraged under FINRA rules since the client pays a lower price",
+      "a violation of FINRA rules"
+    ],
+    "answer": 3,
+    "explanation": "A \"breakpoint sale\" might sound like a good thing, but it is not! It is selling a mutual fund to a customer in an amount that does not give the customer the benefit of the breakpoint (Just BELOW the minimum threshold). This unsavory practice is a violation of FINRA rules."
+  },
+  {
+    "id": "f7-57",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 5,
+    "question": "Banker's Acceptances are:",
+    "choices": [
+      "money market instruments used to finance emerging growth companies",
+      "capital market instruments used to finance emerging growth companies",
+      "money market instruments used to finance emerging country imports and exports",
+      "capital market instruments used to finance emerging country imports and exports"
+    ],
+    "answer": 2,
+    "explanation": "Bankers Acceptances are a money market instrument used to finance imports and exports with \"Third World\" countries. They are an exempt security under the Securities Act of 1933 and can be sold without a prospectus."
+  },
+  {
+    "id": "f7-58",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 4,
+    "question": "Interest payments on Ginnie Mae pass-through certificates are made:",
+    "choices": [
+      "weekly",
+      "monthly",
+      "semi-annually",
+      "annually"
+    ],
+    "answer": 1,
+    "explanation": "All pass through certificates pass on the monthly mortgage payments received from the pooled mortgages to the certificate holders. Thus, payments are received monthly. These represent a payment of both interest and principal on the mortgage. These certificates are self-amortizing and are completely paid off with the last mortgage payment."
+  },
+  {
+    "id": "f7-59",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 1,
+    "question": "ABC Company has issued 10% cumulative preferred stock. Two years ago, ABC paid a 6% preferred dividend. Last year, ABC paid a 7% preferred dividend. This year, ABC wishes to pay a common dividend. The preferred shareholders must receive:",
+    "choices": [
+      "0%",
+      "7%",
+      "10%",
+      "17%"
+    ],
+    "answer": 3,
+    "explanation": "Since this is cumulative preferred stock, all missed dividends must be paid before a common dividend can be paid. Two years ago, 4% was missed; last year 3% was missed; and this year's preferred dividend of 10% must be paid before the common dividend is paid. The total preferred dividend to be paid is 17%."
+  },
+  {
+    "id": "f7-60",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 2,
+    "question": "The current yield of a bond:",
+    "choices": [
+      "increases as bond market prices decline",
+      "increases as bond market prices increase",
+      "is unaffected by changes in market interest rates",
+      "will vary with the earnings of the issuer"
+    ],
+    "answer": 0,
+    "explanation": "The current yield is the stated rate of interest as a percentage of market value. It will change as bond prices move - if bond prices rise, the current yield falls; if bond prices fall; the current yield rises."
+  },
+  {
+    "id": "f7-61",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 2,
+    "question": "Term corporate bonds are quoted on a:",
+    "choices": [
+      "yield to maturity basis",
+      "current yield basis",
+      "nominal yield basis",
+      "percentage of par basis"
+    ],
+    "answer": 3,
+    "explanation": "Corporate bonds are usually term bonds - all bonds of an issue having the same interest rate and maturity. Term bonds are quoted on a percentage of par basis in 1/8ths, which is the same as a \"dollar\" quote."
+  },
+  {
+    "id": "f7-62",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 1,
+    "question": "Common stockholders have all of the following rights EXCEPT:",
+    "choices": [
+      "Right of transfer",
+      "Right of inspection",
+      "Right to vote on certain decisions",
+      "Right to be paid continuous dividends"
+    ],
+    "answer": 3,
+    "explanation": "Common stockholders have certain rights because they have partial ownership in the company. With that ownership, the stockholder has the right to inspect the company financials, normally offered through a prospectus. In addition, stockholders have the right to ask for a physical stock certificate, and they can transfer (\"gift\") their ownership to anyone they wish. However, stockholders do not have the right to be paid continuous dividends. Common stockholders may or may not be paid dividends, and those payments are dependent on the company's earnings and profitability. Thus they are neither guaranteed nor continuous. Whether or not dividends are paid is determined by the company's board of directors."
+  },
+  {
+    "id": "f7-63",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 16,
+    "question": "What can the Federal Reserve do to combat inflation?",
+    "choices": [
+      "Lower interest rates",
+      "Raise taxes",
+      "Lower taxes",
+      "Raise interest rates"
+    ],
+    "answer": 3,
+    "explanation": "In order to combat inflation, the Federal Reserve (The Fed) can raise interest rates. Raising interest rates makes borrowing money more expensive. For example, mortgage rates go up or the interest rate on credit card balances goes up. When interest rates go up, people and businesses generally borrow less, which reduces economic activity, causing inflation to decrease. The Fed does not have the authority to raise or lower taxes."
+  },
+  {
+    "id": "f7-64",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 6,
+    "question": "Which of the following is not a function of a mutual fund custodian?",
+    "choices": [
+      "Safekeeping of mutual fund and customer assets",
+      "Canceling redeemed shares and issuing new ones",
+      "Accounts receivable and payable functions for the mutual fund company",
+      "Managing the buying and selling of securities within the fund"
+    ],
+    "answer": 3,
+    "explanation": "The mutual fund custodian, which is usually a bank or stock exchange member broker-dealer, holds a mutual fund's shares and monetary funds. The custodian is responsible for performing the accounts receivable and payable functions for the mutual fund company. When the portfolio manager trades securities within the fund, it is the custodian that receives the proceeds from sales and releases the required funds for purchases. The custodian also maintains records of dividends and interest received from the company's investments. The custodian must keep a company's assets physically segregated from those of other companies and restrict access to those assets to certain officers and employees of the mutual fund company. The portfolio manager holds the responsibility of buying and selling securities within the fund."
+  },
+  {
+    "id": "f7-65",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 11,
+    "question": "Ellis and Imani would like to start saving for the 5-year-old daughter's education and other future expenses. They both have good jobs and would like to contribute a total of $1,000 per month to an account for their daughter. Imani also wants their daughter to own the assets in the account by the time she is finished with college. Which of the following would be the most suitable account for them?",
+    "choices": [
+      "A 529 savings plan",
+      "A 529 prepaid tuition plan",
+      "An UGMA account",
+      "A Coverdell savings account"
+    ],
+    "answer": 2,
+    "explanation": "All of the assets in an UGMA account are kept for the benefit of the minor in the account, and they become the minor's assets when she reaches the age of majority. Additionally, UGMA accounts come with high maximum contribution limits, so Ellis and Imani would be able to contribute $1,000 monthly to their daughter's account. This would not be true for a Coverdell savings account, which comes with a maximum annual contribution amount of $2,000. Though 529 plans also come with high maximum contribution levels, their assets do not become the assets of the beneficiary at any time."
+  },
+  {
+    "id": "f7-66",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 12,
+    "question": "If Sarah works two more years at her company, she will be fully vested. This means:",
+    "choices": [
+      "She can take the maximum retirement benefit offered by her company",
+      "She can begin withdrawing funds from her retirement account",
+      "She can withdraw funds from the account if she leaves her company before retirement",
+      "She will own 100% of the assets in her retirement account"
+    ],
+    "answer": 3,
+    "explanation": "Defined benefit plans, such as pension plans, usually calculate an employee's retirement benefit based on the employee's age, earnings, and years of service. Vesting is the process by which an employee incrementally accrues ownership of her account through working for the company. An employee is fully vested when she owns 100% of her account assets. Since benefit calculations include an employee's earnings, Sarah may not necessarily be able to take the maximum retirement benefit offered by her company. She also cannot begin withdrawing funds until she retires or until a specified age in the case that she leaves her company prior to retirement."
+  },
+  {
+    "id": "f7-67",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 16,
+    "question": "Which of the following statements about importing and exporting goods are accurate?",
+    "choices": [
+      "A company from Kentucky that imports goods from Japan prefers a weak U.S. dollar",
+      "A company from Hong Kong that exports goods to California prefers a strong U.S. dollar",
+      "A company from Singapore that imports goods from New York prefers a strong U.S. dollar",
+      "A company from Oregon that exports goods to Australia prefers a strong U.S. dollar"
+    ],
+    "answer": 1,
+    "explanation": "When looking at a question about imports and exports, always look to where the goods are being sold. It is beneficial for an exporter for the currency to be stronger in the country where the goods are being sold than in the country where they were exported. Therefore, a company from Hong Kong exporting goods to be sold in California will want the U.S. dollar to be strong. The Kentucky company importing goods from Japan would also prefer a strong dollar because the goods are being sold in the U.S. Both the Singapore and Oregon companies would prefer a weak U.S. dollar because those goods are being sold in other countries."
+  },
+  {
+    "id": "f7-68",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 5,
+    "question": "A feasibility study is used for:",
+    "choices": [
+      "Corporate filings to the SEC as part of pro rata projections",
+      "New issues to estimate the price range of an IPO",
+      "Municipal revenue bonds to detail the economic practicality of a project",
+      "Estimate risk and return on a hypothetical portfolio"
+    ],
+    "answer": 2,
+    "explanation": "A feasibility study details the economic practicality for a proposed project that will be funded by a bond issue. It contains reports on most items that will affect the profitability and cost of the project such as construction, engineering, operating, etc."
+  },
+  {
+    "id": "f7-69",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 4,
+    "question": "Crash Boom Bang Inc. is planning an initial public offering and the company is planning ahead. What entity should it hire to record changes in the ownership of its shares, both during the IPO and later when the shares are traded on the secondary market?",
+    "choices": [
+      "Transfer agent",
+      "Registrar",
+      "Underwriter",
+      "Broker-dealer"
+    ],
+    "answer": 0,
+    "explanation": "Companies typically keep track of their securities issues by hiring a transfer agent, usually a bank or trust company. The transfer agent records who owns shares and in what form, recording changes of ownership as they occur. The transfer agent cancels stock certificates surrendered by the seller and issues new ones in the name of the buyer. It also may pay dividends and mail proxy materials on behalf of the issuer. Companies also hire a registrar to monitor and audit the transfer agent. The registrar makes sure that the transfer agent cancels old stock certificates whenever it issues new ones so that the company will always have the proper number of shares outstanding. A registrar makes sure that the company does not issue more shares than were authorized and ensures that the company's files are kept current as to the owners of an issue. Registrars are usually banks."
+  },
+  {
+    "id": "f7-70",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 2,
+    "question": "Julie buys a $5,000 municipal bond at discount for $4,000. She receives a semiannual interest payment of $125. What is the nominal yield of the bond?",
+    "choices": [
+      "6.25%",
+      "5%",
+      "3.13%",
+      "2.50%"
+    ],
+    "answer": 1,
+    "explanation": "Since her $125 interest payments are semiannual, that means Julie receives $250 a year in interest. Nominal yield is expressed as a percentage of the principal of the bond, and $250 is 5% of $5,000, so the nominal yield of Julie's bond is 5%. The price that Julie paid for the bond at discount does not affect nominal yield."
+  },
+  {
+    "id": "f7-71",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 12,
+    "question": "Distributions from an Individual Retirement Account must commence by age:",
+    "choices": [
+      "50 1/2",
+      "59 1/2",
+      "73",
+      "75 1/2"
+    ],
+    "answer": 2,
+    "explanation": "Distributions from an Individual Retirement Account must commence by April 1st of the year following that person reaching age 73. All subsequent RMDs must be taken no later than December 31st following this initial RMD."
+  },
+  {
+    "id": "f7-72",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 11,
+    "question": "An elderly customer has a discretionary account with your firm. The power of attorney signed by the customer for the account is non-durable. If the customer becomes mentally incapacitated, the registered representative handling the account:",
+    "choices": [
+      "can no longer effect discretionary trades for that customer",
+      "must liquidate the account and wait for instructions from the court appointed guardian",
+      "can continue to execute discretionary trades for that customer",
+      "can only close existing positions but cannot introduce new positions in the account"
+    ],
+    "answer": 0,
+    "explanation": "A non-durable power of attorney becomes void if the grantor becomes mentally incompetent. In contrast, a durable power of attorney continues in force if the grantor becomes mentally incompetent. All powers of attorney die when the grantor dies."
+  },
+  {
+    "id": "f7-73",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 6,
+    "question": "Hedge funds are:",
+    "choices": [
+      "private investments that are available only to wealthy investors",
+      "private investments that are available to any investor",
+      "private investments that are available only to institutions",
+      "public investments that trade OTC"
+    ],
+    "answer": 0,
+    "explanation": "Hedge funds are private placements sold to accredited investors. These accredited investors could be either institutions or wealthy individuals."
+  },
+  {
+    "id": "f7-74",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 5,
+    "question": "Interest income from municipal bonds is:",
+    "choices": [
+      "exempt from Federal, State and Local tax",
+      "exempt from Federal tax and subject to State and Local tax",
+      "subject to Federal tax and exempt from State and Local tax",
+      "subject to Federal, State and Local tax"
+    ],
+    "answer": 1,
+    "explanation": "The interest income from municipal bonds is exempt from Federal income tax; but is subject to State and Local tax. However, if a bond is purchased by a State resident, then the State exempts that issue from taxation as well."
+  },
+  {
+    "id": "f7-75",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 1,
+    "question": "A customer buys 100 shares of XYZ stock at $40. The stock pays a quarterly dividend of $.50. What is the dividend yield?",
+    "choices": [
+      "1%",
+      "1.25%",
+      "4%",
+      "5%"
+    ],
+    "answer": 3,
+    "explanation": "Common dividends are paid quarterly. The annual dividend rate is $2.00 ($.50 per calendar quarter x 4). The dividend yield is $2/$40 = 5%."
+  },
+  {
+    "id": "f7-76",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 1,
+    "question": "In a \"regular way\" settlement most securities must be delivered and paid for no later than how many days from the transaction date by a broker-dealer:",
+    "choices": [
+      "One business day",
+      "Two business days",
+      "Three calendar days",
+      "Five business days"
+    ],
+    "answer": 0,
+    "explanation": "Regular way settlement is one business day after the trade date for most securities. It is often represented by T+1. This means that a broker-dealer must pay for the securities in the case of a purchase, or transfer ownership of the securities in the case of a sale one business day after the trade date. Under Regulation T, customers are granted two additional business days after that to pay their broker-dealer."
+  },
+  {
+    "id": "f7-77",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 5,
+    "question": "Which of the following are sources of debt service for double barrel bonds?",
+    "choices": [
+      "Ad valorem taxes only",
+      "User fees only",
+      "Property taxes and user fees",
+      "None of the choices listed"
+    ],
+    "answer": 2,
+    "explanation": "So-called double barrel bonds are backed by full faith and credit of a municipality, including property taxes, as well as revenues accruing from the project they finance, such as user fees."
+  },
+  {
+    "id": "f7-78",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 1,
+    "question": "A rights offering allows shareholders to purchase new shares at $30 each, with exercise terms of \"5 for 1.\" A shareholder exercises all 1,500 rights received. What is the total cost to exercise?",
+    "choices": [
+      "$4,500",
+      "$7,500",
+      "$9,000",
+      "$45,000"
+    ],
+    "answer": 2,
+    "explanation": "Divide the total rights by the exercise ratio to determine how many new shares may be purchased. Here, 1,500 rights ÷ 5 rights per share = 300 new shares. The shareholder then pays the subscription price of $30 for each new share purchased.\n\nTherefore, the total cost to exercise all of the rights is 300 × $30 = **$9,000**."
+  },
+  {
+    "id": "f7-79",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 4,
+    "question": "Equipment trust certificates would most likely be issued by a(n):",
+    "choices": [
+      "manufacturer",
+      "utility",
+      "airline",
+      "bank"
+    ],
+    "answer": 2,
+    "explanation": "Equipment trust certificates are issued by common carriers such as airlines, railroads, and trucking companies. The rolling (or flying) stock is the collateral for the debt."
+  },
+  {
+    "id": "f7-80",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 7"
+    },
+    "chapter": 6,
+    "question": "An investor wishes to buy mutual fund shares that provide him with income and capital gains potential. Based on this information, the appropriate recommendation is a:",
+    "choices": [
+      "balanced fund",
+      "hedge fund",
+      "sector fund",
+      "dual purpose fund"
+    ],
+    "answer": 0,
+    "explanation": "A balanced fund is a type of fund that allocates assets among different types of securities - maintaining a \"balance\" of equities and fixed income securities. It provides both income and capital gains potential. A dual purpose fund issues 2 classes of shares - either income shares or capital shares. After choosing the class of share to invest in, the customer either has an income fund or a growth fund, but not a balance of both."
+  }
+]
