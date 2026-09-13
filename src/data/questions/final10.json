@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "f10-01",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 13,
+    "question": "When is the earliest that a newly issued non-exempt security is allowed to be sold?",
+    "choices": [
+      "During the cooling-off period",
+      "During the road show",
+      "At the beginning of the public offering",
+      "Once the tombstone ad has been published"
+    ],
+    "answer": 2,
+    "explanation": "Non-exempt securities must be registered with the SEC. They may only be sold once the registration statement has become effective and the securities are offered for sale in a public offering. Non-exempt securities may not be sold during the cooling-off period. The cooling-off period is the time from when the registration statement has been submitted until it becomes effective. Tombstone ads and road shows occur during the cooling-off period."
+  },
+  {
+    "id": "f10-02",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 11,
+    "question": "Payment for a trade made in accordance with Reg T must occur within:",
+    "choices": [
+      "three business days after the trade",
+      "four business days after the trade",
+      "five calendar days after the trade",
+      "two calendar weeks after the trade"
+    ],
+    "answer": 0,
+    "explanation": "In accordance with Reg T, customers are given a maximum of two business days beyond that regular way settlement of the business day after the trade date to pay for securities traded in a cash or margin account. If payment is not made within this time, the broker-dealer must apply for and receive an extension or liquidate the position."
+  },
+  {
+    "id": "f10-03",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 13,
+    "question": "Restricted securities carry more risk than registered securities.",
+    "choices": [
+      "Inflation",
+      "Marketability",
+      "Political",
+      "Currency"
+    ],
+    "answer": 1,
+    "explanation": "Marketability risk, also known as liquidity risk, is the risk that an investor will not be able to sell her investment quickly at a fair price. Restricted securities, such as the unregistered securities purchased in most types of private placement, are inherently less liquid than securities that have been registered with the SEC in a normal public offering. Holders of restricted securities typically must wait either six months (if the issuer is a reporting company) or a year (if the issuer is not) before selling them. By contrast, registered securities typically may be freely bought and sold, and are often listed on securities exchanges to further enhance their liquidity."
+  },
+  {
+    "id": "f10-04",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 3,
+    "question": "Investing in a large cap company that makes hospital supply equipment would have what type of investment risk?",
+    "choices": [
+      "Political risk",
+      "Liquidity risk",
+      "Business risk",
+      "Emerging market risk"
+    ],
+    "answer": 2,
+    "explanation": "Business risk is the best answer because business risk refers to the risk that a single company or sector might suffer. Political risk applies to investment in foreign countries because the politics of foreign countries may be less predictable than those of the US, emerging market risk applies to investment in less developed foreign countries, which are even less stable and less regulated than developed foreign markets, and liquidity risk is a concern when investing in a small cap company that may have less shares outstanding, making it difficult to sell a large block of shares without depressing the share price."
+  },
+  {
+    "id": "f10-05",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 2,
+    "question": "If Sarah bought a bond at a premium, which is the highest rate?",
+    "choices": [
+      "Yield to Maturity",
+      "Current Yield",
+      "Coupon Rate",
+      "Yield to Call"
+    ],
+    "answer": 2,
+    "explanation": "The coupon rate is the amount received based on par value. If the coupon rate is 8%, then the payment would be $80 (Par value = $1,000; $1,000 * 0.08 = $80). If a bond is purchased at a premium, that essentially means more was paid than the original purchase, but yet the same fixed payment amount is being received; therefore the 'yield' would be lower. Example: I pay $1,000 for a bond @ 8%. The payment is $80. If you pay $1,200 for the bond, the payment is still $80, but the yield is now 6.7% ($80 / 1,200 = 6.7%). This is known as the current yield. The yield to maturity would also be lower because the investor is only going to receive $1,000 at maturity instead of the full $1,200 they paid."
+  },
+  {
+    "id": "f10-06",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 11,
+    "question": "Securities held in UTMA/UGMA accounts are owned by:",
+    "choices": [
+      "The custodian",
+      "The minor",
+      "The representative",
+      "The parent"
+    ],
+    "answer": 1,
+    "explanation": "Uniform Transfers to Minors and Uniform Gifts to Minors (aka UTMA/UGMA) accounts permit the transfer of assets, including securities, to minors without the need for an attorney or the court appointment of a trustee. Gifts made to UTMA/UGMA accounts are irrevocable and the assets in UTMA/UGMA accounts are owned by the minor but controlled by the adult custodian. Before the minor reaches the age of legal majority, the adult custodian has the fiduciary obligation to manage the funds in a prudent and responsible manner for the benefit of the minor. Investing in penny stocks or buying lottery tickets would be a breach of the custodian's fiduciary duty. State law determines at what age the child gains control of the account."
+  },
+  {
+    "id": "f10-07",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 6,
+    "question": "Which of the following is true of a \"balanced\" mutual fund?",
+    "choices": [
+      "It invests in stocks and bonds.",
+      "It avoids anything that would create ordinary income or dividends for an investor.",
+      "It attempts to balance itself primarily between large and small stocks.",
+      "It only buys other mutual funds in an effort to create a \"fund of funds.\""
+    ],
+    "answer": 0,
+    "explanation": "The primary purpose of a balanced fund is to give investors broad diversification in a single portfolio. A typical balanced fund will be invested in stocks for appreciation and bonds for income."
+  },
+  {
+    "id": "f10-08",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 6,
+    "question": "The regulation of which topic would be MOST likely covered under the Investment Company Act of 1940?",
+    "choices": [
+      "Options",
+      "IPOs",
+      "Mutual funds",
+      "ADRs"
+    ],
+    "answer": 2,
+    "explanation": "The Investment Company Act of 1940 regulates investment companies such as mutual funds. The Act requires pertinent information on the investment company be made available to investors. Information such as financials, investment objectives, and how the investment company is organized are all important factors for investors to be able to make an informed purchase."
+  },
+  {
+    "id": "f10-09",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 12,
+    "question": "Contributions to a tax-qualified retirement plan are:",
+    "choices": [
+      "Deducted from earned income when calculating taxes",
+      "Deducted as a tax credit when calculating taxes",
+      "Subject to a reduced tax rate",
+      "Not subject to Federal taxes upon withdrawal"
+    ],
+    "answer": 0,
+    "explanation": "Contributions to a tax-qualified retirement plan are deducted from earned income for the tax year. They are not a tax credit, which is subtracted directly from an individual's tax bill. Taxes come into play when the contributions are withdrawn, and they are paid at the ordinary income rate."
+  },
+  {
+    "id": "f10-10",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 12,
+    "question": "In a traditional IRA, contributions:",
+    "choices": [
+      "are always taxed if the contributor is under 55 years old",
+      "can only be made by the account holder into their own account",
+      "can be made from wages, gifted funds, or rental income",
+      "can be used to purchase securities within the account"
+    ],
+    "answer": 3,
+    "explanation": "Traditional Individual Retirement Accounts allow individuals to contribute to their retirement account with pre-tax dollars. The contributions must be made from earned income, such as wages, and not from passive income, such as dividends, capital gains, interest on securities, Social Security benefits, unemployment benefits, child support, rental income, or inherited or gifted funds. There is an additional $1,100 catch-up contribution for individuals over the age of 50. An individual may also make contributions to the IRA of a non-working spouse. Individuals can make contributions over their contribution limit, but it will be taxed at the individual's normal income rate. Once deposited, contributions may be used to purchase most kinds of securities."
+  },
+  {
+    "id": "f10-11",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 6,
+    "question": "A broker-dealer can offer a discounted price for mutual funds in which case? Choose the best answer.",
+    "choices": [
+      "If it is making the sale to a pre-existing customer",
+      "If it is making the sale to a customer who has previously bought mutual fund shares from the firm",
+      "If the shares have been available to the public for more than 90 days",
+      "If the customer meets the breakpoint requirements and the breakpoint schedule is listed in the prospectus"
+    ],
+    "answer": 3,
+    "explanation": "Broker-dealers must offer mutual fund shares to the public at the public offering price. The only exception is when a customer meets breakpoint requirements and the breakpoint schedule is listed in the prospectus."
+  },
+  {
+    "id": "f10-12",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 12,
+    "question": "Mel wants to take out an annuity contract that offers him the maximum monthly payouts. He is unmarried and doesn't wish to include a beneficiary in his contract. Which would be most appropriate?",
+    "choices": [
+      "Life with period certain",
+      "Life income",
+      "Joint life with last survivor",
+      "Life with amount certain"
+    ],
+    "answer": 1,
+    "explanation": "Mel should select life income. He will receive the largest monthly check, because this option is likely the shortest amount of time for receiving payments, therefore the least expensive for the insurance company. It is also the only option that does not provide for a beneficiary to continue to receive payments. With the life with period certain, Mel would receive a medium sized monthly payment and could designate a beneficiary. Life with amount certain is not a payout option."
+  },
+  {
+    "id": "f10-13",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 16,
+    "question": "A rising dollar leads to ____ exports, and a falling dollar leads to ____ imports:",
+    "choices": [
+      "Rising exports; falling imports",
+      "Falling exports; falling imports",
+      "Rising exports; rising imports",
+      "Falling exports; rising imports"
+    ],
+    "answer": 1,
+    "explanation": "A rising dollar in relation to foreign currency will eventually make U.S. goods expensive to buy, and thus exports will fall. When the dollar falls in relation to a foreign currency, exports will rise. However, a weakening dollar in relation to a foreign currency will make it harder for Americans to purchase imported goods. Thus a falling dollar will also lead to falling imports."
+  },
+  {
+    "id": "f10-14",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 14,
+    "question": "Under what scenario would an investor be entitled to reimbursement by SIPC?",
+    "choices": [
+      "Bank failure, up to $250,000.",
+      "Brokerage investment loss, up to $250,000.",
+      "Broker fraud, up to $500,000.",
+      "Broker-dealer bankruptcy up to $500,000 with no more than $250,000 in uninvested cash."
+    ],
+    "answer": 3,
+    "explanation": "SIPC only protects consumers in the event of a broker-dealer bankruptcy, up to $500,000 per account. No more than $250,000 of the account may be in uninvested cash in order to receive full coverage for the $500,000 maximum."
+  },
+  {
+    "id": "f10-15",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 14,
+    "question": "Which of the following will most likely result in a statutory disqualification?",
+    "choices": [
+      "A non-securities-related misdemeanor that occurred 5 years ago",
+      "A securities-related felony that occurred 11 years ago",
+      "A non-securities-related felony that occurred 9 years ago",
+      "A bankruptcy"
+    ],
+    "answer": 2,
+    "explanation": "The Exchange Act lists several statutory disqualification events. This list includes securities-related misdemeanors and all felony criminal convictions for a period of ten years from the date of conviction. A bankruptcy is not considered a statutory disqualification event."
+  },
+  {
+    "id": "f10-16",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 6,
+    "question": "A mutual fund has a sales charge schedule with breakpoints in increments of $100,000. The sales charge for investments between $100,000 and $200,000 is 4%. Given this information, which of the following could be a valid sales charge for investments between $200,000 and $300,000?",
+    "choices": [
+      "5%",
+      "4%",
+      "3%",
+      "all of the choices listed"
+    ],
+    "answer": 2,
+    "explanation": "Breakpoint pricing is a way of offering \"volume discounts\" on sales charges for larger investments. The bigger the investment, the lower the sales charge. In this example, since an investment between $100,000 and $200,000 carries a 4% sales charge, the next category of investments, $200,000 - $300,000, must carry a charge lower than 4%. 3% would be a valid charge for this category."
+  },
+  {
+    "id": "f10-17",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 12,
+    "question": "A contract between an investor and an insurance company, whereby the investor makes payments to the insurance company and the insurance company agrees to make payments to the investor either immediately or at a later date, is best described as a:",
+    "choices": [
+      "401k",
+      "a variable universal life policy",
+      "a real estate investment trust (REIT)",
+      "an annuity"
+    ],
+    "answer": 3,
+    "explanation": "A variable annuity is a contract issued by an insurance company whereby the investor agrees to pay into the contract (accumulation phase) until some later date. The investor chooses from a diversified range of investments offered inside the variable annuity. The overall performance of the variable annuity will depend upon these investment selections. At a later time, the insurance company begins paying out money from the variable annuity to the investor (distribution phase)."
+  },
+  {
+    "id": "f10-18",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 9,
+    "question": "Irving Investor bought a May 40 put on ELP at 4. Currently the stock is trading at 38. How much time value does this put have?",
+    "choices": [
+      "none",
+      "$4",
+      "$2",
+      "$6"
+    ],
+    "answer": 2,
+    "explanation": "Intrinsic value is the amount that the option is in the money (2). Remember that puts are in the money when the market price is below the strike price. The option is in the money by 2 because the market price (38) is below the strike price (40). Time value = cost of the option, also called the premium (4) - intrinsic value (2). Therefore the time value in this question is 4 - 2 = 2."
+  },
+  {
+    "id": "f10-19",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 15,
+    "question": "FINRA considers which of the following to be retail communications?",
+    "choices": [
+      "All of these",
+      "Radio and television broadcasts",
+      "Signs and billboards",
+      "Publicly accessible web pages"
+    ],
+    "answer": 0,
+    "explanation": "\"Retail communication\" means any written (including electronic) communication that is distributed or made available to more than 25 retail investors within any 30 calendar-day period. This includes any generally accessible website, newspaper, magazine or other periodical, radio, television, telephone or audio recording, video display, signs or billboards, motion pictures, or telephone directories (other than routine listings)."
+  },
+  {
+    "id": "f10-20",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 5,
+    "question": "What is a repurchase agreement?",
+    "choices": [
+      "A document that specifies who will have claim to which assets in the event of a bankruptcy",
+      "A clause that permits security holders to buy new securities in the event that the securities they own are subject to a call",
+      "A protective covenant that obligates the issuer to buy back the securities under specified conditions",
+      "A short-term contract to sell an asset and then buy it back in the future at an agreed upon price"
+    ],
+    "answer": 3,
+    "explanation": "Dealers may not guarantee, or offer to guarantee, a customer against loss in either an account or a transaction. This rule applies to written and verbal guarantees. Repurchase agreements are not considered guarantees against loss. A repurchase agreement or repo is typically a short-term contract to sell an asset and then buy it back in the future at an agreed upon price (typically higher price). At its simplest, a repo is a form of short-term borrowing. In the context of municipal securities dealers and customers, the customer is offering a loan to the dealer to earn interest from the dealer. Repurchase agreements are proper as long as they are not dependent upon some future condition (such as a change in interest rates), involve only exempt securities, and clearly state in writing the terms of the agreement including the time and place of repurchase."
+  },
+  {
+    "id": "f10-21",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 5,
+    "question": "Which of the following is a special tax bond?",
+    "choices": [
+      "A bond to construct a hospital backed by the full faith and credit of the issuer",
+      "A bond to repair sidewalks in a residential area backed by a property tax on the residents of the area",
+      "A bond to construct an additional building at a school backed by lease payments from the school",
+      "A bond to construct a prison backed by a tax on gasoline"
+    ],
+    "answer": 3,
+    "explanation": "A special tax bond is a revenue bond payable from the proceeds of a special tax that is unrelated to the project being financed. For example, a highway bond may be financed by an increased property tax on likely users, or a school bond may be financed by an increase in liquor or cigarette taxes. A bond backed by the full faith and credit of the issuer is a general obligation bond. A bond backed by ad valorem (property) taxes on people who benefit from the project is a special assessment bond. A bond backed by lease payments from a government agency is a lease revenue bond."
+  },
+  {
+    "id": "f10-22",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 8,
+    "question": "If a member firm or associate has material knowledge of a large pending block order for a stock and puts in a buy or sell order prior to the block order's execution, it is called:",
+    "choices": [
+      "churning",
+      "front-running",
+      "freeriding and withholding",
+      "selling away"
+    ],
+    "answer": 1,
+    "explanation": "Members are not allowed to place orders that \"run\" in front of a block order so that they can profit from the price's reaction."
+  },
+  {
+    "id": "f10-23",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 3,
+    "question": "A U.S. investor has a significant investment in Japanese bonds and is worried that a rising dollar could reduce his returns. This investor is concerned with which type of risk?",
+    "choices": [
+      "Reinvestment risk",
+      "Credit risk",
+      "Currency risk",
+      "Market risk"
+    ],
+    "answer": 2,
+    "explanation": "Currency risk is the risk that an investment in a foreign security may lose its value due to a strengthening of the U.S. dollar against the currency of the country issuing the security. Credit risk is the risk that a bond issuer's credit will drop or that the issuer will default on the bond. Reinvestment risk is the risk that the investor's capital, when reinvested, will earn a lower return than the original investment. Finally, market risk is the risk of investment losses caused by fluctuations in the overall market."
+  },
+  {
+    "id": "f10-24",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 1,
+    "question": "The right to transfer common stock is best described as:",
+    "choices": [
+      "The ability to sell shares in the public market up to a given date",
+      "The right to freely trade shares on the secondary market",
+      "The right to sell stock back to the issuing company at an assigned price",
+      "The ability to buy a given number of company shares when more are issued"
+    ],
+    "answer": 1,
+    "explanation": "Common stockholders have the right to sell or transfer their shares in the public market at will. Once shares have been issued and purchased in the primary market, they may be freely traded in the secondary market. The ability to buy a given number of company shares when additional stock is issued is called a preemptive right."
+  },
+  {
+    "id": "f10-25",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 13,
+    "question": "The difference between the public offering price and the amount the underwriter paid the issuer for its securities is known as the:",
+    "choices": [
+      "Underwriting fee",
+      "Concession",
+      "Spread",
+      "Managing underwriter's fee"
+    ],
+    "answer": 2,
+    "explanation": "The spread of a public offering is the difference between the public offering price (the price at which the shares are sold to investors) and the amount the underwriter paid the issuer for the securities. The managing underwriter's fee, the underwriting fee, and the concession are all parts of the spread. The managing underwriter's fee is the amount the lead underwriter earns to manage the offering. The underwriting fee is the amount the underwriting syndicate members are paid for assuming the risk of unsold shares and for marketing and selling those shares. Finally, the concession is the amount given to the broker-dealers which sell the shares."
+  },
+  {
+    "id": "f10-26",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 13,
+    "question": "Which of the following is a secondary offering?",
+    "choices": [
+      "A private company offers shares to the public for the first time",
+      "An institutional investor offers its 5% stake in a company on the open market",
+      "A municipality offers bonds backed by the revenue from a convention center whose construction the bonds will fund",
+      "A group of high-net-worth individuals form a REIT"
+    ],
+    "answer": 1,
+    "explanation": "In contrast to a primary offering, in which shares are issued and sold by the company, a secondary offering is the sale of shares that have already been issued. A secondary offering might be conducted by an institutional investor or a co-founder of the company. Technically, the sale of these shares takes place on the secondary market, because it is not the first time ownership of the shares has changed hands. However, when the number of shares to be sold is large enough, the seller may organize the selling similarly to a primary offering, for example by hiring an underwriter to manage it. Because of this resemblance, this kind of distribution is called a secondary offering."
+  },
+  {
+    "id": "f10-27",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 13,
+    "question": "In a/an ____ underwriting, the underwriter sells all the shares in the offering or the offering is voided.",
+    "choices": [
+      "Firm commitment",
+      "Mini-max",
+      "All or none",
+      "Best efforts"
+    ],
+    "answer": 2,
+    "explanation": "In a best efforts commitment, an underwriter agrees to use its best efforts to sell the issuer's securities; however, the underwriter does not guarantee that the shares will be sold. There are two types of best effort commitments: mini-max commitments and all or none commitments. In a mini-max commitment, the underwriter promises to sell a minimum number of shares of the offering or the offering will be cancelled. In an all or none commitment, the underwriter sells all the shares in the offering or else the offering is voided. A firm commitment is an underwriting agreement in which the underwriter promises it will purchase all the securities at a discount and then sell them to the public at a public offering price."
+  },
+  {
+    "id": "f10-28",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 4,
+    "question": "When an issuing company is forced to liquidate its assets, which of the following is true of common stockholders?",
+    "choices": [
+      "They come after secured bondholders but before unsecured bondholders.",
+      "They have highest priority.",
+      "They come after bondholders but before preferred stockholders.",
+      "They come after both bondholders and preferred stockholders."
+    ],
+    "answer": 3,
+    "explanation": "If a company is forced to liquidate due to bankruptcy, common stockholders have a residual interest, which is of lowest priority. If any assets exist after bondholders and preferred stockholders have been paid, common stockholders will then be compensated for their investments."
+  },
+  {
+    "id": "f10-29",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 13,
+    "question": "During the 20-day cooling-off period for an IPO, which of the following is allowed?",
+    "choices": [
+      "All written offers",
+      "Limited sales of securities",
+      "Oral offers",
+      "Accepting binding commitments to buy from investors"
+    ],
+    "answer": 2,
+    "explanation": "During the 20-day cooling-off period, an IPO has not been officially registered. As a result, the permitted activities related to that IPO are limited. Oral offers are allowed. Written offers to sell the security are limited to the preliminary prospectus, free writing prospectus, generic advertisements, and road show presentations. Sales of securities are not permitted until the registration has been declared effective, typically at the end of the 20 days."
+  },
+  {
+    "id": "f10-30",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 12,
+    "question": "Which statement is TRUE?",
+    "choices": [
+      "Distributions from a Coverdell ESA or 529 account are not taxable if they are used for qualified education expenses",
+      "Distributions from a Coverdell ESA or 529 account are taxable at ordinary income rates",
+      "Distributions from a Coverdell ESA or 529 account are taxable at capital gains rates",
+      "Distributions from a Coverdell ESA or 529 account may only be used for qualified education expenses"
+    ],
+    "answer": 0,
+    "explanation": "Contributions to both Coverdell ESAs and 529 Plans are not tax deductible. Earnings build tax-deferred in both. Distributions from both, when used to pay for appropriate educational expenses, are not taxable.\n\nCoverdell ESA distributions can be used without limit to pay for all levels of education. 529 Plan distributions can only be used without limit to pay for college and higher; distributions to pay for education below the college level are limited to $20,000 per person per year.\n\nHigh earning individuals cannot open a Coverdell; there is no similar restriction on a 529 Plan.\n\nCoverdell ESA contributions are limited to $2,000 per child per year; 529 Plan contribution limits are set by each state and are much higher.\n\nStudents in either plan are not limited to attending in-state schools."
+  },
+  {
+    "id": "f10-31",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 12,
+    "question": "A pension plan maintained by a not-for-profit corporation is known as a(n):",
+    "choices": [
+      "401(k) plan",
+      "403(b) plan",
+      "SEP IRA",
+      "457 plan"
+    ],
+    "answer": 1,
+    "explanation": "Not-for-profit institutions such as hospitals and universities can sponsor 403(b) (tax deferred annuity) plans for their employees. 401(k) plans, and SEP IRA plans are sponsored by for-profit corporations. 457 plans are only available to government organizations."
+  },
+  {
+    "id": "f10-32",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 11,
+    "question": "Barring an extension request, under Regulation T, payment for a securities transaction must be received no later than:",
+    "choices": [
+      "the next business day",
+      "1 business day after trade date",
+      "3 business days after trade date",
+      "4 business days after trade date"
+    ],
+    "answer": 2,
+    "explanation": "While it is true that Regulation T of the Federal Reserve Board requires that customers pay for securities purchases \"promptly,\" the payment must be received no later than \"S+2,\" which is 2 grace days past settlement. Since regular way settlement is 1 business day after trade date, the latest time to collect payment is 1 + 2 = 3 business days after trade date.\n\nIf payment is not received on the 3rd business day after trade date, under extraordinary circumstances, a Reg T extension may be requested from FINRA. This extension gives another 2 business days for collection. If no payment is made, the unpaid position must be liquidated and the account \"frozen\" for 90 days. When the account is frozen, the customer must pay in advance for purchases."
+  },
+  {
+    "id": "f10-33",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 16,
+    "question": "All of the following are lagging economic indicators EXCEPT:",
+    "choices": [
+      "Building Permits",
+      "Corporate Profits",
+      "Commercial Loans Outstanding",
+      "Employment Duration"
+    ],
+    "answer": 0,
+    "explanation": "Lagging indicators include reported corporate profits (showing what was already earned in the last quarter); commercial loans outstanding (showing what has been borrowed and presumably spent); and employment duration (showing how long someone was employed before being terminated).\n\nBuilding permits are a leading indicator, showing planned future production."
+  },
+  {
+    "id": "f10-34",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 16,
+    "question": "A fully diversified portfolio that is matched to a broad-based market index has:",
+    "choices": [
+      "no risk",
+      "systematic risk",
+      "nonsystematic risk",
+      "both systematic and nonsystematic risk"
+    ],
+    "answer": 1,
+    "explanation": "The basic idea of diversification of a portfolio is that it reduces risk. If a portfolio consists of only a few positions, an adverse event affecting one of the positions can result in a big loss. If the portfolio consists of a broad range of positions, an adverse event affecting only a single position will not have as big a negative impact.\n\nA portfolio that is fully diversified still has risk. It is said to only have \"systematic\" risk, which is the same as market risk. If the overall market drops, the portfolio will likely drop by a similar percentage.\n\nA portfolio that is not fully diversified is said to have both \"systematic\" and \"nonsystematic\" risk. As more and more positions are added to the portfolio, the \"nonsystematic risk\" is diversified away, leaving the portfolio only with \"systematic\" risk."
+  },
+  {
+    "id": "f10-35",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 16,
+    "question": "Which statement is TRUE about capital gains taxes? A gain on a security held over:",
+    "choices": [
+      "6 months is taxed at a lower rate than a gain on a security held over 3 months",
+      "9 months is taxed at a lower rate than a gain on a security held over 6 months",
+      "12 months is taxed at a lower rate than a gain on a security held over 9 months",
+      "15 months is taxed at a lower rate than a gain on a security held over 12 months"
+    ],
+    "answer": 2,
+    "explanation": "The maximum tax rate on short term capital gains (a gain on an asset held 12 months or less) is 37% (the maximum individual tax rate).\n\nFor assets held over 12 months, the maximum tax rate drops to 15%. (Note that this rate is raised to 20% for taxpayers in the highest tax bracket.)"
+  },
+  {
+    "id": "f10-36",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 16,
+    "question": "Which of the following is NOT defined as \"portfolio income\" under IRS guidelines?",
+    "choices": [
+      "Dividends received from preferred stock holdings",
+      "Interest income received from bond holdings",
+      "Proceeds from the sale of securities in excess of the tax basis of those securities",
+      "Distributive share of income from limited partnership holdings"
+    ],
+    "answer": 3,
+    "explanation": "Income from partnership interests is defined as \"passive income\" under IRS rules. Passive income can only be offset by passive losses. Portfolio income consists of dividends, interest, and net capital gains on securities (except for direct participation program interests, which are considered to be passive investments). Portfolio gains can only be offset against portfolio losses."
+  },
+  {
+    "id": "f10-37",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 8,
+    "question": "A FINRA member distributes a firm quote through the OTC Pink Open Market and then does not honor the quote. This is:",
+    "choices": [
+      "Free Riding",
+      "Front-Running",
+      "Interpositioning",
+      "Backing Away"
+    ],
+    "answer": 3,
+    "explanation": "Any quote that is published without qualification is considered to be a \"firm\" quote to be honored for a normal trading unit. Backing away from quotes is a prohibited practice under FINRA rules."
+  },
+  {
+    "id": "f10-38",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 15,
+    "question": "A registered representative holds a seminar for 40 prospective retail clients covering the benefits of investing in mutual funds. At the meeting, the representative sets up a table with canvas bags embossed with the member firm's logo that includes a prospectus for each fund that was discussed, a brochure about the brokerage firm, and the registered representative's business card. At the end of the meeting, the prospective clients are encouraged to take a bag home. Which statement is TRUE?",
+    "choices": [
+      "Because the event is considered a public appearance, this communication is subject to review and post-use approval by principal.",
+      "Because the seminar was attended by 40 prospective retail clients, a principal must present at the event.",
+      "Because the meeting was held for prospective retail clients, communication rules do not apply.",
+      "Because the representative personally delivered the seminar, it is defined as a retail communication."
+    ],
+    "answer": 0,
+    "explanation": "A public appearance is defined as participation in a seminar, forum, radio or television interview or any other public appearance. Firms must have policies and procedures for these interactive events, which are subject to post-use review and approval by a principal."
+  },
+  {
+    "id": "f10-39",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 14,
+    "question": "A registered representative based in Minnesota has a customer who has recently moved to Texas. In order to continue serving this customer, the registered representative must:",
+    "choices": [
+      "Only maintain a registration in Minnesota",
+      "Register in Texas in addition to their existing Minnesota registration",
+      "Obtain an interstate commerce filing license",
+      "Transfer their existing registration from Minnesota to Texas"
+    ],
+    "answer": 1,
+    "explanation": "To continue serving a customer who has moved to Texas, the representative must be registered in Texas in addition to maintaining their registration in Minnesota. This ensures compliance with both the state where the representative is physically located and the state where the customer resides."
+  },
+  {
+    "id": "f10-40",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 14,
+    "question": "A registered representative calls a potential customer about investing in a mutual fund. The customer states \"Don't call me. Good-bye\" and hangs up the phone. The registered representative should:",
+    "choices": [
+      "have the branch manager contact the customer",
+      "fax the customer about the mutual fund being offered",
+      "e-mail the customer about the mutual fund being offered",
+      "place the customer on a \"Do Not Call\" list"
+    ],
+    "answer": 3,
+    "explanation": "If a potential customer who is being solicited says \"Do not call me,\" then the Federal Telephone Consumer Protection Act requires that the customer be placed on a \"Do Not Call\" list at that firm; and that the customer not be called over the phone by that firm in any manner - by voice phone, electronic mail (which travels over the phone lines) or by fax (since it travels over the phone lines)."
+  },
+  {
+    "id": "f10-41",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 13,
+    "question": "To be defined as an \"accredited investor\" under Regulation D, a couple that wishes to jointly purchase a private placement offering must have an annual income of:",
+    "choices": [
+      "$200,000",
+      "$300,000",
+      "$400,000",
+      "$1,000,000"
+    ],
+    "answer": 1,
+    "explanation": "For a couple jointly purchasing a private placement unit to be accredited, they must have a combined income of at least $300,000. Note that this is a somewhat easier hurdle than that imposed on an individual to be accredited, which is $200,000 for that individual."
+  },
+  {
+    "id": "f10-42",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 13,
+    "question": "Which of the following activities may a Registered Representative do prior to the filing of a registration statement for a new issue securities offering?",
+    "choices": [
+      "Solicit potential buyers and collect indications of interest",
+      "Solicit customer to place order to buy the issue",
+      "Send a preliminary prospectus to interested customers",
+      "Read background material on the industry"
+    ],
+    "answer": 3,
+    "explanation": "Prior to the filing of a registration statement for a new issue, nothing can be done with customers.\n\nOf course, Registered Representatives are allowed to educate themselves on the industry the issuer is involved in.\n\nOnce the registration statement is filed, a preliminary prospectus can be sent; indications of interest can be accepted; and a \"tombstone\" announcement can be published.\n\nOnce the registration is effective, orders can be accepted if customers receive the final prospectus, at or prior to, confirmation of sale."
+  },
+  {
+    "id": "f10-43",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 13,
+    "question": "Which of the following securities is NOT exempt from the Securities Act of 1933?",
+    "choices": [
+      "Municipal revenue bond issues",
+      "Common carrier issues",
+      "Income bond issues",
+      "U.S. Government bond issues"
+    ],
+    "answer": 2,
+    "explanation": "Income bonds (a.k.a. Adjustment Bonds) are issued to existing bondholders by corporations which are in default. On these bonds, the corporation is only obligated to pay the interest on the bonds if it has sufficient income. Since these are corporate issues, they are not exempt.\n\nU.S. Government bonds, municipal bonds, and common carrier issues (airlines, railroads which are subject to federal regulation, etc.) are all exempt."
+  },
+  {
+    "id": "f10-44",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 13,
+    "question": "Which statement is TRUE about the use of a \"red herring\" preliminary prospectus?",
+    "choices": [
+      "The preliminary prospectus may be sent to a potential customer prior to that customer expressing an indication of interest",
+      "The preliminary prospectus may be sent to a potential customer only after that customer has expressed an indication of interest",
+      "The preliminary prospectus may only be sent to a customer after the registration of the issue is effective",
+      "The preliminary prospectus may only be sent with the confirmation of sale of the issue"
+    ],
+    "answer": 0,
+    "explanation": "A \"red herring\" preliminary prospectus may be sent to any prospective purchaser of that new issue once the issue has entered into the \"20-day cooling off\" period that commences upon filing of the registration statement with the SEC.\n\nThe use of the \"preliminary prospectus\" does not constitute an \"offer\" under the Securities Act of 1933, and the red ink statement on the cover of the preliminary prospectus states this (hence the name \"red herring\").\n\nThe red herring is used to obtain non-binding indications of interest in the issue, and may be sent to anyone during the cooling off period, whether or not that person has previously expressed any interest in the issue."
+  },
+  {
+    "id": "f10-45",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 12,
+    "question": "LGIPs marketed by broker-dealers are:",
+    "choices": [
+      "defined as a type of investment company",
+      "defined as a federal-sponsored security",
+      "regulated by the MSRB",
+      "regulated by the SEC"
+    ],
+    "answer": 2,
+    "explanation": "An LGIP is a \"Local Government Investment Pool.\" It is an investment fund set up under state law that is only offered to local municipal governmental entities in that state. For example, if a town in a state has collected its real estate taxes, but has not yet spent those funds, it can put the balance in that state's LGIP. The LGIP is managed to provide a safe investment return.\n\nThe MSRB takes the stance that if an LGIP retains a broker-dealer to market its offerings in that state, then it is a municipal fund security subject to MSRB rules.\n\nOn the other hand, if the LGIP uses its own employees to market itself to local state governmental entities, then it is not subject to MSRB rules."
+  },
+  {
+    "id": "f10-46",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 12,
+    "question": "A 50 year old individual leaves a corporate employer and receives a $50,000 lump sum distribution from the pension plan. He rolls over $30,000 of the funds within 60 days into an IRA and deposits the rest to his checking account. The individual pays:",
+    "choices": [
+      "no tax",
+      "income tax on the $50,000 distribution",
+      "tax on the $30,000 rollover",
+      "tax on the $20,000 not rolled over"
+    ],
+    "answer": 3,
+    "explanation": "When money is distributed from any qualified retirement plan (including 401(k)s, pension plans, etc.), the participant has 60 days to roll over the funds into another qualified plan or IRA to maintain tax-deferred status. In this case:\n- The $30,000 that was rolled over to an IRA remains tax-deferred\n- The $20,000 that wasn't rolled over loses its tax-deferred status and becomes immediately taxable as ordinary income\n- Additionally, since the individual is under 59 1/2, the $20,000 may also be subject to a 10% early withdrawal penalty unless an exception applies\n\nThe same tax treatment would apply regardless of whether the money came from a pension plan, 401(k), or other qualified retirement plan."
+  },
+  {
+    "id": "f10-47",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 10,
+    "question": "The sending of customer account statements and confirmations by e-mail is:",
+    "choices": [
+      "prohibited",
+      "permitted if the customer consents to it",
+      "permitted in all cases",
+      "permitted only if the branch manager approves"
+    ],
+    "answer": 1,
+    "explanation": "Customer mailings can be sent by e-mail instead of through the physical mail system if the customer consents to the arrangement."
+  },
+  {
+    "id": "f10-48",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 10,
+    "question": "A customer wishes to open an account at a FINRA member firm but wishes his identity to remain hidden from the employees at the branch office. Which statement is TRUE?",
+    "choices": [
+      "The customer's request cannot be accommodated",
+      "The customer must apply to FINRA to open such an account",
+      "The customer must sign a statement attesting to account ownership for such a request to be honored",
+      "The customer must submit a photo identification to open such an account"
+    ],
+    "answer": 2,
+    "explanation": "FINRA requires that accounts be maintained in customer name; however, it will allow a numbered account to be maintained if the firm keeps on file a written statement by the customer attesting to ownership.\n\nFor example, professional traders might worry that if their trades are seen in their name in the firm, that unscrupulous employees might try to \"ghost\" their trades.\n\nIf the account is maintained as a numbered account, then whoever sees the order does not know the identity of the customer."
+  },
+  {
+    "id": "f10-49",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 11,
+    "question": "Which statement is TRUE about accounts opened under the Uniform Gifts to Minors Act?",
+    "choices": [
+      "Any adult can open a custodial account for a minor",
+      "Only a relative of the minor may open a custodial account for a minor",
+      "Only a parent of the minor may open a custodial account for a minor",
+      "Only a minor may open a custodial account for a minor"
+    ],
+    "answer": 0,
+    "explanation": "Any adult can open an account for a minor. The adult does not have to be related to the minor."
+  },
+  {
+    "id": "f10-50",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 10,
+    "question": "Under FINRA rules, to ascertain which investments are suitable for the customer, the registered representative would inquire about all of the following EXCEPT:",
+    "choices": [
+      "Investment objective",
+      "Financial situation and needs",
+      "Tax status",
+      "Educational background"
+    ],
+    "answer": 3,
+    "explanation": "\"Suitability\" means that securities which are recommended to a customer are appropriate for that customer. To ascertain which investments are suitable for the customer, FINRA states that the basis for making the recommendation are the facts disclosed by the customer about his other security holdings and financial situation and needs. Inquiry should be made as to the customer's investment objective, tax status, and financial status."
+  },
+  {
+    "id": "f10-51",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 10,
+    "question": "Under SEC rules, when and to whom must a Form CRS be provided?",
+    "choices": [
+      "Within a reasonable time after account opening, only for retail clients",
+      "Within a reasonable time after account opening, to both retail and institutional clients",
+      "At, or prior to, the making of a recommendation or account opening, only for retail clients",
+      "At, or prior to, the making of a recommendation or account opening, to both retail and institutional clients"
+    ],
+    "answer": 2,
+    "explanation": "Regulation BI went into effect in mid-2020. It requires that customers receive a 2-page document at account opening called Form CRS – Customer Relationship Summary. Form CRS details:\n- Whether the firm is acting as broker-dealer (charging commissions, markups/markdowns) or an investment adviser (charging a fixed fee) in the relationship;\n- That the firm must adhere to a suitability standard when making recommendations as a broker-dealer; and that the firm must adhere to a tougher fiduciary standard when acting as an investment adviser;\n- The fees and costs that the customer will pay;\n- Any conflicts of interest that the firm may have in providing its services to the client; and\n- Whether the firm or its associated persons has had any reportable disciplinary events.\n\nIf the firm presents a client with a package of documents at account opening, the Form CRS must be on the top. It must also be posted prominently on the firm's website.\n\nForm CRS is only required to be provided to retail clients, including wealthy retail clients. It is not required to be provided to institutional clients, who are presumed to be sophisticated. The rule requires that the Form CRS be provided to retail clients at the earlier of making a recommendation or opening a new account."
+  },
+  {
+    "id": "f10-52",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 10,
+    "question": "A copy of the member firm's Business Continuity Plan must be provided to each customer:",
+    "choices": [
+      "at account opening",
+      "on each trade confirmation",
+      "on each account statement",
+      "every 36 months"
+    ],
+    "answer": 0,
+    "explanation": "Each member firm must prepare a Business Continuity Plan that addresses the possibility of significant business disruptions and how the member plans to respond to events of increasing severity.\n\nCustomers must be given a summarized version of the BCP at account opening. Additionally, the BCP must be posted on the member firm's Web site and must be mailed to customers on request."
+  },
+  {
+    "id": "f10-53",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 9,
+    "question": "Which of the following is NOT standardized for listed option contracts?",
+    "choices": [
+      "Contract size",
+      "Expiration date",
+      "Strike price interval",
+      "Commissions and exercise costs"
+    ],
+    "answer": 3,
+    "explanation": "Exchange traded option contracts have standardized contract sizes (e.g., 100 shares of stock), standardized expiration date and time (11:59 PM Eastern Standard Time on the 3rd Friday of the month), and standardized strike price intervals (generally 5 point intervals). The premium or \"price\" of the option is determined minute by minute in the trading market.\n\nAny fees/commissions levied on options trades or assignments by broker-dealers are negotiable."
+  },
+  {
+    "id": "f10-54",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 9,
+    "question": "ABC Jan 50 call contracts are trading in the market at .15. What is the dollar price that a customer would pay for 2 contracts at this price?",
+    "choices": [
+      "$150",
+      "$15.00",
+      "$30.00",
+      "$300.00"
+    ],
+    "answer": 2,
+    "explanation": "A premium of .15 is $.15 per share. Equity contracts cover 100 shares, so the total premium is $.15 x 100 = $15.00 per contract. Since there are two contracts, the total premium would be $30."
+  },
+  {
+    "id": "f10-55",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 9,
+    "question": "What will cover the sale of 1 ABC Jan 50 Put?",
+    "choices": [
+      "Buy 100 shares of ABC stock @ $50",
+      "Short 100 shares of ABC stock @ $50",
+      "Long 1 ABC Jan 50 Call",
+      "Short 1 ABC Jan 50 Call"
+    ],
+    "answer": 1,
+    "explanation": "If the short put is exercised, the writer must stand ready to buy 100 shares of ABC stock at $50. The put will be exercised if the market drops. If the customer sells short 100 shares of ABC stock at 50, then any loss on the short put will be offset by an equal gain on the short stock position, \"covering\" the short put from loss if exercised.\n\nBeing long 100 shares of ABC stock does not cover the short put because if the market drops, the customer will now lose on the long stock position and will be obligated to purchase more shares that will add to the losses in a down market.\n\nThe long call does not cover the short put because if the market drops, the long call expires and the fixed premium is lost.\n\nA short call does not cover the short put because if the market drops, the short call expires and the fixed premium is earned, but this does not compensate for the fact that, if the market keeps on dropping, the loss on the short put goes higher and higher."
+  },
+  {
+    "id": "f10-56",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 9,
+    "question": "Which of the following is a bullish income-producing strategy?",
+    "choices": [
+      "short stock coupled with short call",
+      "short stock coupled with long call",
+      "long stock coupled with long call",
+      "long stock coupled with short call"
+    ],
+    "answer": 3,
+    "explanation": "Buying a stock and selling a call against the position is called covered call writing. This strategy is bullish because of the core long stock position. The premiums collected from the call writing produce income for the client but limit his or her upside if the stock is called away."
+  },
+  {
+    "id": "f10-57",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 7,
+    "question": "A customer places an order to sell 100 ABC at 12 Stop Limit, when ABC stock is trading at $13. The company is restructuring and has announced a special dividend of $2.85 to be paid to shareholders of record. On the ex date, the order will be:",
+    "choices": [
+      "canceled",
+      "reduced to $9.00",
+      "reduced to $9.15",
+      "executed at $12.00"
+    ],
+    "answer": 2,
+    "explanation": "On ex dividend date, all open orders placed lower than the current market are reduced for cash dividends (except for orders placed DNR - Do Not Reduce). The intent is to make sure that the order does not become executable due to the fact that the stock's opening price is reduced by the dividend amount. The order was originally placed at $12. The adjusted order price is $12 - $2.85 reduction = $9.15 adjusted order price."
+  },
+  {
+    "id": "f10-58",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 8,
+    "question": "Which of the following orders will NOT be reduced on ex date for a cash dividend?",
+    "choices": [
+      "Sell 100 ABC @ 50 Stop DNR",
+      "Sell 100 ABC @ 60 Stop",
+      "Buy 100 ABC @ 33",
+      "Sell 100 ABC @ 48 Stop"
+    ],
+    "answer": 0,
+    "explanation": "The orders that are reduced on ex date are those placed below the market - Open Buy Limit and Open Sell Stop orders. The intent is to make sure that the order does not become executable due to the fact that the stock's opening price is reduced by the dividend amount. However, an order with DNR on it (Do Not Reduce) will not be adjusted downwards on ex date."
+  },
+  {
+    "id": "f10-59",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 7,
+    "question": "All of the following securities are traded in the secondary market EXCEPT:",
+    "choices": [
+      "corporate stocks",
+      "corporate bonds",
+      "municipal bonds",
+      "mutual funds"
+    ],
+    "answer": 3,
+    "explanation": "There is no trading of mutual funds - these securities are not tradable - rather, they are issued by the fund and redeemed with the fund. Corporate stocks trade on exchanges and \"over-the-counter.\" Most corporate bonds trade OTC, with a tiny amount traded on the NYSE. Municipal bonds are only traded \"over-the-counter.\""
+  },
+  {
+    "id": "f10-60",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 6,
+    "question": "An open end fund has a Net Asset Value of $10 per share. The minimum price at which a share can be purchased is:",
+    "choices": [
+      "$10",
+      "$10 plus a commission",
+      "$10 plus a mark-up",
+      "any price because this is negotiated in the market"
+    ],
+    "answer": 0,
+    "explanation": "Mutual fund (open-end management company) shares are newly issued by the fund to any purchaser. The purchaser pays the next computed Net Asset Value plus a sales charge if the fund imposes a \"sales load.\" For a \"no load\" fund, the customer would simply pay Net Asset Value - this is the minimum price for an open-end fund.\n\nThis contrasts to a closed end fund, where the fund is traded in the market like any other stock. Any purchaser would pay the prevailing market price (which can be below, at, or above Net Asset Value) and would have to pay a commission to have the trade executed. Thus, a closed-end fund share is purchased at the prevailing market price plus a commission (or a mark-up if it is an OTC principal transaction)."
+  },
+  {
+    "id": "f10-61",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 16,
+    "question": "The rate charged when a bank borrows from the Federal Reserve is called the:",
+    "choices": [
+      "discount rate",
+      "federal funds rate",
+      "repo rate",
+      "reverse repo rate"
+    ],
+    "answer": 0,
+    "explanation": "When a bank borrows from the federal reserve it is charged the discount rate. Do not confuse this rate with the fed funds rate which is charged when one bank borrows from another bank overnight."
+  },
+  {
+    "id": "f10-62",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 6,
+    "question": "A growth fund is a mutual fund that:",
+    "choices": [
+      "invests in securities found in one industry or geographic area",
+      "allocates investment among common stocks, preferred stocks, and bonds of companies in various industries",
+      "sells futures on market indices and uses short sales to limit risks of long positions",
+      "invests solely in the common stocks of companies that exhibit higher than average gains in earnings"
+    ],
+    "answer": 3,
+    "explanation": "A growth fund is one that invests solely in the common stocks of companies that exhibit faster than average gains in earnings; which should be reflected in an increasing share price."
+  },
+  {
+    "id": "f10-63",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 4,
+    "question": "New issues of Treasury Bonds, are issued by the U.S. Government in which form?",
+    "choices": [
+      "Book Entry",
+      "Bearer",
+      "Registered to Principal Only",
+      "Registered to Principal and Interest"
+    ],
+    "answer": 0,
+    "explanation": "All Treasury debt obligations are issued in book entry form only."
+  },
+  {
+    "id": "f10-64",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 2,
+    "question": "If a bond is purchased at a premium, which statement is TRUE?",
+    "choices": [
+      "Yield to call is equal to yield to maturity",
+      "Yield to call is lower than the yield to maturity",
+      "Yield to maturity is higher than the current yield",
+      "Yield to maturity is equal to the current yield"
+    ],
+    "answer": 1,
+    "explanation": "When a bond is purchased at a premium and called prior to its maturity date, the yield to call received will be lower than if the bond is held to maturity since the premium will be lost faster.\n\nYield to maturity will always be lower than current yield for a premium bond because YTM includes the loss of the premium as a reduction of the overall return received from the bond while current yield ignores this component (it is simply Annual Income / Current Market Price).\n\nFor a premium bond, the yields ranked from highest to lowest are: nominal, current, YTM and YTC."
+  },
+  {
+    "id": "f10-65",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 1,
+    "question": "Which statement is TRUE regarding warrants?",
+    "choices": [
+      "Warrants give the holder the long term option to buy or sell stock",
+      "Warrants give the holder a maximum 9 month option to buy stock",
+      "The exercise price of a warrant floats with the stock's current market price",
+      "The exercise price of a warrant is set at a premium to the stock's current market price"
+    ],
+    "answer": 3,
+    "explanation": "Warrants give the holder the long term option to buy (not sell) stock at a fixed price - so the exercise price does not float. At issuance, the exercise price of a warrant is set at a premium to the stock's current market price, so that for the warrant to have value, the common stock price must rise.\n\nWarrants usually have a fixed life of 5 years or so.\n\nDo not confuse warrants with rights. Rights have a very short life (e.g., 1 or 2 months) and the exercise price for rights is set at a discount to the stock's current market price, allowing existing shareholders to subscribe at a favorable price."
+  },
+  {
+    "id": "f10-66",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 16,
+    "question": "Which industry is most cyclical?",
+    "choices": [
+      "Alcohol",
+      "Auto Manufacturing",
+      "Public Utility",
+      "Grocery Chains"
+    ],
+    "answer": 1,
+    "explanation": "Utilities, alcohol, and grocery chains are defensive industries. This means that the price of the securities is less affected by a downturn in the economy. In contrast, auto manufacturing is a cyclical industry and is affected by changes in the overall economy."
+  },
+  {
+    "id": "f10-67",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 3,
+    "question": "A declining rate of inflation would lead to:",
+    "choices": [
+      "higher bond prices and higher bond yields",
+      "higher bond prices and lower bond yields",
+      "lower bond prices and lower bond yields",
+      "lower bond prices and higher bond yields"
+    ],
+    "answer": 1,
+    "explanation": "A declining rate of inflation will lead to lower interest rates. If interest rates drop, then bond prices will rise."
+  },
+  {
+    "id": "f10-68",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 6,
+    "question": "Which is true about a 12b-1 fee:",
+    "choices": [
+      "The 12b-1 fee covers the cost of advertising and other distribution expenses.",
+      "The 12b-1 fee cannot be more than 25 basis points.",
+      "The 12b-1 fee is part of all mutual funds' expense ratios.",
+      "The 12b-1 fee is sometimes used by the Fund manager to cover management costs."
+    ],
+    "answer": 0,
+    "explanation": "The 12b-1 fee is named after a section of the '40 Act and is used by some mutual funds to pay for sales and marketing costs, sometimes called distribution fees."
+  },
+  {
+    "id": "f10-69",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 4,
+    "question": "Most broker-dealers interested in new T-bills would get them from:",
+    "choices": [
+      "The U.S. Treasury",
+      "A primary dealer",
+      "An underwriter",
+      "Fannie Mae"
+    ],
+    "answer": 1,
+    "explanation": "The U.S. Treasury regularly holds auctions of Treasury bills, notes, and bonds at the Federal Reserve Bank of New York. Most of these Treasury securities are bought by what are called primary dealers. A primary dealer is a bank or broker-dealer that buys Treasury securities at auction from the U.S. Treasury and then resells them to investors. Primary dealers serve as market makers for Treasury securities."
+  },
+  {
+    "id": "f10-70",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 4,
+    "question": "Martin buys a US Treasury Bond. He lives in Atlanta, Georgia. Martin owes taxes on his interest income to which of the following?",
+    "choices": [
+      "The federal government",
+      "Georgia",
+      "Atlanta",
+      "All of these"
+    ],
+    "answer": 0,
+    "explanation": "Interest on US government bonds (treasury bonds) are taxable only at the federal level. They are not taxable at the state or local level."
+  },
+  {
+    "id": "f10-71",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 6,
+    "question": "Direct participation programs (DPPs) offer an investor which of the following?",
+    "choices": [
+      "Low risk and high profit",
+      "Liquidity",
+      "The ability to offset all other investment income",
+      "Professional management"
+    ],
+    "answer": 3,
+    "explanation": "DPPs are typically high-risk investments that have the potential to be highly profitable. They are also generally illiquid and, therefore, difficult to sell. Losses resulting from DPPs can be used to offset passive income, which the IRS defines as income primarily from rental property and limited partnerships. However, passive income does not include portfolio income, such as income from annuities, mutual funds, or stocks and bonds. DPPs do offer investors professional management, which is considered an advantage for most investors."
+  },
+  {
+    "id": "f10-72",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 13,
+    "question": "All of the following are true of the Securities Act of 1933 except?",
+    "choices": [
+      "One of its purposes is to prohibit fraud and deceit in the marketing of securities",
+      "It requires that all securities are registered with the federal government prior to offering them for sale",
+      "The Act requires that a company's financial statements be certified by independent accountants",
+      "It requires companies to publicly disclose all relevant financial information about their securities before offering them for sale."
+    ],
+    "answer": 1,
+    "explanation": "The Securities Act of 1933 has two main purposes: (1) to require that companies publicly disclose all relevant financial information about their securities prior to offering them for sale, and (2) to prohibit fraud and deceit in the marketing of securities. The Act requires that most securities be registered with the federal government prior to their sale, but there are securities that are exempt from registration. The Act regulates how securities are issued and first sold to the public and requires companies to publicly disclose all relevant financial information about their securities before offering them for sale."
+  },
+  {
+    "id": "f10-73",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 12,
+    "question": "The \"death benefit\" associated with a variable annuity contract:",
+    "choices": [
+      "applies prior to annuitization and means that, upon death, the insurance company will make a lump sum payment to complete the terms of the contract",
+      "applies prior to annuitization and means that, upon death, the insurance company will pay a beneficiary at least the amount invested in the contract",
+      "applies after annuitization and means that, upon death, the insurance company will make a lump sum payment to complete the terms of the contract",
+      "applies after annuitization and means that, upon death, the insurance company will pay a beneficiary at least the amount invested in the contract"
+    ],
+    "answer": 1,
+    "explanation": "The \"death benefit\" of a variable annuity contract is not really much of one. If the contract holder dies prior to annuitization, the insurance company pays the greater of current NAV or the amount invested to a beneficiary. If the contract holder dies after annuitization, there is no more \"death benefit.\""
+  },
+  {
+    "id": "f10-74",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 14,
+    "question": "Who creates the list of SDNs that must be checked when opening an account for a foreigner or foreign entity?",
+    "choices": [
+      "FINRA",
+      "FDIC",
+      "OFAC",
+      "FinCEN"
+    ],
+    "answer": 2,
+    "explanation": "The Department of Treasury's Office of Foreign Assets Control (OFAC) maintains a list of named countries, organizations, and individuals with whom anyone in the U.S. is prohibited from doing business.\n\nThe \"SDN\" (Specially Designated Nationals) list includes such countries as Iran and North Korea and such organizations as the Al-Qaeda, as well as specified individuals associated with these countries and organizations.\n\nThe intent is to place economic pressure on these groups by stopping U.S. investment in them. The SDN list must be checked before opening an account for a foreigner or foreign entity."
+  },
+  {
+    "id": "f10-75",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 7,
+    "question": "Which stocks are NOT traded on ECNs?",
+    "choices": [
+      "NYSE issues",
+      "OTC issues",
+      "Nasdaq issues",
+      "NYSE American issues"
+    ],
+    "answer": 1,
+    "explanation": "ECNs (Electronic Communications Networks) only trade listed stocks - NYSE, NYSE American (AMEX) and Nasdaq. They do this as an institutional matching service, getting a small fee for each match. These trades occur OTC in the \"Fourth Market.\"\n\nECNs do not trade OTC issues (issues quoted by OTC Markets Group (formerly known as the Pink Sheets)) because the market is illiquid. ECN trades are reported to the appropriate Network A, B, or C Tape by a system called TRACS."
+  },
+  {
+    "id": "f10-76",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 8,
+    "question": "A 5-year 3 1/2% Treasury Note is quoted at 101-4 - 101-8. The note pays interest on Jan 1st and Jul 1st. If a customer buys 5 T-Notes on Friday, April 4th, when does the settlement occur?",
+    "choices": [
+      "Friday, April 4th",
+      "Monday, April 7th",
+      "Tuesday, April 8th",
+      "Wednesday, April 9th"
+    ],
+    "answer": 1,
+    "explanation": "Trades of U.S. Government and agency securities settle \"regular way\" on the next business day. Trades of corporate and municipal securities also settle \"regular way\" 1 business day after the trade date (T+1)."
+  },
+  {
+    "id": "f10-77",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 1,
+    "question": "A customer holds 100 shares of ABC Corp $100 par non-convertible preferred stock. If ABC declares and pays a 10% common stock dividend, then as of the payable date, the customer will now have:",
+    "choices": [
+      "90 shares of ABC preferred stock",
+      "100 shares of ABC preferred stock",
+      "100 shares of ABC preferred stock and 10 shares of ABC common stock",
+      "110 shares of ABC preferred stock"
+    ],
+    "answer": 1,
+    "explanation": "If ABC declares and pays a 10% \"common\" stock dividend, the customer who holds non-convertible or convertible preferred stock would not add any preferred shares. Thus, the preferred stock customer would still have 100 shares of the non-convertible preferred stock."
+  },
+  {
+    "id": "f10-78",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 1,
+    "question": "American Depositary Receipts pay dividends in:",
+    "choices": [
+      "SOFR Units",
+      "European Currency Units",
+      "Foreign Currency",
+      "U.S. Dollars"
+    ],
+    "answer": 3,
+    "explanation": "American Depositary Receipts pay dividends in U.S. dollars only. The dividends are declared and paid in the foreign currency by the issuer. The bank that issues the ADR exchanges the dividend into U.S. dollars and pays this to the U.S. ADR holders."
+  },
+  {
+    "id": "f10-79",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 4,
+    "question": "A corporate bond which obligates the issuer to pay interest ONLY if the company meets a specified earnings test is a(n):",
+    "choices": [
+      "guaranteed bond",
+      "subordinated bond",
+      "income bond",
+      "collateral trust certificate"
+    ],
+    "answer": 2,
+    "explanation": "Income bonds (also known as adjustment bonds) obligate the issuer to pay interest only if the company meets a specified earnings test. If the earnings are not sufficient, no interest payment is legally required. All other bonds obligate the issuer to pay interest, regardless of events."
+  },
+  {
+    "id": "f10-80",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 10"
+    },
+    "chapter": 1,
+    "question": "A client who wants to make an investment in common stock would be most concerned with the company's:",
+    "choices": [
+      "book value per share",
+      "market value per share",
+      "par value per share",
+      "stated value per share"
+    ],
+    "answer": 1,
+    "explanation": "This is easy — the first question asked by a customer whenever a purchase is being made is “How much does this cost?” Market value is the current cost, so this is the best answer!"
+  }
+]
