@@ -1,0 +1,1368 @@
+[
+  {
+    "id": "rf-01",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 6,
+    "question": "Rihanna wants to invest her money in an up-and-coming industry. She has a high risk tolerance and wants the potential to be a part of big financial growth. Which of the following equity funds would be suitable for her?",
+    "choices": [
+      "Value fund",
+      "Growth fund",
+      "Sector fund",
+      "Income fund"
+    ],
+    "answer": 2,
+    "explanation": "Sector mutual funds invest in a specific industry or sector of the economy and, therefore, are not as diversified as (and are more risky than) other types of mutual funds. Sector funds may have appreciation potential when there is an increased demand for the product or service that the sector provides. Therefore, sector funds would be the most suitable for Rihanna."
+  },
+  {
+    "id": "rf-02",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 6,
+    "question": "According to the Investment Company Act of 1940, a diversified mutual fund will have:",
+    "choices": [
+      "No more than 5% of its assets in any one company, and will own no more than 5% of any company's outstanding shares",
+      "No more than 5% of its assets in any one company, and will own no more than 10% of any company's outstanding shares",
+      "No more than 10% of its assets in any one company, and will own no more than 5% of any company's outstanding shares",
+      "No more than 10% of its assets in any one company, and will own no more than 10% of any company's outstanding shares"
+    ],
+    "answer": 1,
+    "explanation": "According to the Investment Company Act of 1940, a diversified mutual fund may have no more than 5% of its assets in any one company, and own no more than 10% of any company's outstanding shares."
+  },
+  {
+    "id": "rf-03",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 8,
+    "question": "If a member firm or associate has material knowledge of a large pending block order for a stock and puts in a buy or sell order prior to the block order's execution, it is called:",
+    "choices": [
+      "churning",
+      "front-running",
+      "freeriding and withholding",
+      "selling away"
+    ],
+    "answer": 1,
+    "explanation": "Members are not allowed to place orders that \"run\" in front of a block order so that they can profit from the price's reaction."
+  },
+  {
+    "id": "rf-04",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 12,
+    "question": "The penalty for failing to withdraw a required minimum distribution (RMD) from a qualified retirement account is:",
+    "choices": [
+      "The amount of the RMD",
+      "25% of the RMD",
+      "10% of the RMD",
+      "50% of the account's value"
+    ],
+    "answer": 1,
+    "explanation": "Many tax-qualified retirement plans come with required minimum distributions (RMDs). RMDs are withdrawals that must be made starting in the year the account holder turns 73 in order to avoid a tax penalty equal to 25% of the RMD."
+  },
+  {
+    "id": "rf-05",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 6,
+    "question": "All of the following statements are true about money market funds EXCEPT:",
+    "choices": [
+      "money market funds rarely have a sales charge",
+      "all distributions are fully taxable as investment income",
+      "most money market funds have a constant Net Asset Value per share of $1.00",
+      "money market funds have an objective of long term capital gains"
+    ],
+    "answer": 3,
+    "explanation": "Money funds typically do not have sales charges. All distributions are fully taxable as investment income. Money market funds are unusual in that the NAV per share is constant at $1.00. As the fund has earnings, and Total Assets increase, the shareholder receives more shares worth $1.00 each. Money market funds invest in very short term (usually 270 day maximum maturity) money market instruments with an investment objective of high current income."
+  },
+  {
+    "id": "rf-06",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 4,
+    "question": "Payments to holders of Ginnie Mae pass-through certificates are made:",
+    "choices": [
+      "monthly and represent a payment of both interest and principal",
+      "monthly and represent a payment of only interest",
+      "semi-annually and represent a payment of both interest and principal",
+      "semi-annually and represent a payment of only interest"
+    ],
+    "answer": 0,
+    "explanation": "All pass-through certificates pass on the monthly mortgage payments received from the pooled mortgages to the certificate holders. Thus, payments are received monthly. These represent a payment of both interest and principal on the underlying mortgages."
+  },
+  {
+    "id": "rf-07",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 6,
+    "exhibit": "CLOSED END BOND FUNDS\n\nFund   Net Asset Value   Stock Close   NAV Change\nAcco   $8.32             8.13          -.08\nAcme   $9.90             10.25         +.10\nAdap   $7.45             7.50          -.01",
+    "exhibitMono": true,
+    "question": "A customer who places an order to sell 100 shares of Acme Fund will receive:",
+    "choices": [
+      "$990",
+      "$990 less a commission",
+      "$1,025",
+      "$1,025 less a commission"
+    ],
+    "answer": 3,
+    "explanation": "If closed-end fund shares are sold, the investor gets the current market price less a commission paid for executing the trade. The last price for Acme Fund is $10.25. An investor selling 100 shares receives $1,025 less a commission."
+  },
+  {
+    "id": "rf-08",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 11,
+    "question": "An institutional investor will open a prime brokerage account for all of the following reasons EXCEPT:",
+    "choices": [
+      "consolidation of account positions with one broker",
+      "lower financing costs on margined positions",
+      "to facilitate reporting and recordkeeping of all transactions",
+      "to achieve lower commission costs by using one executing broker"
+    ],
+    "answer": 3,
+    "explanation": "Hedge fund investors typically use a \"prime broker\" to consolidate all of their positions with one brokerage firm. In a prime brokerage agreement, the institutional investor can use different executing brokers for its trades, but all of these trades are settled by the \"prime broker\" who maintains custody of the positions, and most importantly, provides margin financing on these positions and arranges for stock loans on short stock positions. By using a single prime broker, trade reports and position reports come from a single source, making account recordkeeping easier.\n\nThe hedge fund, in return for sending trades to different executing brokers at full commission rates, gets valuable research and recommendations in return. By using a prime broker to consolidate all positions, the hedge fund gets lower financing costs on borrowed funds and \"front of the line\" status when it wishes to borrow securities to effect short sales."
+  },
+  {
+    "id": "rf-09",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 10,
+    "question": "Under SEC Regulation Best Interest, when would a broker-dealer be allowed to put its interests above the interests of a retail customer to whom it is making a recommendation?",
+    "choices": [
+      "Never",
+      "When the broker-dealer discloses that it is putting its interests above the interests of the customer",
+      "When the recommendation is suitable for the customer",
+      "When the broker-dealer does not have a conflict of interest when making the recommendation"
+    ],
+    "answer": 0,
+    "explanation": "Regulation BI requires broker-dealers and their associated persons to act in their retail customers' best interest at the time that a recommendation is made, without placing the financial or other interests of the firm ahead of their customers' interests. This is true regardless of any disclosures the broker-dealer makes. Regulation BI applies even when the recommendation is free from conflicts of interest."
+  },
+  {
+    "id": "rf-10",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 3,
+    "question": "Which of the following investments would be most subject to inflation risk?",
+    "choices": [
+      "Thinly-traded stocks",
+      "Hedge funds",
+      "REITs",
+      "Bonds"
+    ],
+    "answer": 3,
+    "explanation": "Fixed-income investments tend to have more inflation risk than stocks. Bonds are fixed-income investments, and thus they are subject to inflation risk. On the other hand, hedge funds, REITs, and thinly-traded stocks do not come with high levels of inflation risk."
+  },
+  {
+    "id": "rf-11",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 6,
+    "question": "Warren invests $100 million in a hedge fund that charges a 2% management fee plus 20% of any profits. The hedge fund manages $1 billion in total assets. The fund makes a profit of $50 million, of which Warren's share is $5 million. What does the hedge fund charge Warren for that year?",
+    "choices": [
+      "A $2 million management fee and $10 million based on the fund's profitability",
+      "A $2 million management fee and $1 million based on the fund's profitability",
+      "A $20 million management fee and $1 million based on the fund's profitability",
+      "A $20 million management fee and $10 million based on the fund's profitability"
+    ],
+    "answer": 1,
+    "explanation": "The annual management fee is based on the size of Warren's investment with the hedge fund. Therefore, the management fee will be 2% of $100 million, which is $2 million. The hedge fund also receives 20% of Warren's profits. This amounts to $1 million (20% of $5 million). The total assets managed by the fund and its total profits are not needed to answer the question."
+  },
+  {
+    "id": "rf-12",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 14,
+    "question": "A customer has a margin account at a broker-dealer that goes bankrupt. The account holds $800,000 of securities and has a $400,000 debit balance. The customer will receive:",
+    "choices": [
+      "$400,000 in cash",
+      "$400,000 in securities",
+      "$500,000 of securities after the debit balance is paid off and becomes a general creditor for the remaining $300,000",
+      "The customer will receive $500,000 of cash and $300,000 of securities"
+    ],
+    "answer": 1,
+    "explanation": "The SIPC coverage limit of $500,000 in securities is based on the equity in a customer's account. An account with $800,000 in securities and a $400,000 debit has $400,000 of equity. The customer will receive $400,000 of securities in the liquidation."
+  },
+  {
+    "id": "rf-13",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 10,
+    "question": "Jack's customer, John, has asked Jack to hold his mail for him for a while. Jack wants to be a representative who delivers exceptional customer service to his clients, so Jack agrees to hold John's mail. Which of the following is true regarding FINRA's requirements for holding mail for a customer?",
+    "choices": [
+      "FINRA does not permit a member to hold mail for any customer",
+      "FINRA permits a member to hold mail for a customer as long as it doesn't exceed three months",
+      "FINRA permits a member to hold mail for a customer for more than three months, provided the customer instructs the firm in writing and has an acceptable reason for such a request",
+      "FINRA permits a member to hold mail for a customer up to three months without written instructions"
+    ],
+    "answer": 2,
+    "explanation": "According to FINRA Rule 3150, a firm may hold a customer's mail when the customer will not be receiving mail at their usual address, but specific requirements must be met. The firm must receive written instructions from the customer that include the specific time period during which they request mail to be held. If this requested period exceeds three consecutive months (including any aggregation of time periods from prior requests), the customer's instructions must include an acceptable reason for the request, such as safety or security concerns. The rule explicitly states that convenience is not an acceptable reason for holding mail beyond three months.\n\nAdditionally, the firm has several obligations: it must inform the customer in writing of any alternate methods to receive or monitor account activity and information, such as email or access through the firm's website, and must obtain the customer's confirmation of receipt of this information. The firm must also verify at reasonable intervals that the customer's instructions still apply.\n\nThroughout the mail-holding period, the firm must maintain the ability to communicate important account information (such as privacy notices and SIPC information disclosures, FINRA Rule 2266) to the customer in a timely manner. Furthermore, the firm must take actions reasonably designed to ensure that the customer's mail is not tampered with, held without the customer's consent, or used by the firm's associated persons in any manner that would violate FINRA rules or federal securities laws."
+  },
+  {
+    "id": "rf-14",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 16,
+    "question": "All of the following statements are true regarding the Federal Funds rate EXCEPT the rate is:",
+    "choices": [
+      "charged from one Federal Reserve member bank to another member bank",
+      "set by the Federal Reserve",
+      "lower than the discount rate",
+      "computed every business day"
+    ],
+    "answer": 1,
+    "explanation": "The Federal Funds rate is the interest rate charged by Federal Reserve member banks for overnight loans to each other. The discount rate is charged by the Federal Reserve itself to member banks that wish to borrow reserves directly from the Fed. Federal Reserve actions such as Open Markets Operations strongly influence the Federal Funds rate, but the Fed itself does not set this rate. The Fed Funds rate is lower than the discount rate because the discount rate is pegged by the Fed at 50 basis points over the Fed Funds rate. Lastly, the Fed Funds rate is computed every day and can change throughout the day."
+  },
+  {
+    "id": "rf-15",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 13,
+    "question": "Which statement is TRUE about the use of a \"red herring\" preliminary prospectus?",
+    "choices": [
+      "The preliminary prospectus may be sent to a potential customer prior to that customer expressing an indication of interest",
+      "The preliminary prospectus may be sent to a potential customer only after that customer has expressed an indication of interest",
+      "The preliminary prospectus may only be sent to a customer after the registration of the issue is effective",
+      "The preliminary prospectus may only be sent with the confirmation of sale of the issue"
+    ],
+    "answer": 0,
+    "explanation": "A \"red herring\" preliminary prospectus may be sent to any prospective purchaser of that new issue once the issue has entered into the \"20-day cooling off\" period that commences upon filing of the registration statement with the SEC.\n\nThe use of the \"preliminary prospectus\" does not constitute an \"offer\" under the Securities Act of 1933, and the red ink statement on the cover of the preliminary prospectus states this (hence the name \"red herring\").\n\nThe red herring is used to obtain non-binding indications of interest in the issue, and may be sent to anyone during the cooling off period, whether or not that person has previously expressed any interest in the issue."
+  },
+  {
+    "id": "rf-16",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 9,
+    "question": "A customer sells short 100 shares of PDQ stock at $58 and buys 1 PDQ Jul 60 Call @ $3. The customer's maximum potential loss is:",
+    "choices": [
+      "unlimited",
+      "$5,800",
+      "$300",
+      "limited since the call protects against the upside risk"
+    ],
+    "answer": 3,
+    "explanation": "The long call allows the customer to buy in the stock position at $60. Since the stock was sold at $58, exercise results in a net loss of $2 on the stock. The customer paid $3 for the call, so the total loss is $500."
+  },
+  {
+    "id": "rf-17",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 11,
+    "question": "Which of the following can open a joint account without restriction?",
+    "choices": [
+      "Parent and minor",
+      "Guardian and custodian",
+      "Limited partners",
+      "Registered representative and client"
+    ],
+    "answer": 2,
+    "explanation": "Minors cannot participate in a joint account - the only way to open an account for a minor is via a custodian, guardian, or trust account.\n\nA guardian and a custodian cannot open a joint account as such - the custodian opens an account for the benefit of the designated minor; the guardian opens the account for the benefit of the designated person whose assets need to be protected.\n\nA registered representative and a client cannot open a joint account unless the firm approves and profit and loss is shared in proportion to capital contributed. As a practical matter, almost all firms prohibit such sharing outright.\n\nLimited partners could open a joint account (they could also open a partnership account)."
+  },
+  {
+    "id": "rf-18",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 16,
+    "question": "The \"real\" interest rate earned on an investment is the stated interest rate:",
+    "choices": [
+      "minus the inflation rate",
+      "plus the inflation rate",
+      "minus the T-Bill rate",
+      "plus the T-Bill rate"
+    ],
+    "answer": 0,
+    "explanation": "Interest rates consist of a component for the true \"cost\" of money and another component for expected inflation. The higher the expected inflation rate, the higher the interest rate. To get the \"real\" cost of funds, the inflation rate must be deducted out of the nominal interest rate."
+  },
+  {
+    "id": "rf-19",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 7,
+    "question": "Which of the following is not a risk of extended hours trading?",
+    "choices": [
+      "Lower liquidity",
+      "Less access to news updates",
+      "Higher volatility",
+      "Wider bid-ask spreads"
+    ],
+    "answer": 1,
+    "explanation": "Because after-hours traders are able to react to financial news for longer periods than traders who are restricted to normal hours, they have access to more and not fewer news updates. On the other hand, the risks associated with extended hours trading include lower liquidity, higher volatility, and wider bid-ask spreads."
+  },
+  {
+    "id": "rf-20",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 2,
+    "question": "The current yield of a bond:",
+    "choices": [
+      "increases as bond market prices decline",
+      "increases as bond market prices increase",
+      "is unaffected by changes in market interest rates",
+      "will vary with the earnings of the issuer"
+    ],
+    "answer": 0,
+    "explanation": "The current yield is the stated rate of interest as a percentage of market value. It will change as bond prices move - if bond prices rise, the current yield falls; if bond prices fall, the current yield rises."
+  },
+  {
+    "id": "rf-21",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 16,
+    "question": "All of the following would be taxed at \"earned income\" rates under IRS regulations EXCEPT:",
+    "choices": [
+      "Dividend payments received",
+      "Social security payments received",
+      "Royalty payments received",
+      "Bonus payments received"
+    ],
+    "answer": 0,
+    "explanation": "Earned income, under the tax code, has different definitions, depending on the regulation involved. The income items that are taxed at \"earned income\" rates (currently a maximum of 37%) includes wages, bonuses, social security payments, and royalties received (such as royalties earned for writing a book).\n\nInterest income received is classified as \"portfolio\" income. Portfolio income, depending on the type, can be taxed at lower rates (for example, cash dividends received are currently taxed at a maximum of 15% unless an individual is in the maximum tax bracket, in which case cash dividends are taxed at 20%; while interest received is taxed at a maximum of 37%)."
+  },
+  {
+    "id": "rf-22",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 13,
+    "question": "Under Rule 147, intrastate offerings cannot be resold out of state for how long after the initial sale date?",
+    "choices": [
+      "6 months",
+      "12 months",
+      "18 months",
+      "24 months"
+    ],
+    "answer": 0,
+    "explanation": "Rule 147 requires that resale of securities sold under the intrastate exemption be restricted to intrastate only for 6 months following first sale. Thereafter, they can be resold interstate. Note, however, that because these securities were never registered with the SEC, they cannot be publicly traded. The only way to resell them is in a \"private transaction.\""
+  },
+  {
+    "id": "rf-23",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 15,
+    "question": "FINRA considers which of the following to be retail communications?",
+    "choices": [
+      "All of these",
+      "Radio and television broadcasts",
+      "Signs and billboards",
+      "Publicly accessible web pages"
+    ],
+    "answer": 0,
+    "explanation": "\"Retail communication\" means any written (including electronic) communication that is distributed or made available to more than 25 retail investors within any 30 calendar-day period. This includes any generally accessible website, newspaper, magazine or other periodical, radio, television, telephone or audio recording, video display, signs or billboards, motion pictures, or telephone directories (other than routine listings)."
+  },
+  {
+    "id": "rf-24",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 13,
+    "question": "Which of the following securities is NOT exempt from the Securities Act of 1933?",
+    "choices": [
+      "Municipal revenue bond issues",
+      "Common carrier issues",
+      "Income bond issues",
+      "U.S. Government bond issues"
+    ],
+    "answer": 2,
+    "explanation": "Income bonds (a.k.a. Adjustment Bonds) are issued to existing bondholders by corporations which are in default. On these bonds, the corporation is only obligated to pay the interest on the bonds if it has sufficient income. Since these are corporate issues, they are not exempt.\n\nU.S. Government bonds, municipal bonds, and common carrier issues (airlines, railroads which are subject to federal regulation, etc.) are all exempt."
+  },
+  {
+    "id": "rf-25",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 6,
+    "question": "In a period of rising interest rates, an investor in a \"Ginnie Mae\" mutual fund is likely exposed to which of the following?",
+    "choices": [
+      "Increased Prepayment Risk",
+      "Increased Reinvestment Risk",
+      "Increased Default Risk",
+      "Increased Extension Risk"
+    ],
+    "answer": 3,
+    "explanation": "Since Ginnie Mae only issues mortgage backed pass-through certificates, in periods of declining interest rates, increased prepayment risk exists. Homeowners tend to prepay their \"old\" high rate mortgages when rates have declined by refinancing at the new lower rates. When these prepayments are reinvested by the fund, the monies earn lower current rates, so increased reinvestment risk is also present. Conversely, if interest rates rise, then homeowners tend not to move and the expected repayment rate falls. As this occurs, the life of the certificates lengthens beyond the expected life, and the certificate holder earns a lower than market return for a longer than expected time period. This is extension risk. Ginnie-Maes are backed by the U.S. Government and are assumed to be default free."
+  },
+  {
+    "id": "rf-26",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 12,
+    "question": "Section 529 accounts are used to fund:",
+    "choices": [
+      "retirement needs",
+      "education needs",
+      "medical needs",
+      "disability needs"
+    ],
+    "answer": 1,
+    "explanation": "Section 529 plans are state sponsored savings plans used to fund higher education; up to $20,000 per person per year can be withdrawn to pay for education below the college level."
+  },
+  {
+    "id": "rf-27",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 10,
+    "question": "All of the following information must be disclosed to a client on Form CRS when opening a new account at a broker-dealer EXCEPT:",
+    "choices": [
+      "whether the firm acts as a broker-dealer or an investment adviser in the relationship",
+      "whether the firm operates under a suitability standard or a fiduciary standard in the relationship",
+      "the type of fees charged by the firm in the relationship",
+      "the type of information collected by the firm about that customer and how it is used"
+    ],
+    "answer": 3,
+    "explanation": "Regulation BI went into effect in mid-2020. It requires that customers receive a 2-page document at account opening called Form CRS - Customer Relationship Summary. Form CRS details:\n- Whether the firm is acting as broker-dealer (charging commissions, markups/markdowns) or an investment adviser (charging a fixed fee) in the relationship;\n- That the firm must adhere to a suitability standard when making recommendations as a broker-dealer; and that the firm must adhere to a tougher fiduciary standard when acting as an investment adviser;\n- The fees and costs that the customer will pay;\n- Any conflicts of interest that the firm may have in providing its services to the client; and\n- Whether the firm or its associated persons has had any reportable disciplinary events.\n\nRegulation SP (Statement of Privacy) covers the confidentiality of customer information and how the firm may use it. It also gives the customer the right to \"opt out\" and deny the right of the firm to use any of his or her personal information (e.g., for marketing purposes)."
+  },
+  {
+    "id": "rf-28",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 6,
+    "question": "The unethical practice of encouraging excessive trading activity in a client's account is also known as:",
+    "choices": [
+      "Twisting",
+      "Churning",
+      "Flipping",
+      "Selling away"
+    ],
+    "answer": 1,
+    "explanation": "\"Churning\" is the unethical practice of trading in a client's account more than is necessary in order to generate commissions for a representative."
+  },
+  {
+    "id": "rf-29",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 14,
+    "question": "A broker-dealer agent who lives and is registered in New York wishes to sell a municipal bond to a customer who lives in New Jersey. Which statement is TRUE about the registering of this agent and their broker-dealer in New Jersey?",
+    "choices": [
+      "Both the agent and the broker-dealer must be registered in New Jersey",
+      "Only the agent must be registered in New Jersey",
+      "Only the broker-dealer must be registered in New Jersey",
+      "Neither the broker-dealer nor the agent is required to be registered in New Jersey"
+    ],
+    "answer": 0,
+    "explanation": "Municipal bonds are an exempt security, from both Federal and State registration. However, broker-dealers and their sales employees must still be registered in each state where they do business. Therefore, the BD and agent must be registered in New Jersey to offer the bonds there (since they can offer these securities fraudulently, and the state wants to know where to find these persons if they do so)."
+  },
+  {
+    "id": "rf-30",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 6,
+    "question": "A mutual fund has a sales charge schedule with breakpoints in increments of $100,000. The sales charge for investments between $100,000 and $200,000 is 4%. Given this information, which of the following could be a valid sales charge for investments between $200,000 and $300,000?",
+    "choices": [
+      "5%",
+      "4%",
+      "3%",
+      "all of the choices listed"
+    ],
+    "answer": 2,
+    "explanation": "Breakpoint pricing is a way of offering \"volume discounts\" on sales charges for larger investments. The bigger the investment, the lower the sales charge. In this example, since an investment between $100,000 and $200,000 carries a 4% sales charge, the next category of investments, $200,000 - $300,000, must carry a charge lower than 4%. 3% would be a valid charge for this category."
+  },
+  {
+    "id": "rf-31",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 12,
+    "question": "A pension plan maintained by a not-for profit corporation is known as a(n):",
+    "choices": [
+      "401(k) plan",
+      "403(b) plan",
+      "SEP IRA",
+      "457 plan"
+    ],
+    "answer": 1,
+    "explanation": "Not-for-profit institutions such as hospitals and universities can sponsor 403(b) (tax deferred annuity) plans for their employees. 401(k) plans, and SEP IRA plans are sponsored by for-profit corporations. 457 plans are only available to government organizations."
+  },
+  {
+    "id": "rf-32",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 10,
+    "question": "A copy of the member firm's Business Continuity Plan must be provided to each customer:",
+    "choices": [
+      "at account opening",
+      "on each trade confirmation",
+      "on each account statement",
+      "every 36 months"
+    ],
+    "answer": 0,
+    "explanation": "Each member firm must prepare a Business Continuity Plan that addresses the possibility of significant business disruptions and how the member plans to respond to events of increasing severity.\n\nCustomers must be given a summarized version of the BCP at account opening. Additionally, the BCP must be posted on the member firm's Web site and must be mailed to customers on request."
+  },
+  {
+    "id": "rf-33",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 10,
+    "question": "A customer has decided to transfer his account from Broker-Dealer A to Broker-Dealer B. Which statement is TRUE regarding the maintenance of the customer's existing account records?",
+    "choices": [
+      "Broker-Dealer A must retain the customer's existing account records (statements) for 3 years",
+      "Broker-Dealer A must retain the customer's existing account records (statements) for 6 years",
+      "Broker-Dealer B must retain the customer's existing account records (statements) for 3 years",
+      "Broker-Dealer B must retain the customer's existing account records (statements) for 6 years"
+    ],
+    "answer": 1,
+    "explanation": "Customer account statements must be retained for 6 years. In this case, the responsibility for retaining existing account records falls on Broker-Dealer A, because that is where the account was held prior to the transfer that will now occur."
+  },
+  {
+    "id": "rf-34",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 4,
+    "question": "Which of the following is a zero coupon original issue discount obligation?",
+    "choices": [
+      "Treasury STRIPS",
+      "Treasury Notes",
+      "Treasury Bonds",
+      "Treasury TIPS"
+    ],
+    "answer": 0,
+    "explanation": "Treasury Bills and STRIPS are zero coupon original issue discount obligations that do not have a stated interest rate. Treasury Notes and Bonds are issued at par with a stated interest rate. TIPS have a fixed interest rate over the life of the bond. The principal amount is adjusted every six months by an amount equal to the change in the Consumer Price Index (CPI)."
+  },
+  {
+    "id": "rf-35",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 1,
+    "question": "What is the potential impact on an investor's rate of return on ADRs due to exchange rate changes?",
+    "choices": [
+      "Exchange rates have no impact on an investor's rate of return",
+      "Exchange rates are a sign of a strong economy; therefore, it increases an investor's rate of return",
+      "Exchange rates can either increase or decrease an investor's rate of return",
+      "Exchange rates are a sign of economic hardship; therefore, it decreases an investor's rate of return"
+    ],
+    "answer": 2,
+    "explanation": "An ADR investor's rate of return can increase or decrease, depending upon the change in the foreign currency as compared to the U.S. dollar."
+  },
+  {
+    "id": "rf-36",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 13,
+    "question": "A preliminary prospectus is also commonly called:",
+    "choices": [
+      "a post-filing prospectus",
+      "a red herring prospectus",
+      "an unaudited prospectus",
+      "an effective prospectus"
+    ],
+    "answer": 1,
+    "explanation": "A company files a preliminary prospectus with the SEC, which contains a legend in red that states an offering has been filed but the prospectus is not final."
+  },
+  {
+    "id": "rf-37",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 9,
+    "question": "When an equity options contract is exercised, the trade settles:",
+    "choices": [
+      "next business day after trade date",
+      "in 2 business days after trade date",
+      "in 3 business days after trade date",
+      "in 7 calendar days after trade date"
+    ],
+    "answer": 0,
+    "explanation": "Exercise of an option results in a regular way trade. Stock trades settle regular way (1 business day after the trade date)."
+  },
+  {
+    "id": "rf-38",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 9,
+    "question": "Helga bought a XYZ Corp Sep 50 put @ 3. If XYZ is currently trading at $51, what is the intrinsic value?",
+    "choices": [
+      "$0",
+      "$100",
+      "$200",
+      "$300"
+    ],
+    "answer": 0,
+    "explanation": "A put gives the holder (in this case, Helga) the right to sell the underlying stock at the strike price. If she bought the underlying stock at the current market of $51 and sold it at the strike price of $50, she would incur a loss. Therefore, the option is considered \"out of the money\" and has no intrinsic value. Put options only have intrinsic value if the underlying stock is trading below the strike price."
+  },
+  {
+    "id": "rf-39",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 9,
+    "question": "A customer sells 2 ABC Jan 65 Puts @ $3 when the market price of ABC is $66. The maximum potential gain is:",
+    "choices": [
+      "$300",
+      "$600",
+      "$12,400",
+      "unlimited"
+    ],
+    "answer": 1,
+    "explanation": "The maximum potential gain in any naked writing strategy is the premium received. If the put expires out the money, the writer keeps the premium. In this case, 2 contracts were sold @ $3, so the maximum gain is $600."
+  },
+  {
+    "id": "rf-40",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 6,
+    "exhibit": "Purchase Amount        Sales Charge\n$0 - $10,000            8 1/2%\n$10,001 - $25,000       7 1/2%\n$25,001 - over          6 1/2%",
+    "exhibitMono": true,
+    "question": "A customer has $35,000 to invest in a mutual fund with a Net Asset Value per share of $9.42 and a Public Offering Price of $10.30. In the prospectus is the following breakpoint schedule:\n\nHow many shares of the fund can the customer purchase?",
+    "choices": [
+      "3,315",
+      "3,398",
+      "3,474",
+      "3,746"
+    ],
+    "answer": 2,
+    "explanation": "The customer is purchasing enough ($35,000) to qualify for a 6 1/2% sales charge. To compute the new lowered offering price, the formula is: NAV / (100% - Sales Charge%).\n\nThe customer will pay $10.075 per share (rounded). A $35,000 investment will buy $35,000 / $10.075 = 3,474 shares (rounded)."
+  },
+  {
+    "id": "rf-41",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 15,
+    "question": "A registered individual who does not complete Regulatory Element Continuing Education within 120 days of notice from FINRA Gateway:",
+    "choices": [
+      "can, under exceptional circumstances, obtain a 30-day extension",
+      "must be expelled as an associated person from their FINRA firm",
+      "must be suspended from their FINRA firm and cannot be paid",
+      "must initiate an arbitration claim or will be terminated"
+    ],
+    "answer": 2,
+    "explanation": "Regulatory Element CE must be completed annually by December 31st of each year. If it is not completed by year end, the individual's registration becomes inactive until completion."
+  },
+  {
+    "id": "rf-42",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 15,
+    "question": "All of the following information is available on EMMA EXCEPT:",
+    "choices": [
+      "Official Statements for municipal bond issues, notes, and 529 plans",
+      "Details of bonds that have been pre-refunded",
+      "Real-time prices and yields for municipal bond trades, as reported through RTRS",
+      "10Qs and 10Ks"
+    ],
+    "answer": 3,
+    "explanation": "Consider this to be a learning question about EMMA (Electronic Municipal Market Access). The EMMA web portal, run by the MSRB, makes available to the investing public:\n- Official Statements, Preliminary Official Statements, Advance Refunding Documents, and Event Notices;\n- Real time reporting of municipal bond trades through RTRS (Real Time Reporting System); and\n- Real time reporting of municipal note trades through SHORT (Short-Term Obligation Rate Transparency System).\n\n10Qs and 10Ks are corporate disclosure documents that would be found on a similar system named EDGAR."
+  },
+  {
+    "id": "rf-43",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 10,
+    "question": "A broker-dealer's obligation to understand the complexity and risks of an investment strategy before determining whether it is suitable for at least some investors is known as the:",
+    "choices": [
+      "Reasonable-basis suitability obligation",
+      "Customer-specific suitability obligation",
+      "Quantitative suitability obligation",
+      "Fiduciary duty"
+    ],
+    "answer": 0,
+    "explanation": "The reasonable-basis suitability obligation means that a firm or securities professional must understand the complexity and risks of a security or investment strategy and consciously determine whether it is suitable for at least some investors. The customer-specific suitability obligation requires a broker-dealer to have a reasonable basis to believe that a recommendation is suitable for a particular customer based on the customer's personal and investment profile. The quantitative suitability obligation requires a broker-dealer who has control over a customer account to have a reasonable basis to believe that a series of recommended transactions are not excessive. Finally, broker-dealers are not fiduciaries, so they do not have a fiduciary duty."
+  },
+  {
+    "id": "rf-44",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 9,
+    "question": "A customer would buy a put on the S&P 500 to hedge against what type of risk?",
+    "choices": [
+      "Sector risk",
+      "Market risk",
+      "Interest rate risk",
+      "Inflation risk"
+    ],
+    "answer": 1,
+    "explanation": "Rather than base an option on a single underlying stock, investors may choose to invest in an option on an index of stocks or other securities. Index funds can be broad-based, for example, tracking the S&P 500, or narrow-based, reflecting the performance of a particular segment of the market, such as health care or energy.\n\nIndex options may be used to hedge against market risk. If an investor has a portfolio of equities and wants to hedge against a stock market decline, he can buy a put on the S&P 500 index. If the market drops, the investor will make money on the put, minimizing losses. Index options can also be used to speculate. Because indexes are less volatile than individual stocks, index options are attractive to investors who want to hedge the entire market or bet for or against the entire market or some subsection thereof."
+  },
+  {
+    "id": "rf-45",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 10,
+    "question": "Instructing a broker-dealer to \"____\" results in stock shares having a \"nominal owner\" and a \"beneficial owner.\"",
+    "choices": [
+      "hold in street name",
+      "transfer and ship",
+      "buy and hold",
+      "transfer and hold"
+    ],
+    "answer": 0,
+    "explanation": "Securities held in \"street name\" means they are registered in the name of the broker-dealer \"for the benefit of\" the customer. The broker-dealer is the nominal owner and the customer is the beneficial owner."
+  },
+  {
+    "id": "rf-46",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 6,
+    "question": "When comparing an ETN to an ETF, which statement is TRUE?",
+    "choices": [
+      "Both ETNs and ETFs are a type of investment company offering",
+      "ETF and ETN liquidations are based on closing NAV",
+      "ETNs are a debt instrument",
+      "Most ETFs are highly illiquid while ETNs are highly liquid"
+    ],
+    "answer": 2,
+    "explanation": "An ETN is an Exchange Traded Note. It is a type of structured product offered by banks that gives a return tied to a benchmark index. The note is a debt of the bank, and is backed by the faith and credit of the issuing bank. There are no physical securities backing the ETN. The ETN is listed on an exchange, so it is liquid. An ETF is an Exchange Traded Fund. It is an investment company that owns an underlying portfolio of securities. The shares of the ETF are listed and trade like any other stock.\n\nThe liquidation value of either is based on the prevailing market price at the time of sale."
+  },
+  {
+    "id": "rf-47",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 13,
+    "question": "The final prospectus for a securities offering is filed with the SEC at which time?",
+    "choices": [
+      "Toward the end of the pre-filing period",
+      "During the cooling-off period",
+      "During the post-effective period",
+      "At any time before the post-effective period"
+    ],
+    "answer": 2,
+    "explanation": "The post-effective period is the period after the registration statement has become effective. At this point, the issuer is allowed to sell the securities to the public, but first, the price of the security must be determined. Once that price is decided, it is inserted into the preliminary prospectus, and the resulting final prospectus is filed with the SEC. The preliminary prospectus, and not the final prospectus, is filed at the beginning of the cooling-off period, which is also known as the registration period."
+  },
+  {
+    "id": "rf-48",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 6,
+    "question": "Hedge funds are:",
+    "choices": [
+      "only suitable for wealthy, sophisticated investors",
+      "a good way for retail investors to hedge against the stock market",
+      "usually registered under the Securities Act of 1933",
+      "private investments that are liquid"
+    ],
+    "answer": 0,
+    "explanation": "Hedge funds are unregistered private placements sold to accredited investors. These accredited investors could be either institutions or wealthy individuals. Hedge funds are only suitable for sophisticated investors who understand the products' inherent risks. Hedge funds are quite illiquid."
+  },
+  {
+    "id": "rf-49",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 10,
+    "question": "The sending of customer account statements and confirmations by e-mail is:",
+    "choices": [
+      "prohibited",
+      "permitted if the customer consents to it",
+      "permitted in all cases",
+      "permitted only if the branch manager approves"
+    ],
+    "answer": 1,
+    "explanation": "Customer mailings can be sent by e-mail instead of through the physical mail system if the customer consents to the arrangement."
+  },
+  {
+    "id": "rf-50",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 4,
+    "question": "Which of the following mortgage-backed securities carries a \"full faith and credit\" guarantee from the US Treasury?",
+    "choices": [
+      "FNMA",
+      "GNMA",
+      "FHLMC",
+      "Freddie Mac CMO"
+    ],
+    "answer": 1,
+    "explanation": "Ginnie Maes (GNMA) are the only pass-through mortgage security that carries a guarantee backed by the \"full faith and credit\" of the US Treasury."
+  },
+  {
+    "id": "rf-51",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 8,
+    "question": "ABC Corporation has declared a 5:4 stock split to shareholders of record on November 10th. The price of the stock will be reduced on ex date by:",
+    "choices": [
+      "20%",
+      "25%",
+      "30%",
+      "50%"
+    ],
+    "answer": 0,
+    "explanation": "This is a very tricky question. Since the stockholder has 1.25 times the number of shares after the split, the market price will be reduced on ex date by a factor of 1.25.\n\nAssume the market price of the stock is $50 before the split. After the split, the new market price is $50/1.25 = $40. The new price is $10 less than the original $50, which is a 20% reduction from the original price ($10 reduction/$50 original price = 20%)."
+  },
+  {
+    "id": "rf-52",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 7,
+    "question": "The 5% Markup Policy is:",
+    "choices": [
+      "A universal requirement",
+      "A general guideline",
+      "A requirement for secondary market securities, but not for new issue and mutual fund purchases",
+      "A rule that applies to IPOs"
+    ],
+    "answer": 1,
+    "explanation": "The 5% Markup Policy provides a guideline for which markups may be considered fair and reasonable. It is not a requirement that markups be less than 5% - however, there is a requirement that all markups are fair, which FINRA members must abide by. Despite being adopted back in 1943, the policy is still applicable to this day. The 5% Markup Policy does not apply to transactions where a prospectus is required and the security is sold at a specific public offering price (such as IPOs)."
+  },
+  {
+    "id": "rf-53",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 13,
+    "question": "A registered individual who does not complete Regulatory Element Continuing Education:",
+    "choices": [
+      "is suspended, but can still be paid during the suspension period",
+      "is suspended and cannot receive compensation until the CE is completed",
+      "terminated by FINRA",
+      "must review the firm's written supervisory procedures"
+    ],
+    "answer": 1,
+    "explanation": "Regulatory Element CE must be completed annually. If a registered individual does not complete the training within this time frame, he or she must be suspended with no pay (a good incentive to get it done!)."
+  },
+  {
+    "id": "rf-54",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 10,
+    "question": "When can a broker-dealer put a freeze on an account because of suspicion that the power of attorney (POA) or guardian is abusing the account?",
+    "choices": [
+      "If the accountholder is over 65 and the broker-dealer has a suspicion that the guardian is abusing the account",
+      "If the accountholder is over 65 and the broker-dealer has evidence that the guardian is abusing the account",
+      "If the accountholder is over 65 and the POA or guardian has made at least one withdrawal from the account and the broker-dealer suspects that the guardian or POA is abusing the account",
+      "If the accountholder is over 65 and the POA or guardian has made at least one withdrawal from the account and the broker-dealer has evidence that the guardian or POA is abusing the account"
+    ],
+    "answer": 0,
+    "explanation": "As long as the customer is a specified adult, the BD only needs to have a reasonable belief that the customer may be a victim of financial exploitation to put a hold on the account. A specified adult is defined as a natural person who is at least 65 years old or at least 18 years old with a mental or physical condition that prevents them from protecting their own interests."
+  },
+  {
+    "id": "rf-55",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 6,
+    "question": "A mutual fund has a net asset value per share of $11.00. The maximum offering price per share is:",
+    "choices": [
+      "$11.85",
+      "$12.02",
+      "$12.42",
+      "$12.56"
+    ],
+    "answer": 1,
+    "explanation": "The maximum sales charge on a mutual fund is 8.5% under FINRA rules. The formula to find the offering price is: Net Asset Value / (100% - Sales Charge %)\n\nIn this case, it's: $11 / (1 - .085) = $12.02"
+  },
+  {
+    "id": "rf-56",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 11,
+    "question": "Jill has a cash account that is frozen for the next 90 days. Which of the following is true of her ability to participate in securities transactions during this period?",
+    "choices": [
+      "She cannot participate in any securities transactions",
+      "She can only sell securities and deposit the money from the sale into her account",
+      "She can purchase securities with her cash account only if she pays for them no later than one business day after the trade date",
+      "She can purchase securities with her cash account only if she pays for them on the date the trade takes place"
+    ],
+    "answer": 3,
+    "explanation": "When a customer's cash account is frozen, they may still purchase securities in the account; however, they must fully pay for any purchase on the date of the trade."
+  },
+  {
+    "id": "rf-57",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 14,
+    "question": "Which of the following is a broker-dealer not required to provide a customer who has an account that trades in penny stocks?",
+    "choices": [
+      "The bid and offer prices of the stock both prior to any transaction",
+      "Risk disclosure document",
+      "The firm's and registered representative's compensation both prior to and after any transaction",
+      "Current prospectus on the firm"
+    ],
+    "answer": 3,
+    "explanation": "A risk disclosure document must be provided by a firm to their client prior to executing a penny stock transaction. The SEC also requires that customers be provided the bid and offer prices of the penny stock and the compensation to both the firm and registered representative's compensation. The initial quote of the price spread can be made verbally to the client, but the post-execution bid/offer disclosure must be provided to the client in writing via a trade confirmation. Finally, due to the greater risk associated with penny stock investments, firms are required to provide monthly statements for all accounts in which a penny stock trade was executed within the prior six months. Customers only need to be provided a prospectus for new issues."
+  },
+  {
+    "id": "rf-58",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 6,
+    "question": "A retired investor seeks monthly income along with preservation of capital and minimum risk. Which of the following funds would be a suitable recommendation?",
+    "choices": [
+      "Special situation fund",
+      "Specialty fund",
+      "U.S. Government securities fund",
+      "Growth fund"
+    ],
+    "answer": 2,
+    "explanation": "To meet the objectives of minimum risk and income, a government securities fund is suitable, since these securities are considered to be risk free; and provide current interest income. Special situation funds invest in companies that are in bankruptcy or \"in trouble,\" but that have created a turnaround plan. The gains are expected to be so large on the successful turnarounds that the shareholders will enjoy capital gains. Such funds have no or little income. Similarly, the principal objective of a growth fund is capital gains; not income. Specialty funds invest in one industry or geographic area; and the lack of diversification increases risk.\n\nSince this customer wants minimum risk, these are not suitable recommendations."
+  },
+  {
+    "id": "rf-59",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 2,
+    "question": "When a bond's YTM increases from 3.46% to 4.86%, how many basis points did it increase?",
+    "choices": [
+      "1.4",
+      "1,400",
+      "140",
+      "0"
+    ],
+    "answer": 2,
+    "explanation": "A basis point equals one hundredth of a percentage point, and it represents the smallest increment of change in a bond's yield. One hundred basis points is 1%; 25 basis points is 0.25%. So when a bond's yield-to-maturity increases from 3.46% to 4.86%, the bond yield is said to have increased by 140 basis points."
+  },
+  {
+    "id": "rf-60",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 9,
+    "question": "Vince writes 2 XYZ Jul 55 calls @ 7. He is assigned the options when XYZ shares are trading for $56. If he had no position in XYZ before the options were exercised, what is his net profit or loss?",
+    "choices": [
+      "$200 gain",
+      "$1,600 loss",
+      "$1,400 loss",
+      "$1,200 gain"
+    ],
+    "answer": 3,
+    "explanation": "A call option gives the holder the right to buy the underlying securities from the option seller at the option's strike price. In this case, the holder exercised her right to buy the stock from Vince. Since Vince did not own any shares of XYZ, he had to buy the shares at their market price of $56/share. He then received $55/share from the option holder when he sold the shares to her. This means Vince incurs a loss of $200 on his purchase and sale of XYZ shares ($1/share loss x 2 contracts x 100 shares per contract = $200 loss). When he shorted the contracts, Vince received $1,400 in premiums from the option buyer ($7/share x 2 contracts x 100 shares per contract = $1,400). Adding his $1,400 premium received to the $200 loss he incurred from his purchase and sale of XYZ shares results in a gain of $1,200 from his options transaction."
+  },
+  {
+    "id": "rf-61",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 3,
+    "question": "Credit risk is most highly associated with which of the following types of investment?",
+    "choices": [
+      "Treasuries",
+      "Corporate bonds",
+      "REITs",
+      "Common stocks"
+    ],
+    "answer": 1,
+    "explanation": "Generally, credit risk, also known as default risk, is the risk that a debtor will not pay a lender what it owes. Credit risk is significant to bondholders because bonds are debt securities. Credit risk has two parts. First, it is the risk that an issuer's perceived or actual creditworthiness will drop, causing the issuer's bonds to lose value. Second, it is the risk that the issuer will default on a bond issue and, therefore, not pay bondholders owed interest or principal. Treasury securities have practically no credit risk. Real Estate Investment Trusts (REITs) are a form of equity in the real estate industry so no credit risk, and common stocks are equity ownership so no credit risk."
+  },
+  {
+    "id": "rf-62",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 9,
+    "question": "Irving Investor bought a May 40 put on ELP at 4. Currently the stock is trading at 38. How much time value does this put have?",
+    "choices": [
+      "none",
+      "$4",
+      "$2",
+      "$6"
+    ],
+    "answer": 2,
+    "explanation": "Intrinsic value is the amount that the option is in the money (2). Remember that puts are in the money when the market price is below the strike price. The option is in the money by 2 because the market price (38) is below the strike price (40). Time value = cost of the option, also called the premium (4) - intrinsic value (2). Therefore the time value in this question is 4 - 2 = 2."
+  },
+  {
+    "id": "rf-63",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 12,
+    "question": "Which statement is TRUE regarding a Roth IRA?",
+    "choices": [
+      "Contributions are tax deductible and qualifying distributions are tax free",
+      "Contributions are not tax deductible and distributions above contributions are taxable as income",
+      "Contributions are not tax deductible and the entire distribution is taxable as income",
+      "Contributions are not tax deductible and qualifying distributions are not taxable"
+    ],
+    "answer": 3,
+    "explanation": "Roth IRAs, unlike Traditional IRAs, do not permit a tax deduction for the amount contributed. On the other hand, when distributions are taken, unlike a Traditional IRA, the distributions are not taxable (given that the investment has been held for at least 5 years)."
+  },
+  {
+    "id": "rf-64",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 13,
+    "question": "A tombstone ad can first be published:",
+    "choices": [
+      "At any time before a security is issued",
+      "Only on a security's issue date or later",
+      "Only after the registration becomes effective",
+      "At any time after the registration for a new security is filed"
+    ],
+    "answer": 3,
+    "explanation": "A tombstone ad can first be published during the cooling-off period, which is the period between the filing of a registration statement and that statement taking effect."
+  },
+  {
+    "id": "rf-65",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 10,
+    "question": "A broker-dealer is prohibited from ____ a retail customer until it has obtained the customer's investment profile information.",
+    "choices": [
+      "Opening an account for",
+      "Providing disclosure documents to",
+      "Accepting unsolicited orders from",
+      "Making recommendations to"
+    ],
+    "answer": 3,
+    "explanation": "A broker-dealer generally must obtain its customers' suitability information before it can recommend transactions. It may open the account, make necessary disclosures, and accept unsolicited transactions. It may even recommend and execute transactions for institutional customers without knowing their investment profile information, if the broker-dealer reasonably believes the customers are acting independently and understand the risks involved."
+  },
+  {
+    "id": "rf-66",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 12,
+    "question": "Which statement is FALSE regarding RMDs (Required Minimum Distributions) from IRA accounts?",
+    "choices": [
+      "The RMD is based on the life expectancy of the account beneficiary",
+      "RMDs must start once reaching age 73",
+      "The RMD is taxable at capital gains tax rates",
+      "If the RMD is not taken, a penalty tax of 25% is applied"
+    ],
+    "answer": 2,
+    "explanation": "Distributions from IRAs are taxable at ordinary income tax rates, not at lower capital gains tax rates. The penalty applied for not taking required minimum distributions from a qualified plan starting at age 73 is 25% of the under-distribution. There is an incentive to take the money out (and pay tax on it, which is what the Treasury is really looking for)! The IRS creates tables that lay out the required minimum distribution amount each year; and these are based on life expectancy."
+  },
+  {
+    "id": "rf-67",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 13,
+    "question": "ABC Corporation issues 1 million of its shares to the public for the first time in April. In December, it decides to issue an additional 500,000 shares to the public. The December offering is known as:",
+    "choices": [
+      "A shelf offering",
+      "A follow-on offering",
+      "A Regulation D offering",
+      "An IPO"
+    ],
+    "answer": 1,
+    "explanation": "A follow-on offering occurs when a company decides to sell additional shares to the public after its initial public offering, which is what ABC Corporation is doing here. A shelf offering occurs when an issuer files one registration statement for a large number of securities and does not sell them immediately. A Regulation D offering is a type of private placement offering. Finally, an IPO would describe the initial sale of 1 million shares to the public and not the subsequent sale of 500,000 shares."
+  },
+  {
+    "id": "rf-68",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 10,
+    "question": "Under SEC Regulation Best Interest, if a broker-dealer has a conflict of interest in relation to a retail customer, which of the following is true?",
+    "choices": [
+      "It cannot make a recommendation to that customer.",
+      "It can only make a recommendation to that customer if it eliminates the conflict of interest before the recommendation is made.",
+      "It must either eliminate, or else disclose and mitigate, the conflict of interest.",
+      "It does not need to disclose the conflict of interest as long as it doesn't hinder the broker-dealer from making suitable recommendations to the customer."
+    ],
+    "answer": 2,
+    "explanation": "Under Regulation Best Interest, a broker-dealer must either eliminate or disclose and mitigate conflicts of interest it has in relation to a customer. If it does so, the firm can make recommendations to the customer. However, if it does not, the firm is not allowed to make recommendations to the customer regardless of how suitable the recommendations are for the customer."
+  },
+  {
+    "id": "rf-69",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 13,
+    "question": "An underwriting agreement where the syndicate members are liable for any unsold securities is a(n):",
+    "choices": [
+      "firm commitment underwriting",
+      "best efforts underwriting",
+      "all or none underwriting",
+      "mini-maxi underwriting"
+    ],
+    "answer": 0,
+    "explanation": "In a firm commitment underwriting, the underwriter buys the issue outright from the issuer, with the intention of reselling the issue to the public at a profit. Thus, the underwriter is a principal in the transaction, and is taking full financial liability.\n\nIn a best efforts underwriting, the underwriter acts as agent, promising to use his best efforts to sell the issue, but takes no financial liability.\n\nIn a best efforts - all or none underwriting, the underwriter acts as agent, using his best efforts to sell the issue, but takes no financial liability. However, if a minimum amount is not sold, then the offering is canceled.\n\nIn a mini-maxi underwriting, a minimum amount of the offering must be sold, otherwise the deal is canceled. Once the minimum is reached, the underwriters will continue to use their best efforts to sell the maximum amount specified in the offering."
+  },
+  {
+    "id": "rf-70",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 6,
+    "exhibit": "Purchase Amount            Sales Charge\n$0 - $50,000                5%\n$50,001 - $100,000          4%\n$100,001 - $250,000         3%\n$250,001 - $1,000,000       2%",
+    "exhibitMono": true,
+    "question": "A mutual fund has a Net Asset Value per share of $46.00 and the following breakpoint schedule.\n\nA customer has $300,000 to invest in the fund. The customer will pay what price per share?",
+    "choices": [
+      "$46.00",
+      "$46.92",
+      "$46.94",
+      "$47.00"
+    ],
+    "answer": 2,
+    "explanation": "This customer qualifies for a 2% sales charge. The formula to find the offering price of a mutual fund is N.A.V. divided by 100% minus the sales charge percent = the adjusted offering price. The P.O.P. = $46.00 / (100% - 2%) = $46 / (1 - .02) = $46 / .98 = $46.94 per share."
+  },
+  {
+    "id": "rf-71",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 9,
+    "question": "Jeffrey writes 8 contracts of SUNZ Nov 50 put @ 8. When SUNZ is trading at $40, he is assigned the option. If Jeffrey immediately sells the underlying shares he receives as a result of the exercised option at their market price, what is his gain or loss?",
+    "choices": [
+      "$1,600 loss",
+      "$8,000 gain",
+      "$6,400 gain",
+      "$3,200 loss"
+    ],
+    "answer": 0,
+    "explanation": "A put option gives its holder the right to sell the underlying stock at the strike price. In this case, the holder exercised her right to sell the stock to Jeffrey for $50 per share. Jeffrey then sold the shares he received for their current market price of $40 per share. He thus lost $10 per share on his purchase and sale. This means he incurred a loss of $1,000 per contract and $8,000 overall ($10/share loss x 100 shares in an options contract x 8 contracts = $8,000). However, Jeffrey received $6,400 in premiums when he wrote the options ($8 premium x 100 shares in an options contract x 8 contracts = $6,400). This means his net loss is $1,600 ($6,400 gain - $8,000 loss = -$1,600)."
+  },
+  {
+    "id": "rf-72",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 7,
+    "question": "Which of the following is NOT part of the Secondary Market?",
+    "choices": [
+      "First Market",
+      "Primary Market",
+      "Second Market",
+      "Third Market"
+    ],
+    "answer": 1,
+    "explanation": "The Primary Market is the sale of new issues for the first time; no trading takes place in the Primary Market.\n\nThe First Market is trading of exchange listed securities on that exchange floor.\n\nThe Second Market is trading of securities that are not exchange listed in the over-the-counter market.\n\nThe Third Market is trading of exchange listed securities in the over the counter market."
+  },
+  {
+    "id": "rf-73",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 2,
+    "question": "Which of the following is the equation for current yield?",
+    "choices": [
+      "Current yield = nominal yield/current market price of bond",
+      "Current yield = annual coupon payment/par value of the bond",
+      "Current yield = annual coupon payment/current market price of bond",
+      "Current yield = yield to maturity/par value of the bond"
+    ],
+    "answer": 2,
+    "explanation": "Current yield is a fast approximation that represents the return an investor can receive if she purchased a bond today and held it for a year."
+  },
+  {
+    "id": "rf-74",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 10,
+    "question": "Dakota is an associated person making an investment recommendation to Asher. Which of the following makes a difference as to whether Regulation Best Interest applies to Dakota's recommendation?",
+    "choices": [
+      "Whether Asher has a cash or margin account",
+      "Whether Dakota's firm is a broker-dealer, an investment adviser, or both",
+      "Whether the recommendation is for Asher's personal investing, or that of his business",
+      "Whether Asher has waived his Regulation Best Interest protections"
+    ],
+    "answer": 2,
+    "explanation": "Regulation Best Interest (Reg BI) requires associated persons to act in retail customers' best interest when making investment recommendations. Reg BI applies to recommendations about any securities transaction or investment strategy involving securities. It doesn't matter what kind of account the customer has, nor whether the associated person is employed by a broker-dealer, an investment adviser, or a firm with dual registration. Customers cannot waive their Reg BI protections. However, Reg BI only applies to recommendations that the customer uses primarily for his personal investing (or that of his family or household). Recommendations that the customer uses for business purposes are not governed by Reg BI."
+  },
+  {
+    "id": "rf-75",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 4,
+    "question": "An investor pays ____ on the interest received from Treasury bonds.",
+    "choices": [
+      "Federal taxes only",
+      "State and local taxes only",
+      "Federal, state, and local taxes",
+      "No taxes"
+    ],
+    "answer": 0,
+    "explanation": "State and local governments may not tax securities issued by the U.S. Treasury, and vice versa."
+  },
+  {
+    "id": "rf-76",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 9,
+    "question": "A customer sells 1 ABC Jul 45 Put at $5 when the market price of ABC is $43. ABC stock rises to $53 and stays there through July. The customer:",
+    "choices": [
+      "gains $300",
+      "loses $500",
+      "gains $500",
+      "loses $800"
+    ],
+    "answer": 2,
+    "explanation": "If the market rises to $53, the put expires \"out of the money\" (since the strike price is $45). The writer keeps the $500 collected in premiums."
+  },
+  {
+    "id": "rf-77",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 10,
+    "question": "All of the following are true of a broker-dealer's obligations under Regulation Best Interest (Reg BI), except:",
+    "choices": [
+      "A broker-dealer's recommendations to a retail customer must be in the customer's best interest.",
+      "Corporations are not covered by Regulation BI.",
+      "A broker-dealer's obligations under Reg BI are identical to its obligations under FINRA's suitability rule.",
+      "A broker-dealer must disclose all material facts about the terms of its relationship with a retail customer under Regulation BI."
+    ],
+    "answer": 2,
+    "explanation": "Although one part of the SEC's Regulation Best Interest closely resembles FINRA's suitability standard, Reg BI also goes beyond FINRA's requirements. That is because instead of only requiring a broker-dealer to make a suitable recommendation to a customer, Regulation BI requires the firm to make a recommendation that is in the customer's best interest. It also requires a firm to disclose all material facts about the terms of its relationship with a customer when making a recommendation.\n\nRegulation BI only applies to retail clients, not businesses or entities such as corporations."
+  },
+  {
+    "id": "rf-78",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 16,
+    "question": "An investor in a limited partnership generating passive losses can offset these against:",
+    "choices": [
+      "REIT dividends",
+      "income generated from direct investments in real estate",
+      "dividends received from blue chip corporations",
+      "capital gains generated from the sale of securities"
+    ],
+    "answer": 1,
+    "explanation": "Under the Tax Code, passive losses can only be offset against passive income. They cannot be offset against portfolio income (interest, dividends, capital gains) or earned income. Passive income and loss is defined as that derived from real estate investments and limited partnership interests."
+  },
+  {
+    "id": "rf-79",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 3,
+    "question": "A U.S. investor has a significant investment in Japanese bonds and is worried that a rising dollar could reduce his returns. This investor is concerned with which type of risk?",
+    "choices": [
+      "Reinvestment risk",
+      "Credit risk",
+      "Currency risk",
+      "Market risk"
+    ],
+    "answer": 2,
+    "explanation": "Currency risk is the risk that an investment in a foreign security may lose its value due to a strengthening of the U.S. dollar against the currency of the country issuing the security. Credit risk is the risk that a bond issuer's credit will drop or that the issuer will default on the bond. Reinvestment risk is the risk that the investor's capital, when reinvested, will earn a lower return than the original investment. Finally, market risk is the risk of investment losses caused by fluctuations in the overall market."
+  },
+  {
+    "id": "rf-80",
+    "source": {
+      "type": "random_final",
+      "name": "Random Final Exam"
+    },
+    "chapter": 10,
+    "question": "Regulation Best Interest requires a broker-dealer to act in a retail customer's best interest:",
+    "choices": [
+      "Only when the customer signs a request form asking the firm to uphold this standard",
+      "When a recommendation is made that the customer uses primarily for personal investing",
+      "When a conflict of interest exists",
+      "During the first transaction that it makes for the customer"
+    ],
+    "answer": 1,
+    "explanation": "Regulation Best Interest (Reg BI) requires broker-dealers and their associated persons to act in a retail customer's best interest at the time that a recommendation is made about a securities transaction or an investment strategy involving securities. This standard applies when the retail customer uses the recommendation primarily for personal investing (or that of her family or household). The standard applies even if the recommendation is free from conflicts of interest."
+  }
+]
