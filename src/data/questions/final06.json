@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "f6-01",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 16,
+    "question": "In a recession, what is the Fed least likely to do?",
+    "choices": [
+      "Lower the discount rate",
+      "Lower bank reserve requirements",
+      "Tighten margin requirements",
+      "Buy Treasuries"
+    ],
+    "answer": 2,
+    "explanation": "In order to stimulate the economy, the Fed might try to lower interest rates through open market operations. This usually involves buying Treasuries. It also can include lowering the discount window rate, and lowering bank reserve requirements. The Fed also has the authority to set and alter initial margin requirements, but the Fed rarely changes the initial margin requirements. In addition, if the Fed were to change the margin requirements, they would loosen, not tighten margin requirements."
+  },
+  {
+    "id": "f6-02",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 2,
+    "question": "A corporate bond has a coupon rate of 2.75%. What is the amount of a single semiannual interest payment?",
+    "choices": [
+      "$27.50",
+      "$13.75",
+      "$275.00",
+      "$137.50"
+    ],
+    "answer": 1,
+    "explanation": "Most corporate bonds have a par value of $1,000. If you get an exam question about a corporate bond, and the par value is not specified, you should assume it is $1,000. A coupon rate of 2.75% on a par value of $1,000 means that the amount of interest received annually will be $27.50 ($1,000 x 0.0275). Each semiannual interest payment will be half this amount, which is $13.75 ($27.50 / 2)."
+  },
+  {
+    "id": "f6-03",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 6,
+    "question": "In terms of how they are bought and sold, shares in closed-end investment companies most closely resemble:",
+    "choices": [
+      "Shares of common stock",
+      "Shares of open-end investment companies",
+      "Individual bonds",
+      "Mutual fund shares"
+    ],
+    "answer": 0,
+    "explanation": "Shares of closed-end investment companies are traded on an exchange, they can be shorted, and they have bid and ask prices like shares of common stock. None of these factors apply to open-end mutual funds."
+  },
+  {
+    "id": "f6-04",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 8,
+    "question": "When do options trades settle?",
+    "choices": [
+      "T+1",
+      "T+2",
+      "T+3",
+      "T+4"
+    ],
+    "answer": 0,
+    "explanation": "When a option is traded, it means the option position is closed. The investor closes the position by taking the opposite position (e.g., an open long call option will be closed by taking a short call option position). These trades settle one business day after the trade date."
+  },
+  {
+    "id": "f6-05",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 10,
+    "question": "Regarding a firm's obligation to AML procedures, which of these is not true?",
+    "choices": [
+      "Each firm must develop and implement an AML program",
+      "The firm must designate an officer to be in charge of the AML program",
+      "The program must be reviewed every other year",
+      "All reports and documentation regarding this program must be maintained for 5 years from the date of filing"
+    ],
+    "answer": 2,
+    "explanation": "AML refers to anti-money laundering. Each firm must develop and implement an AML program. The firm must designate an officer to be in charge of the AML program. All reports and documentation regarding this program must be maintained for 5 years from the date of filing. The program must be reviewed every year, not every other year."
+  },
+  {
+    "id": "f6-06",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 6,
+    "question": "The unethical practice of encouraging excessive trading activity in a client's account is also known as:",
+    "choices": [
+      "Twisting",
+      "Churning",
+      "Flipping",
+      "Selling away"
+    ],
+    "answer": 1,
+    "explanation": "\"Churning\" is the unethical practice of trading in a client's account more than is necessary in order to generate commissions for a representative."
+  },
+  {
+    "id": "f6-07",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 15,
+    "question": "Which of the following would be considered a misleading public communication?",
+    "choices": [
+      "A testimonial involving a technical aspect of investing, from a person with the experience and expertise to form a valid opinion",
+      "A stock recommendation by an investment adviser during a media interview, for which the adviser gives a reasonable basis and discloses his financial interest in the company",
+      "A page on a firm website containing both static and dynamic content",
+      "A chart showing a security's past performance, and projecting its future performance based on this"
+    ],
+    "answer": 3,
+    "explanation": "Any communication with the public is considered misleading if it implies that past performance predicts future performance."
+  },
+  {
+    "id": "f6-08",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 12,
+    "question": "A rollover of funds in a 529 college savings plan may avoid tax consequences if the rollover is completed within:",
+    "choices": [
+      "30 days",
+      "60 days",
+      "90 days",
+      "120 days"
+    ],
+    "answer": 1,
+    "explanation": "Besides rolling over the fund from one beneficiary to another, the funds in a 529 plan can also be rolled over from:\n• One kind of plan 529 plan to another (e.g., college savings plan to pre-paid tuition plan)\n• One state's 529 plan to another state's 529 plan.\nEach of these types of rollovers can be conducted without any tax consequences if the funds are deposited in the new account within 60 days of withdrawal from the old account. Plan to plan rollovers may only be done once in a 12 month period. But watch out! There may be state tax implications for rollovers from one state's 529 plan to another state's 529 plan. Some states may try to \"recapture\" state income tax deductions given to residents that opened a college savings plan in that state when they roll over to another state's plan by imposing taxes on withdrawals of earnings from the out-of-state plan."
+  },
+  {
+    "id": "f6-09",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 10,
+    "question": "All of the following is required information from a new customer who is opening an account at a broker-dealer, except:",
+    "choices": [
+      "Name",
+      "Address",
+      "Whether the customer is of legal age",
+      "Educational background"
+    ],
+    "answer": 3,
+    "explanation": "When a customer opens an individual account, the following must be present on the new account form:\n• Customer name and address\n• Whether the customer is of legal age\n• Name of registered rep who will handle the account (as long as the account is not an institutional account)\n• Principal's signature\n• If the customer is a corporation, the name of the person who will transact business in the account"
+  },
+  {
+    "id": "f6-10",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 6,
+    "question": "\"Rights of accumulation\" refers to:",
+    "choices": [
+      "An exception to arbitrage rebate payments for accumulations of a certain level",
+      "The ability of voluntary participants to invest in a local government investment pool",
+      "An investor being entitled to a lower sales load or breakpoint on purchase of additional shares",
+      "A contributor being able to roll over one educational savings account into another"
+    ],
+    "answer": 2,
+    "explanation": "As an investor continues to add money to a fund, the value of the investor's contribution to the fund increases. Additionally, as the NAV of the fund rises, the investor's account value will increase. If the total of value of an investor's account reaches the next breakpoint, the investor is entitled to the lower sales load on the purchase of any additional sales. This is called rights of accumulation (ROA)."
+  },
+  {
+    "id": "f6-11",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 14,
+    "question": "The coverage limits of the SIPC are:",
+    "choices": [
+      "$500,000 per \"separate\" customer",
+      "$500,000 per customer account",
+      "$250,000 per customer",
+      "$250,000 per customer account"
+    ],
+    "answer": 0,
+    "explanation": "The coverage limits of the SIPC are $500,000 per \"separate\" customer. Cash and margin accounts are combined and considered to be one customer. An individual and a joint account would be considered two separate customers. UGMA accounts are also considered to be a separate customer from the other accounts of their custodian. Most brokerage firms have other insurance protection from the private sector of at least several million dollars per account. Cash claims cannot go over $250,000."
+  },
+  {
+    "id": "f6-12",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 14,
+    "question": "All of the following could disqualify a representative from associating with an FINRA member firm EXCEPT:",
+    "choices": [
+      "The representative was suspended from FINRA three years ago",
+      "The representative was convicted of a non-securities related felony five years ago",
+      "The representative filed for personal bankruptcy one month ago",
+      "The representative failed to report his personal bankruptcy on his U-4"
+    ],
+    "answer": 2,
+    "explanation": "Being expelled from an SRO, such as FINRA can be reason to disqualify a representative from associating with a FINRA or MRSB member firm. Felonies and securities related misdemeanors that occurred within the last 10 years can also be a reason. Personal bankruptcy is not a reason that a person can be subject to statutory disqualification, but failing to report a personal bankruptcy on a U-4 can be."
+  },
+  {
+    "id": "f6-13",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 15,
+    "question": "A written communication that is distributed from a broker-dealer to 25 or fewer retail investors within a 30-day period:",
+    "choices": [
+      "Does not need to be kept on file with the firm",
+      "Needs to be filed with FINRA's Advertising Regulation Department",
+      "Is defined as correspondence",
+      "Each of the other choices is incorrect"
+    ],
+    "answer": 2,
+    "explanation": "Correspondence is defined as any written letter, including an electronic mail message, that is distributed to 25 or fewer retail customers within a 30-calendar-day period. Like other forms of communication made with the public, correspondence must be kept on file with firm. However, it does not need to be filed with FINRA's Advertising Regulation Department."
+  },
+  {
+    "id": "f6-14",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 4,
+    "question": "Which of the following mortgage-backed securities carries a \"full faith and credit\" guarantee from the US Treasury?",
+    "choices": [
+      "FNMA",
+      "GNMA",
+      "FHLMC",
+      "Freddie Mac CMO"
+    ],
+    "answer": 1,
+    "explanation": "Ginnie Maes (GNMA) are the only pass-through mortgage security that carries a guarantee backed by the \"full faith and credit\" of the US Treasury."
+  },
+  {
+    "id": "f6-15",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 3,
+    "question": "Prepayment risk refers to the risk that:",
+    "choices": [
+      "Homeowners will refinance their mortgages at a lower interest rate",
+      "MBS holders have an unpredictable and volatile reinvestment risk",
+      "Future cash flows to MBS holders will be reduced",
+      "All of the other choices"
+    ],
+    "answer": 3,
+    "explanation": "When interest rates fall, homeowners will tend to refinance their mortgages and pay off the principal of their original loans. Mortgage-backed securities always assume a certain amount of prepayments when its interest rate is set. Prepayment risk is the risk that prepayments will be higher than expected due to changes in market interest rates and the overall health of the economy. Higher than expected prepayments reduce future interest payments and add to the investors' reinvestment risk in a period of low market interest rates."
+  },
+  {
+    "id": "f6-16",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 5,
+    "question": "Short-term securities that generate cash flow for a municipality that is expecting additional revenue shortly are called:",
+    "choices": [
+      "PHAs",
+      "Short-term GO bonds",
+      "Anticipation notes",
+      "None of the choices listed"
+    ],
+    "answer": 2,
+    "explanation": "Anticipation notes. These notes usually mature in less than a year, although maturity can be as long as three years."
+  },
+  {
+    "id": "f6-17",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 8,
+    "question": "Marking the close and marking the open are each forms of:",
+    "choices": [
+      "Recordkeeping requirements",
+      "Market manipulation",
+      "Transaction processing",
+      "Technical analysis"
+    ],
+    "answer": 1,
+    "explanation": "Marking the close and marking the open are each forms of market manipulation that involve modifying the price of a security through placing multiple trades at or near the open or close of the market."
+  },
+  {
+    "id": "f6-18",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 9,
+    "question": "Amy shorts 2 EPMD Apr 30 calls @ 5. She has no other position in EPMD. If she is assigned the options when their underlying shares are trading at $32, what is her net profit or loss?",
+    "choices": [
+      "$500 gain",
+      "$300 loss",
+      "$600 gain",
+      "$1,000 loss"
+    ],
+    "answer": 2,
+    "explanation": "A call option gives its holder the right to buy the underlying securities from the option seller at the option's strike price. In this case, the holder exercised his right to buy the stock from Amy. Since she did not own any shares of EPMD, she must buy the shares at their current market price of $32/share. She then receives $30/share from the option holder when she sells the shares to him. This means Amy incurs a loss of $400 on her purchase and sale of EPMD shares ($2/share loss x 2 contracts x 100 shares per contract = $400). When she shorted the contracts, she received $1,000 in premiums from the option buyer ($5/share x 2 contracts x 100 shares per contract = $1,000). Adding her $1,000 premium received to the $400 loss she incurred from her purchase and sale of EPMD shares results in a gain of $600 from her options transaction."
+  },
+  {
+    "id": "f6-19",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 9,
+    "question": "A customer has the following position: Short ABCD Jul 25 call @ 3. What do you know is true about the position?",
+    "choices": [
+      "It is bullish",
+      "It is bearish",
+      "It is in-the-money",
+      "It is out-of-the-money"
+    ],
+    "answer": 1,
+    "explanation": "Short call positions are bearish. In order to determine whether a call is in-the-money or out-of-the-money, you need to know what the security (in this case ABCD) is currently trading at, and the question doesn't give this information."
+  },
+  {
+    "id": "f6-20",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 16,
+    "question": "Systematic risk is:",
+    "choices": [
+      "Government-directed",
+      "Predictable",
+      "Market-wide",
+      "Stock-specific"
+    ],
+    "answer": 2,
+    "explanation": "Systematic risk is market-wide and highly unpredictable. While interest-rate changes may be instigated by government action, systematic risk in general is not controlled by anyone."
+  },
+  {
+    "id": "f6-21",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 16,
+    "question": "Which of the following is true of capital gains?",
+    "choices": [
+      "They are always taxed at a rate lower than an investor's ordinary income tax rate.",
+      "They are separated into short- and long-term gains, each of which is taxed differently.",
+      "They represent all profits associated with investing.",
+      "Their taxes are not applied to profits made from selling inherited securities."
+    ],
+    "answer": 1,
+    "explanation": "The tax term for a profit made by selling an investment is a capital gain; however, the term does not describe all types of profit that can be made from an investment. For instance, dividends are not considered to be capital gains. Capital gains are separated into short- and long-term gains, and each type of gain is taxed differently. Long-term gains are always taxed at a rate that is lower than an investor's ordinary income tax rate. Short-term gains, on the other hand, are taxed at the investor's ordinary rate. Capital gains taxes are applied to all profits made from selling securities, including those associated with the sale of inherited securities."
+  },
+  {
+    "id": "f6-22",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 9,
+    "question": "A typical equity option quote will state all of the following pieces of information except:",
+    "choices": [
+      "The expiration month",
+      "The company's ticker symbol",
+      "The strike price",
+      "The number of shares per contract"
+    ],
+    "answer": 3,
+    "explanation": "Both call and put options quotes must provide several important pieces of information.\n• The option must state the company underlying the stock, typically written as a ticker symbol.\n• The option must also give the month of expiration.\n• The expiration date is almost always the third Friday of this month.\n• The option will state the strike price, or the price at which the investor has the right to buy (for calls) or sell (for puts) the security.\n• Finally, the option quote will state the premium, or the price of acquiring the option.\n\nAn equity options contract always represents 100 shares, so the option quote does not need to include this information.\n\nIt's important to distinguish between the \"number of contracts per order\"—part of the trade execution process—and the \"number of shares per contract,\" which is standardized and therefore not listed in the quote."
+  },
+  {
+    "id": "f6-23",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 13,
+    "question": "A tombstone ad can first be published:",
+    "choices": [
+      "At any time before a security is issued",
+      "Only on a security's issue date or later",
+      "Only after the registration becomes effective",
+      "At any time after the registration for a new security is filed"
+    ],
+    "answer": 3,
+    "explanation": "A tombstone ad can first be published during the cooling-off period, which is the period between the filing of a registration statement and that statement taking effect."
+  },
+  {
+    "id": "f6-24",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 16,
+    "question": "A fully diversified portfolio that is matched to a broad-based market index has:",
+    "choices": [
+      "no risk",
+      "systematic risk",
+      "nonsystematic risk",
+      "both systematic and nonsystematic risk"
+    ],
+    "answer": 1,
+    "explanation": "The basic idea of diversification of a portfolio is that it reduces risk. If a portfolio consists of only a few positions, an adverse event affecting one of the positions can result in a big loss. If the portfolio consists of a broad range of positions, an adverse event affecting only a single position will not have as big a negative impact.\nA portfolio that is fully diversified still has risk. It is said to only have \"systematic\" risk, which is the same as market risk. If the overall market drops, the portfolio will likely drop by a similar percentage.\nA portfolio that is not fully diversified is said to have both \"systematic\" and \"nonsystematic\" risk. As more and more positions are added to the portfolio, the \"nonsystematic risk\" is diversified away, leaving the portfolio only with \"systematic\" risk."
+  },
+  {
+    "id": "f6-25",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 15,
+    "question": "Under the FINRA Code of Procedure, the first level of hearings in any dispute or complaint proceeding is held at the:",
+    "choices": [
+      "National Adjudicatory Council",
+      "Securities and Exchange Commission",
+      "Federal Court",
+      "Hearing Panel"
+    ],
+    "answer": 3,
+    "explanation": "The FINRA Code of Procedure is used when the FINRA Department of Enforcement wishes to prosecute a member firm or an associated person for rule violations.\nUnder the FINRA Code of Procedure, the first level of hearings in any dispute or complaint proceeding is held at the Hearing Panel. Their decision may be appealed to the National Adjudicatory Council. The National Adjudicatory Council's decision may be appealed to the Securities and Exchange Commission. Finally, the SEC's decision may be appealed to Federal Court."
+  },
+  {
+    "id": "f6-26",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 15,
+    "question": "FINRA defines a \"customer complaint\" as one that is received by the member firm:",
+    "choices": [
+      "verbally",
+      "in writing, which includes email",
+      "in writing, which does not include email",
+      "by any means"
+    ],
+    "answer": 1,
+    "explanation": "FINRA defines a customer \"complaint\" as one received in writing (which includes email)."
+  },
+  {
+    "id": "f6-27",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 14,
+    "question": "The Federal Telephone Consumer Protection Act of 1991 prohibits unsolicited calls from being made:",
+    "choices": [
+      "before 8:00 AM in the time zone of the caller",
+      "before 8:00 AM in the time zone of the recipient",
+      "before 9:00 AM in the time zone of the caller",
+      "before 9:00 AM in the time zone of the recipient"
+    ],
+    "answer": 1,
+    "explanation": "The Federal Telephone Consumer Protection Act of 1991 does not allow unsolicited calls to be made before 8:00 AM, nor after 9:00 PM, in the time zone of the recipient. Thus, unsolicited calls may be made after 8:00 AM, but not after 9:00 PM in the time zone of the recipient."
+  },
+  {
+    "id": "f6-28",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 14,
+    "question": "All of the following are considered to be \"insiders\" EXCEPT:",
+    "choices": [
+      "an investor holding 9% of ABC stock",
+      "the in-house counsel of ABC Corporation",
+      "the spouse of ABC Corporation's President",
+      "ABC Corporation's Chief Executive Officer"
+    ],
+    "answer": 0,
+    "explanation": "An insider is defined as an officer, director, or 10% shareholder. The Chief Executive officer of the corporation is an officer; the President's spouse is an \"affiliated person.\""
+  },
+  {
+    "id": "f6-29",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 14,
+    "question": "Under Regulation M, which statement is TRUE regarding stabilizing bids entered by market makers?",
+    "choices": [
+      "Stabilizing bids may only be maintained for 5 consecutive business days",
+      "Stabilizing bids may be maintained by multiple market makers",
+      "A stabilizing bid cannot be placed unless a \"Notice of Stabilization\" is included in the prospectus",
+      "A stabilizing bid cannot be placed unless an \"Official Notice of Sale\" is published in a national publication"
+    ],
+    "answer": 2,
+    "explanation": "There is no time limitation on the period that a stabilizing bid can be maintained under Regulation M. However, stabilization must cease when the syndicate is broken by the manager.\nOnly one market maker, the manager of the syndicate, can place a stabilizing bid. The members of the syndicate cannot do this.\nA \"Notice of Stabilization\" must be included in the prospectus (on the inside front cover) that details the fact that the manager can start and stop stabilizing at any time and that when stabilization stops, the price of the issue may drop.\nAn Official Notice of Sale is used to solicit competitive bids for municipal new issues and has nothing to do with stabilization."
+  },
+  {
+    "id": "f6-30",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 13,
+    "question": "Rule 144A defines:",
+    "choices": [
+      "Accredited Investors",
+      "Qualified Institutional Buyers",
+      "Major Institutional Investors",
+      "Purchaser representatives"
+    ],
+    "answer": 1,
+    "explanation": "Rule 144A states that issuers can sell “private placements” in large block sizes (typically $500,000 or more per unit) to QIBs – Qualified Institutional Buyers – without having to register them with the SEC. A QIB is an institution with at least $100 million available for investment. Rule 144A solves a problem with private placements for QIBs – the fact that they are illiquid. Rule 144A issues can be traded from QIB to QIB in the “PORTAL” market. This opens up the market for these securities to large institutional investors, who would not buy unless they knew they could sell the holding at will.\nAccredited Investors are defined under Regulation D – Private Placement offerings. A private placement can be sold to an unlimited number of accredited investors without SEC registration. The basic definition of an accredited investor is:\n• Individual with $200,000 of annual income;\n• Married Couple with $300,000 of annual income;\n• Individual or Couple with a $1,000,000 net worth (excluding home);\n• Institution with at least $5,000,000 available for investment; and\n• Officers and directors of the issuer.\n\nPrivate placements can also be offered to up to 35 non-accredited investors, but these individuals must be sophisticated investors, able to judge the merits of the offering. If the individual is not sophisticated, then he or she can use a purchaser representative (typically the customer’s lawyer) to review the offering.\nMajor Institutional Investors (MIIs) are defined under SEC Rule 15a-6. It allows foreign broker dealers to solicit MIIs in the United States without having to register with the SEC and FINRA; and it allows then to accept unsolicited orders from anyone. Note that if a foreign broker-dealer were to solicit the general public in the U.S., then it would have to register."
+  },
+  {
+    "id": "f6-31",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 12,
+    "question": "All of the following are variable annuity payment options EXCEPT:",
+    "choices": [
+      "Life Annuity",
+      "Life Annuity with Period Certain",
+      "Joint and Last Survivor",
+      "Joint Tenants with Rights of Survivorship"
+    ],
+    "answer": 3,
+    "explanation": "Annuity payment options include a life annuity; life annuity with a period certain (which pays for a minimum guaranteed period, regardless); and a joint and last survivor annuity (which covers 2 lifespans, such as both a husband and wife). Joint tenants with rights of survivorship is an ownership option for a joint account, where each tenant 100% owns the account (typical for a husband and wife)."
+  },
+  {
+    "id": "f6-32",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 5,
+    "question": "The Official Statement published for a new municipal issue:",
+    "choices": [
+      "is a disclosure document for use by potential investors",
+      "is a source document for selecting underwriters to be included in the syndicate",
+      "establishes the procedures for calculating reoffering scales",
+      "solicits bids from interested underwriters"
+    ],
+    "answer": 0,
+    "explanation": "The Official Statement provides disclosure about a new municipal issue to investors. It is requested by underwriters in order to perform due diligence on the issue, and to help sell the issue by having a disclosure document available for potential customers. It is not required under the Securities Act of 1933 since municipals are exempt."
+  },
+  {
+    "id": "f6-33",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 13,
+    "question": "When a customer buys a new stock issue from a syndicate member, the customer pays:",
+    "choices": [
+      "the Public Offering Price",
+      "the Public Offering Price plus a commission",
+      "a negotiated price that can be at or below the Public Offering Price",
+      "any price because this is a negotiated market offering"
+    ],
+    "answer": 0,
+    "explanation": "New stock issues are sold under a prospectus that states the Public Offering Price, which is inclusive of any compensation to the underwriter (the spread). Additional commissions or charges above the POP are not allowed."
+  },
+  {
+    "id": "f6-34",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 13,
+    "question": "An underwriting agreement where the syndicate members are liable for any unsold securities is a(n):",
+    "choices": [
+      "firm commitment underwriting",
+      "best efforts underwriting",
+      "all or none underwriting",
+      "mini-maxi underwriting"
+    ],
+    "answer": 0,
+    "explanation": "In a firm commitment underwriting, the underwriter buys the issue outright from the issuer, with the intention of reselling the issue to the public at a profit. Thus, the underwriter is a principal in the transaction, and is taking full financial liability.\nIn a best efforts underwriting, the underwriter acts as agent, promising to use his best efforts to sell the issue, but takes no financial liability.\nIn a best efforts - all or none underwriting, the underwriter acts as agent, using his best efforts to sell the issue, but takes no financial liability. However, if a minimum amount is not sold, then the offering is canceled.\nIn a mini-maxi underwriting, a minimum amount of the offering must be sold, otherwise the deal is canceled. Once the minimum is reached, the underwriters will continue to use their best efforts to sell the maximum amount specified in the offering."
+  },
+  {
+    "id": "f6-35",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 12,
+    "question": "ABLE account distributions are tax-free when used to pay for qualifying:",
+    "choices": [
+      "lower education expenses",
+      "higher education expenses",
+      "medical expenses",
+      "disability expenses"
+    ],
+    "answer": 3,
+    "explanation": "ABLE accounts are state-sponsored investment accounts that are used to pay for qualifying disability expenses. The federal gift tax exclusion amount can be contributed to an ABLE account, with no tax deduction. Earnings build tax-deferred and distributions to pay for qualifying disability expenses are tax-free."
+  },
+  {
+    "id": "f6-36",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 12,
+    "question": "Which statement is FALSE regarding RMDs (Required Minimum Distributions) from IRA accounts?",
+    "choices": [
+      "The RMD is based on the life expectancy of the account beneficiary",
+      "RMDs must start once reaching age 73",
+      "The RMD is taxable at capital gains tax rates",
+      "If the RMD is not taken, a penalty tax of 25% is applied"
+    ],
+    "answer": 2,
+    "explanation": "Distributions from IRAs are taxable at ordinary income tax rates, not at lower capital gains tax rates. The penalty applied for not taking required minimum distributions from a qualified plan starting at age 73 is 25% of the under-distribution. There is an incentive to take the money out (and pay tax on it, which is what the Treasury is really looking for)! The IRS creates tables that lay out the required minimum distribution amount each year; and these are based on life expectancy."
+  },
+  {
+    "id": "f6-37",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 12,
+    "question": "A client, age 35, is covered by a 401(k) plan at work and also has set up an IRA account. He has been contributing the maximum amount to each of these each year. He lives frugally and has excess income available for investment. He asks you, the registered representative, for an appropriate recommendation to add to his retirement savings. Which recommendation is appropriate?",
+    "choices": [
+      "529 Plan",
+      "Variable Annuity",
+      "HR-10 Plan",
+      "SEP IRA"
+    ],
+    "answer": 1,
+    "explanation": "Anyone can contribute to a non-qualified variable annuity, with no contribution limits. It makes no difference if the customer is covered by another qualified plan. The contribution is not deductible, but the separate account builds tax deferred. Upon retirement, only the portion of any distribution representing the tax-deferred build up is taxable."
+  },
+  {
+    "id": "f6-38",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 12,
+    "question": "A 60-year old customer asks about the tax consequences a withdrawal from his Traditional 401(k) plan. You should tell him that:",
+    "choices": [
+      "The portion of the withdrawal that comes from principal is tax exempt and the portion that comes from earnings is taxed as ordinary income",
+      "The entire withdrawal is taxed as ordinary income",
+      "The portion of the withdrawal that comes from principal is taxed as ordinary income and the portion that comes from earnings is tax exempt",
+      "The entire withdrawal is tax exempt"
+    ],
+    "answer": 1,
+    "explanation": "Contributions to tax qualified plans such as corporate 401(k) plans are tax deductible. They are made with \"before-tax\" dollars, hence those funds were never taxed. Earnings accrue tax deferred. When distributions commence, since no tax was paid on the entire amount, the distribution is 100% taxable at the same rate as ordinary income (e.g., wages)."
+  },
+  {
+    "id": "f6-39",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 12,
+    "question": "Retirement plans that must comply with ERISA requirements include all of the following EXCEPT:",
+    "choices": [
+      "Defined benefit plans",
+      "Profit sharing plans",
+      "Federal Government plans",
+      "Payroll deduction savings plans"
+    ],
+    "answer": 2,
+    "explanation": "ERISA rules cover private retirement plans to protect employees from employer mismanagement of pension funds. It does not cover public sector retirement plans, such as federal government and state government plans, since these are funded from tax collections and are closely regulated. The listing of plans that must comply with ERISA include:\n• Profit sharing plans\n• Defined contribution plans\n• Defined benefit plans\n• Tax deferred annuity plans\n• Payroll deduction savings plans"
+  },
+  {
+    "id": "f6-40",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 11,
+    "question": "An investor is required to meet a margin call by the end of the trading day. Which of these securities in the investor's portfolio cannot be used for this purpose?",
+    "choices": [
+      "1 US Treasury Bond, face value of $10,000, maturing in 29 years",
+      "1,000 shares of PDQ Technology, which recently declined to $7 a share",
+      "10 Investment-grade bonds from JKL Utility Corp",
+      "500 shares of ABC Investment-grade Bond Fund shares, purchased yesterday"
+    ],
+    "answer": 3,
+    "explanation": "All of the examples are marginable securities except for the bond fund.\nMutual fund shares only become marginable after the investor has held them for 30 or more days.\nThe maturity of the treasury bond does not matter, because it is still very liquid. PDQ shares are marginable because they are over the $5 per share threshold.\nInvestment-grade corporate bonds are marginable securities."
+  },
+  {
+    "id": "f6-41",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 12,
+    "question": "Which statement about 529 Plans is FALSE?",
+    "choices": [
+      "Contribution limits are established by each state",
+      "Distributions used to pay for qualified higher education expenses are not federally taxable",
+      "Amounts contributed are generally deductible from federal income tax",
+      "Earnings in the account grow tax deferred"
+    ],
+    "answer": 2,
+    "explanation": "529 Plan contributions are not deductible at the federal level. However, most states that have income taxes allow a deduction for contributions made to a plan established by that state (and a handful of states allow a tax deduction for contributions made to any state's 529 Plan!). This is a tax benefit of making 529 Plan contributions.\nContribution limits are established by each state. Earnings in the account grow tax deferred. Distributions used to pay for qualified education expenses are tax free."
+  },
+  {
+    "id": "f6-42",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 11,
+    "question": "When an account is frozen, which statement is TRUE?",
+    "choices": [
+      "No trades are permitted in the account for 90 days",
+      "Only liquidating trades are permitted in the account for 90 days",
+      "Payment on the trade date is required for purchases occurring in the next 90 days",
+      "Payment by the regular way settlement date is required for purchases occurring in the next 90 days"
+    ],
+    "answer": 2,
+    "explanation": "When an account is frozen, this means that the customer did not pay within the maximum time period specified under Regulation T. When an account is frozen, to buy securities, payment must be made in advance; and to sell securities, delivery of the security must be made in advance. The freeze lasts for 90 days."
+  },
+  {
+    "id": "f6-43",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 11,
+    "question": "Your customer has been declared legally incompetent by a state-appointed judge and his son has presented the proper legal papers appointing him as the guardian. Which statement is TRUE?",
+    "choices": [
+      "The account will be transferred from the customer's name to a guardian account",
+      "The account will be transferred from the customer's name to a custodial account",
+      "The account will be transferred from the customer's name to the son's name",
+      "The account will be transferred from the customer's name to the state's name"
+    ],
+    "answer": 0,
+    "explanation": "Since the customer is legally incompetent, when the son presents the proper court papers, the account will be transferred from the customer's name to a guardian account, with the son acting as trustee.\nNo instructions can be taken from the customer, since he no longer has legal capacity to make decisions. All instructions regarding the account can only be taken from the guardian - who is the son."
+  },
+  {
+    "id": "f6-44",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 10,
+    "question": "Which of the following best describes \"structuring\"?",
+    "choices": [
+      "Depositing or withdrawing cash in amounts just over $10,000",
+      "Depositing or withdrawing cash in amounts just under $10,000",
+      "Diversifying among asset classes in amounts just over $10,000",
+      "Diversifying among asset classes in amounts just under $10,000"
+    ],
+    "answer": 1,
+    "explanation": "\"Structuring\" is the illegal practice of making a pattern of deposits or withdrawals of cash in amounts under $10,000 to avoid currency transaction reporting rules."
+  },
+  {
+    "id": "f6-45",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 10,
+    "question": "The FINRA suitability rule requires a progression of suitability determinations. Which factor should be examined first?",
+    "choices": [
+      "Quantitative suitability",
+      "Customer specific suitability",
+      "Reasonable basis suitability",
+      "Profitability"
+    ],
+    "answer": 2,
+    "explanation": "FINRA requires that suitability determinations include multiple levels of review. These are to be completed in the following order:\n• Reasonable Basis Suitability: This is a review of the features, returns, costs and risks of the recommended product or strategy. Only those products with the best combination can be recommended to clients. In essence, this rule requires that firms have an internal \"recommended list\" that has completed this review.\n• Customer-Specific Suitability: Once the recommendation has completed \"reasonable basis\" suitability, that does not mean that it can be recommended to all customers. To recommend it to a customer requires that \"customer-specific\" suitability be determined.\n• Quantitative Suitability: A single recommendation might be suitable for a customer, however a large number of similar recommendations might not be. It all depends of the customer's objectives, needs, and ability to pay for the recommended transactions.\n\nNote that the \"Suitability\" rule only applies to recommended transactions. It explicitly does not apply to unsolicited trades; and it also does not apply to institutional customers - only to retail customers."
+  },
+  {
+    "id": "f6-46",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 9,
+    "question": "A customer sells short 100 shares of PDQ stock at $58 and buys 1 PDQ Jul 60 Call @ $3. The customer's maximum potential loss is:",
+    "choices": [
+      "unlimited",
+      "$5,800",
+      "$300",
+      "limited since the call protects against the upside risk"
+    ],
+    "answer": 3,
+    "explanation": "The long call allows the customer to buy in the stock position at $60. Since the stock was sold at $58, exercise results in a net loss of $2 on the stock. The customer paid $3 for the call, so the total loss is $500."
+  },
+  {
+    "id": "f6-47",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 9,
+    "question": "What position can an investor take to fully hedge a short stock position?",
+    "choices": [
+      "short call",
+      "short put",
+      "long call",
+      "long put"
+    ],
+    "answer": 2,
+    "explanation": "When a client has a short stock position, borrowed shares have been sold with the agreement that the customer will buy back the position at a later date. If the market rises, the loss potential is unlimited. The purchase of a call (long call) allows the stock to be bought in at a fixed price, limiting upside risk."
+  },
+  {
+    "id": "f6-48",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 10,
+    "question": "In order to open a new account for a customer, the customer's name, date of birth, address and tax identification number must be:",
+    "choices": [
+      "obtained and independently verified prior to account opening",
+      "obtained prior to account opening and independently verified within a reasonable time before or after account opening",
+      "obtained within a reasonable time before or after account opening and independently verified prior to account opening",
+      "obtained and independently verified within a reasonable time before or after account opening"
+    ],
+    "answer": 1,
+    "explanation": "To open an account for a new customer, 4 critical pieces of information must be obtained before the account can be opened - customer name, mailing address, social security number, and birthdate. This information must be used to independently verify the customer's identity within a reasonable time after account opening. This verification can be done by matching the 4 critical pieces of information to a valid government issued identification (which cannot be expired); or by using a database service such as Equifax to do the matching."
+  },
+  {
+    "id": "f6-49",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 9,
+    "question": "Generally, index options can be:",
+    "choices": [
+      "traded or exercised at any time",
+      "traded at any time, but can only be exercised at expiration",
+      "traded only at expiration but can be exercised at any time",
+      "traded or exercised only at expiration"
+    ],
+    "answer": 1,
+    "explanation": "Options contracts can either be issued as \"American style\" or \"European style.\" An American style option is one that can be exercised at any time - and equity stock options are all American style. A European style option is one that can only be exercised at expiration - not before. Almost all index options, with the exception of the OEX, are European style.\n(The OEX was the first index option, and was modeled on existing American style stock options when it was issued. The Cboe then found that their institutional customers who used index options for income writing strategies against portfolios of stocks that they owned were concerned about unexpected exercises, so they kept the OEX as it was, but all later index options created, such as SPX, DJX and VIX, were European style.)\nNote that listed options contracts, whether American or European style, can be traded at any time."
+  },
+  {
+    "id": "f6-50",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 7,
+    "question": "Sell stop orders are:",
+    "choices": [
+      "placed above the current market",
+      "used by short sellers to protect positions",
+      "triggered as the market rises",
+      "triggered as the market falls"
+    ],
+    "answer": 3,
+    "explanation": "Sell stop orders are placed below the market and are triggered as the market falls. If there is a large pool of sell stop orders at a certain price, when the market hits that level, they are triggered and become market orders to sell - accelerating the decline in the market.\nShort sellers would use a buy stop order to exit a position in a rising market."
+  },
+  {
+    "id": "f6-51",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 8,
+    "question": "All of the following information must be on an order ticket before it can be entered EXCEPT:",
+    "choices": [
+      "execution price if the order is not a market order",
+      "amount of accrued interest to be paid",
+      "size of the transaction",
+      "customer account name and/or number"
+    ],
+    "answer": 1,
+    "explanation": "The amount of accrued interest is calculated after a bond trade is executed - it is not on the order ticket that is used to enter the order. The ticket must include the size of the trade, desired execution price, and customer identification."
+  },
+  {
+    "id": "f6-52",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 6,
+    "question": "Which of the following investments is the most illiquid?",
+    "choices": [
+      "Mutual fund",
+      "Closed-End Fund",
+      "Hedge Fund",
+      "Exchange Traded Fund"
+    ],
+    "answer": 2,
+    "explanation": "Hedge funds are partnerships that are completely illiquid. Usually, the limited partner investor can only \"cash out\" at year end. For the rest of the year, the investor is locked into the investment. Mutual funds can be redeemed every business day, so they are liquid. Closed-end funds and ETFs trade, so they are liquid."
+  },
+  {
+    "id": "f6-53",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 7,
+    "question": "Which of the following is NOT typically part of the secondary market?",
+    "choices": [
+      "OTC sales of unlisted stocks",
+      "Third Market",
+      "Fourth Market",
+      "Issuer sales to investors"
+    ],
+    "answer": 3,
+    "explanation": "The Secondary Market is where securities are bought and sold among investors and broker-dealers that are not the issuer. Issuer sales take place in the primary market. The NYSE is an exchange and is part of the secondary market. The Third Market involves the trading of exchange listed securities in the over the counter market. The Fourth Market involves trading of securities directly between institutions in the over the counter market via ECNs (Electronic Communications networks), such as Instinet."
+  },
+  {
+    "id": "f6-54",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 6,
+    "question": "The custodian bank usually performs all of the following functions EXCEPT:",
+    "choices": [
+      "sending dividends and capital gains distributions to shareholders",
+      "selecting the investment manager",
+      "preparing and mailing proxies to shareholders",
+      "holding the portfolio of investments in safekeeping"
+    ],
+    "answer": 1,
+    "explanation": "The custodian bank always safekeeps the assets and usually acts as both paying agent and transfer agent. Therefore, sending dividends and proxies to shareholders would fall to the custodian. The custodian does not manage the fund, nor does it choose the manager. The manager's contract is voted on annually by the shareholders."
+  },
+  {
+    "id": "f6-55",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 6,
+    "question": "When comparing an ETN to an ETF, which statement is TRUE?",
+    "choices": [
+      "Both ETNs and ETFs are a type of investment company offering",
+      "ETF and ETN liquidations are based on closing NAV",
+      "ETNs are a debt instrument",
+      "Most ETFs are highly illiquid while ETNs are highly liquid"
+    ],
+    "answer": 2,
+    "explanation": "An ETN is an Exchange Traded Note. It is a type of structured product offered by banks that gives a return tied to a benchmark index. The note is a debt of the bank, and is backed by the faith and credit of the issuing bank. There are no physical securities backing the ETN. The ETN is listed on an exchange, so it is liquid.\nAn ETF is an Exchange Traded Fund. It is an investment company that owns an underlying portfolio of securities. The shares of the ETF are listed and trade like any other stock.\nThe liquidation value of either is based on the prevailing market price at the time of sale."
+  },
+  {
+    "id": "f6-56",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 6,
+    "question": "A customer has signed a Letter of Intent (LOI) to buy $25,000 of XYZ mutual fund to qualify for a breakpoint that reduces the sales charge from 7% to 6%. The customer deposits $15,000 into the fund over the next 13 months. At the end of 13 months, the NAV is $20,000. How much does the customer have to deposit to complete the LOI?",
+    "choices": [
+      "0",
+      "$5,000",
+      "$10,000",
+      "$15,000"
+    ],
+    "answer": 2,
+    "explanation": "The Letter Of Intent (LOI) provision operates separately from Rights of Accumulation and takes precedence over Rights of Accumulation. Because of this, the customer must deposit new money in the dollar amount required by the LOI to get the lowered sales charge. Since the customer has deposited $15,000 of the $25,000 required by the LOI already, the remaining $10,000 must be deposited to retain the reduced sales charge.\nAfter the LOI is completed, the additional NAV from the asset appreciation is added to the account balance, and establishes a new higher base level ($25,000 deposited plus $5,000 asset appreciation = $30,000) from which the sales charge will be calculated on any future purchases."
+  },
+  {
+    "id": "f6-57",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 6,
+    "question": "In a period of rising interest rates, an investor in a \"Ginnie Mae\" mutual fund is likely exposed to which of the following?",
+    "choices": [
+      "Increased Prepayment Risk",
+      "Increased Reinvestment Risk",
+      "Increased Default Risk",
+      "Increased Extension Risk"
+    ],
+    "answer": 3,
+    "explanation": "Since Ginnie Mae only issues mortgage backed pass-through certificates, in periods of declining interest rates, increased prepayment risk exists. Homeowners tend to prepay their \"old\" high rate mortgages when rates have declined by refinancing at the new lower rates. When these prepayments are reinvested by the fund, the monies earn lower current rates, so increased reinvestment risk is also present. Conversely, if interest rates rise, then homeowners tend not to move and the expected repayment rate falls. As this occurs, the life of the certificates lengthens beyond the expected life, and the certificate holder earns a lower than market return for a longer than expected time period. This is extension risk. Ginnie-Maes are backed by the U.S. Government and are assumed to be default free."
+  },
+  {
+    "id": "f6-58",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 6,
+    "question": "Shareholders in a management company have the right to vote for all of the following EXCEPT the:",
+    "choices": [
+      "setting of the sales charge",
+      "members of the Board of Directors",
+      "changing of the investment objective of the fund",
+      "selection of the investment adviser"
+    ],
+    "answer": 0,
+    "explanation": "Shareholders in a management company have the right to vote for the Board of Directors; to vote for changes in the investment objective; and to vote annually on the investment adviser. The setting of the sales charge is not decided on by the investors of the fund - it is decided by the Board of Directors and it must comply with FINRA rules."
+  },
+  {
+    "id": "f6-59",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 4,
+    "question": "Which of the following is a zero coupon original issue discount obligation?",
+    "choices": [
+      "Treasury STRIPS",
+      "Treasury Notes",
+      "Treasury Bonds",
+      "Treasury TIPS"
+    ],
+    "answer": 0,
+    "explanation": "Treasury Bills and STRIPS are zero coupon original issue discount obligations that do not have a stated interest rate. Treasury Notes and Bonds are issued at par with a stated interest rate. TIPS have a fixed interest rate over the life of the bond. The principal amount is adjusted every six months by an amount equal to the change in the Consumer Price Index (CPI)."
+  },
+  {
+    "id": "f6-60",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 4,
+    "question": "Which statement is TRUE about Treasury Bonds?",
+    "choices": [
+      "Treasury Bonds are issued in either bearer or registered form",
+      "Treasury Bonds are quoted at a discount to par value",
+      "Treasury Bonds are traded in 32nds",
+      "Treasury Bonds have maximum maturity of 10 years"
+    ],
+    "answer": 2,
+    "explanation": "Treasury Notes have maturities of 10 years or less. Treasury Bonds have maturities that are greater than 10 years - currently they are issued with 30 year maturities. Both are quoted on a percentage of par basis in 32nds. All Treasury issues are available only in book entry form. There are no bearer or registered issues."
+  },
+  {
+    "id": "f6-61",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 4,
+    "question": "An investor purchases a $1,000 convertible bond at 80. The bond is convertible into common at $20 per share. The current market price of the common is $10 per share. If the investor were to convert, he or she would receive how many shares of common stock?",
+    "choices": [
+      "40",
+      "50",
+      "80",
+      "100"
+    ],
+    "answer": 1,
+    "explanation": "Conversion is based on the par value of the bond, which is $1,000. The investor can convert at $20 per share, so upon conversion, the investor would receive $1,000 par / $20 conversion price = 50 shares."
+  },
+  {
+    "id": "f6-62",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 4,
+    "question": "A corporation has issued $10,000,000 of 8%, 20 year, $1,000 par, convertible debentures, convertible at a ratio of 25:1. The bond is currently trading at 120, while the company's common stock is at 46. The conversion price per share is:",
+    "choices": [
+      "$25",
+      "$40",
+      "$46",
+      "$48"
+    ],
+    "answer": 1,
+    "explanation": "Bonds are convertible based on their par value - not the current market price. $1,000 par divided by 25 shares per bond equals a conversion price of $40 per common share."
+  },
+  {
+    "id": "f6-63",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 5,
+    "question": "An \"unqualified\" legal opinion is one which:",
+    "choices": [
+      "gives a conditional affirmation of the legality of the securities",
+      "gives an unconditional affirmation of the legality of the securities",
+      "is given by an unqualified bond counsel",
+      "disqualifies the issue from legal issuance"
+    ],
+    "answer": 1,
+    "explanation": "An unqualified legal opinion is a \"clean\" opinion, where the bond counsel has found no legal problems. Thus, the opinion is an unconditional affirmation of the legality of the issue."
+  },
+  {
+    "id": "f6-64",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 3,
+    "question": "U.S. Treasury securities are subject to which of the following risks?",
+    "choices": [
+      "Purchasing Power Risk",
+      "Credit Risk",
+      "Marketability Risk",
+      "Default Risk"
+    ],
+    "answer": 0,
+    "explanation": "Securities issued by the U.S. Government represent the largest securities market in the world (remember, the national debt is $30 trillion and rising) and the most actively traded. Therefore, very little marketability risk exists. Default risk and credit risk are the same - U.S. Government securities are considered to have virtually no default risk. (The government can always tax its citizens to pay the debt or can print the money to do it.)\n\nAll debt obligations are susceptible to purchasing power risk - the risk that inflation raises interest rates, devaluing existing obligations."
+  },
+  {
+    "id": "f6-65",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 3,
+    "question": "What kind of risk are ADRs least sensitive to?",
+    "choices": [
+      "Currency risk",
+      "Political risk",
+      "Business risk",
+      "Interest rate risk"
+    ],
+    "answer": 3,
+    "explanation": "Currency risk, also known as exchange rate risk, is the potential for investors to lose money due to a decline in the value of the currency of the ADRs originating foreign country. Political risk refers to the potential of political actions devaluing securities; this risk is typically greatest outside the U.S. The corporation underlying an ADR is subject to business risk. Because an ADR is an equity security, it is not especially sensitive to interest rate risk."
+  },
+  {
+    "id": "f6-66",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 3,
+    "question": "The risk that an investment will lose its value due to an overall decline in the market is called:",
+    "choices": [
+      "Market risk",
+      "Interest rate risk",
+      "Inflation risk",
+      "Specific risk"
+    ],
+    "answer": 0,
+    "explanation": "Market risk refers to the tendency of a downward trend in the overall investment market to depress individual securities."
+  },
+  {
+    "id": "f6-67",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 1,
+    "question": "XYZ Company is struggling to receive financing and decides to hold a rights offering. Shareholders are required to use four rights to have the option to purchase one share of stock at a subscription price of $20. A shareholder, Cesar, owns 200 shares of XYZ stock and he would like to keep his proportionate ownership in the company. If Cesar exercises all his rights, how much will he pay for the new shares?",
+    "choices": [
+      "$0",
+      "$80",
+      "$1,000",
+      "$4,000"
+    ],
+    "answer": 2,
+    "explanation": "In a rights offering, a company issues new shares only to current shareholders. Each shareholder receives subscription rights, which allow the shareholder to have the option to purchase enough shares at a discounted price to maintain their proportional ownership in the company. Since Cesar has 200 shares, he will receive 200 rights. These rights entitle him to purchase 50 shares at the subscription price (200 rights / 4 rights per share = 50 shares). The subscription price is $20 per share, so Cesar will pay 50 x $20 = $1,000."
+  },
+  {
+    "id": "f6-68",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 13,
+    "question": "How does Rule 144 define a short-swing profit?",
+    "choices": [
+      "A profit from shorting stock",
+      "A profit from selling a control security that is owned for less than six months",
+      "A profit from selling any control security or restricted security",
+      "A de minimis profit"
+    ],
+    "answer": 1,
+    "explanation": "If a control security is sold after being held for less than six months, any profit that results is called a short-swing profit. Rule 144 requires that short-swing profits be handed over to the company.A control security is defined by Rule 144 as a security one owned by an affiliate of the issuer (also called an insider). Insiders include officers, directors, and shareholders who own more than 10% of the company."
+  },
+  {
+    "id": "f6-69",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 6,
+    "question": "Which of the following is not true of a dividend reinvestment plan?",
+    "choices": [
+      "It enables an investor to avoid paying taxes on received dividends.",
+      "It reinvests mutual fund dividends immediately.",
+      "It uses dividends and interest earned to purchase additional securities.",
+      "Under the plan, the tax basis for all reinvested dividends is their share price on the date of purchase."
+    ],
+    "answer": 0,
+    "explanation": "A dividend reinvestment plan (DRIP) automatically reinvests dividends and interest earned by mutual fund investors into the purchase of additional securities issued by the same company. When an investor participates in this plan, he is taxed on the amount of the dividends paid, even though the dividends are immediately being reinvested. The tax basis for the reinvested dividends (new shares purchased) is the share price on the day the new shares were purchased."
+  },
+  {
+    "id": "f6-70",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 16,
+    "question": "The economic theory that postulates that production and economic growth are stimulated by increased government spending and transfer payments is:",
+    "choices": [
+      "Supply Side Theory",
+      "Monetarist Theory",
+      "Keynesian Theory",
+      "Modern Monetary Theory"
+    ],
+    "answer": 2,
+    "explanation": "Keynesian Economic Theory states that economic growth is controlled by government spending and transfer payments (e.g., Social Security). This theory gained adherents in the 1930s during the Great Depression. With the private economy shattered at that time, the only way out was to have the government employ workers in large projects. This increased Government spending; and helped to stimulate economic activity as earnings were placed in individual pockets."
+  },
+  {
+    "id": "f6-71",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 16,
+    "question": "If Gross Domestic Product has declined for 3 successive quarters, the economy is said to be in a:",
+    "choices": [
+      "recession",
+      "correction",
+      "depression",
+      "contraction"
+    ],
+    "answer": 0,
+    "explanation": "2 consecutive quarters of GDP decline means that the economy has entered into a recession. If GDP declines for 6 consecutive quarters, then the economy has entered into a depression.\n\nEconomic contraction is a broader term that simply denotes a decline in GDP. The length of the contraction will determine if the decline is characterized as a recession or depression.\n\nFinally, the term correction is used when stock market indicators decline, with the market entering correction territory when it drops by 10%."
+  },
+  {
+    "id": "f6-72",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 11,
+    "question": "A nephew has been given a durable power of attorney over his uncle's brokerage account. Upon the death of the uncle, the power of attorney:",
+    "choices": [
+      "remains in force",
+      "is terminated",
+      "transfers to the executor of the uncle's estate",
+      "transfers to the registered representative servicing the uncle's account"
+    ],
+    "answer": 1,
+    "explanation": "Any power of attorney, durable or non-durable, is terminated when a customer dies. The distinction between a durable and a non-durable power of attorney is that a non-durable power of attorney terminates if the grantor is mentally incapacitated whereas durable power of attorney remains in force if the grantor is mentally incapacitated."
+  },
+  {
+    "id": "f6-73",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 4,
+    "question": "A company that issued first mortgage bonds is in default. If mortgage bondholders' claims are not satisfied from the sale of the property backing the bonds, then the bondholders:",
+    "choices": [
+      "have no recourse",
+      "can claim other property to satisfy the outstanding loans",
+      "can attempt to sell other assets to satisfy the outstanding loans",
+      "become general creditors for the balance due"
+    ],
+    "answer": 3,
+    "explanation": "Mortgage bondholders do not have claim to all property of the failed company (such as cash in bank accounts; accounts receivable; inventory; etc.); they only have claim to the real property pledged. If the bondholders' claims are not satisfied from the sale of the real property, then they become general creditors for the balance due."
+  },
+  {
+    "id": "f6-74",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 2,
+    "question": "A corporation has issued 8% AA rated sinking fund debentures at par. Three years later, similar issues are being offered in the primary market at 7%. Which statement is TRUE about the outstanding 8% issue?",
+    "choices": [
+      "The dollar price of the bond will be at a discount to par and the current yield will be higher than the nominal yield",
+      "The dollar price of the bond will be at a discount to par and the current yield will be lower than the nominal yield",
+      "The dollar price of the bond will be at a premium to par and the current yield will be lower than the nominal yield",
+      "The dollar price of the bond will be at a premium to par and the current yield will be higher than the nominal yield"
+    ],
+    "answer": 2,
+    "explanation": "The bond was issued with a coupon of 8%. Currently, yield for a similar issue is 7%. Therefore, interest rates have fallen subsequent to the issuance of the bond; or the credit quality of the bond has improved.\n\nWhen interest rates fall, yields on bonds already trading must also fall. What causes this is a rise in the dollar price of the issue - the bond now trades at a premium."
+  },
+  {
+    "id": "f6-75",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 1,
+    "question": "Corporation B has a pre-emptive rights clause in its charter. This clause guarantees each of the following except:",
+    "choices": [
+      "That the existing shareholders are protected against share dilution",
+      "That the existing shareholders will have some measure of control over any new issue of shares",
+      "That Corporation B will repurchase shares at a predetermined price from existing shareholders who wish to sell their shares in the event of a new issue",
+      "That Corporation B will allow the existing shareholders to buy newly issued shares"
+    ],
+    "answer": 2,
+    "explanation": "A pre-emptive rights clause in an issuer's charter means that current shareholders will have the right to maintain their share of ownership by purchasing a proportionate amount of the new issue before it is offered to the public. This guarantee offers protection from share dilution to current shareholders while at the same time giving them a measure of control over any new issue. In order to meet their pre-emptive obligation to existing shareholders, companies carry out a rights offering in which the current shareholders are offered enough new stock to keep their ownership in the company proportionate to what it was before the rights offering.However, while a pre-emptive clause brings several guarantees to current shareholders, it does not come with a promise that the issuer will ever repurchase their shares for a predetermined price."
+  },
+  {
+    "id": "f6-76",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 1,
+    "question": "All of the following are true regarding warrants EXCEPT:",
+    "choices": [
+      "They are often attached to a bond offering",
+      "At issue, the price stated on the warrant is below the current market price of the stock",
+      "There are no dividends attached to a warrant",
+      "Warrants are typically good for two to ten years"
+    ],
+    "answer": 1,
+    "explanation": "When issued, the price stated on the warrant is above the current market price of the stock, not below. A warrant is a long-term equity security that gives the owner the right to purchase a company's stock at a predetermined price. There are no dividends attached to warrants, and they are typically good for about two to ten years. They are often attached to a bond offering, to make an otherwise low yielding bond more attractive."
+  },
+  {
+    "id": "f6-77",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 10,
+    "question": "When completing a new account form, you discover that the customer is an accounting supervisor at another FINRA member firm. Under FINRA rules, all of the following procedures are required EXCEPT:",
+    "choices": [
+      "Prior to opening the account, written approval of the employing member must be obtained",
+      "The associated person opening the account must give written notice to the executing member of his or her association with the employer member",
+      "Duplicate confirmations and statements must be sent to the employer member on request",
+      "Annual account summaries of all activity must be sent to the employer member"
+    ],
+    "answer": 3,
+    "explanation": "FINRA requires that if an employee of another FINRA member firm (whether registered or unregistered) wishes to open an account:\n• prior written consent of the employing member firm must be obtained;\n• the executing member must be notified in writing of the employee's association with another member firm; and\n• on written request of the employer member, the executing member must provide duplicate confirmations and statements.\n\nNote that the rule applies to \"associated persons\" of a member firm opening an account at another member - and an associated person is either an officer or a registered or unregistered employee of the member firm, with an exception given to anyone who only performs clerical or ministerial duties.\nNot only does the rule apply to accounts opened at other member firms by associated persons, it also applies to securities accounts opened at non-member financial institutions such as banks and investment advisers."
+  },
+  {
+    "id": "f6-78",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 5,
+    "question": "Special tax bonds would not include revenue from which source?",
+    "choices": [
+      "Ad valorem taxes",
+      "Fuel Tax",
+      "Sales Tax",
+      "Tobacco Tax"
+    ],
+    "answer": 0,
+    "explanation": "A special tax bond is backed by at least one designated tax, such as sales tax or fuel tax, but it does not have to be related to the project itself. Ad valorem taxes are not used for special tax bonds."
+  },
+  {
+    "id": "f6-79",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 2,
+    "question": "The difference between the price at which investors are willing to buy bonds and the price at which they are willing to sell them is called the:",
+    "choices": [
+      "Maturity spread",
+      "Yield spread",
+      "Second market spread",
+      "Bid-ask spread"
+    ],
+    "answer": 3,
+    "explanation": "A bid price is the maximum price a buyer is willing to pay. The ask price is the minimum price a seller is willing to accept. The spread thus represents the dealer's profit."
+  },
+  {
+    "id": "f6-80",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 6"
+    },
+    "chapter": 4,
+    "question": "What is true about securities issued by the Federal Home Loan Mortgage Company (FHLMC)?",
+    "choices": [
+      "Investors aren't required to pay federal taxes on them",
+      "Investors aren't required to pay state and local taxes on them",
+      "They are fully backed by the federal government",
+      "They are referred to as agency securities"
+    ],
+    "answer": 3,
+    "explanation": "Securities issued by Fannie Mae (FNMA), Freddie Mac (FHLMC) and Ginnie Mae (GNMA ) are all referred to as “agency securities.” These entities exist to bring more money into the housing sector to encourage home ownership. Investors are obligated to pay local, state and federal taxes on interest from these securities. Although there is an “implied” backing for Freddie Mac and Fannie Mae securities, they are not fully backed by the U.S. government. Ginnie Mae securities are fully backed by the U.S. government."
+  }
+]
