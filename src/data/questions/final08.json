@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "f8-01",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 14,
+    "question": "Rashid has $300,000 worth of securities in his individual margin account and $400,000 worth of securities in his joint account with his wife, Latoya. In addition, Rashid is the custodian of an UGMA account for their son, Ahmad, which holds $300,000 in securities. If the broker-dealer goes bankrupt, whose funds are protected by SIPC and to what extent?",
+    "choices": [
+      "Only $500,000 of securities across all three accounts will be protected.",
+      "Only $500,000 of securities of Rashid's individual and joint accounts will be protected, but all of the rest of the securities will not be protected.",
+      "All securities in all three accounts will be protected.",
+      "Up to $250,000 in each account will be protected."
+    ],
+    "answer": 2,
+    "explanation": "SIPC rules state there is a maximum of $500,000 in protection available for “separate customers,” however, that can include the same person with different types of accounts. This $500,000 includes up to $250,000 of cash in the account. The different types of accounts include: (1) individual accounts; (2) joint accounts; (3) accounts held by executors, administrators, and guardians/custodians/conservators (such as UGMA accounts); (4) accounts held by corporations, partnerships, or unincorporated associations; and (5) trust accounts.\n\nBecause each account is considered to be a separate customer, and the value of all of the securities falls within the $500,000 limit, all of securities will be protected by SIPC if the firm goes bankrupt."
+  },
+  {
+    "id": "f8-02",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 10,
+    "question": "Instructing a broker-dealer to \"____________________\" results in stock shares having a \"nominal owner\" and a \"beneficial owner.\"",
+    "choices": [
+      "hold in street name",
+      "transfer and ship",
+      "buy and hold",
+      "transfer and hold"
+    ],
+    "answer": 0,
+    "explanation": "Securities held in \"street name\" means they are registered in the name of the broker-dealer \"for the benefit of\" the customer. The broker-dealer is the nominal owner and the customer is the beneficial owner."
+  },
+  {
+    "id": "f8-03",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 14,
+    "question": "A customer at a SIPC-member firm has $300,000 in cash, $100,000 in mutual fund shares, and $50,000 in stocks in their account. If the firm goes bankrupt, how much coverage will the SIPC provide for the customer's account?",
+    "choices": [
+      "$150,000",
+      "$300,000",
+      "$400,000",
+      "$450,000"
+    ],
+    "answer": 2,
+    "explanation": "The SIPC will provide coverage up to $500,000, up to $250,000 of which can be for cash. So $250,000 of the cash will be covered, and the mutual fund shares and stocks will be covered. $250,000 + $100,000 + $50,000 = $400,000."
+  },
+  {
+    "id": "f8-04",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 15,
+    "question": "An associated person who is not registered with FINRA may perform which of the following functions?",
+    "choices": [
+      "Work at a call center in a blended sales & customer service position",
+      "Write research reports comparing the merits of similar securities",
+      "Update the information on customer accounts",
+      "Select an employee health insurance plan"
+    ],
+    "answer": 3,
+    "explanation": "The only associated persons who do not have to register are those whose job duties are strictly clerical or ministerial. Examples of such jobs include human resources jobs, IT jobs that involve no access to financial or customer information, and customer service jobs that do not involve sales. Any job that requires selling, accepting customer orders, or access to securities, money, or customer accounts, will require the associated person to register."
+  },
+  {
+    "id": "f8-05",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 6,
+    "question": "A mutual fund letter or statement of intent:",
+    "choices": [
+      "covers a total of one year",
+      "is a binding agreement",
+      "is used by individuals who want to qualify for a lower sales charge when purchasing mutual funds",
+      "may be backdated 60 days to cover a purchase made previously"
+    ],
+    "answer": 2,
+    "explanation": "A letter of intent usually covers a total time period of 13 months, is always a non-binding agreement, and may always be backdated 90 days to cover a previous purchase. A letter of intent concerns breakpoints -- at a certain investment amount, the mutual fund will give you this \"break\" by allowing you to pay a lower sales charge."
+  },
+  {
+    "id": "f8-06",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 6,
+    "question": "What is the purpose of rights of accumulation?",
+    "choices": [
+      "Rights of accumulation allow an investor to choose whether to apply accumulation (appreciation) in her account to cash dividends or purchase of new shares.",
+      "Rights of accumulation allow an investor to pay a sales charge based on a lower breakpoint calculated by including account accumulation (appreciation) and new investment funds.",
+      "\"Rights of accumulation \" is an IRS term that helps define capital tax rates paid on account accumulation.",
+      "Rights of accumulation are the basis for an automatic investment program that purchases shares regularly and thus uses dollar cost averaging."
+    ],
+    "answer": 1,
+    "explanation": "If the value of an investor's account reaches the next breakpoint, rights of accumulation assure that the investor is entitled to the lower sales load on the purchase of any additional shares."
+  },
+  {
+    "id": "f8-07",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 15,
+    "question": "Sam, an MFP, is passionate about politics. He lives in State A and works in State B. He wants to contribute money to some campaigns for public office in each state, but is also hoping to engage in municipal securities business with each state. Where can Sam make contributions?",
+    "choices": [
+      "State A only",
+      "State B only",
+      "State A and State B",
+      "Neither State A nor State B"
+    ],
+    "answer": 0,
+    "explanation": "Municipal finance professionals may contribute up to $250 per election to candidates they could vote for. Contributions to other candidates would result in bans on doing municipal securities business with the municipal issuer where the candidate is running for office, because contributions may come only from those eligible to vote in a particular election."
+  },
+  {
+    "id": "f8-08",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 9,
+    "question": "Which of the following options is out-of-the-money?",
+    "choices": [
+      "ABC Mar 20 call, ABC is trading @ $22",
+      "ABC Jan 40 call, ABC is trading @ $40",
+      "ABC Apr 10 put, ABC is trading @ $15",
+      "ABC Jun 50 put, ABC is trading @ $48"
+    ],
+    "answer": 2,
+    "explanation": "Call options are out-of-the-money if the market price is less than the strike price. Put options are out-of-the-money if the market price is more than the strike price. Options where the strike price equals the market price are considered at-the-money. The answer, \"ABC Apr 10 put, ABC is trading @ $15, \" is out-of-the-money, because the market price, $15, is higher than the strike price, $10. Remember, a put offers the purchaser the right to sell at the strike price. In this case, the strike price is below the market price; therefore, it would not be profitable to exercise the put and it is thus out-of-the-money."
+  },
+  {
+    "id": "f8-09",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 9,
+    "question": "A customer has the following position: Short XYZ Jan 50 call @ 6. What do you know is true about the position?",
+    "choices": [
+      "It is bullish",
+      "It is bearish",
+      "It is in-the-money",
+      "It is out-of-the money"
+    ],
+    "answer": 1,
+    "explanation": "Short call positions are bearish. That is because a short call investor gets to keep his premium received if the value of the underlying remains below the option's strike price. In order to determine whether a call is in-the-money or out-of-the-money, you need to know what the security (in this case XYZ) is currently trading at, and the question doesn't give this information."
+  },
+  {
+    "id": "f8-10",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 16,
+    "question": "Which of the following is a technique that can be useful in protecting against systematic risk?",
+    "choices": [
+      "Portfolio diversification",
+      "Hedging investments",
+      "Investing in uncorrelated securities",
+      "There is no way to protect against systematic risk"
+    ],
+    "answer": 1,
+    "explanation": "Portfolio diversification, which involves investing in uncorrelated or negatively correlated securities, protects an investor from unsystematic risk. Hedging, on the other hand, is a way to protect against systematic risk. For instance, an investor could buy put options on a broad-based index or short broad-based ETFs as a way to hedge against poor market performance."
+  },
+  {
+    "id": "f8-11",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 3,
+    "question": "Which of the following investments would be most subject to inflation risk?",
+    "choices": [
+      "Thinly-traded stocks",
+      "Hedge funds",
+      "REITs",
+      "Bonds"
+    ],
+    "answer": 3,
+    "explanation": "Fixed-income investments tend to have more inflation risk than stocks. Bonds are fixed-income investments, and thus they are subject to inflation risk. On the other hand, hedge funds, REITs, and thinly-traded stocks do not come with high levels of inflation risk."
+  },
+  {
+    "id": "f8-12",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 7,
+    "question": "Which of the following is not a risk of extended hours trading?",
+    "choices": [
+      "Lower liquidity",
+      "Less access to news updates",
+      "Higher volatility",
+      "Wider bid-ask spreads"
+    ],
+    "answer": 1,
+    "explanation": "Because after-hours traders are able to react to financial news for longer periods than traders who are restricted to normal hours, they have access to more and not fewer news updates. On the other hand, the risks associated with extended hours trading include lower liquidity, higher volatility, and wider bid-ask spreads."
+  },
+  {
+    "id": "f8-13",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 3,
+    "question": "Investing in ADRs of a company headquartered in the Philippines could expose the investor to which type of risk?",
+    "choices": [
+      "Political risk",
+      "Default risk",
+      "Prepayment risk",
+      "Call risk"
+    ],
+    "answer": 0,
+    "explanation": "Investments in emerging markets mean investing in countries that may be politically unstable and vulnerable to violence, property nationalization or revolution. Because ADRs are equity securities, they are not subject to default risk, prepayment risk, or call risk. Note that ADRs are also subject to currency/exchange rate risk."
+  },
+  {
+    "id": "f8-14",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 9,
+    "question": "Drew holds 500 shares of ABC and would like to protect his investment by using options. Which of the following would provide the best protection?",
+    "choices": [
+      "Purchasing 5 ABC call options",
+      "Shorting 5 ABC call options",
+      "Purchasing 5 ABC put options",
+      "Shorting 5 ABC put options"
+    ],
+    "answer": 2,
+    "explanation": "An investor who is long a security can gain protection from a downward turn in the security's market value by either buying puts or selling calls on the security. However, though an investor who is long a security can make income from selling calls on that security, this option does not provide the best hedge for the investor. This is because his profit from the investment is limited to the premium received in selling his calls. Writing covered calls is typically employed as an income-producing strategy and not a protective strategy.\n\nOn the other hand, an investor who goes long a put can potentially profit up to the value of the put's strike price minus its premium on his option investment. That amount would serve to counter more of the loss the investor sustains from his long stock investment than keeping the premium would accomplish. Thus, buying puts on a stock an investor holds provides the best protection against a drop in that stock's market price. The process of buying a put on a security an investor already owns is known as hedging with a protective put."
+  },
+  {
+    "id": "f8-15",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 6,
+    "question": "A mutual fund's NAV is figured using:",
+    "choices": [
+      "The sales load",
+      "The public offering price",
+      "Reverse pricing",
+      "Forward pricing"
+    ],
+    "answer": 3,
+    "explanation": "Mutual funds use forward pricing to calculate the NAV; when one gives a check to an investment advisor, the mutual fund will actually be purchased the next day at the NAV calculated after the close of the market on the previous day."
+  },
+  {
+    "id": "f8-16",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 5,
+    "question": "For municipal bonds, issuers offer a disclosure document containing information about the bonds and the financial condition of the issuer, as well as a legal opinion verifying the municipality's authority to issue the bonds. This disclosure document is called:",
+    "choices": [
+      "A charter",
+      "A regular way settlement",
+      "An official statement",
+      "A government-sponsored statement"
+    ],
+    "answer": 2,
+    "explanation": "Firms that sell municipal securities are required to give their customers copies of the official statement by the confirmation of the transaction or a notice advising them how to obtain the official statement. Firms must also provide customers a copy of the official statement upon request."
+  },
+  {
+    "id": "f8-17",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 13,
+    "question": "What is the maximum number of accredited investors eligible to purchase securities under a Regulation D private placement?",
+    "choices": [
+      "35",
+      "50",
+      "100",
+      "No limit"
+    ],
+    "answer": 3,
+    "explanation": "No more than 35 non-accredited investors may purchase securities under a Regulation D placement. There is no limit to the number of accredited investors."
+  },
+  {
+    "id": "f8-18",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 13,
+    "question": "Both a tombstone ad and indications of interest are commonly associated with which phase of the securities issuing process?",
+    "choices": [
+      "Pre-filing period",
+      "Cooling-off period",
+      "Effective period",
+      "Post-effective period"
+    ],
+    "answer": 1,
+    "explanation": "A tombstone ad formally announces the basic details of a new public offering, without discussing its merits. An indication of interest is a potential investor's non-binding commitment to buy the security being registered. Both are issued during the 20-day cooling off period between the filing of a registration statement and the date the registration becomes effective."
+  },
+  {
+    "id": "f8-19",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 2,
+    "question": "Which of the following is the equation for current yield?",
+    "choices": [
+      "Current yield = nominal yield/current market price of bond",
+      "Current yield = annual coupon payment/par value of the bond",
+      "Current yield = annual coupon payment/current market price of bond",
+      "Current yield = yield to maturity/par value of the bond"
+    ],
+    "answer": 2,
+    "explanation": "Current yield is a fast approximation that represents the return an investor can receive if she purchased a bond today and held it for a year."
+  },
+  {
+    "id": "f8-20",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 16,
+    "question": "The \"real\" interest rate is the nominal yield:",
+    "choices": [
+      "plus the inflation rate",
+      "minus the inflation rate",
+      "plus the discount rate",
+      "minus the discount rate"
+    ],
+    "answer": 1,
+    "explanation": "Interest rates consist of a component for the true \"cost\" of money and another component for expected inflation. The higher the expected inflation rate, the higher the interest rate. To get the \"real\" cost of funds, the inflation rate must be deducted from the nominal yield."
+  },
+  {
+    "id": "f8-21",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 9,
+    "question": "Foreign exchange rates are set in which market?",
+    "choices": [
+      "First Market",
+      "Third Market",
+      "Interbank Market",
+      "Equity Market"
+    ],
+    "answer": 2,
+    "explanation": "Trading of foreign currencies occurs in the Interbank Market. This is an institutional market trading very large units of currency from money-center bank to money-center bank."
+  },
+  {
+    "id": "f8-22",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 16,
+    "question": "A major employment app reports a sharp increase in \"help wanted\" job postings by large retailers in August. What type of economic indicator is this most likely to be?",
+    "choices": [
+      "A coincident indicator showing current economic strength",
+      "A leading indicator signaling expected economic expansion",
+      "A lagging indicator reflecting past economic conditions",
+      "A measure unrelated to economic cycles"
+    ],
+    "answer": 1,
+    "explanation": "This is a leading indicator because businesses hire in anticipation of future demand, not after it occurs. Employers increase job postings before periods of expected high sales, such as the holiday season.\n\nThis is similar to how manufacturers produce goods and retailers place large orders in the summer to prepare for December holidays."
+  },
+  {
+    "id": "f8-23",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 15,
+    "question": "A communication sent to 30 retail clients and 10 institutional clients is defined as (a):",
+    "choices": [
+      "Correspondence",
+      "Retail Communication",
+      "Public Appearance",
+      "Institutional Communication"
+    ],
+    "answer": 1,
+    "explanation": "This is a written communication sent to more than 25 recipients. Therefore, it is a retail communication. An institutional communication is sent only to institutional investors. Because this communication was sent to both retail and institutional investors, it cannot be considered an institutional communication."
+  },
+  {
+    "id": "f8-24",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 15,
+    "question": "The Firm Element component of the \"Continuing Education\" requirement must be completed:",
+    "choices": [
+      "semi-annually",
+      "annually",
+      "bi-annually",
+      "tri-annually"
+    ],
+    "answer": 1,
+    "explanation": "The Firm Element of the Continuing Education requirement obligates member firms to deliver annual training to all registered representatives on product, regulation, and compliance issues."
+  },
+  {
+    "id": "f8-25",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 13,
+    "question": "Which of the following is a non-exempt security under the Securities Act of 1933?",
+    "choices": [
+      "Government National Mortgage Association Mortgage Pass Through Certificates",
+      "Small Business Investment Company Shares",
+      "Commercial Paper maturing in over 270 days",
+      "Fixed Annuity Contracts"
+    ],
+    "answer": 2,
+    "explanation": "Government National Mortgage Association is owned by the U.S. Government. Its issues are exempt from the provisions of the Securities Act of 1933.\n\nSmall Business Investment Companies operate under Small Business Administration rules and are also exempt from the Act's provisions (though regular Investment Company issues are non-exempt).\n\nFor commercial paper to be exempt, its maturity must be 270 days or less. Since the maturity in this question is over 270 days, this issue is non-exempt. Variable annuity contracts are also a non-exempt security that must be registered under the 1933 Act, because the customer is basically buying a mutual fund in an insurance company \"wrapper.\" Note, in contrast, that fixed annuities sold by insurance companies are not defined as a security and hence are not subject to registration requirements."
+  },
+  {
+    "id": "f8-26",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 12,
+    "question": "When comparing fixed annuities to variable annuities, which statement is TRUE?",
+    "choices": [
+      "A fixed annuity account grows at a guaranteed rate",
+      "A variable annuity account grows at a guaranteed rate",
+      "A fixed annuity is suitable for a customer seeking an inflation hedge",
+      "A variable annuity is suitable for a customer seeking preservation of capital"
+    ],
+    "answer": 0,
+    "explanation": "Fixed annuity premiums are invested in an insurance company's general account and grow at a guaranteed rate (which is usually fairly low). There is no investment risk. At retirement, the customer received a fixed periodic payment for life.\n\nVariable annuity premiums are invested in an insurance company \"separate account\" which buys shares of a designated mutual fund. The account grows based on the performance of the underlying mutual fund, so the investor is subject to investment risk.\n\nA fixed annuity ensures a fixed guaranteed growth rate, while the growth rate of a variable annuity can go higher, or lower, or negative. So for preservation of capital, a fixed annuity is best. That said, fixed annuities often provide modest returns which may not prove to be an effective inflation hedge."
+  },
+  {
+    "id": "f8-27",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 12,
+    "question": "In a variable annuity contract:",
+    "choices": [
+      "the number of accumulation units is fixed",
+      "accumulation units are liquidated to make payments to the annuitant",
+      "the number of annuity units is fixed",
+      "annuity units are converted into accumulation units"
+    ],
+    "answer": 2,
+    "explanation": "During the accumulation phase of a variable annuity contract, new money that is invested buys additional accumulation units of the separate account (analogous to buying shares of a mutual fund). (Remember money coming into a contract is accumulating so accumulation units are purchased.)\n\nOnce the account is annuitized, payments into the separate account must stop. The accumulation units owned at that moment are converted into a fixed number of annuity units (the number of annuity units received is based on that person's expected mortality).\n\nThe monthly annuity payment is the fixed number of annuity units times the unit value (which will vary with the performance of the underlying mutual fund held in the separate account)."
+  },
+  {
+    "id": "f8-28",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 12,
+    "question": "All of the following statements are true regarding the annuitization of a variable annuity contract EXCEPT:",
+    "choices": [
+      "variable annuity contracts require the holder to select a Life Annuity - Period Certain payout option",
+      "the variable annuity payout may vary depending on the performance of the underlying securities",
+      "the number of variable annuity units is fixed",
+      "the holder may not change the payout option after it is elected"
+    ],
+    "answer": 0,
+    "explanation": "Variable annuity contracts allow the holder to elect a payout option that meets that person's individual requirements. The choice of payout method depends on the needs of the annuitant; and cannot be changed once elected. Once the contract is annuitized, the number of annuity units is fixed. However, the value of each unit varies with the performance of the underlying securities, hence the monthly annuity payment may vary."
+  },
+  {
+    "id": "f8-29",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 13,
+    "question": "Distribution of a preliminary prospectus during the 20-day cooling off period for a new issue that is in registration with the SEC is:",
+    "choices": [
+      "prohibited under the Securities Act of 1933",
+      "used to determine the level of investor interest in the issue",
+      "used to confirm orders in the issue",
+      "used to assure that the SEC approves of the offering"
+    ],
+    "answer": 1,
+    "explanation": "A \"red herring\" preliminary prospectus may be sent to any prospective purchaser of that new issue once the issue has entered into the \"20-day cooling off\" period that commences upon filing of the registration statement with the SEC.\n\nThe use of the \"preliminary prospectus\" does not constitute an offer, solicitation, or recommendation under the '33 Act, and the red ink statement on the cover of the preliminary prospectus states this (hence the name \"red herring\").\n\nThe red herring is used to obtain non-binding indications of interest in the issue, and may be sent to anyone during the cooling off period, whether or not that person has previously expressed any interest in the issue."
+  },
+  {
+    "id": "f8-30",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 13,
+    "question": "The managing underwriter has set the POP for a new issue offering at $50 per share. After negotiating, the proceeds to be received by the issuer upon closing are set at $48 per share. The managing underwriter will retain a management fee of $.25 per share and the selling concession has been set at $.75 per share. The spread is:",
+    "choices": [
+      "$2.00",
+      "$1.25",
+      "$1.00",
+      "$.25"
+    ],
+    "answer": 0,
+    "explanation": "This one is pretty simple. The \"spread\" is the gross compensation to the underwriters. It is the difference between the POP (Public Offering Price) and the amount per share that was received by the issuer. In this case, the POP is $50, and the issuer received $48 per share, so the spread is $2."
+  },
+  {
+    "id": "f8-31",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 12,
+    "question": "To be eligible for an ABLE account, what must be true?",
+    "choices": [
+      "The individual must be continually enrolled in state-approved therapeutic interventions",
+      "The individual must have less than $50,000 in savings",
+      "The individual's disability must begin before age 46",
+      "The individual must be receiving federal supplemental security income benefits"
+    ],
+    "answer": 2,
+    "explanation": "ABLE accounts allow individuals with disabilities and their families to save for qualified disability expenses on a tax-advantaged basis.\n\nTo be eligible for an ABLE account, the individual's disability must begin before age 46.\n\nAn ABLE account can hold up to $100,000 without affecting eligibility for federal Supplemental Security Income (SSI). Amounts above $100,000 may impact SSI benefits, but do not make the individual ineligible to have the account.\n\nThere is no requirement that an individual receive SSI or specific therapies to open an ABLE account. ABLE accounts are intended to help individuals with disabilities save for qualified expenses while preserving eligibility for certain means-tested benefits."
+  },
+  {
+    "id": "f8-32",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 12,
+    "question": "When recommending a 529 Plan to a client, the registered representative should inform the customer about the:",
+    "choices": [
+      "income phase-outs that restrict who can contribute funds to the account",
+      "right of the beneficiary to take control of the assets in the account at the age of majority",
+      "fact that the contribution might be deductible at the state level",
+      "fact that the beneficiary of the account can only be a minor"
+    ],
+    "answer": 2,
+    "explanation": "529 Plans are state-sponsored college savings plans. Any dollar limit on 529 Plan contributions is set by the state and the contribution may be deductible from state income tax (but not from federal income tax). This is the point that must be disclosed of the choices offered.\n\nThere are no income phase-outs on who can contribute to a 529 Plan; the donor retains control of the assets at all times; and an account can be opened for an adult who wants to save for higher education (and the donor and beneficiary can be the same person, so you can open a 529 Plan for yourself!)."
+  },
+  {
+    "id": "f8-33",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 12,
+    "question": "The penalty tax applied for not taking required minimum distribution from a qualified retirement plan in a given year is:",
+    "choices": [
+      "6% of the shortfall",
+      "10% of the shortfall",
+      "15% of the shortfall",
+      "25% of the shortfall"
+    ],
+    "answer": 3,
+    "explanation": "The penalty applied for not taking required minimum distributions from a qualified plan starting at age 73 is 25% of the under-distribution. There is an incentive to take the money out and pay tax on it, which is what the Treasury is really looking for!"
+  },
+  {
+    "id": "f8-34",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 12,
+    "question": "Distributions after age 59 1/2 from non-tax qualified retirement plans are:",
+    "choices": [
+      "100% taxable",
+      "partial tax free return of capital and partial taxable income",
+      "100% tax free",
+      "100% tax deferred"
+    ],
+    "answer": 1,
+    "explanation": "Contributions to non-tax qualified plans, such as most variable annuities, are not tax deductible. They are made with \"after-tax\" dollars. Earnings accrue tax deferred. When distributions commence, the return of original capital is not taxed (this is the investor's cost basis. Only the earnings are taxed."
+  },
+  {
+    "id": "f8-35",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 11,
+    "question": "As the initial transaction in a new margin account, a customer sells short 100 shares of DEF stock at $26 per share. The customer must deposit:",
+    "choices": [
+      "$780",
+      "$1,300",
+      "$2,000",
+      "$2,600"
+    ],
+    "answer": 2,
+    "explanation": "Regulation T initial margin to sell short stock is 50% of $2,600 = $1,300. However, since this is a new account, it must meet the minimum initial margin of $2,000 needed to open an account. Therefore, $2,000 must be deposited."
+  },
+  {
+    "id": "f8-36",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 12,
+    "question": "A divorced woman with 2 young children has a small trust fund that gives her $2,500 a year in income. She collects another $2,500 per year in alimony payments. The woman wishes to make a contribution to an Individual Retirement Account this year. Which statement is TRUE?",
+    "choices": [
+      "No contribution can be made",
+      "A contribution can be made based only on the income received from the trust fund",
+      "A contribution can be made based only on the alimony payments received",
+      "A contribution can be made based on both the income received from the trust fund and the alimony payments received"
+    ],
+    "answer": 0,
+    "explanation": "IRA contributions can only be made based on earned income - meaning income from one's work. Portfolio income does not count, since it is not earned income. Alimony and child support payments are not classified as \"earned income\" for purposes of making IRA contributions. Thus, a woman who has income from a trust fund and who received alimony payments cannot make an IRA contribution based on either of these sources of income.\n\n(Of course, the big question here is, \"If this person only has total income of $5,000 a year, how would she be able to make an IRA contribution since she doesn't even have enough money to eat!\")"
+  },
+  {
+    "id": "f8-37",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 11,
+    "question": "When opening an account to buy options, which of the following signatures is needed on the options new account form?",
+    "choices": [
+      "Registered options principal signature",
+      "General principal signature",
+      "Chief Compliance Officer signature",
+      "Customer signature"
+    ],
+    "answer": 0,
+    "explanation": "The customer's signature is not required on a new account form. It is required on the options agreement, margin agreement and loan consent agreement.\n\nThe regular new account form for equity securities requires the signature of the registered representative and the general principal (Series 24 license).\n\nThe options new account form, required for options trading, is signed by the registered representative, who is attesting to the fact that the information on the form is true; and must be approved before the account is traded by the registered options principal (Series 4 license).\n\nThe same person can hold both the Series 24 General Principal and Series 4 Registered Options Principal licenses."
+  },
+  {
+    "id": "f8-38",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 11,
+    "question": "Regulation T applies to all of the following EXCEPT:",
+    "choices": [
+      "Corporate bonds traded over-the-counter",
+      "Municipal bonds traded over-the-counter",
+      "Common stocks traded on exchanges",
+      "Preferred stocks traded over-the-counter"
+    ],
+    "answer": 1,
+    "explanation": "Reg. T applies to transactions of non-exempt securities only. These are the securities that are NOT exempt from the provisions of the Securities Act of 1933 and the Securities Exchange Act of 1934. Municipal bonds are exempt securities. Corporate bonds, common stocks and preferred stocks are non-exempt securities, and thus are subject to Regulation T."
+  },
+  {
+    "id": "f8-39",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 11,
+    "question": "Call loans made by banks to broker-dealers are secured by:",
+    "choices": [
+      "fully paid securities held in margin accounts for customers of the broker-dealer",
+      "partially paid securities held in margin accounts for customers of the broker-dealer",
+      "fully paid securities held in cash accounts for customers of the broker-dealer",
+      "any security position held in the broker-dealer's inventory or held in a customer account"
+    ],
+    "answer": 1,
+    "explanation": "Call loans are secured by customer margin securities. Fully paid customer securities cannot be pledged for these loans - they must be segregated and placed in safekeeping. The loans are not secured by cash nor do firm securities positions collateralize these loans.\n\nLoans using firm securities as collateral (proprietary positions) must be kept separate from loans using customer securities as collateral."
+  },
+  {
+    "id": "f8-40",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 11,
+    "question": "Two unrelated persons (Person A and Person B) come into your branch office to open a new account. They tell you that the funds are being deposited by Person A, who will be the owner of the account, and that Person B wants to be able to trade the account. They also tell you that only 1 social security number is to be used on the account. How should the account be opened?",
+    "choices": [
+      "Individual account in the name of Person A with a Third Party Trading Authorization granted to Person B",
+      "Individual account in the name of Person A with Transfer On Death registration naming Person B as the beneficiary",
+      "Joint Account with Rights of Survivorship in the names of Person A and Person B",
+      "The account should not be opened and you should contact your firm's SAR officer to report suspicious activity"
+    ],
+    "answer": 0,
+    "explanation": "Since Person A is the owner of the account, this will be an individual account, using the social security number of Person A for tax reporting. A Third Party Trading Authorization naming Person B as authorized to trade the account, signed by Person A, meets the requirement for Person B to be authorized to trade the account.\n\nAn Individual Account held TOD does not give Person B trading authority.\n\nA Joint Account with Rights of Survivorship gives each person 100% ownership of the account, and this account is only owned by Person A, and not Person B.\n\nChoice D is simply garbage."
+  },
+  {
+    "id": "f8-41",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 11,
+    "question": "If no extension request is made, securities that have been purchased by a customer for which no payment has been received, must be liquidated after:",
+    "choices": [
+      "S",
+      "S+1",
+      "S+2",
+      "S+10"
+    ],
+    "answer": 2,
+    "explanation": "Regulation T of the Federal Reserve Board requires that customers pay for securities purchases \"promptly\" but no later than \"S+2\" = industry regular way settlement + 2 business days.\n\nSince regular way settlement is 1 business day, if payment is not received on the 3rd business day (\"S+2\"), then under extraordinary circumstances, a Reg T extension may be requested from FINRA. This extension gives another 2 business days for collection - the same as another regular way settlement period.\n\nIf no payment is made, the unpaid position must be liquidated and the account \"frozen\" for 90 days. When the account is frozen, the customer must pay in advance for purchases."
+  },
+  {
+    "id": "f8-42",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 10,
+    "question": "An employee of a member firm wishes to open an options account at another firm. Which statement is TRUE?",
+    "choices": [
+      "Before opening the account, written permission must be obtained from the employing firm",
+      "Prior approval of the employer is needed before executing each trade",
+      "Duplicate trade confirmations must be sent to the Cboe",
+      "An affidavit is required to be on file from the employee that none of the trades are prohibited under existing rules and regulations"
+    ],
+    "answer": 0,
+    "explanation": "For an employee of another firm to open an options account, prior written approval of the employer is required, and duplicate confirmations of all trades must be sent to the employer upon request (not the Cboe).\n\nThere is no requirement to get employer approval prior to executing each trade, nor is there a requirement to obtain an affidavit from the employee stating that none of the trades are prohibited under existing rules."
+  },
+  {
+    "id": "f8-43",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 11,
+    "question": "Which of the following statements is FALSE? To open an options account, inquiry must be made into the customer's financial situation and needs in order to:",
+    "choices": [
+      "make suitable customer recommendations",
+      "determine if it is appropriate to open the account",
+      "determine whether the customer should receive an Options Disclosure Document",
+      "determine the restrictions, if any, to be placed in the Options Agreement"
+    ],
+    "answer": 2,
+    "explanation": "The Options Disclosure Document and Options Agreement are mandatory parts of the option account opening procedure. Inquiry into the customer's financial situation is not made to determine whether the customer gets these. It is made to determine whether the account should be opened and what to recommend."
+  },
+  {
+    "id": "f8-44",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 9,
+    "question": "Which statement is FALSE about the VIX option?",
+    "choices": [
+      "The VIX option is traded on the Cboe",
+      "VIX values are based on the implied volatility of the Standard and Poor's 500 Index",
+      "VIX valuation moves in parallel with movements of the Standard and Poor's 500 Index",
+      "Exercise settlement of the VIX is European style"
+    ],
+    "answer": 2,
+    "explanation": "The VIX is an extremely successful index option traded on the Cboe that is commonly called the \"fear gauge.\" The VIX is an index that tracks S&P 500 Index volatility. VIX values have ranged from a low of about 10 to a high of about 80 since the product was introduced in 2006.\n\nIncreased volatility occurs in falling markets, so VIX values increase when the market is falling - the index moves counter to the general market. Therefore, in a falling market, volatility increases and VIX calls become more valuable as the VIX rises; while in a rising market, VIX values tend to fall.\n\nLike virtually all index options introduced after the OEX, the VIX is a European style option."
+  },
+  {
+    "id": "f8-45",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 9,
+    "question": "A customer sells 2 ABC Jan 65 Puts @ $3 when the market price of ABC is $66. The maximum potential gain is:",
+    "choices": [
+      "$300",
+      "$600",
+      "$12,400",
+      "unlimited"
+    ],
+    "answer": 1,
+    "explanation": "The maximum potential gain in any naked writing strategy is the premium received. If the put expires out the money, the writer keeps the premium. In this case, 2 contracts were sold @ $3, so the maximum gain is $600."
+  },
+  {
+    "id": "f8-46",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 7,
+    "question": "Sell stop orders:",
+    "choices": [
+      "are used to sell securities at prices that are higher than the current market",
+      "are used to sell securities at prices that are lower than the current market",
+      "guarantee a specific execution price or better",
+      "are used by short sellers to protect positions"
+    ],
+    "answer": 1,
+    "explanation": "Sell stop orders are used to sell securities at prices that are lower than the current market - they are used to \"stop\" a loss on the position. If the market drops to the stop price, the order is \"elected\" and becomes a market order to sell. The sell order will be filled at the prevailing market price - so there is no guarantee of a specific execution price or better.\n\nShort sellers would use a buy stop order to protect a position in a rising market."
+  },
+  {
+    "id": "f8-47",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 7,
+    "question": "A dealer will sell stock at the:",
+    "choices": [
+      "bid price",
+      "ask price",
+      "midpoint price",
+      "price of the last reported trade"
+    ],
+    "answer": 1,
+    "explanation": "Securities dealers quote stocks with a bid and ask. The bid is the price at which the dealer is willing to buy from the customer (therefore, the customer is selling to the dealer at the bid). The ask is the price at which the dealer is willing to sell to the customer (therefore, the customer is buying from the dealer at the ask)."
+  },
+  {
+    "id": "f8-48",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 6,
+    "question": "Hedge funds are:",
+    "choices": [
+      "only suitable for wealthy, sophisticated investors",
+      "a good way for retail investors to hedge against the stock market",
+      "usually registered under the Securities Act of 1933",
+      "private investments that are liquid"
+    ],
+    "answer": 0,
+    "explanation": "Hedge funds are unregistered private placements sold to accredited investors. These accredited investors could be either institutions or wealthy individuals. Hedge funds are only suitable for sophisticated investors who understand the products inherent risks. Hedge funds are quite illiquid."
+  },
+  {
+    "id": "f8-49",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 6,
+    "question": "When comparing Real Estate Investment Trusts (REITs) to Real Estate Limited Partnerships (RELPs), all of the following statements are true EXCEPT:",
+    "choices": [
+      "REITs allow for flow through of gain",
+      "RELPs allows for flow through of gain",
+      "REITs allow for flow through of loss",
+      "RELPs allow for flow through of loss"
+    ],
+    "answer": 2,
+    "explanation": "REITs do not allow for flow through of loss - only net income flows through to shareholders under conduit tax treatment. On the other hand, Real Estate Limited Partnerships are a tax sheltered investment that allow both gain and loss to flow through to the partnership investors."
+  },
+  {
+    "id": "f8-50",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 6,
+    "question": "Real Estate Investment Trusts are not suitable as tax advantaged investments because they:",
+    "choices": [
+      "have too many corporate characteristics",
+      "only distribute qualified dividends",
+      "are not allowed to pass operating losses to shareholders",
+      "are not allowed to pass capital gains to shareholders"
+    ],
+    "answer": 2,
+    "explanation": "REITs are not tax shelter vehicles because they cannot distribute losses to shareholders through conduit tax treatment; they can only distribute income and capital gains through conduit tax treatment to shareholders. In addition, their dividends are taxed as ordinary income."
+  },
+  {
+    "id": "f8-51",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 7,
+    "question": "The only order listed that is reduced on ex date of a cash dividend is an open:",
+    "choices": [
+      "buy stop",
+      "sell stop",
+      "sell limit",
+      "sell stop DNR"
+    ],
+    "answer": 1,
+    "explanation": "The orders that are reduced on ex date are \"OBLOSS\" - Open Buy Limits and Open Sell Stops. These are the orders below the current market. The intent is to make sure that the order does not become executable due to the fact that the stock's opening price is reduced by the dividend amount. Therefore, Choice B would be reduced. If the order is DNR, this means Do Not Reduce and on ex date the order would NOT be adjusted."
+  },
+  {
+    "id": "f8-52",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 6,
+    "question": "The expense ratio of a mutual fund is a measure of:",
+    "choices": [
+      "profitability",
+      "operating efficiency",
+      "liquidity",
+      "stability"
+    ],
+    "answer": 1,
+    "explanation": "The expense ratio is:\n\nExpense Ratio = Fund Operating Expenses / Total Net Assets\n\nThe ratio really represents that portion of the fund's return on net assets that is eaten up by expenses. The lower the ratio, the greater the residual income for investors making the fund more efficient."
+  },
+  {
+    "id": "f8-53",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 6,
+    "question": "A customer switches from a growth fund to an income fund within the same \"family of funds.\" Which statement is TRUE?",
+    "choices": [
+      "No tax liability is incurred because this is treated as a \"wash sale\"",
+      "No tax liability is incurred because this is treated as a \"like kind exchange\" of assets",
+      "Tax must be paid on any amount by which the NAV of the new fund exceeds the old fund's NAV",
+      "The sale results in a \"taxable event\" on which tax on any gain is due, and the purchase establishes a new cost basis"
+    ],
+    "answer": 3,
+    "explanation": "When the shares of one fund are sold, unless the monies are reinvested in the same fund, (resulting in a non-taxable “like-kind\" exchange), capital gains tax is due on the sale proceeds versus the cost basis in the shares. The purchase of the new (different) shares results in a new cost basis."
+  },
+  {
+    "id": "f8-54",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 4,
+    "question": "Which of the following is correct regarding Treasury Bills?",
+    "choices": [
+      "T-Bills are issued in bearer form in the United States and are issued at par",
+      "T-Bills are registered in the owner's name in book entry form and are issued at a discount",
+      "T-Bills are callable at any time and issued at par",
+      "T-Bills are issued at a discount in bearer form"
+    ],
+    "answer": 1,
+    "explanation": "T-Bills are registered in the owner's name in book entry form only; no bearer securities can currently be issued in the U.S. to individual residents. T-Bills are original issue discount obligations and are not callable, since they are short term."
+  },
+  {
+    "id": "f8-55",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 5,
+    "question": "Income sources backing a special tax bond issue could be all of the following EXCEPT a(n):",
+    "choices": [
+      "gasoline tax",
+      "property tax",
+      "sales tax",
+      "alcohol tax"
+    ],
+    "answer": 1,
+    "explanation": "Ad valorem (property) taxes do not back special tax bond issues. Ad valorem taxes back general obligation bonds. The definition of a special tax bond is one which is not backed by ad valorem taxes, but rather by another tax source (such as excise, sales and income taxes)."
+  },
+  {
+    "id": "f8-56",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 3,
+    "question": "When interest rates rise, which statement is TRUE?",
+    "choices": [
+      "Shorter maturity bond prices are affected more than longer maturity bond prices",
+      "Longer maturity bond prices are affected more than shorter maturity bond prices",
+      "T-Bill prices are affected more than T-Bond prices",
+      "Maturity does not materially affect the level of interest rate risk"
+    ],
+    "answer": 1,
+    "explanation": "The longer the maturity, the more volatile the price movements of the bond as interest rates move (rise or fall). Since T-Bonds have a longer maturity than T-Bills, T-Bond prices are affected more than T-Bill prices."
+  },
+  {
+    "id": "f8-57",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 1,
+    "question": "A customer owns 100 shares of ABC Corp. $100 par convertible preferred stock. Each preferred share is convertible into 10 shares of ABC common stock. ABC declares a 10% common stock dividend. As of the payable date, the customer will own:",
+    "choices": [
+      "90 shares of ABC preferred stock",
+      "100 shares of ABC preferred stock",
+      "100 shares of ABC preferred stock and 10 shares of ABC common stock",
+      "110 shares of ABC preferred stock"
+    ],
+    "answer": 1,
+    "explanation": "A common stock dividend does not increase the number of preferred shares owned by the investor. The customer continues to own 100 shares of preferred stock.\n\nInstead, the corporation adjusts the conversion privilege so the preferred shareholder receives the benefit of the common stock dividend if the preferred shares are later converted into common stock."
+  },
+  {
+    "id": "f8-58",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 1,
+    "question": "All of the following statements are true about American Depositary Receipts EXCEPT:",
+    "choices": [
+      "ADRs facilitate domestic trading of foreign securities",
+      "ADR holders receive dividends",
+      "ADR holders have voting and pre-emptive rights",
+      "ADRs are issued by domestic banks"
+    ],
+    "answer": 2,
+    "explanation": "ADR holders receive dividends but do not have voting or pre-emptive rights. The bank holding the shares passes through dividends to the receipt holders; the bank votes the shares and sells off any pre-emptive rights, distributing the monies to shareholders. ADRs are the means by which foreign securities are traded in the U.S."
+  },
+  {
+    "id": "f8-59",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 16,
+    "question": "During a recession, the price of which type of security would be least affected?",
+    "choices": [
+      "Trucking company",
+      "Utility company",
+      "Mining company",
+      "Technology company"
+    ],
+    "answer": 1,
+    "explanation": "Utilities are a defensive industry. This means that the price of public utility securities are less affected by a down-turn in the economy. In contrast, trucking, mining and technology are cyclical industries that are affected by changes in the overall economy."
+  },
+  {
+    "id": "f8-60",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 1,
+    "question": "Which of the following types of investment risk is likely to affect an American Depositary Receipt (ADR) but not a domestic stock?",
+    "choices": [
+      "Regulatory risk",
+      "Business risk",
+      "Market risk",
+      "Currency risk"
+    ],
+    "answer": 3,
+    "explanation": "Currency risk, also called exchange rate risk, is the risk that as the U.S. dollar strengthens against a foreign currency, resulting in the value of a corresponding foreign investment declining for U.S. investors. American Depositary Receipts (ADRs) are receipts issued by a U.S. bank that represent shares of a foreign stock. ADRs are subject to currency risk because when the price of the U.S. dollar goes up, the price of the ADR will fall in U.S. dollars. But ADRs can also provide protection against a decline in the U.S. dollar—when the U.S. dollar falls, the price of the ADR increases in response."
+  },
+  {
+    "id": "f8-61",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 12,
+    "question": "Which of the following is true of the beneficiary of an ABLE account?",
+    "choices": [
+      "The beneficiary is always the account's owner",
+      "If the beneficiary is not a minor he/she can be the owner of the account",
+      "If the beneficiary is at least 46 years old he/she can be the owner of the account",
+      "The beneficiary is never the account's owner"
+    ],
+    "answer": 0,
+    "explanation": "An ABLE account's beneficiary is also the account's owner. To be eligible for an ABLE account, an individual's disability must begin before age 46, but that age is not related to an individual's ability to be the owner of the account."
+  },
+  {
+    "id": "f8-62",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 2,
+    "question": "If a bond is quoted at 100, this means:",
+    "choices": [
+      "It is trading in the secondary market at a premium to its face value",
+      "It is trading in the secondary market at a discount to its face value",
+      "It is trading in the secondary market at its face value",
+      "It is trading in the primary market at its face value"
+    ],
+    "answer": 2,
+    "explanation": "A bond quote represents the percentage of par value the bond is trading at in the secondary market. If a bond is trading at 100, this means it is trading at 100% of its face value, or at its face value."
+  },
+  {
+    "id": "f8-63",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 13,
+    "question": "In a/an commitment an underwriter agrees to make a good effort to sell the issuer's securities; however, the underwriter does not guarantee that all the shares will be sold and is not financially responsible for the securities it does not sell.",
+    "choices": [
+      "Best efforts",
+      "Regulation D",
+      "Negotiated offering",
+      "Firm"
+    ],
+    "answer": 0,
+    "explanation": "In a best efforts commitment, an underwriter agrees to use its best efforts to sell the issuer's securities, but the underwriter does not guarantee that all the shares will be sold. There are two types of best efforts commitments: all or none commitments and mini-max commitments. In an all or none commitment, the underwriter sells all the shares in the offering or the offering is voided. In a mini-max commitment, the underwriter commits to sell a minimum number of shares of the offering or the offering will be cancelled. The underwriter is then expected only to use its best efforts to sell the remainder. Finally, a firm commitment is an agreement that the underwriter will purchase all the securities at a discount and then sell the securities to the public at a public offering price. A Regulation D offering is for private placements. Most Reg D offerings are made on a best-efforts basis; however, this is not always the case."
+  },
+  {
+    "id": "f8-64",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 13,
+    "question": "When an issuer files one registration statement for a large number of securities and does not sell them immediately it is known as a(n):",
+    "choices": [
+      "Shelf offering",
+      "Follow-on offering",
+      "Private offering",
+      "Initial public offering"
+    ],
+    "answer": 0,
+    "explanation": "If an issuer has issued securities previously and is a large enough company, it may file what is called a shelf registration or shelf offering. A shelf offering is when an issuer files one registration statement for a large number of securities and does not sell them immediately. Instead, the issuer puts the securities \"on a shelf\" and brings them down to sell when the market is favorable. An initial public offering is when a company that has never issued shares of public stock first makes its shares available to public investors. A follow-on offering occurs when a company decides to sell additional shares to the public after its initial public offering. Finally, in a private offering, also known as a private placement, issuers choose to avoid the laborious registration process by offering unregistered securities to a private group of investors."
+  },
+  {
+    "id": "f8-65",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 11,
+    "question": "An officer of a trust wishes to open a margin account with your firm. This is allowed:",
+    "choices": [
+      "if the trust agreement specifically authorizes the opening of a margin account",
+      "as long as the new account form has been properly completed",
+      "if an officer of the trust provides a letter of guarantee",
+      "only with the prior approval of the branch manager"
+    ],
+    "answer": 0,
+    "explanation": "As a general rule fiduciary accounts must be cash accounts. A trust account will be opened as a cash account unless the agreement specifically authorizes the opening of a margin account."
+  },
+  {
+    "id": "f8-66",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 7,
+    "question": "The Fourth Market is direct trading of securities between:",
+    "choices": [
+      "brokers buying for their own accounts",
+      "NYSE customers",
+      "Nasdaq customers",
+      "institutions"
+    ],
+    "answer": 3,
+    "explanation": "The Fourth Market is direct trading of securities between institutions on ECNs (Electronic Communications Networks) such as Instinet or Archipelago. The systems bypass brokerage firms, and therefore brokerage commissions. Instead, the ECN charges a small matching fee."
+  },
+  {
+    "id": "f8-67",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 6,
+    "question": "All of the following statements are true regarding money market funds EXCEPT:",
+    "choices": [
+      "typical maturities of securities held in the portfolio are 270 days or less",
+      "fund dividends are not taxable if reinvested in additional shares",
+      "typically have a NAV of $1",
+      "typically used when an investor needs liquidity"
+    ],
+    "answer": 1,
+    "explanation": "The reason why these funds are called \"money\" funds is that the securities held in the portfolios have very short maturities (less than 270 days) and turn over into cash quickly. Thus, they are perfect for investors who need liquidity. Fund dividends are taxable, whether or not they are automatically reinvested in additional fund shares. Money market funds typically have an NAV of $1. Money market funds usually do not impose sales charges but all funds impose management fees."
+  },
+  {
+    "id": "f8-68",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 4,
+    "question": "Which agency's securities are directly backed by the U.S. Government?",
+    "choices": [
+      "FNMA",
+      "FHLMC",
+      "FHLB",
+      "GNMA"
+    ],
+    "answer": 3,
+    "explanation": "Only GNMA - Government National Mortgage Association - issues pass through certificates that are directly backed by the U.S. Government. FNMA - Federal National Mortgage Association - also issues pass through certificates, but these are implicitly backed - not directly backed. FHLMC - Federal Home Loan Mortgage Corporation and FHLB - Federal Home Loan Banks - do not issue pass through certificates and are implicitly backed."
+  },
+  {
+    "id": "f8-69",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 1,
+    "question": "If a corporation wishes to sell additional shares, which of the following persons can subscribe using pre-emptive rights?",
+    "choices": [
+      "Common stockholders",
+      "Preferred stockholders",
+      "Convertible preferred stockholders",
+      "Bondholders"
+    ],
+    "answer": 0,
+    "explanation": "Only common stockholders have pre-emptive rights. Holders of senior securities (preferred stock and bonds) do not have pre-emptive rights; nor do warrant holders since they do not own the common stock unless the warrants are exercised."
+  },
+  {
+    "id": "f8-70",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 4,
+    "question": "All of the following statements are true about both bonds and preferred stock EXCEPT:",
+    "choices": [
+      "Both bonds and preferred stock are \"Senior\" securities over common stock in a dissolution",
+      "Both bonds and preferred stock can be convertible",
+      "Payments to both bondholders and preferred stockholders are subject to approval of the Board of Directors",
+      "Both bonds and preferred stock have a stated fixed payment rate"
+    ],
+    "answer": 2,
+    "explanation": "Both bonds and preferred stock are \"Senior\" securities over common; both bonds and preferred stock can be convertible; and both have a fixed payout rate. Payments to bondholders are a legal obligation of the issuer. They are not a discretionary decision on the part of the Board of Directors, as is the decision to pay a dividend to preferred and common shareholders."
+  },
+  {
+    "id": "f8-71",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 4,
+    "question": "All new corporate bonds are issued in:",
+    "choices": [
+      "book entry form",
+      "fully registered form",
+      "registered to principal only form",
+      "bearer form"
+    ],
+    "answer": 0,
+    "explanation": "All new issues of U.S. Government bonds, municipal bonds and corporate bonds are book entry. A \"book entry\" bond is a fully registered bond where no paper certificate is issued. Instead, the owner simply receives that confirmation that he or she bought the bond. On such bonds, the paying agent mails the semi-annual interest payments to the registered owner.\n\nNote, however, that there are still many issues of long term corporate bonds still outstanding that have paper certificates. These bonds have not yet matured. Book entry bonds did not really come to dominate bond issuance until the 1990s. A fully registered bond is one issued with a physical certificate. The paying agent has the record of the owner's name and mails the interest payments semi-annually to the registered owner.\n\nAlso note that no bearer bonds or registered to principal only bonds (a bond with bearer coupons, but the principal repayment is registered in the owner's name) have been sold since 1983. Bearer bondholders receive interest payments by clipping coupons and submitting them to the paying agent."
+  },
+  {
+    "id": "f8-72",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 1,
+    "question": "Which of the following would cause the value of an investor's position in a stock to increase?",
+    "choices": [
+      "an increase in the share price",
+      "declaration of a dividend",
+      "a forward stock split",
+      "a reverse stock split"
+    ],
+    "answer": 0,
+    "explanation": "Dividends and splits cause no change in the value of an investor's position, only a change in his or her cost basis."
+  },
+  {
+    "id": "f8-73",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 5,
+    "question": "Of the following projects, which is most likely to be funded by a general obligation bond?",
+    "choices": [
+      "Public library renovation",
+      "Office building construction",
+      "New industrial park",
+      "Public housing construction"
+    ],
+    "answer": 0,
+    "explanation": "Projects that can generate their own revenue are generally funded by revenue bonds. General obligation bonds fund the general operating expenses of the municipal government or provide funds for public facilities that do not generate revenue, such as parks, libraries and schools."
+  },
+  {
+    "id": "f8-74",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 3,
+    "question": "What is the primary risk associated with holding a high-yield bond?",
+    "choices": [
+      "Market Risk",
+      "Purchasing Power Risk",
+      "Call Risk",
+      "Default Risk"
+    ],
+    "answer": 3,
+    "explanation": "“High-yield” bonds are ones rated below investment grade by the major credit ratings agencies (Moody’s and Standard and Poor's). These agencies only rate bonds for risk of default, also known as credit risk. Because these bonds have a much higher risk of default than an investment grade bond, they must offer a higher yield to investors. Note that the other risks are also inherent in investing in all types of bonds, but the question asks about the “primary” risk of investing in high-yield bonds.\n\nMarket risk for bonds is the risk that market interest rates rise, driving the prices of already-issued bonds down and forcing their yields up to match the rise in market interest rates.\n\nPurchasing power risk is the risk of inflation - if there is substantial inflation, market interest rates rise and bond prices drop.\n\nCall risk occurs if market interest rates fall - issuers then call in bonds (assuming the bonds were issued with a call feature) and replace them with new bonds at lower yields. The bondholders who were called now have cash that must be reinvested, and this can only be done at lower current yields."
+  },
+  {
+    "id": "f8-75",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 2,
+    "question": "20 basis points equals:",
+    "choices": [
+      ".002%",
+      ".02%",
+      ".2%",
+      "2%"
+    ],
+    "answer": 2,
+    "explanation": "Since 1 Basis Point = .01% = $.10, 20 Basis Points = .20% = $2.00."
+  },
+  {
+    "id": "f8-76",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 12,
+    "question": "ABLE accounts are:",
+    "choices": [
+      "used to save funds on a tax-deferred basis and may only be used to pay for medical expenses",
+      "used to save funds on a tax-deferred basis to pay for the ongoing care of disabled children below age 21",
+      "regulated by the MSRB",
+      "regulated by FINRA"
+    ],
+    "answer": 2,
+    "explanation": "ABLE accounts were enacted by Congress in late 2014. ABLE stands for \"Achieving a Better Life Experience Act.\" It allows each state to set up a “municipal fund security\" regulated by the MSRB that permits an account to be established to pay for the ongoing expenses of a disabled person.\n\nOne of the key features of an ABLE account is that accumulated savings do not affect that person's eligibility for other federal benefits (it used to be the case that having too much in assets would disqualify that person from other federal benefits, such as Medicaid).\n\nThe federal gift tax exclusion amount can be contributed to an ABLE account, with no tax deduction. The account grows tax-deferred, and payments to pay for qualified expenses are tax-free. Qualified expenses include medical care, transportation, housing, education, and assistive technology.\n\nThe account must be established before the disabled individual reaches age 46, and proof that the beneficiary is disabled or blind must be provided.\n\nABLE accounts are permitted under Section 529A of the Internal Revenue Code. Do not confuse these with 529 Plans, which are a municipal fund security to save for education expenses."
+  },
+  {
+    "id": "f8-77",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 9,
+    "question": "An ABC Jan 50 Call is trading at a premium of $2 when the market price of ABC stock is $49. The time value per share is:",
+    "choices": [
+      "$0",
+      "$1",
+      "$2",
+      "$3"
+    ],
+    "answer": 2,
+    "explanation": "The value of a premium is made up of two components: intrinsic value and time value.\n\npremium = intrinsic value + time value\n\nIntrinsic value is the amount per share that the holder of an option stands to gain by exercising it. Stated another way, it is the extent to which the option is in the money. This call option is out of the money because the stock price of $49 is lower than the call's strike price of $50. This means the intrinsic value is $0, and so the entire $2 premium is made up of time value."
+  },
+  {
+    "id": "f8-78",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 1,
+    "question": "ADRs are subject to currency risk (also called exchange rate risk) because:",
+    "choices": [
+      "When the price of the U.S. dollar doesn't change, the price of the ADR will fall in U.S. dollars.",
+      "When the price of the U.S. dollar goes down, the price of the ADR will fall in U.S. dollars.",
+      "When the price of the U.S. dollar goes up, the price of the ADR will fall in U.S. dollars.",
+      "When the price of the U.S. dollar goes up, the price of the ADR will rise in U.S. dollars."
+    ],
+    "answer": 2,
+    "explanation": "ADR exchange rate risk is due to the fluctuating exchange rate between the currency of the foreign country where the underlying security is traded and the U.S. dollar."
+  },
+  {
+    "id": "f8-79",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 1,
+    "question": "An anti-dilution agreement:",
+    "choices": [
+      "Prevents companies from holding additional issues of shares after the IPO",
+      "gives shareholders the right to keep their percentage of ownership in the event new shares are issued",
+      "Requires the company to give shareholders free shares in the event of a new issue of shares",
+      "Requires shareholders to maintain a certain percentage holding in the company."
+    ],
+    "answer": 1,
+    "explanation": "An anti-dilution agreement protects a shareholder's equity in a company. If a shareholder holds a certain percentage of a stock in a company, and the company issues new shares, the shareholder will hold the same number of shares but a lower percentage of the company's stock. In order to protect against this dilution of equity, anti-dilution agreements give shareholders the right to keep their percentage ownership in the event of a new issue.\n\nShareholders may be able to buy new shares at a discounted price through a rights offering, or convert their preferred stock into common stock. Preferred stock and companies using venture financing often carry anti-dilution agreements."
+  },
+  {
+    "id": "f8-80",
+    "source": {
+      "type": "final",
+      "name": "Final Exam 8"
+    },
+    "chapter": 4,
+    "question": "BorrowCo issues $100 million in secured bonds using a factory as collateral. It also issues $100 million in debentures. Which of the following is true?",
+    "choices": [
+      "If BorrowCo goes bankrupt and sells the factory, the secured bondholders have first claim on the proceeds of the sale of the factory.",
+      "The secured bonds must have a trust indenture, but not the debentures.",
+      "Issuing the debentures must be approved by the board of directors, but not the secured bonds.",
+      "Issuing the debentures requires filing a registration statement, but this is not required for the secured bonds."
+    ],
+    "answer": 0,
+    "explanation": "Debentures are unsecured bonds, which means they are backed by the full faith and credit of the issuer, instead of a specific asset. Secured bonds pledge an asset as collateral; if the issuer goes bankrupt and must liquidate the pledged asset, the proceeds will go to the secured bondholders. (In theory, if BorrowCo sells the factory for more than $100 million, then the unsecured bondholders might receive what's left after the secured bondholders are fully repaid. But this is unlikely; when a company liquidates its assets, it usually must sell them at a discount) Bond issues over $50 million must have a trust indenture, regardless of whether the bonds are secured or unsecured. In general, a company's board of directors must approve the issuing of any securities, with a few exceptions such as commercial paper. Government bonds, and not corporate bonds, are exempt from the requirement to file a registration statement with the SEC."
+  }
+]
