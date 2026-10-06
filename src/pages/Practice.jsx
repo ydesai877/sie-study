@@ -50,7 +50,7 @@ export default function Practice({ query }) {
 
   return (
     <div>
-      <h1>Practice</h1>
+      <h2>Practice Questions</h2>
       <p className="muted">Answer questions with instant feedback. Wrong answers go into the Daily Review queue automatically.</p>
 
       <div className="card">

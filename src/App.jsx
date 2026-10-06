@@ -3,9 +3,8 @@ import { useStore } from './lib/store'
 import { QUESTIONS, SEED_CARDS } from './lib/questions'
 import { dueQueue } from './lib/srs'
 import Dashboard from './pages/Dashboard'
-import Practice from './pages/Practice'
+import PracticeMode from './pages/PracticeMode'
 import Review from './pages/Review'
-import Flashcards from './pages/Flashcards'
 import MockExam from './pages/MockExam'
 import Exams from './pages/Exams'
 import Settings from './pages/Settings'
@@ -13,9 +12,8 @@ import Settings from './pages/Settings'
 const PAGES = [
   ['dashboard', 'Dashboard'],
   ['review', 'Daily Review'],
-  ['practice', 'Practice'],
   ['exams', 'Exams'],
-  ['flashcards', 'Flashcards'],
+  ['practice', 'Practice mode'],
   ['exam', 'Mock Exam'],
   ['settings', 'Settings'],
 ]
@@ -42,9 +40,9 @@ export default function App() {
   const view = {
     dashboard: <Dashboard />,
     review: <Review />,
-    practice: <Practice query={query} />,
+    practice: <PracticeMode key={hash} query={query} />,
     exams: <Exams query={query} />,
-    flashcards: <Flashcards />,
+    flashcards: <PracticeMode key={hash} initialTab="flashcards" />, // old #/flashcards links
     exam: <MockExam />,
     settings: <Settings />,
   }[page] ?? <Dashboard />
@@ -54,7 +52,7 @@ export default function App() {
       <nav className="nav">
         <div className="brand">SIE Study</div>
         {PAGES.map(([key, label]) => (
-          <a key={key} href={`#/${key}`} className={page === key ? 'active' : ''}>
+          <a key={key} href={`#/${key}`} className={page === key || (key === 'practice' && page === 'flashcards') ? 'active' : ''}>
             {label}
             {key === 'review' && due > 0 && <span className="badge">{due}</span>}
           </a>

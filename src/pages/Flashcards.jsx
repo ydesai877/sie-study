@@ -58,7 +58,7 @@ export default function Flashcards() {
     if (i >= ids.length) {
       return (
         <div>
-          <h1>Deck complete</h1>
+          <h2>Deck complete</h2>
           <div className="card">
             <p>{ids.length} cards reviewed. Cards you marked Again are queued in Daily Review.</p>
             <button className="btn" onClick={() => setStudy(null)}>Back to deck</button>
@@ -87,7 +87,7 @@ export default function Flashcards() {
 
   return (
     <div>
-      <h1>Flashcards</h1>
+      <h2>Flashcards</h2>
       <p className="muted">{all.length} cards. Cards you add are saved in this browser; back them up from Settings.</p>
 
       <div className="card">
