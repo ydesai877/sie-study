@@ -1,4 +1,4 @@
-# SIE Study
+# Finance Study
 
 A personal study app for the FINRA SIE exam. It runs in the browser, deploys free on GitHub Pages, and stores progress on your device.
 
