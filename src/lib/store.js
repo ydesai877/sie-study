@@ -3,7 +3,7 @@
 // {
 //   attempts: [{ id, correct, ts, mode }],        // every answer ever given
 //   srs: { [id]: { ef, interval, reps, due, lapses } }, // SM-2 state per item (question or flashcard)
-//   cards: [{ id, term, definition, chapter }],   // user-added flashcards
+//   cards: [{ id, term, definition, chapter }],   // user-added flashcards. ids 'user-*' = SIE (chapter is a number), 'acc-*' = Accounting (chapter is free text)
 //   exams: [{ ts, label, score, total, seconds, byChapter }],  label: 'Mock Exam' or a Cerifi exam name
 //   settings: { dailyNew: 20 }
 // }

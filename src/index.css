@@ -171,3 +171,15 @@ details summary { cursor: pointer; font-weight: 600; padding: 0.35rem 0; }
 @keyframes tc-blink { to { background: transparent; } }
 .typing-input { position: absolute; opacity: 0; width: 1px; height: 1px; pointer-events: none; }
 .typing-stats { display: flex; gap: 1.5rem; flex-wrap: wrap; }
+
+/* Home (subject picker) */
+.home { min-height: 100vh; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 2rem; padding: 2rem 1rem; text-align: center; }
+.subject-grid { display: flex; gap: 1.75rem; flex-wrap: wrap; justify-content: center; }
+.subject-btn {
+  width: min(220px, 42vw); aspect-ratio: 1; display: flex; align-items: center; justify-content: center;
+  border: 3px solid var(--accent); border-radius: 28px; background: var(--surface); color: var(--text);
+  font-size: 1.6rem; font-weight: 700; text-decoration: none; transition: background 0.15s, transform 0.15s;
+}
+.subject-btn:hover, .subject-btn:focus-visible { background: var(--accent-soft); transform: translateY(-2px); outline: none; }
+.subject-btn:focus-visible { box-shadow: 0 0 0 3px var(--accent-soft), 0 0 0 5px var(--accent); }
+.nav a.switch { font-size: 0.85rem; color: var(--muted); margin-bottom: 0.5rem; }

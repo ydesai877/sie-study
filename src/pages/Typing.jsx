@@ -1,37 +1,43 @@
 import { useEffect, useMemo, useRef, useState } from 'react'
 import { useStore } from '../lib/store'
-import { SEED_CARDS, shuffle } from '../lib/questions'
+import { shuffle } from '../lib/questions'
+import { cardsFor } from '../lib/subjects'
 import { CHAPTERS, chapterName } from '../data/chapters'
 
-const NONE = 'none'
-const chapterKey = (c) => (c.chapter ? Number(c.chapter) : NONE)
+const NONE = '__none__'
+// SIE groups cards by chapter number. Accounting groups them by the chapter name you typed.
+const keyOf = (c, acc) => (c.chapter ? (acc ? String(c.chapter).trim() : Number(c.chapter)) : NONE)
 // You type the term, then the definition, as one line of text.
 const targetOf = (c) => `${c.term}: ${c.definition}`.replace(/\s+/g, ' ').trim()
 const BLOCKED_KEYS = ['ArrowLeft', 'ArrowRight', 'ArrowUp', 'ArrowDown', 'Home', 'End']
 
 // Typing: type out your flashcards, one chapter at a time. Forgiving mode:
 // wrong letters turn red, but you keep typing. Results are not saved anywhere.
-export default function Typing() {
+export default function Typing({ subject = 'sie' }) {
+  const acc = subject === 'accounting'
   const state = useStore()
-  const all = useMemo(() => [...SEED_CARDS, ...state.cards], [state.cards])
+  const all = useMemo(() => cardsFor(subject, state.cards), [subject, state.cards])
   const [shuffled, setShuffled] = useState(true)
   const [run, setRun] = useState(null) // { key, label, cards }
 
   const counts = useMemo(() => {
     const m = {}
-    for (const c of all) m[chapterKey(c)] = (m[chapterKey(c)] || 0) + 1
+    for (const c of all) m[keyOf(c, acc)] = (m[keyOf(c, acc)] || 0) + 1
     return m
-  }, [all])
+  }, [all, acc])
 
-  const chapterNums = useMemo(
-    () => [...new Set([...CHAPTERS.map((c) => c.n), ...Object.keys(counts).filter((k) => k !== NONE).map(Number)])].sort((a, b) => a - b),
-    [counts],
-  )
+  const rows = useMemo(() => {
+    const keys = Object.keys(counts).filter((k) => k !== NONE)
+    if (acc) return keys.sort((a, b) => a.localeCompare(b, undefined, { numeric: true })).map((k) => ({ key: k, label: k }))
+    const nums = [...new Set([...CHAPTERS.map((c) => c.n), ...keys.map(Number)])].sort((a, b) => a - b)
+    return nums.map((n) => ({ key: n, label: chapterName(n) }))
+  }, [counts, acc])
 
   const start = (k) => {
-    const cards = all.filter((c) => chapterKey(c) === k)
+    const cards = all.filter((c) => keyOf(c, acc) === k)
     if (!cards.length) return
-    setRun({ key: Date.now(), label: k === NONE ? 'No chapter' : chapterName(k), chapterKey: k, cards: shuffled ? shuffle(cards) : cards })
+    const label = k === NONE ? 'No chapter' : acc ? k : chapterName(k)
+    setRun({ key: Date.now(), label, chapterKey: k, cards: shuffled ? shuffle(cards) : cards })
   }
 
   if (run) {
@@ -44,7 +50,7 @@ export default function Typing() {
       <p className="muted">Pick one chapter. Type each card as <code>term: definition</code>. Wrong letters turn red and you keep going. You see accuracy and speed after each card.</p>
 
       {all.length === 0 ? (
-        <div className="card"><p>You have no flashcards yet. Add cards in the Flashcards tab. Set a chapter on each card so it shows up here.</p></div>
+        <div className="card"><p>You have no {acc ? 'Accounting ' : ''}flashcards yet. Add cards in the Flashcards tab. {acc ? 'Give each card a chapter name' : 'Set a chapter on each card'} so it shows up here.</p></div>
       ) : (
         <div className="card">
           <div className="checklist" style={{ marginBottom: '0.5rem' }}>
@@ -53,11 +59,11 @@ export default function Typing() {
           <table>
             <thead><tr><th>Chapter</th><th className="right">Cards</th><th></th></tr></thead>
             <tbody>
-              {chapterNums.map((n) => (
-                <tr key={n}>
-                  <td className={counts[n] ? '' : 'muted'}>{chapterName(n)}</td>
-                  <td className="right">{counts[n] || 0}</td>
-                  <td className="right"><button className="btn sm" disabled={!counts[n]} onClick={() => start(n)}>Start</button></td>
+              {rows.map(({ key, label }) => (
+                <tr key={key}>
+                  <td className={counts[key] ? '' : 'muted'}>{label}</td>
+                  <td className="right">{counts[key] || 0}</td>
+                  <td className="right"><button className="btn sm" disabled={!counts[key]} onClick={() => start(key)}>Start</button></td>
                 </tr>
               ))}
               {counts[NONE] > 0 && (

@@ -1,13 +1,14 @@
 import { useMemo, useState } from 'react'
 import { useStore } from '../lib/store'
-import { QUESTIONS, SEED_CARDS } from '../lib/questions'
+import { QUESTIONS } from '../lib/questions'
+import { idsFor, attemptsFor } from '../lib/subjects'
 import { chapterName } from '../data/chapters'
 import { questionScores, groupScore, groupBy, band, BANDS, dailySeries, streak } from '../lib/analytics'
 import { dueQueue } from '../lib/srs'
 
-const Chip = ({ b }) => <span className={`chip ${b}`}>{BANDS[b].label}</span>
+export const Chip = ({ b }) => <span className={`chip ${b}`}>{BANDS[b].label}</span>
 
-function Meter({ score }) {
+export function Meter({ score }) {
   return (
     <div className="meter"><div style={{ width: `${Math.round(score * 100)}%`, background: BANDS[band(score)].color }} /></div>
   )
@@ -47,7 +48,7 @@ function Donut({ counts }) {
 }
 
 // 14-day accuracy and volume, plain SVG.
-function Trend({ series }) {
+export function Trend({ series }) {
   const w = 420
   const h = 120
   const pad = 24
@@ -71,17 +72,17 @@ function Trend({ series }) {
 
 export default function Dashboard() {
   const state = useStore()
-  const scores = useMemo(() => questionScores(state.attempts), [state.attempts])
+  const attempts = useMemo(() => attemptsFor('sie', state.attempts), [state.attempts]) // SIE only
+  const scores = useMemo(() => questionScores(attempts), [attempts])
   const [level, setLevel] = useState('chapter') // chapter | section | topic
   const [only, setOnly] = useState(null) // band filter
 
-  const allIds = [...QUESTIONS.map((q) => q.id), ...SEED_CARDS.map((c) => c.id), ...state.cards.map((c) => c.id)]
-  const due = dueQueue(allIds, state.srs).length
+  const due = dueQueue(idsFor('sie', state.cards), state.srs).length
   const answered = Object.keys(scores).length
   const total = QUESTIONS.length
-  const series = dailySeries(state.attempts)
+  const series = dailySeries(attempts)
   const today = series[series.length - 1]
-  const overall = state.attempts.length ? state.attempts.filter((a) => a.correct).length / state.attempts.length : 0
+  const overall = attempts.length ? attempts.filter((a) => a.correct).length / attempts.length : 0
 
   // Group by chapter / section / topic and score each group.
   const keyFn = { chapter: (q) => q.chapter, section: (q) => `${q.chapter}|${q.section ?? 'General'}`, topic: (q) => `${q.chapter}|${q.section ?? 'General'}|${q.topic ?? 'General'}` }[level]
@@ -103,7 +104,7 @@ export default function Dashboard() {
       <h1>Dashboard</h1>
       <div className="grid">
         <div className="card stat"><div className="value">{due}</div><div className="label">due for review <a href="#/review">start</a></div></div>
-        <div className="card stat"><div className="value">{streak(state.attempts)}</div><div className="label">day streak</div></div>
+        <div className="card stat"><div className="value">{streak(attempts)}</div><div className="label">day streak</div></div>
         <div className="card stat"><div className="value">{answered}/{total}</div><div className="label">questions seen</div></div>
         <div className="card stat"><div className="value">{Math.round(overall * 100)}%</div><div className="label">all-time accuracy · today {today.n ? `${Math.round(today.acc * 100)}% of ${today.n}` : 'none yet'}</div></div>
       </div>

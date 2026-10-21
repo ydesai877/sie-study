@@ -18,7 +18,7 @@ export default function Flashcard({ card, onGrade }) {
   if (!card) return null
   return (
     <div>
-      <div className="qmeta">Flashcard{card.chapter ? ` · ${chapterName(card.chapter)}` : ''}</div>
+      <div className="qmeta">Flashcard{card.chapter ? ` · ${typeof card.chapter === 'number' ? chapterName(card.chapter) : card.chapter}` : ''}</div>
       <div className="card flashcard-wrap">
         <div className="flashcard" onClick={() => setFlipped((f) => !f)}>
           {flipped ? card.definition : card.term}

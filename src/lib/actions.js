@@ -20,8 +20,9 @@ export function gradeCard(id, quality) {
   }))
 }
 
-export function addCard(card) {
-  const id = `user-${Date.now().toString(36)}-${Math.random().toString(36).slice(2, 6)}`
+// subject: 'sie' | 'accounting'. Accounting ids start with "acc-" (see lib/subjects.js).
+export function addCard(card, subject = 'sie') {
+  const id = `${subject === 'accounting' ? 'acc' : 'user'}-${Date.now().toString(36)}-${Math.random().toString(36).slice(2, 6)}`
   setState((s) => ({ ...s, cards: [...s.cards, { ...card, id }] }))
   return id
 }

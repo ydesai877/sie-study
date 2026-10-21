@@ -1,6 +1,7 @@
 import { useMemo, useState } from 'react'
 import { useStore } from '../lib/store'
-import { SEED_CARDS, shuffle } from '../lib/questions'
+import { shuffle } from '../lib/questions'
+import { cardsFor } from '../lib/subjects'
 import { addCard, updateCard, deleteCard, gradeCard } from '../lib/actions'
 import { CHAPTERS, chapterName } from '../data/chapters'
 import Flashcard from '../components/Flashcard'
@@ -8,9 +9,11 @@ import Flashcard from '../components/Flashcard'
 const blank = { term: '', definition: '', chapter: '' }
 
 // Quizlet-style deck: add, edit, delete, bulk import, and study.
-export default function Flashcards() {
+// subject 'accounting' shows only Accounting cards. Their chapter is free text, not a SIE chapter number.
+export default function Flashcards({ subject = 'sie' }) {
+  const acc = subject === 'accounting'
   const state = useStore()
-  const all = useMemo(() => [...SEED_CARDS, ...state.cards], [state.cards])
+  const all = useMemo(() => cardsFor(subject, state.cards), [subject, state.cards])
   const [form, setForm] = useState(blank)
   const [editing, setEditing] = useState(null) // card id
   const [filter, setFilter] = useState('')
@@ -19,17 +22,17 @@ export default function Flashcards() {
 
   const visible = all.filter((c) => {
     const f = filter.toLowerCase()
-    return !f || c.term.toLowerCase().includes(f) || c.definition.toLowerCase().includes(f) || String(c.chapter).includes(f)
+    return !f || c.term.toLowerCase().includes(f) || c.definition.toLowerCase().includes(f) || String(c.chapter ?? '').toLowerCase().includes(f)
   })
 
   const submit = (e) => {
     e.preventDefault()
     if (!form.term.trim() || !form.definition.trim()) return
-    const card = { term: form.term.trim(), definition: form.definition.trim(), chapter: form.chapter ? Number(form.chapter) : undefined }
+    const card = { term: form.term.trim(), definition: form.definition.trim(), chapter: acc ? form.chapter.trim() || undefined : form.chapter ? Number(form.chapter) : undefined }
     if (editing) {
       updateCard(editing, card)
       setEditing(null)
-    } else addCard(card)
+    } else addCard(card, subject)
     setForm(blank)
   }
 
@@ -45,7 +48,7 @@ export default function Flashcards() {
     for (const line of bulk.split('\n')) {
       const m = line.match(/^(.+?)(?:\t| - |: )(.+)$/)
       if (m) {
-        addCard({ term: m[1].trim(), definition: m[2].trim() })
+        addCard({ term: m[1].trim(), definition: m[2].trim() }, subject)
         n++
       }
     }
@@ -98,10 +101,19 @@ export default function Flashcards() {
               <input type="text" value={form.term} onChange={(e) => setForm({ ...form, term: e.target.value })} placeholder="e.g. Breakpoint" />
             </label>
             <label className="field"><span>Chapter (optional)</span>
-              <select value={form.chapter} onChange={(e) => setForm({ ...form, chapter: e.target.value })}>
-                <option value="">None</option>
-                {CHAPTERS.map((c) => <option key={c.n} value={c.n}>{chapterName(c.n)}</option>)}
-              </select>
+              {acc ? (
+                <>
+                  <input type="text" list="acc-chapters" value={form.chapter} onChange={(e) => setForm({ ...form, chapter: e.target.value })} placeholder="e.g. Ch 3: Accruals" />
+                  <datalist id="acc-chapters">
+                    {[...new Set(all.map((c) => c.chapter).filter(Boolean))].map((n) => <option key={n} value={n} />)}
+                  </datalist>
+                </>
+              ) : (
+                <select value={form.chapter} onChange={(e) => setForm({ ...form, chapter: e.target.value })}>
+                  <option value="">None</option>
+                  {CHAPTERS.map((c) => <option key={c.n} value={c.n}>{chapterName(c.n)}</option>)}
+                </select>
+              )}
             </label>
           </div>
           <label className="field"><span>Definition</span>

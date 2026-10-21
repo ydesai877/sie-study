@@ -1,6 +1,7 @@
 import { useMemo, useState } from 'react'
 import { useStore, getState } from '../lib/store'
-import { QUESTION_BY_ID, QUESTIONS, SEED_CARDS, shuffle } from '../lib/questions'
+import { QUESTION_BY_ID, shuffle } from '../lib/questions'
+import { cardsFor, idsFor } from '../lib/subjects'
 import { dueQueue, unseen } from '../lib/srs'
 import { recordAnswer, gradeCard } from '../lib/actions'
 import QuestionCard from '../components/QuestionCard'
@@ -9,16 +10,16 @@ import Flashcard from '../components/Flashcard'
 const isDueNow = (id, srs) => srs[id] == null || srs[id].due <= Date.now()
 
 // Daily Review: everything due under SM-2, plus a few new items per day.
-export default function Review() {
+export default function Review({ subject = 'sie' }) {
   const state = useStore()
   const cardsById = useMemo(
-    () => Object.fromEntries([...SEED_CARDS, ...state.cards].map((c) => [c.id, c])),
-    [state.cards],
+    () => Object.fromEntries(cardsFor(subject, state.cards).map((c) => [c.id, c])),
+    [subject, state.cards],
   )
   // session: { queue: [ids], current: id | null, done: n }
   const [session, setSession] = useState(null)
 
-  const allIds = [...QUESTIONS.map((q) => q.id), ...Object.keys(cardsById)]
+  const allIds = idsFor(subject, state.cards)
   const due = dueQueue(allIds, state.srs)
   const fresh = unseen(allIds, state.srs)
 
