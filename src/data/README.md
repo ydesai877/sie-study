@@ -6,6 +6,10 @@
 - `flashcards.json` — seed flashcards. Cards you add in the app are stored in your browser and can be exported.
 - `chapters.js` — chapter names and FINRA area mapping.
 
+## Journal entries
+
+`journal.json` feeds the Accounting Journal Entry tab. `accounts` maps each account name to Asset, Liability, Equity, Revenue, or Expense. Each item in `transactions` has `id`, `topic`, `description`, `lines` (`account`, `side` of `debit` or `credit`, `amount`), and `explanation`. Debits must equal credits. `node scripts/validate.mjs` checks this.
+
 ## Question schema
 
 ```json

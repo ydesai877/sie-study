@@ -183,3 +183,13 @@ details summary { cursor: pointer; font-weight: 600; padding: 0.35rem 0; }
 .subject-btn:hover, .subject-btn:focus-visible { background: var(--accent-soft); transform: translateY(-2px); outline: none; }
 .subject-btn:focus-visible { box-shadow: 0 0 0 3px var(--accent-soft), 0 0 0 5px var(--accent); }
 .nav a.switch { font-size: 0.85rem; color: var(--muted); margin-bottom: 0.5rem; }
+
+/* Journal Entry practice (Accounting > Practice mode) */
+.je-row { display: flex; gap: 0.75rem; align-items: center; flex-wrap: wrap; padding: 0.6rem 0.75rem; border: 1px solid var(--line); border-radius: 8px; margin-bottom: 0.5rem; }
+.je-row .je-acct { flex: 1 1 12rem; font-weight: 600; }
+.je-row .je-amt { min-width: 5rem; text-align: right; font-variant-numeric: tabular-nums; }
+.je-row.ok { border-color: var(--proficient); background: var(--proficient-soft); }
+.je-row.bad { border-color: var(--weak); background: var(--weak-soft); }
+.je-build select, .je-build input { width: auto; flex: 1 1 9rem; }
+.je-table td.num { font-variant-numeric: tabular-nums; }
+.je-table td.cr { padding-left: 2rem; }

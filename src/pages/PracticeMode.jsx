@@ -2,6 +2,7 @@ import { useState } from 'react'
 import Practice from './Practice'
 import Flashcards from './Flashcards'
 import Typing from './Typing'
+import JournalEntry from './JournalEntry'
 
 const TABS = {
   sie: [
@@ -12,11 +13,12 @@ const TABS = {
   accounting: [
     ['flashcards', 'Flashcards'],
     ['typing', 'Typing'],
+    ['journal', 'Journal Entry'],
   ],
 }
 
 // Practice mode: one page with several ways to practice. SIE has three tabs. Accounting has two
-// (it has no practice questions). #/practice?tab=typing opens a tab directly. Other query keys
+// plus Journal Entry (it has no practice questions). #/practice?tab=typing opens a tab directly. Other query keys
 // (chapter, focus) pass through to Practice Questions, so Dashboard links still work.
 export default function PracticeMode({ query, initialTab, subject = 'sie' }) {
   const tabs = TABS[subject]
@@ -36,6 +38,7 @@ export default function PracticeMode({ query, initialTab, subject = 'sie' }) {
       {tab === 'questions' && <Practice query={query} />}
       {tab === 'flashcards' && <Flashcards subject={subject} />}
       {tab === 'typing' && <Typing subject={subject} />}
+      {tab === 'journal' && <JournalEntry />}
     </div>
   )
 }

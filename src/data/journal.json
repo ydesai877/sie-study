@@ -1,0 +1,781 @@
+{
+  "accounts": {
+    "Cash": "Asset",
+    "Accounts Receivable": "Asset",
+    "Notes Receivable": "Asset",
+    "Interest Receivable": "Asset",
+    "Inventory": "Asset",
+    "Supplies": "Asset",
+    "Prepaid Insurance": "Asset",
+    "Prepaid Rent": "Asset",
+    "Equipment": "Asset",
+    "Land": "Asset",
+    "Building": "Asset",
+    "Allowance for Doubtful Accounts": "Asset",
+    "Accumulated Depreciation": "Asset",
+    "Accounts Payable": "Liability",
+    "Notes Payable": "Liability",
+    "Wages Payable": "Liability",
+    "Interest Payable": "Liability",
+    "Unearned Revenue": "Liability",
+    "Owner's Capital": "Equity",
+    "Owner's Drawings": "Equity",
+    "Service Revenue": "Revenue",
+    "Sales Revenue": "Revenue",
+    "Interest Revenue": "Revenue",
+    "Rent Revenue": "Revenue",
+    "Rent Expense": "Expense",
+    "Wages Expense": "Expense",
+    "Utilities Expense": "Expense",
+    "Supplies Expense": "Expense",
+    "Insurance Expense": "Expense",
+    "Depreciation Expense": "Expense",
+    "Interest Expense": "Expense",
+    "Advertising Expense": "Expense",
+    "Repairs Expense": "Expense",
+    "Bad Debt Expense": "Expense",
+    "Cost of Goods Sold": "Expense"
+  },
+  "transactions": [
+    {
+      "id": "je-01",
+      "topic": "Owner and financing",
+      "description": "The owner invests $10,000 cash in the business.",
+      "lines": [
+        {
+          "account": "Cash",
+          "side": "debit",
+          "amount": 10000
+        },
+        {
+          "account": "Owner's Capital",
+          "side": "credit",
+          "amount": 10000
+        }
+      ],
+      "explanation": "Cash is an asset. It goes up, so debit Cash. Owner's Capital is equity. It goes up, so credit Owner's Capital."
+    },
+    {
+      "id": "je-02",
+      "topic": "Owner and financing",
+      "description": "The owner invests $5,000 cash and equipment worth $3,000 in the business.",
+      "lines": [
+        {
+          "account": "Cash",
+          "side": "debit",
+          "amount": 5000
+        },
+        {
+          "account": "Equipment",
+          "side": "debit",
+          "amount": 3000
+        },
+        {
+          "account": "Owner's Capital",
+          "side": "credit",
+          "amount": 8000
+        }
+      ],
+      "explanation": "Cash and Equipment are assets. Both go up, so debit both. Owner's Capital goes up by the total, $8,000, so credit it. Total debits equal total credits."
+    },
+    {
+      "id": "je-03",
+      "topic": "Owner and financing",
+      "description": "The business borrows $20,000 from a bank and signs a note.",
+      "lines": [
+        {
+          "account": "Cash",
+          "side": "debit",
+          "amount": 20000
+        },
+        {
+          "account": "Notes Payable",
+          "side": "credit",
+          "amount": 20000
+        }
+      ],
+      "explanation": "Cash goes up, so debit Cash. Notes Payable is a liability. It goes up, so credit Notes Payable."
+    },
+    {
+      "id": "je-04",
+      "topic": "Owner and financing",
+      "description": "The owner takes $1,200 cash from the business for personal use.",
+      "lines": [
+        {
+          "account": "Owner's Drawings",
+          "side": "debit",
+          "amount": 1200
+        },
+        {
+          "account": "Cash",
+          "side": "credit",
+          "amount": 1200
+        }
+      ],
+      "explanation": "Drawings reduce owner's equity. The Drawings account goes up, so debit it. Cash goes down, so credit Cash."
+    },
+    {
+      "id": "je-05",
+      "topic": "Owner and financing",
+      "description": "The business pays $5,000 to the bank to repay part of the note (no interest).",
+      "lines": [
+        {
+          "account": "Notes Payable",
+          "side": "debit",
+          "amount": 5000
+        },
+        {
+          "account": "Cash",
+          "side": "credit",
+          "amount": 5000
+        }
+      ],
+      "explanation": "The liability goes down, so debit Notes Payable. Cash goes down, so credit Cash."
+    },
+    {
+      "id": "je-06",
+      "topic": "Purchases",
+      "description": "The business buys office supplies for $300 cash.",
+      "lines": [
+        {
+          "account": "Supplies",
+          "side": "debit",
+          "amount": 300
+        },
+        {
+          "account": "Cash",
+          "side": "credit",
+          "amount": 300
+        }
+      ],
+      "explanation": "Supplies are an asset. They go up, so debit Supplies. Cash goes down, so credit Cash."
+    },
+    {
+      "id": "je-07",
+      "topic": "Purchases",
+      "description": "The business buys office supplies for $450 on account (pays later).",
+      "lines": [
+        {
+          "account": "Supplies",
+          "side": "debit",
+          "amount": 450
+        },
+        {
+          "account": "Accounts Payable",
+          "side": "credit",
+          "amount": 450
+        }
+      ],
+      "explanation": "Supplies go up, so debit Supplies. The business owes the seller. Accounts Payable is a liability and it goes up, so credit it."
+    },
+    {
+      "id": "je-08",
+      "topic": "Purchases",
+      "description": "The business buys equipment for $6,000 cash.",
+      "lines": [
+        {
+          "account": "Equipment",
+          "side": "debit",
+          "amount": 6000
+        },
+        {
+          "account": "Cash",
+          "side": "credit",
+          "amount": 6000
+        }
+      ],
+      "explanation": "Equipment is an asset and it goes up, so debit Equipment. Cash goes down, so credit Cash."
+    },
+    {
+      "id": "je-09",
+      "topic": "Purchases",
+      "description": "The business buys equipment for $9,000. It pays $3,000 cash and signs a note for the rest.",
+      "lines": [
+        {
+          "account": "Equipment",
+          "side": "debit",
+          "amount": 9000
+        },
+        {
+          "account": "Cash",
+          "side": "credit",
+          "amount": 3000
+        },
+        {
+          "account": "Notes Payable",
+          "side": "credit",
+          "amount": 6000
+        }
+      ],
+      "explanation": "Equipment goes up by the full cost, so debit $9,000. Cash goes down $3,000, so credit Cash. The rest, $6,000, is a new liability, so credit Notes Payable."
+    },
+    {
+      "id": "je-10",
+      "topic": "Purchases",
+      "description": "The business buys merchandise for resale for $2,500 on account.",
+      "lines": [
+        {
+          "account": "Inventory",
+          "side": "debit",
+          "amount": 2500
+        },
+        {
+          "account": "Accounts Payable",
+          "side": "credit",
+          "amount": 2500
+        }
+      ],
+      "explanation": "Inventory is an asset. It goes up, so debit Inventory. Accounts Payable is a liability. It goes up, so credit it."
+    },
+    {
+      "id": "je-11",
+      "topic": "Purchases",
+      "description": "The business buys merchandise for resale for $1,800 cash.",
+      "lines": [
+        {
+          "account": "Inventory",
+          "side": "debit",
+          "amount": 1800
+        },
+        {
+          "account": "Cash",
+          "side": "credit",
+          "amount": 1800
+        }
+      ],
+      "explanation": "Inventory goes up, so debit Inventory. Cash goes down, so credit Cash."
+    },
+    {
+      "id": "je-12",
+      "topic": "Purchases",
+      "description": "The business pays $1,200 cash for a one-year insurance policy that starts today.",
+      "lines": [
+        {
+          "account": "Prepaid Insurance",
+          "side": "debit",
+          "amount": 1200
+        },
+        {
+          "account": "Cash",
+          "side": "credit",
+          "amount": 1200
+        }
+      ],
+      "explanation": "The business pays for coverage it has not used yet. That is an asset, Prepaid Insurance. Debit it. Cash goes down, so credit Cash."
+    },
+    {
+      "id": "je-13",
+      "topic": "Purchases",
+      "description": "The business pays $3,000 cash for three months of rent in advance.",
+      "lines": [
+        {
+          "account": "Prepaid Rent",
+          "side": "debit",
+          "amount": 3000
+        },
+        {
+          "account": "Cash",
+          "side": "credit",
+          "amount": 3000
+        }
+      ],
+      "explanation": "Rent paid in advance is an asset, Prepaid Rent. Debit it. Cash goes down, so credit Cash."
+    },
+    {
+      "id": "je-14",
+      "topic": "Purchases",
+      "description": "The business buys land for $30,000 cash.",
+      "lines": [
+        {
+          "account": "Land",
+          "side": "debit",
+          "amount": 30000
+        },
+        {
+          "account": "Cash",
+          "side": "credit",
+          "amount": 30000
+        }
+      ],
+      "explanation": "Land is an asset and it goes up, so debit Land. Cash goes down, so credit Cash."
+    },
+    {
+      "id": "je-15",
+      "topic": "Revenue and collections",
+      "description": "The business performs services for a customer and receives $800 cash.",
+      "lines": [
+        {
+          "account": "Cash",
+          "side": "debit",
+          "amount": 800
+        },
+        {
+          "account": "Service Revenue",
+          "side": "credit",
+          "amount": 800
+        }
+      ],
+      "explanation": "Cash goes up, so debit Cash. Revenue goes up, so credit Service Revenue."
+    },
+    {
+      "id": "je-16",
+      "topic": "Revenue and collections",
+      "description": "The business performs services for a customer on account for $1,500. The customer will pay later.",
+      "lines": [
+        {
+          "account": "Accounts Receivable",
+          "side": "debit",
+          "amount": 1500
+        },
+        {
+          "account": "Service Revenue",
+          "side": "credit",
+          "amount": 1500
+        }
+      ],
+      "explanation": "The business earned the revenue now, so credit Service Revenue. The customer owes the business. Accounts Receivable is an asset and it goes up, so debit it."
+    },
+    {
+      "id": "je-17",
+      "topic": "Revenue and collections",
+      "description": "A customer pays $1,500 cash for services the business performed last month on account.",
+      "lines": [
+        {
+          "account": "Cash",
+          "side": "debit",
+          "amount": 1500
+        },
+        {
+          "account": "Accounts Receivable",
+          "side": "credit",
+          "amount": 1500
+        }
+      ],
+      "explanation": "Cash goes up, so debit Cash. The customer no longer owes the business. Accounts Receivable goes down, so credit it. The revenue was recorded last month."
+    },
+    {
+      "id": "je-18",
+      "topic": "Revenue and collections",
+      "description": "A customer pays the business $2,400 cash in advance for services the business will perform next month.",
+      "lines": [
+        {
+          "account": "Cash",
+          "side": "debit",
+          "amount": 2400
+        },
+        {
+          "account": "Unearned Revenue",
+          "side": "credit",
+          "amount": 2400
+        }
+      ],
+      "explanation": "Cash goes up, so debit Cash. The business has not earned the money yet. It owes the customer services. Unearned Revenue is a liability and it goes up, so credit it."
+    },
+    {
+      "id": "je-19",
+      "topic": "Revenue and collections",
+      "description": "The business performs $800 of the services that a customer paid for in advance.",
+      "lines": [
+        {
+          "account": "Unearned Revenue",
+          "side": "debit",
+          "amount": 800
+        },
+        {
+          "account": "Service Revenue",
+          "side": "credit",
+          "amount": 800
+        }
+      ],
+      "explanation": "The liability goes down as the business earns the money, so debit Unearned Revenue. Revenue goes up, so credit Service Revenue."
+    },
+    {
+      "id": "je-20",
+      "topic": "Revenue and collections",
+      "description": "The business sells merchandise to a customer for $900 cash. Ignore the cost of the goods.",
+      "lines": [
+        {
+          "account": "Cash",
+          "side": "debit",
+          "amount": 900
+        },
+        {
+          "account": "Sales Revenue",
+          "side": "credit",
+          "amount": 900
+        }
+      ],
+      "explanation": "Cash goes up, so debit Cash. Revenue goes up, so credit Sales Revenue."
+    },
+    {
+      "id": "je-21",
+      "topic": "Revenue and collections",
+      "description": "The business sells merchandise on account for $1,200. The merchandise cost $700. Record the sale and the cost of the goods in one entry (perpetual inventory).",
+      "lines": [
+        {
+          "account": "Accounts Receivable",
+          "side": "debit",
+          "amount": 1200
+        },
+        {
+          "account": "Sales Revenue",
+          "side": "credit",
+          "amount": 1200
+        },
+        {
+          "account": "Cost of Goods Sold",
+          "side": "debit",
+          "amount": 700
+        },
+        {
+          "account": "Inventory",
+          "side": "credit",
+          "amount": 700
+        }
+      ],
+      "explanation": "Part 1: the sale. Accounts Receivable goes up (debit $1,200) and Sales Revenue goes up (credit $1,200). Part 2: the cost. Cost of Goods Sold is an expense and it goes up (debit $700). Inventory goes down (credit $700)."
+    },
+    {
+      "id": "je-22",
+      "topic": "Revenue and collections",
+      "description": "The business receives $120 cash of interest on its savings account.",
+      "lines": [
+        {
+          "account": "Cash",
+          "side": "debit",
+          "amount": 120
+        },
+        {
+          "account": "Interest Revenue",
+          "side": "credit",
+          "amount": 120
+        }
+      ],
+      "explanation": "Cash goes up, so debit Cash. Revenue goes up, so credit Interest Revenue."
+    },
+    {
+      "id": "je-23",
+      "topic": "Revenue and collections",
+      "description": "A tenant pays the business $600 cash of rent for this month.",
+      "lines": [
+        {
+          "account": "Cash",
+          "side": "debit",
+          "amount": 600
+        },
+        {
+          "account": "Rent Revenue",
+          "side": "credit",
+          "amount": 600
+        }
+      ],
+      "explanation": "Cash goes up, so debit Cash. Revenue goes up, so credit Rent Revenue."
+    },
+    {
+      "id": "je-24",
+      "topic": "Expenses and payments",
+      "description": "The business pays $1,000 cash for this month's rent.",
+      "lines": [
+        {
+          "account": "Rent Expense",
+          "side": "debit",
+          "amount": 1000
+        },
+        {
+          "account": "Cash",
+          "side": "credit",
+          "amount": 1000
+        }
+      ],
+      "explanation": "Expenses go up with a debit, so debit Rent Expense. Cash goes down, so credit Cash."
+    },
+    {
+      "id": "je-25",
+      "topic": "Expenses and payments",
+      "description": "The business pays $2,000 cash in wages to its employees.",
+      "lines": [
+        {
+          "account": "Wages Expense",
+          "side": "debit",
+          "amount": 2000
+        },
+        {
+          "account": "Cash",
+          "side": "credit",
+          "amount": 2000
+        }
+      ],
+      "explanation": "Debit the expense, Wages Expense. Credit Cash because cash goes down."
+    },
+    {
+      "id": "je-26",
+      "topic": "Expenses and payments",
+      "description": "The business pays a $180 cash utility bill for this month.",
+      "lines": [
+        {
+          "account": "Utilities Expense",
+          "side": "debit",
+          "amount": 180
+        },
+        {
+          "account": "Cash",
+          "side": "credit",
+          "amount": 180
+        }
+      ],
+      "explanation": "Debit the expense, Utilities Expense. Credit Cash because cash goes down."
+    },
+    {
+      "id": "je-27",
+      "topic": "Expenses and payments",
+      "description": "The business pays $400 cash for advertising.",
+      "lines": [
+        {
+          "account": "Advertising Expense",
+          "side": "debit",
+          "amount": 400
+        },
+        {
+          "account": "Cash",
+          "side": "credit",
+          "amount": 400
+        }
+      ],
+      "explanation": "Debit the expense, Advertising Expense. Credit Cash because cash goes down."
+    },
+    {
+      "id": "je-28",
+      "topic": "Expenses and payments",
+      "description": "The business receives a $220 utility bill. It will pay the bill later (record it as an account payable).",
+      "lines": [
+        {
+          "account": "Utilities Expense",
+          "side": "debit",
+          "amount": 220
+        },
+        {
+          "account": "Accounts Payable",
+          "side": "credit",
+          "amount": 220
+        }
+      ],
+      "explanation": "The expense happened now, so debit Utilities Expense. The business owes the money. Accounts Payable goes up, so credit it."
+    },
+    {
+      "id": "je-29",
+      "topic": "Expenses and payments",
+      "description": "The business pays $450 cash to a supplier for supplies it bought on account last month.",
+      "lines": [
+        {
+          "account": "Accounts Payable",
+          "side": "debit",
+          "amount": 450
+        },
+        {
+          "account": "Cash",
+          "side": "credit",
+          "amount": 450
+        }
+      ],
+      "explanation": "The liability goes down, so debit Accounts Payable. Cash goes down, so credit Cash. The supplies were recorded last month."
+    },
+    {
+      "id": "je-30",
+      "topic": "Expenses and payments",
+      "description": "The business pays $350 cash to repair its equipment.",
+      "lines": [
+        {
+          "account": "Repairs Expense",
+          "side": "debit",
+          "amount": 350
+        },
+        {
+          "account": "Cash",
+          "side": "credit",
+          "amount": 350
+        }
+      ],
+      "explanation": "Debit the expense, Repairs Expense. Credit Cash because cash goes down."
+    },
+    {
+      "id": "je-31",
+      "topic": "Adjusting entries",
+      "description": "At the end of the month, a count shows the business used $200 of its supplies.",
+      "lines": [
+        {
+          "account": "Supplies Expense",
+          "side": "debit",
+          "amount": 200
+        },
+        {
+          "account": "Supplies",
+          "side": "credit",
+          "amount": 200
+        }
+      ],
+      "explanation": "Used supplies are an expense, so debit Supplies Expense. The asset Supplies goes down, so credit Supplies."
+    },
+    {
+      "id": "je-32",
+      "topic": "Adjusting entries",
+      "description": "The business paid $1,200 for a 12-month insurance policy. One month has now passed.",
+      "lines": [
+        {
+          "account": "Insurance Expense",
+          "side": "debit",
+          "amount": 100
+        },
+        {
+          "account": "Prepaid Insurance",
+          "side": "credit",
+          "amount": 100
+        }
+      ],
+      "explanation": "One month of cost is $1,200 / 12 = $100. Debit Insurance Expense for $100. The asset Prepaid Insurance goes down, so credit it."
+    },
+    {
+      "id": "je-33",
+      "topic": "Adjusting entries",
+      "description": "The business paid $3,000 for three months of rent in advance. One month has now passed.",
+      "lines": [
+        {
+          "account": "Rent Expense",
+          "side": "debit",
+          "amount": 1000
+        },
+        {
+          "account": "Prepaid Rent",
+          "side": "credit",
+          "amount": 1000
+        }
+      ],
+      "explanation": "One month of cost is $3,000 / 3 = $1,000. Debit Rent Expense for $1,000. The asset Prepaid Rent goes down, so credit it."
+    },
+    {
+      "id": "je-34",
+      "topic": "Adjusting entries",
+      "description": "At the end of the period, the business records $500 of depreciation on its equipment.",
+      "lines": [
+        {
+          "account": "Depreciation Expense",
+          "side": "debit",
+          "amount": 500
+        },
+        {
+          "account": "Accumulated Depreciation",
+          "side": "credit",
+          "amount": 500
+        }
+      ],
+      "explanation": "Debit the expense, Depreciation Expense. Credit Accumulated Depreciation. It is a contra asset account. It reduces the value of Equipment, and a credit increases it."
+    },
+    {
+      "id": "je-35",
+      "topic": "Adjusting entries",
+      "description": "At the end of the period, employees have earned $1,400 of wages that the business has not paid yet.",
+      "lines": [
+        {
+          "account": "Wages Expense",
+          "side": "debit",
+          "amount": 1400
+        },
+        {
+          "account": "Wages Payable",
+          "side": "credit",
+          "amount": 1400
+        }
+      ],
+      "explanation": "The expense belongs to this period, so debit Wages Expense. The business owes its employees. Wages Payable is a liability and it goes up, so credit it."
+    },
+    {
+      "id": "je-36",
+      "topic": "Adjusting entries",
+      "description": "In the next period, the business pays the $1,400 of wages it owed at the end of last period.",
+      "lines": [
+        {
+          "account": "Wages Payable",
+          "side": "debit",
+          "amount": 1400
+        },
+        {
+          "account": "Cash",
+          "side": "credit",
+          "amount": 1400
+        }
+      ],
+      "explanation": "The liability goes down, so debit Wages Payable. Cash goes down, so credit Cash. The expense was recorded last period."
+    },
+    {
+      "id": "je-37",
+      "topic": "Adjusting entries",
+      "description": "At the end of the period, $90 of interest has built up on the note payable. The business has not paid it yet.",
+      "lines": [
+        {
+          "account": "Interest Expense",
+          "side": "debit",
+          "amount": 90
+        },
+        {
+          "account": "Interest Payable",
+          "side": "credit",
+          "amount": 90
+        }
+      ],
+      "explanation": "The expense belongs to this period, so debit Interest Expense. The business owes the interest. Interest Payable is a liability and it goes up, so credit it."
+    },
+    {
+      "id": "je-38",
+      "topic": "Adjusting entries",
+      "description": "At the end of the period, the business has earned $60 of interest on a bank deposit but has not received it yet.",
+      "lines": [
+        {
+          "account": "Interest Receivable",
+          "side": "debit",
+          "amount": 60
+        },
+        {
+          "account": "Interest Revenue",
+          "side": "credit",
+          "amount": 60
+        }
+      ],
+      "explanation": "The business earned the revenue now, so credit Interest Revenue. The bank owes the business. Interest Receivable is an asset and it goes up, so debit it."
+    },
+    {
+      "id": "je-39",
+      "topic": "Adjusting entries",
+      "description": "At the end of the period, the business estimates that $350 of its accounts receivable will not be collected (allowance method).",
+      "lines": [
+        {
+          "account": "Bad Debt Expense",
+          "side": "debit",
+          "amount": 350
+        },
+        {
+          "account": "Allowance for Doubtful Accounts",
+          "side": "credit",
+          "amount": 350
+        }
+      ],
+      "explanation": "Debit the expense, Bad Debt Expense. Credit Allowance for Doubtful Accounts. It is a contra asset account. It reduces Accounts Receivable, and a credit increases it."
+    },
+    {
+      "id": "je-40",
+      "topic": "Adjusting entries",
+      "description": "The business writes off a customer's $200 account as uncollectible (allowance method).",
+      "lines": [
+        {
+          "account": "Allowance for Doubtful Accounts",
+          "side": "debit",
+          "amount": 200
+        },
+        {
+          "account": "Accounts Receivable",
+          "side": "credit",
+          "amount": 200
+        }
+      ],
+      "explanation": "The business already set aside an allowance. Debit Allowance for Doubtful Accounts to use it. Credit Accounts Receivable because the customer's balance is removed. No new expense is recorded."
+    }
+  ]
+}
